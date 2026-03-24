@@ -44,7 +44,11 @@ def run_script(script_path, scene_num, retries=2):
     """Run a Python script with scene_num as the CLI argument. Retries on failure. Returns True on success."""
     print(f"    -> {script_path.name} {scene_num}")
     for attempt in range(1, retries + 2):
-        result = subprocess.run([sys.executable, str(script_path), str(scene_num)])
+        try:
+            result = subprocess.run([sys.executable, str(script_path), str(scene_num)], timeout=120)
+        except subprocess.TimeoutExpired:
+            print(f"    TIMEOUT: {script_path.name} exceeded 120s (attempt {attempt}/{retries+1})")
+            continue
         if result.returncode == 0:
             return True
         print(f"    ERROR: {script_path.name} exited with code {result.returncode} (attempt {attempt}/{retries+1})")
