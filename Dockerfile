@@ -1,38 +1,38 @@
 # ─────────────────────────────────────────────────────────────
 #  Custom ComfyUI + Explainer Video Pipeline
-#  Target: RunPod / Massed Compute GPU instances
-#  Base: NVIDIA CUDA 12.1 + Ubuntu 22.04 (compatible with all GPUs)
+#  Base: RunPod PyTorch (has SSH, JupyterLab, web terminal)
+#  PyTorch cu124 — works on ALL RunPod GPUs
 # ─────────────────────────────────────────────────────────────
-FROM nvidia/cuda:12.1.1-runtime-ubuntu22.04
+FROM runpod/pytorch:2.4.0-py3.11-cuda12.4.1-devel-ubuntu22.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 ENV HOME=/root
+ENV PIP_TARGET=/usr/lib/python3.11
 
 # ── 1. System packages ──────────────────────────────────────
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    python3 python3-pip python3-venv \
-    git wget curl \
-    ffmpeg \
+    git wget curl ffmpeg \
     libgl1-mesa-glx libglib2.0-0 \
     && rm -rf /var/lib/apt/lists/*
 
-RUN ln -sf /usr/bin/python3 /usr/bin/python
+# ── 2. Install PyTorch cu124 (overrides base image torch) ──
+RUN python -m pip install --target=$PIP_TARGET --upgrade --force-reinstall \
+    torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
-# ── 2. Install ComfyUI ──────────────────────────────────────
+# ── 3. Install ComfyUI ──────────────────────────────────────
 RUN mkdir -p /root/apps && \
     cd /root/apps && \
     git clone https://github.com/comfyanonymous/ComfyUI.git && \
     cd ComfyUI && \
-    pip install --no-cache-dir torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 && \
-    pip install --no-cache-dir -r requirements.txt
+    python -m pip install --target=$PIP_TARGET -r requirements.txt
 
-# ── 3. ComfyUI-Manager ──────────────────────────────────────
+# ── 4. ComfyUI-Manager ──────────────────────────────────────
 RUN cd /root/apps/ComfyUI/custom_nodes && \
     git clone https://github.com/ltdrdata/ComfyUI-Manager.git && \
     cd ComfyUI-Manager && \
-    pip install --no-cache-dir -r requirements.txt || true
+    python -m pip install --target=$PIP_TARGET -r requirements.txt || true
 
-# ── 4. Download AI Models ───────────────────────────────────
+# ── 5. Download AI Models ───────────────────────────────────
 
 # Text Encoder — Qwen 3 4B
 ADD https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors \
@@ -50,12 +50,13 @@ ADD https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/diff
 ADD https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/ae.safetensors \
     /root/apps/ComfyUI/models/vae/ae.safetensors
 
-# ── 5. Install FileBrowser ────────────────────────────────────
+# ── 6. Install FileBrowser ────────────────────────────────────
 RUN curl -fsSL https://raw.githubusercontent.com/filebrowser/get/master/get.sh | bash
 
-# ── 6. Python deps for Explainer project ────────────────────
-RUN pip install --no-cache-dir \
-    gradio \
+# ── 7. Python deps for Explainer project ────────────────────
+RUN python -m pip install --target=$PIP_TARGET \
+    flask \
+    flask-cors \
     "moviepy==1.0.3" \
     numpy \
     pillow \
@@ -64,27 +65,30 @@ RUN pip install --no-cache-dir \
     rapidfuzz \
     requests \
     websocket-client \
-    flask \
     python-docx \
-    python-dotenv
+    python-dotenv \
+    whisper-timestamped
 
-# ── 7. Clone Explainer project from GitHub ───────────────────
+# ── 8. Clone Explainer project from GitHub ───────────────────
 RUN git clone https://github.com/abhishek25dh/exp-pipeline.git /root/apps/explainer-project/
 
-# ── 8. Create inputs directory ────────────────────────────────
+# ── 9. Fix pipeline_runner port to 5555 ──────────────────────
+RUN sed -i 's/PORT = 5577/PORT = 5555/' /root/apps/explainer-project/pipeline_runner.py
+
+# ── 10. Create inputs directory ───────────────────────────────
 RUN mkdir -p /root/apps/explainer-project/inputs
 
-# ── 9. Startup script ───────────────────────────────────────
+# ── 11. Startup script ────────────────────────────────────────
 COPY start.sh /root/start.sh
 RUN chmod +x /root/start.sh
 
-# ── 10. Expose all ports ─────────────────────────────────────
+# ── 12. Expose all ports ──────────────────────────────────────
 #  8080 = FileBrowser
 #  8188 = ComfyUI
-#  5577 = Pipeline Runner
-#  5557 = Layout Maker
-#  5555 = Layout Tester
+#  5555 = Pipeline Runner
 #  5566 = Render Video
-EXPOSE 8080 8188 5577 5557 5555 5566
+#  8888 = JupyterLab (from base image)
+#  22   = SSH (from base image)
+EXPOSE 8080 8188 5555 5566 8888 22
 
 CMD ["/root/start.sh"]
