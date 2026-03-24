@@ -18,9 +18,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 RUN ln -sf /usr/bin/python3 /usr/bin/python
 
-# ── 1b. Install FileBrowser ──────────────────────────────────
-RUN curl -fsSL https://raw.githubusercontent.com/filebrowser/get/master/get.sh | bash
-
 # ── 2. Install ComfyUI ──────────────────────────────────────
 RUN mkdir -p /root/apps && \
     cd /root/apps && \
@@ -53,7 +50,10 @@ ADD https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/diff
 ADD https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/ae.safetensors \
     /root/apps/ComfyUI/models/vae/ae.safetensors
 
-# ── 5. Python deps for Explainer project ────────────────────
+# ── 5. Install FileBrowser ────────────────────────────────────
+RUN curl -fsSL https://raw.githubusercontent.com/filebrowser/get/master/get.sh | bash
+
+# ── 6. Python deps for Explainer project ────────────────────
 RUN pip install --no-cache-dir \
     gradio \
     "moviepy==1.0.3" \
@@ -65,22 +65,26 @@ RUN pip install --no-cache-dir \
     requests \
     websocket-client \
     flask \
-    python-docx
+    python-docx \
+    python-dotenv
 
-# ── 6. Clone Explainer project from GitHub ───────────────────
+# ── 7. Clone Explainer project from GitHub ───────────────────
 RUN git clone https://github.com/abhishek25dh/exp-pipeline.git /root/apps/explainer-project/
 
-# ── 7. Startup script ───────────────────────────────────────
+# ── 8. Create inputs directory ────────────────────────────────
+RUN mkdir -p /root/apps/explainer-project/inputs
+
+# ── 9. Startup script ───────────────────────────────────────
 COPY start.sh /root/start.sh
 RUN chmod +x /root/start.sh
 
-# ── 8. Expose all ports ─────────────────────────────────────
+# ── 10. Expose all ports ─────────────────────────────────────
+#  8080 = FileBrowser
 #  8188 = ComfyUI
 #  5577 = Pipeline Runner
 #  5557 = Layout Maker
 #  5555 = Layout Tester
 #  5566 = Render Video
-#  8080 = FileBrowser
-EXPOSE 8188 5577 5557 5555 5566 8080
+EXPOSE 8080 8188 5577 5557 5555 5566
 
 CMD ["/root/start.sh"]
