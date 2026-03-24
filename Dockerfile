@@ -7,7 +7,7 @@ FROM runpod/pytorch:2.4.0-py3.11-cuda12.4.1-devel-ubuntu22.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 ENV HOME=/root
-ENV PIP_TARGET=/usr/lib/python3.11
+ENV PYTHONPATH=/usr/lib/python3.11:$PYTHONPATH
 
 # ── 1. System packages ──────────────────────────────────────
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -16,7 +16,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 # ── 2. Install PyTorch cu124 (overrides base image torch) ──
-RUN python -m pip install --target=$PIP_TARGET --upgrade --force-reinstall \
+RUN python -m pip install --target=/usr/lib/python3.11 --upgrade --force-reinstall \
     torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
 # ── 3. Install ComfyUI ──────────────────────────────────────
@@ -24,13 +24,13 @@ RUN mkdir -p /root/apps && \
     cd /root/apps && \
     git clone https://github.com/comfyanonymous/ComfyUI.git && \
     cd ComfyUI && \
-    python -m pip install --target=$PIP_TARGET -r requirements.txt
+    python -m pip install --target=/usr/lib/python3.11 -r requirements.txt
 
 # ── 4. ComfyUI-Manager ──────────────────────────────────────
 RUN cd /root/apps/ComfyUI/custom_nodes && \
     git clone https://github.com/ltdrdata/ComfyUI-Manager.git && \
     cd ComfyUI-Manager && \
-    python -m pip install --target=$PIP_TARGET -r requirements.txt || true
+    python -m pip install --target=/usr/lib/python3.11 -r requirements.txt || true
 
 # ── 5. Download AI Models ───────────────────────────────────
 
@@ -54,7 +54,7 @@ ADD https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/
 RUN curl -fsSL https://raw.githubusercontent.com/filebrowser/get/master/get.sh | bash
 
 # ── 7. Python deps for Explainer project ────────────────────
-RUN python -m pip install --target=$PIP_TARGET \
+RUN python -m pip install --target=/usr/lib/python3.11 \
     flask \
     flask-cors \
     "moviepy==1.0.3" \
