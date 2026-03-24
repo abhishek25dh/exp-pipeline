@@ -1,9 +1,9 @@
 # ─────────────────────────────────────────────────────────────
 #  Custom ComfyUI + Explainer Video Pipeline
 #  Target: RunPod / Massed Compute GPU instances
-#  Base: NVIDIA CUDA 12.8 + Ubuntu 22.04
+#  Base: NVIDIA CUDA 12.1 + Ubuntu 22.04 (compatible with all GPUs)
 # ─────────────────────────────────────────────────────────────
-FROM nvidia/cuda:12.8.0-runtime-ubuntu22.04
+FROM nvidia/cuda:12.1.1-runtime-ubuntu22.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 ENV HOME=/root
@@ -23,7 +23,7 @@ RUN mkdir -p /root/apps && \
     cd /root/apps && \
     git clone https://github.com/comfyanonymous/ComfyUI.git && \
     cd ComfyUI && \
-    pip install --no-cache-dir torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128 && \
+    pip install --no-cache-dir torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 && \
     pip install --no-cache-dir -r requirements.txt
 
 # ── 3. ComfyUI-Manager ──────────────────────────────────────
