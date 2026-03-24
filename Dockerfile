@@ -18,6 +18,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 RUN ln -sf /usr/bin/python3 /usr/bin/python
 
+# ── 1b. Install FileBrowser ──────────────────────────────────
+RUN curl -fsSL https://raw.githubusercontent.com/filebrowser/get/master/get.sh | bash
+
 # ── 2. Install ComfyUI ──────────────────────────────────────
 RUN mkdir -p /root/apps && \
     cd /root/apps && \
@@ -76,6 +79,7 @@ RUN chmod +x /root/start.sh
 #  5557 = Layout Maker
 #  5555 = Layout Tester
 #  5566 = Render Video
-EXPOSE 8188 5577 5557 5555 5566
+#  8080 = FileBrowser
+EXPOSE 8188 5577 5557 5555 5566 8080
 
 CMD ["/root/start.sh"]
