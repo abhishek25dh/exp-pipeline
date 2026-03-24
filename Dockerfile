@@ -75,7 +75,10 @@ RUN git clone https://github.com/abhishek25dh/exp-pipeline.git /root/apps/explai
 # ── 9. Fix pipeline_runner port to 5555 ──────────────────────
 RUN sed -i 's/PORT = 5577/PORT = 5555/' /root/apps/explainer-project/pipeline_runner.py
 
-# ── 10. Create inputs directory ───────────────────────────────
+# ── 10. Fix moviepy ANTIALIAS (removed in Pillow 10+) ────────
+RUN sed -i 's/Image\.ANTIALIAS/Image.LANCZOS/g' $PIP_TARGET/moviepy/video/fx/resize.py || true
+
+# ── 11. Create inputs directory ───────────────────────────────
 RUN mkdir -p /root/apps/explainer-project/inputs
 
 # ── 11. Startup script ────────────────────────────────────────

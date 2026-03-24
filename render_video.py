@@ -24,6 +24,9 @@ from typing import Dict, List, Optional, Tuple
 
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
+# Pillow 10+ removed ANTIALIAS; moviepy 1.0.3 still references it
+if not hasattr(Image, "ANTIALIAS"):
+    Image.ANTIALIAS = Image.LANCZOS
 from flask import Flask, Response, jsonify, make_response, render_template_string, request, send_from_directory
 from moviepy.editor import AudioFileClip, ColorClip, CompositeVideoClip, ImageClip, VideoFileClip, concatenate_videoclips
 import moviepy.video.fx.all as vfx
