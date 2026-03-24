@@ -64,7 +64,8 @@ RUN pip install --no-cache-dir \
     rapidfuzz \
     requests \
     websocket-client \
-    flask
+    flask \
+    python-docx
 
 # ── 6. Clone Explainer project from GitHub ───────────────────
 RUN git clone https://github.com/abhishek25dh/exp-pipeline.git /root/apps/explainer-project/
