@@ -53,9 +53,9 @@ def generate_allocations(left_len: int, right_len: int):
             continue
         if right_len > 0 and right_slots == 0:
             continue
-        if left_slots > left_len:
+        if left_slots > 0 and left_len == 0:
             continue
-        if right_slots > right_len:
+        if right_slots > 0 and right_len == 0:
             continue
         allocations.append((left_slots, right_slots))
 
