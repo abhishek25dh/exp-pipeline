@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_36",
+  "elements": [
+    {
+      "element_id": "slot_1",
+      "type": "text_black",
+      "phrase": "Wait 24",
+      "text_content": "WAIT 24",
+      "x": 964,
+      "y": 282,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 29 slot 1 (priority=1, line 1/1)",
+      "typing_speed": 0.85
+    },
+    {
+      "element_id": "slot_2",
+      "type": "text_red",
+      "phrase": "hours before",
+      "text_content": "HOURS BEFORE",
+      "x": 962,
+      "y": 497,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 29 slot 2 (priority=2, line 1/1)"
+    }
+  ]
+}

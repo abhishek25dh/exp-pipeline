@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "image_group_1_cause",
+    "filename": "group_1_cause_0.jpg",
+    "phrase": "The goal is",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_group_1",
+    "filename": "arrow.png",
+    "phrase": "meeting emotional needs",
+    "start": 0.92,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_effect",
+    "filename": "group_1_effect_0.jpg",
+    "phrase": "without spending money.",
+    "start": 2.0,
+    "end": 4.0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "text_bc_l1_scene_127",
+    "filename": "",
+    "phrase": "In the US, people",
+    "start": 0.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_left_scene_127",
+    "filename": "img_left_scene_127.jpg",
+    "phrase": "people are overwhelmed",
+    "start": 1.2,
+    "end": 5.0
+  },
+  {
+    "element_id": "text_bc_l2_scene_127",
+    "filename": "",
+    "phrase": "are overwhelmed",
+    "start": 1.52,
+    "end": 5.0
+  },
+  {
+    "element_id": "text_bc_l3_scene_127",
+    "filename": "",
+    "phrase": "by big",
+    "start": 2.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_right_scene_127",
+    "filename": "img_right_scene_127.jpg",
+    "phrase": "by big financial goals.",
+    "start": 2.4,
+    "end": 5.0
+  }
+]

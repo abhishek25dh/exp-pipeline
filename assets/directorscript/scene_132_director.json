@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_132",
+  "elements": [
+    {
+      "element_id": "img_right_scene_132",
+      "type": "image",
+      "phrase": "But small, consistent",
+      "text_content": "",
+      "x": 1391,
+      "y": 559,
+      "scale": 0.784,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_right_scene_132.jpg",
+      "description": "A tiny green sprout emerging from soil, with a soft glow around it. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 32 image (slot=right, priority=1)"
+    },
+    {
+      "element_id": "img_left_scene_132",
+      "type": "image",
+      "phrase": "actions create big results.",
+      "text_content": "",
+      "x": 502,
+      "y": 556,
+      "scale": 0.806,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_left_scene_132.jpg",
+      "description": "A large, flourishing tree with bright green leaves and vibrant roots. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 32 image (slot=left, priority=2)"
+    }
+  ]
+}

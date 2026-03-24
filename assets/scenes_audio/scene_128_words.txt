@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+$30,000	0.4	1.28	0.955	
+in	1.28	1.52	0.9975586	
+student	1.52	1.84	0.93359375	
+loans.	1.84	2.24	0.9995117	

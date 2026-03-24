@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_150",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A tall red bar graph with multiple ascending bars reaching the top, representing increasing levels of consumer debt. The graph sits on a pure white background.",
+      "image_prompt": "A professional 2D minimalist icon of a tall bar graph on a pure white background. The graph is tall and red, with multiple ascending bars that reach the very top of the graph area, visually representing increasing levels of consumer debt. The style is clean flat vector art with high contrast, sharp lines, no shading or gradients, and a pure white background. The bars are a solid, bold red. High-resolution graphic design, simple and clear."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "slot_1",
+    "filename": "",
+    "phrase": "A $3,000 balance",
+    "start": 0.4,
+    "end": 6.0
+  },
+  {
+    "element_id": "slot_2",
+    "filename": "",
+    "phrase": "at 18% interest",
+    "start": 1.88,
+    "end": 6.0
+  },
+  {
+    "element_id": "slot_3",
+    "filename": "",
+    "phrase": "takes years to",
+    "start": 3.36,
+    "end": 6.0
+  },
+  {
+    "element_id": "slot_4",
+    "filename": "",
+    "phrase": "pay off with minimums.",
+    "start": 4.32,
+    "end": 6.0
+  }
+]

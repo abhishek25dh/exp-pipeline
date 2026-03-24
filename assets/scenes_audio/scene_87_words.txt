@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Advertisers	0.24	0.92	0.9998779	
+connect	0.92	1.28	1.0	
+products	1.28	1.6	1.0	
+to	1.6	1.92	1.0	
+emotions.	1.92	2.48	0.9814453	

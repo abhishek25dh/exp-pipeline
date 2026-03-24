@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_179",
+  "elements": [
+    {
+      "element_id": "img_left_scene_179",
+      "filename": "img_left_scene_179.jpg",
+      "original_description": "A cartoon figure stands on a timeline pointing forward, with a glowing path leading into the distance. The figure has a determined expression, wearing casual clothes. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D flat illustration of a determined cartoon figure in casual clothes, standing on a timeline and pointing forward along a glowing path that leads into the distance, minimalist vector art style with clean lines and high contrast, pure white background, no shading or gradients, determined expression on the figure's face, emphasizing forward motion and optimism, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_179",
+      "filename": "img_right_scene_179.jpg",
+      "original_description": "A golden star with a glowing halo floats above a checklist with a checkmark. The star radiates soft yellow light, emphasizing its importance. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a golden star with a glowing halo floating above a checklist with a single checkmark, the star radiates soft yellow light to emphasize importance, clean flat vector art with sharp edges and high contrast, pure white background, no shading or gradients, the checklist is simple and stylized, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Offers	0.32	0.68	0.99975586	
+arrive	0.68	1.08	0.9987793	
+constantly.	1.08	1.76	0.9972331	

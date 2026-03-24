@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_262",
+  "elements": [
+    {
+      "element_id": "img_panel_1",
+      "filename": "panel_1_img.jpg",
+      "original_description": "A person standing at a crossroads with multiple paths, looking confused and unsure which way to go, symbolizing 'the more' choices leading to mistakes. Pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a person standing at a crossroads with multiple paths, looking confused and unsure which way to go, symbolizing 'the more' choices leading to mistakes. Clean flat vector art, high contrast, no shading or gradients, pure white background. The lighting and mood evoke a sense of uncertainty and indecision. High resolution, sharp focus."
+    },
+    {
+      "element_id": "img_panel_2",
+      "filename": "panel_2_img.jpg",
+      "original_description": "A person dropping a stack of papers with errors marked in red, symbolizing 'you make' mistakes. Pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a person dropping a stack of papers with errors marked in red, symbolizing 'you make' mistakes. Clean flat vector art, high contrast, no shading or gradients, pure white background. The lighting and mood convey a tone of error and frustration. High resolution, sharp focus."
+    },
+    {
+      "element_id": "img_panel_3",
+      "filename": "panel_3_img.jpg",
+      "original_description": "A person sitting at a desk with an empty wallet and bills piling up, symbolizing 'mistakes keep' them broke. Pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a person sitting at a desk with an empty wallet and bills piling up, symbolizing 'mistakes keep' them broke. Clean flat vector art, high contrast, no shading or gradients, pure white background. The lighting and mood reflect financial stress and consequences. High resolution, sharp focus."
+    }
+  ]
+}

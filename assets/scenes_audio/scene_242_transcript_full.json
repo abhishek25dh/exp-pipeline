@@ -1,0 +1,219 @@
+{
+  "id": "03ce5f59-a8c2-4921-83b8-5a84d443dfc0",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/028ebad4822b815251df279807f33a4cf8f92079a48234e34ccc773d4f923d68/0fbbe462-b2c0-44c4-8194-2924df3a0d19",
+  "text": "Learning to stop caring what others think is hard, but it's the only way to escape the status trap.",
+  "words": [
+    {
+      "text": "Learning",
+      "start": 320,
+      "end": 560,
+      "confidence": 0.9807129,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 560,
+      "end": 760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "stop",
+      "start": 760,
+      "end": 1000,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "caring",
+      "start": 1000,
+      "end": 1400,
+      "confidence": 0.9680176,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 1400,
+      "end": 1640,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "others",
+      "start": 1640,
+      "end": 1880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 1880,
+      "end": 2160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 2160,
+      "end": 2400,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "hard,",
+      "start": 2400,
+      "end": 2720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 2880,
+      "end": 3160,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 3160,
+      "end": 3400,
+      "confidence": 0.86246747,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 3400,
+      "end": 3560,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "only",
+      "start": 3560,
+      "end": 3800,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "way",
+      "start": 3800,
+      "end": 4080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 4080,
+      "end": 4320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "escape",
+      "start": 4320,
+      "end": 4800,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 4800,
+      "end": 5000,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "status",
+      "start": 5000,
+      "end": 5440,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "trap.",
+      "start": 5440,
+      "end": 5840,
+      "confidence": 0.99658203,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9896005,
+  "audio_duration": 7,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

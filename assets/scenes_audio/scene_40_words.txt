@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.99658203	
+feel	0.52	0.68	0.9995117	
+like	0.68	0.84	0.99902344	
+you're	0.84	1.16	0.9947917	
+finally	1.16	1.44	0.9987793	
+living	1.44	1.76	1.0	
+better?	1.76	2.08	0.9941406	

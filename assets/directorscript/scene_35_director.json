@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_35",
+  "elements": [
+    {
+      "element_id": "img_left_scene_35",
+      "type": "image",
+      "phrase": "Breaking this",
+      "text_content": "",
+      "x": 493,
+      "y": 475,
+      "scale": 0.616,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_left_scene_35.jpg",
+      "description": "A red circular arrow symbolizing repetition, frozen mid-spin against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 28 image (slot=left, priority=1)"
+    },
+    {
+      "element_id": "img_right_scene_35",
+      "type": "image",
+      "phrase": "pattern means",
+      "text_content": "",
+      "x": 1371,
+      "y": 465,
+      "scale": 0.609,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_35.jpg",
+      "description": "A yellow pause button symbol, placed directly in front of the same red circular arrow, interrupting its flow against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 28 image (slot=right, priority=2)"
+    },
+    {
+      "element_id": "text_punchline",
+      "type": "text_red",
+      "phrase": "inserting a pause.",
+      "text_content": "INSERTING A PAUSE.",
+      "x": 943,
+      "y": 922,
+      "scale": 3.333,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 28 punchline text (line 1/1)"
+    }
+  ]
+}

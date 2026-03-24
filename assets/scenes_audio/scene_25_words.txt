@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+American	0.4	0.64	0.99902344	
+consumer	0.72	1.24	1.0	
+culture	1.24	1.72	1.0	
+is	1.72	1.96	0.9995117	
+designed	1.96	2.28	0.8256836	
+to	2.28	2.44	1.0	
+trigger	2.44	2.76	1.0	
+this.	2.76	3.04	0.99658203	

@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+But	0.4	0.52	0.9975586	
+inflation	0.52	1.04	0.9260254	
+quietly	1.12	1.64	1.0	
+eats	1.64	1.92	0.90405273	
+away	1.92	2.2	1.0	
+at	2.2	2.48	0.9995117	
+purchasing	2.48	2.92	1.0	
+power.	2.92	3.28	1.0	

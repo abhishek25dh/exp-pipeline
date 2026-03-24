@@ -1,0 +1,34 @@
+You are selecting visual descriptions for Layout 8 (Timeline Path).
+You are given a scene script, a main_title, and steps with fixed phrases.
+
+Your job: write ONLY visual descriptions for each step image.
+Do NOT edit, paraphrase, or reorder any phrases.
+
+IMAGE DESCRIPTION RULES (MANDATORY):
+- Describe the ACTUAL VISUAL — specific objects, people, colors, settings, actions literally visible.
+- NEVER use: "depicting", "representing", "showing", "illustrating", "symbolizing", "symbolizes".
+- Pure white background.
+- MUST end every description with: No text, no letters, no numbers, no watermarks.
+- Maximum 2-3 sentences.
+- Choose style per image: is_realistic=true for photorealistic, false for 2D cartoon/graphic.
+- Describe concrete, literal objects — NOT abstract concepts.
+  BAD: "a symbol of fear"
+  GOOD: "A person hunched at a desk, hands covering their face, surrounded by crumpled papers on a pure white background."
+
+Rules:
+1. Output MUST be valid JSON. No extra text, no markdown.
+2. Return exactly the same number of steps in detail_steps.
+3. Keep step_id values unchanged.
+
+Output format:
+{
+  "detailed_steps": [
+    {
+      "step_id": "step_1",
+      "image": {
+        "visual_description": "...",
+        "is_realistic": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "9fd049ed-8ade-45d2-8431-c6493667dc9e",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/75d843c287ba58d20f4d8326188f755e0f7a219deb77206ce4b718fab10247ac/c7c6cc80-6687-405d-aa82-e4fd9c08e2c0",
+  "text": "A $3,000 balance at 18% interest takes years to pay off with minimums.",
+  "words": [
+    {
+      "text": "A",
+      "start": 400,
+      "end": 560,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "$3,000",
+      "start": 560,
+      "end": 1520,
+      "confidence": 0.95207,
+      "speaker": null
+    },
+    {
+      "text": "balance",
+      "start": 1520,
+      "end": 1880,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 1880,
+      "end": 2080,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "18%",
+      "start": 2080,
+      "end": 2800,
+      "confidence": 0.99512,
+      "speaker": null
+    },
+    {
+      "text": "interest",
+      "start": 2800,
+      "end": 3200,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "takes",
+      "start": 3360,
+      "end": 3760,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "years",
+      "start": 3760,
+      "end": 4040,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 4040,
+      "end": 4320,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "pay",
+      "start": 4320,
+      "end": 4560,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "off",
+      "start": 4560,
+      "end": 4800,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 4800,
+      "end": 5040,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "minimums.",
+      "start": 5040,
+      "end": 5680,
+      "confidence": 0.99902344,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9953555,
+  "audio_duration": 6,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

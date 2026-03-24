@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_167",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_167",
+      "type": "image",
+      "phrase": "But not",
+      "text_content": "",
+      "x": 466,
+      "y": 558,
+      "scale": 0.728,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_hero_scene_167.jpg",
+      "description": "A stressed man in a blue shirt sits at a messy desk, surrounded by piles of papers and a clock showing 11:59. His hands are in his hair, eyes wide with panic. No text, no letters, no numbers, no watermarks.",
+      "reason": "hero image (priority 1)"
+    },
+    {
+      "element_id": "img_bottom_right_scene_167",
+      "type": "image",
+      "phrase": "planning ahead",
+      "text_content": "",
+      "x": 1336,
+      "y": 761,
+      "scale": 0.465,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_bottom_right_scene_167.jpg",
+      "description": "A calendar with crossed-out dates and scribbled notes, lying on the desk next to a spilled coffee cup. No text, no letters, no numbers, no watermarks.",
+      "reason": "bottom_right image (priority 2)"
+    },
+    {
+      "element_id": "img_top_mid_scene_167",
+      "type": "image",
+      "phrase": "means you're always",
+      "text_content": "",
+      "x": 1041,
+      "y": 351,
+      "scale": 0.285,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_top_mid_scene_167.jpg",
+      "description": "A close-up of the man\u2019s face, his mouth open as he shouts, with a thought bubble showing a chaotic to-do list. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_mid image (priority 3)"
+    },
+    {
+      "element_id": "img_top_right_scene_167",
+      "type": "image",
+      "phrase": "reacting to problems.",
+      "text_content": "",
+      "x": 1592,
+      "y": 350,
+      "scale": 0.301,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_top_right_scene_167.jpg",
+      "description": "A stack of unpaid bills and a red overdue stamp on a letter, placed on the edge of the desk. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_right image (priority 4)"
+    }
+  ]
+}

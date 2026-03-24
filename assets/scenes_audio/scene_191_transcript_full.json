@@ -1,0 +1,156 @@
+{
+  "id": "e6d5285b-d923-484f-8999-68d378ea5788",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/21a219b0770a80974e001165cf94621fcd1dc86bbcd1ff403ab31aa112f50a4a/9e778e0f-ba7f-4dff-b097-8b7452fe6df5",
+  "text": "Success is celebrated, but wanting money is seen as shallow.",
+  "words": [
+    {
+      "text": "Success",
+      "start": 320,
+      "end": 560,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 720,
+      "end": 1040,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "celebrated,",
+      "start": 1040,
+      "end": 1680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 1680,
+      "end": 2040,
+      "confidence": 0.9145508,
+      "speaker": null
+    },
+    {
+      "text": "wanting",
+      "start": 2040,
+      "end": 2440,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 2440,
+      "end": 2720,
+      "confidence": 0.7060547,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 2720,
+      "end": 3000,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "seen",
+      "start": 3000,
+      "end": 3200,
+      "confidence": 0.6225586,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 3200,
+      "end": 3480,
+      "confidence": 0.5620117,
+      "speaker": null
+    },
+    {
+      "text": "shallow.",
+      "start": 3480,
+      "end": 4080,
+      "confidence": 0.9998372,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.88045245,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

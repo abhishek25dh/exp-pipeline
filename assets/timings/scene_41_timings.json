@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "text_heading",
+    "filename": "",
+    "phrase": "But",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left_scene_41",
+    "filename": "img_left_scene_41.jpg",
+    "phrase": "your",
+    "start": 0.48,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_scene_41",
+    "filename": "arrow.png",
+    "phrase": "bank account",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_right_scene_41",
+    "filename": "img_right_scene_41.jpg",
+    "phrase": "doesn't grow.",
+    "start": 1.16,
+    "end": 3.0
+  }
+]

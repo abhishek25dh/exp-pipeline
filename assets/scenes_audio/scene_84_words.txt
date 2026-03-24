@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+The	0.4	0.52	0.9980469	
+thing	0.52	0.68	1.0	
+you	0.68	0.84	0.99902344	
+bought	0.84	1.12	0.99975586	
+doesn't	1.12	1.48	0.9995117	
+solve	1.48	1.72	0.99975586	
+the	1.72	1.84	0.9995117	
+problem.	1.84	2.08	0.9995117	

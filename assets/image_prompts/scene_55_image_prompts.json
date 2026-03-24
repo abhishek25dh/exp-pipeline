@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_55",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "filename": "host_explaining.png",
+      "original_description": "Host Character",
+      "image_prompt": "A professional, friendly, and authoritative host character, looking directly at the camera as if explaining a concept. The host has a clear, engaging expression. High-quality photograph, cinematic studio lighting with a soft key light and catchlights in the eyes, sharp focus on the subject, shallow depth of field with a blurred background. The host should appear confident and approachable."
+    },
+    {
+      "element_id": "image_group_2_2",
+      "filename": "group_2_image_0.jpg",
+      "original_description": "A piggy bank with a coin slot smiles as coins pour into it from above. The piggy bank is centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A smiling ceramic piggy bank with a coin slot, centered on a pure white background. Coins are actively pouring into the piggy bank from above, creating a sense of motion and abundance. The piggy bank has a happy, friendly expression. Professional 2D minimalist icon, clean flat vector art, high contrast, no shading or gradients, pure white background. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A lightbulb with a golden coin inside hovers above a stack of coins on a pure white background. The lightbulb emits a bright glow, symbolizing a smart idea. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A glowing lightbulb with a single golden coin visible inside its glass enclosure, hovering slightly above a neat stack of coins. The lightbulb emits a bright, warm yellow glow that illuminates the coins below, symbolizing a smart financial idea. Professional 2D minimalist icon, clean flat vector art, high contrast, no shading or gradients, pure white background. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_2.jpg",
+      "original_description": "A hand holds up a paycheck with a green upward arrow next to it, indicating an increase in salary. The scene is on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A human hand holding up a stylized paycheck document. Next to the paycheck is a large, bright green arrow pointing upwards, clearly indicating an increase or raise in salary. Professional 2D minimalist icon, clean flat vector art, high contrast, no shading or gradients, pure white background. No text, letters, numbers, or watermarks on the paycheck or arrow."
+    }
+  ]
+}

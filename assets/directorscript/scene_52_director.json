@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_52",
+  "elements": [
+    {
+      "element_id": "text_1",
+      "type": "text_black",
+      "phrase": "You adjusted your",
+      "text_content": "You adjusted your",
+      "x": 960,
+      "y": 540,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Deterministic verbatim anchor selected by AI from candidate list.",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.61
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "life to require",
+      "filename": "group_1_image_0.jpg",
+      "description": "A smiling cartoon character holding a calendar, flipping through pages with colorful sticky notes attached. No text, no letters, no numbers, no watermarks.",
+      "x": 635,
+      "y": 240,
+      "scale": 0.35,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "that new income.",
+      "filename": "group_1_image_1.jpg",
+      "description": "A cartoon character sitting at a desk with a laptop, surrounded by stacks of coins and bills neatly arranged. No text, no letters, no numbers, no watermarks.",
+      "x": 1285,
+      "y": 240,
+      "scale": 0.35,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

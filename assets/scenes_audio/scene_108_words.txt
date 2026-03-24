@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+It	0.32	0.48	0.9975586	
+sounds	0.48	0.84	1.0	
+complicated,	0.84	1.52	1.0	
+like	1.6	1.92	0.99853516	
+something	1.92	2.2	1.0	
+rich	2.2	2.52	1.0	
+people	2.52	2.76	0.6791992	
+do.	2.76	3.12	0.99853516	

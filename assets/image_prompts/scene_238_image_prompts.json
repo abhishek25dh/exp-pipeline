@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_238",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_img_0.jpg",
+      "original_description": "A young person in casual office attire sits at a desk with a laptop, surrounded by papers and a coffee cup. The person looks focused and slightly stressed. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a young person in casual office attire sitting at a desk. The desk holds a laptop, scattered papers, and a coffee cup. The person's expression is focused with a hint of stress, capturing a moment of intense work. The scene has cinematic lighting that conveys a feeling of pressure and long hours, such as from a single harsh desk lamp in a dimly lit office, creating sharp contrasts. Professional photography, high resolution, 50mm lens, shallow depth of field to isolate the subject. Absolutely no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_2_0",
+      "filename": "group_2_img_1.jpg",
+      "original_description": "A person wearing a sharp suit and holding a luxury-branded shopping bag stands confidently in front of a sleek car. The person smiles slightly, exuding an air of success. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person standing confidently in a sharp, tailored suit. They are holding a luxury-branded shopping bag (e.g., recognizable high-end logo) and are positioned in front of a sleek, modern, expensive-looking car. The person has a slight, assured smile that exudes an air of success and achievement. Cinematic lighting with golden hour ambiance or dramatic studio lighting to highlight the suit's fabric and the car's curves, creating a glamorous and aspirational mood. Professional photography, high resolution, sharp focus on the subject with a soft bokeh background. Absolutely no text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_tl_scene_93",
+    "filename": "img_tl_scene_93.jpg",
+    "phrase": "Breaking this",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_tr_scene_93",
+    "filename": "img_tr_scene_93.jpg",
+    "phrase": "means learning",
+    "start": 0.92,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_bl_scene_93",
+    "filename": "img_bl_scene_93.jpg",
+    "phrase": "other ways",
+    "start": 1.52,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_br_scene_93",
+    "filename": "img_br_scene_93.jpg",
+    "phrase": "to cope.",
+    "start": 2.04,
+    "end": 3.0
+  }
+]

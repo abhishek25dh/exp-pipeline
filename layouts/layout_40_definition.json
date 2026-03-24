@@ -1,0 +1,102 @@
+{
+  "layout_number": 40,
+  "layout_name": "New Layout",
+  "description": "",
+  "canvas": {
+    "w": 1920,
+    "h": 1080
+  },
+  "scaling_defaults": {
+    "char_px_caps": 30,
+    "char_px_mixed": 20,
+    "line_height": 110,
+    "canvas_margin": 40,
+    "min_scale": 1
+  },
+  "phrase_rules": {
+    "tiling": true,
+    "coverage_required": true,
+    "notes": ""
+  },
+  "priority_groups": [
+    {
+      "group_id": "G2",
+      "label": "Group 2",
+      "priority": 1,
+      "min_tokens": 2,
+      "atomic": false,
+      "color": "#2e7d32",
+      "notes": "",
+      "elements": [
+        {
+          "element_id": "img_2",
+          "type": "image",
+          "x": 780,
+          "y": 520,
+          "scale": 0.411,
+          "angle": 0,
+          "animation": "pop",
+          "property": "",
+          "role": "image",
+          "phrase_allocation": "proportional",
+          "safe_width": 1800,
+          "char_px": 20,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "group_id": "G1",
+      "label": "Group 1",
+      "priority": 2,
+      "min_tokens": 2,
+      "atomic": false,
+      "color": "#1565c0",
+      "notes": "",
+      "elements": [
+        {
+          "element_id": "img_1",
+          "type": "image",
+          "x": 260,
+          "y": 540,
+          "scale": 0.239,
+          "angle": 0,
+          "animation": "pop",
+          "property": "",
+          "role": "image",
+          "phrase_allocation": "proportional",
+          "safe_width": 1800,
+          "char_px": 20,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "group_id": "G3",
+      "label": "Group 3",
+      "priority": 3,
+      "min_tokens": 2,
+      "atomic": false,
+      "color": "#c66800",
+      "notes": "",
+      "elements": [
+        {
+          "element_id": "img_3",
+          "type": "image",
+          "x": 1500,
+          "y": 500,
+          "scale": 0.683,
+          "angle": 0,
+          "animation": "pop",
+          "property": "",
+          "role": "image",
+          "phrase_allocation": "proportional",
+          "safe_width": 1800,
+          "char_px": 20,
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "saved": "2026-03-23"
+}

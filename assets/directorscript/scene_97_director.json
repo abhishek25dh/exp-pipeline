@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_97",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "type": "image",
+      "phrase": "Stressed?",
+      "filename": "host_explaining.png",
+      "description": "Host Character",
+      "x": 1413,
+      "y": 653,
+      "scale": 0.62,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Host P1",
+      "text_content": ""
+    },
+    {
+      "element_id": "main_title_text_0",
+      "type": "text_red",
+      "phrase": "a friend.",
+      "text_content": "A FRIEND.",
+      "x": 588,
+      "y": 272,
+      "scale": 2.8,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Main Anchor P2",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

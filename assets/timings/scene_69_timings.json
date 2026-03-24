@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "wall_title",
+    "filename": "",
+    "phrase": "Schools don't",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_tl",
+    "filename": "polaroid_tl.jpg",
+    "phrase": "teach personal finance.",
+    "start": 0.92,
+    "end": 3.0
+  }
+]

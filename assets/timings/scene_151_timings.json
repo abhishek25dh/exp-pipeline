@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_moment_1",
+    "filename": "moment_1_img.jpg",
+    "phrase": "Most Americans",
+    "start": 0.16,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_moment_1",
+    "filename": "",
+    "phrase": "don't have",
+    "start": 0.88,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_moment_2",
+    "filename": "moment_2_img.jpg",
+    "phrase": "$1,000 saved",
+    "start": 1.44,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_moment_2",
+    "filename": "",
+    "phrase": "for emergencies.",
+    "start": 2.84,
+    "end": 4.0
+  }
+]

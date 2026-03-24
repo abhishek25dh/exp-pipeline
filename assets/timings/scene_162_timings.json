@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_top",
+    "filename": "top_img.jpg",
+    "phrase": "Your",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_top",
+    "filename": "",
+    "phrase": "paycheck is",
+    "start": 0.48,
+    "end": 3.0
+  },
+  {
+    "element_id": "center_word",
+    "filename": "",
+    "phrase": "already spent.",
+    "start": 1.24,
+    "end": 3.0
+  }
+]

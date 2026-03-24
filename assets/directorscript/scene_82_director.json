@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_82",
+  "elements": [
+    {
+      "element_id": "host_left_scene_82",
+      "type": "image",
+      "phrase": "Buying something gives",
+      "text_content": "",
+      "x": 473,
+      "y": 577,
+      "scale": 1.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "host_looking_right.png",
+      "description": "",
+      "reason": "Layout 30 host (P1, static local asset)"
+    },
+    {
+      "element_id": "img_right_scene_82",
+      "type": "image",
+      "phrase": "a quick mood boost.",
+      "text_content": "",
+      "x": 1383,
+      "y": 553,
+      "scale": 0.5,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_right_scene_82.jpg",
+      "description": "A smiling cartoon character holding a shopping bag, surrounded by floating colorful hearts and sparkles. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 30 right image (P2, AI-generated)"
+    }
+  ]
+}

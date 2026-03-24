@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.99902344	
+don't	0.52	0.72	0.9998372	
+invest	0.72	0.96	0.9194336	
+because	1.12	1.44	1.0	
+you	1.44	1.64	1.0	
+need	1.64	1.84	1.0	
+money	1.84	2.12	1.0	
+now.	2.12	2.48	0.99902344	

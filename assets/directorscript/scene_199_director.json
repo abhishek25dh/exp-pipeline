@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_199",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_black",
+      "phrase": "Having money means you can take care of",
+      "text_content": "HAVING MONEY MEANS YOU CAN TAKE CARE OF",
+      "x": 960,
+      "y": 465,
+      "scale": 1.071,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 2"
+    },
+    {
+      "element_id": "text_line_2",
+      "type": "text_black",
+      "phrase": "yourself, help others, and live without constant stress.",
+      "text_content": "YOURSELF, HELP OTHERS, AND LIVE WITHOUT CONSTANT STRESS.",
+      "x": 960,
+      "y": 615,
+      "scale": 1.071,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 2 of 2"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Don't	0.32	0.52	0.99348956	
+contribute	0.52	1.0	1.0	
+to	1.0	1.2	0.9995117	
+a	1.2	1.4	0.99902344	
+401k.	1.4	2.56	0.84729	

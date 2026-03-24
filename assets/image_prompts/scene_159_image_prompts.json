@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_159",
+  "elements": [
+    {
+      "element_id": "img_phase_1",
+      "filename": "phase_1_img.jpg",
+      "original_description": "A plain white background with a single glowing lightbulb in the center, symbolizing the start of an idea. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "professional 2D minimalist icon, a single glowing lightbulb in the center on a pure white background, symbolizing the start of an idea, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_phase_2",
+      "filename": "phase_2_img.jpg",
+      "original_description": "A white background with a cartoon-style speech bubble in the center, filled with bold black letters spelling out 'SHAME'. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "professional 2D minimalist icon, a cartoon-style speech bubble in the center on a pure white background, filled with bold black letters spelling out 'SHAME', clean flat vector art, high contrast, no shading or gradients, no other text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

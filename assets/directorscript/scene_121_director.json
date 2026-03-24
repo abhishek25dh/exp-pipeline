@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_121",
+  "elements": [
+    {
+      "element_id": "title_pyramid",
+      "type": "text_black",
+      "phrase": "That day",
+      "text_content": "THAT DAY",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 120,
+      "scale": 1.85,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_panel_1",
+      "type": "image",
+      "phrase": "never comes.",
+      "text_content": "",
+      "filename": "panel_1_img.jpg",
+      "description": "A blank white background with no elements, emphasizing emptiness.",
+      "x": 960,
+      "y": 340,
+      "scale": 0.3,
+      "angle": 2,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

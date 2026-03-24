@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Social	0.4	0.6	1.0	
+media	0.6	0.96	1.0	
+makes	0.96	1.28	0.99902344	
+this	1.28	1.48	0.9995117	
+worse.	1.48	1.84	0.9941406	

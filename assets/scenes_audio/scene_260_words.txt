@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Maybe	0.32	0.56	0.99902344	
+you	0.56	0.72	0.9995117	
+feel	0.72	0.96	0.9995117	
+stupid	0.96	1.32	0.99934894	
+for	1.32	1.52	0.9995117	
+not	1.52	1.72	1.0	
+knowing.	1.72	2.08	0.97875977	

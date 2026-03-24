@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_76",
+  "elements": [
+    {
+      "element_id": "text_bottom",
+      "type": "text_red",
+      "phrase": "Check the balance.",
+      "text_content": "CHECK THE BALANCE.",
+      "x": 960,
+      "y": 540,
+      "scale": 3.333,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Bottom anchor text for layout 24 (line 1/1)"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_224",
+  "elements": [
+    {
+      "element_id": "img_right_scene_224",
+      "filename": "img_right_scene_224.jpg",
+      "original_description": "A hand holding crisp dollar bills against a pure white background. The bills are fanned out slightly, showing their green and white details clearly. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a human hand holding crisp, green and white US dollar bills fanned out slightly against a pure white background. Clean flat vector art, high contrast, no shading or gradients. Focus on the clear, detailed texture of the paper money. No text, letters, numbers, or watermarks visible. The image should convey the concept of cash payment with a clean, transactional mood."
+    },
+    {
+      "element_id": "img_left_scene_224",
+      "filename": "img_left_scene_224.jpg",
+      "original_description": "A blue debit card with a silver chip and magnetic stripe, placed horizontally on a pure white background. The card appears clean and modern, with no branding or logos. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a blue debit card with a silver chip and a black magnetic stripe, placed horizontally on a pure white background. Clean flat vector art, high contrast, no shading or gradients. The card design is sleek, modern, and generic with no branding, logos, text, letters, numbers, or watermarks. The image should convey the concept of electronic payment with a clean, modern mood."
+    }
+  ]
+}

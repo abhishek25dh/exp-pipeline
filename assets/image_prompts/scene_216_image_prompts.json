@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_216",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_216",
+      "filename": "img_hero_scene_216.jpg",
+      "original_description": "A person holding a credit card with a confused expression, standing in front of a cash register. The credit card glows faintly with a surreal, dreamlike aura. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph, cinematic studio lighting with subtle dramatic shadows, a person with a confused expression holding a credit card that glows with a faint surreal, dreamlike aura, standing in front of a modern cash register, sharp focus on the person's face and the card, soft bokeh background, conveying a psychological and surreal mood."
+    },
+    {
+      "element_id": "img_bottom_right_scene_216",
+      "filename": "img_bottom_right_scene_216.jpg",
+      "original_description": "A close-up of a credit card, slightly tilted, with a blurry background. The card appears weightless, floating in mid-air. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph, cinematic close-up, a credit card slightly tilted and appearing weightless, floating in mid-air, with a soft-focus blurry background, sharp focus on the card's edges and glossy surface, dramatic lighting creating a sense of floating, moody and isolated atmosphere."
+    },
+    {
+      "element_id": "img_top_mid_scene_216",
+      "filename": "img_top_mid_scene_216.jpg",
+      "original_description": "A hand holding a stack of dollar bills next to a credit card, emphasizing the contrast between physical cash and plastic. The bills appear solid while the card feels intangible. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph, cinematic lighting with side light to enhance texture contrast, a hand holding a solid stack of crisp dollar bills placed next to an intangible-feeling glossy credit card, sharp focus on the bills and card, emphasizing the physical versus plastic contrast, shallow depth of field, thoughtful and comparative mood."
+    },
+    {
+      "element_id": "img_top_right_scene_216",
+      "filename": "img_top_right_scene_216.jpg",
+      "original_description": "A pile of coins and dollar bills stacked neatly, glowing slightly to signify their tangible value. The coins reflect light, creating a realistic texture. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph, cinematic top-down still life lighting, a neat pile of coins and dollar bills stacked together with a slight glow to signify tangible value, realistic textures with detailed reflections on the coins, sharp focus, high resolution, highlighting the solid and valuable nature with a warm, inviting mood."
+    }
+  ]
+}

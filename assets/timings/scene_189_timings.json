@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_1",
+    "filename": "",
+    "phrase": "subconscious won't let you keep something",
+    "start": 0.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "text_2",
+    "filename": "",
+    "phrase": "believe is morally wrong.",
+    "start": 2.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_1",
+    "filename": "left_image_0.jpg",
+    "phrase": "Your you",
+    "start": 5.0,
+    "end": 5.0
+  }
+]

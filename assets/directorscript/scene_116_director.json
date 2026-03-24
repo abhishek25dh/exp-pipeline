@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_116",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_black",
+      "phrase": "Not investing is one of",
+      "text_content": "NOT INVESTING IS ONE OF THE BIGGEST",
+      "x": 960,
+      "y": 310,
+      "scale": 1.714,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "the biggest money mistakes, but",
+      "text_content": "",
+      "x": 646,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 38,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "fear makes it feel safest.",
+      "text_content": "",
+      "x": 1006,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_1_scene_116.jpg",
+      "description": "A person standing at a crossroads, one path bright and golden with coins and upward arrows, the other dark and shadowy with a cozy armchair and a blanket. The person hesitates, looking toward the dark path. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

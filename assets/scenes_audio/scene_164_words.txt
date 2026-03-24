@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Retirement	0.32	0.84	0.87402344	
+feels	0.84	1.24	1.0	
+far	1.24	1.4	1.0	
+away.	1.4	1.68	0.9975586	

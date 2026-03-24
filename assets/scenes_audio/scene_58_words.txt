@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+Lifestyle	0.4	0.84	1.0	
+creep	0.84	1.24	0.9953613	
+keeps	1.24	1.6	0.9995117	
+you	1.6	1.76	1.0	
+broke	1.76	2.12	0.99975586	
+at	2.12	2.4	1.0	
+every	2.4	2.64	1.0	
+income	2.64	3.08	0.99975586	
+level.	3.08	3.36	0.9995117	

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_52",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A smiling cartoon character holding a calendar, flipping through pages with colorful sticky notes attached. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "professional 2D minimalist icon, a smiling cartoon character holding a calendar and flipping through its pages, which have colorful sticky notes attached, pure white background, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks, bright and cheerful mood."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A cartoon character sitting at a desk with a laptop, surrounded by stacks of coins and bills neatly arranged. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "professional 2D minimalist icon, a cartoon character sitting at a desk with an open laptop, surrounded by neatly arranged stacks of coins and paper bills, pure white background, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks, organized and productive mood."
+    }
+  ]
+}

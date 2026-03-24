@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Pipeline Diagram</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: Segoe UI, Arial, sans-serif; background: #0f0f13; color: #eee; padding: 30px 20px; }
+  h1 { text-align: center; font-size: 22px; margin-bottom: 6px; color: #fff; letter-spacing: 1px; }
+  .subtitle { text-align: center; color: #888; font-size: 13px; margin-bottom: 32px; }
+
+  /* Legend */
+  .legend { display: flex; gap: 20px; justify-content: center; margin-bottom: 36px; flex-wrap: wrap; }
+  .leg { display: flex; align-items: center; gap: 8px; font-size: 12px; color: #bbb; }
+  .dot { width: 14px; height: 14px; border-radius: 3px; }
+  .dot-audio   { background: #2563eb; }
+  .dot-script  { background: #7c3aed; }
+  .dot-image   { background: #d97706; }
+  .dot-timing  { background: #059669; }
+  .dot-merge   { background: #dc2626; }
+  .dot-final   { background: #db2777; }
+  .dot-input   { background: #374151; border: 1px solid #6b7280; }
+
+  /* Layout */
+  .pipeline { display: flex; flex-direction: column; align-items: center; gap: 0; max-width: 1100px; margin: 0 auto; }
+
+  /* Row: contains parallel columns */
+  .row { display: flex; gap: 24px; align-items: flex-start; justify-content: center; width: 100%; }
+  .row.center { justify-content: center; }
+
+  /* Arrow down */
+  .arrow-down { display: flex; justify-content: center; width: 100%; padding: 4px 0; }
+  .arrow-down svg { display: block; }
+
+  /* Merge bar */
+  .merge-bar {
+    width: 100%; display: flex; flex-direction: column; align-items: center; margin: 2px 0;
+  }
+  .merge-line { width: 60%; height: 2px; background: #dc2626; margin: 0 auto; }
+  .merge-label {
+    background: #dc2626; color: #fff; font-size: 11px; font-weight: 700;
+    padding: 3px 12px; border-radius: 20px; margin-top: 4px; letter-spacing: 1px;
+  }
+
+  /* Box */
+  .box {
+    border-radius: 10px; padding: 14px 16px; min-width: 220px; max-width: 320px;
+    border: 1.5px solid transparent; position: relative;
+  }
+  .box .script-name {
+    font-size: 13px; font-weight: 700; margin-bottom: 6px; letter-spacing: 0.3px;
+  }
+  .box .io { font-size: 11px; color: #bbb; line-height: 1.7; }
+  .box .io .label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 5px; }
+  .box .io .in  { color: #93c5fd; }
+  .box .io .out { color: #86efac; }
+
+  .box-audio   { background: #1e3a6e; border-color: #2563eb; }
+  .box-script  { background: #2e1a5c; border-color: #7c3aed; }
+  .box-image   { background: #451a03; border-color: #d97706; }
+  .box-timing  { background: #022c22; border-color: #059669; }
+  .box-final   { background: #500724; border-color: #db2777; }
+  .box-input   { background: #1f2937; border-color: #4b5563; }
+
+  .box-merge {
+    background: #1c0a0a; border: 2px dashed #dc2626; border-radius: 10px;
+    padding: 10px 20px; font-size: 12px; font-weight: 700; color: #f87171;
+    letter-spacing: 1px; text-align: center;
+  }
+
+  .parallel-tag {
+    position: absolute; top: -10px; right: 10px;
+    background: #16a34a; color: #fff; font-size: 9px; font-weight: 700;
+    padding: 2px 7px; border-radius: 20px; letter-spacing: 0.5px;
+  }
+
+  /* connector */
+  .connector { display: flex; justify-content: center; align-items: center; }
+  .v-line { width: 2px; background: #4b5563; height: 28px; }
+  .v-line-merge { width: 2px; background: #dc2626; height: 20px; }
+
+  /* wide merge bracket */
+  .bracket-row {
+    display: flex; width: 100%; justify-content: center; align-items: flex-start;
+    position: relative; margin: 0;
+  }
+  .bracket-wrap {
+    display: flex; flex-direction: column; align-items: center; width: 100%;
+  }
+  .bracket-top {
+    display: flex; justify-content: space-around; width: 70%;
+  }
+  .bracket-leg { width: 2px; height: 20px; background: #4b5563; }
+  .bracket-leg-red { width: 2px; height: 20px; background: #dc2626; }
+  .bracket-h { height: 2px; flex: 1; margin-top: 0; }
+  .bracket-h-gray { background: #4b5563; }
+  .bracket-h-red  { background: #dc2626; }
+
+  .step-label {
+    font-size: 11px; font-weight: 700; color: #6b7280; text-transform: uppercase;
+    letter-spacing: 2px; text-align: center; margin: 10px 0 8px 0;
+  }
+  .parallel-note {
+    font-size: 11px; color: #16a34a; text-align: center; margin-bottom: 6px; font-style: italic;
+  }
+  .wait-note {
+    font-size: 11px; color: #f87171; text-align: center; margin: 4px 0; font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+<h1>PIPELINE DIAGRAM</h1>
+<p class="subtitle">Green tag = runs in parallel with other tagged steps &nbsp;|&nbsp; Red = wait for everything above before continuing</p>
+
+<div class="legend">
+  <div class="leg"><div class="dot dot-input"></div> Input file</div>
+  <div class="leg"><div class="dot dot-audio"></div> Audio track</div>
+  <div class="leg"><div class="dot dot-script"></div> Script/Layout track</div>
+  <div class="leg"><div class="dot dot-image"></div> Image generation</div>
+  <div class="leg"><div class="dot dot-timing"></div> Timings</div>
+  <div class="leg"><div class="dot dot-final"></div> Final render</div>
+  <div class="leg"><div class="dot dot-merge"></div> Merge / Wait point</div>
+</div>
+
+<div class="pipeline">
+
+  <!-- INPUTS -->
+  <div class="step-label">You need these files first</div>
+  <div class="row">
+    <div class="box box-input">
+      <div class="script-name">inputs/background_audio.mp3</div>
+      <div class="io">Your full recorded voiceover</div>
+    </div>
+    <div class="box box-input">
+      <div class="script-name">inputs/script.docx</div>
+      <div class="io">Your written script document</div>
+    </div>
+  </div>
+
+  <!-- fork down to two parallel tracks -->
+  <div class="bracket-wrap">
+    <div style="display:flex;width:55%;justify-content:space-between;">
+      <div class="bracket-leg"></div>
+      <div class="bracket-leg"></div>
+    </div>
+    <div style="display:flex;width:55%;height:2px;">
+      <div class="bracket-h bracket-h-gray" style="flex:1;margin-top:0;height:2px;align-self:flex-end;"></div>
+    </div>
+    <div style="display:flex;width:55%;justify-content:space-between;">
+      <div class="bracket-leg"></div>
+      <div class="bracket-leg"></div>
+    </div>
+  </div>
+
+  <!-- STEP 1: two parallel tracks -->
+  <div class="step-label">Step 1 — Start both at the same time</div>
+  <div class="parallel-note">▶ Run these simultaneously — they don't depend on each other</div>
+  <div class="row">
+
+    <div class="box box-audio">
+      <span class="parallel-tag">PARALLEL</span>
+      <div class="script-name">script.py</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        inputs/background_audio.mp3
+        <div class="label out">writes</div>
+        tmp/background_audio_transcript_full.json
+      </div>
+    </div>
+
+    <div class="box box-script">
+      <span class="parallel-tag">PARALLEL</span>
+      <div class="script-name">docx_to_paras.py</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        inputs/script.docx
+        <div class="label out">writes</div>
+        assets/para/para_N.json
+      </div>
+    </div>
+
+  </div>
+
+  <!-- arrow down from script track only -->
+  <div class="row" style="gap:0;">
+    <div style="width:220px;min-width:220px;max-width:320px;"></div><!-- spacer for audio -->
+    <div style="width:24px;"></div>
+    <div style="min-width:220px;max-width:320px;display:flex;justify-content:center;">
+      <div class="v-line"></div>
+    </div>
+  </div>
+
+  <!-- STEP 2: layout_selector (script track only, audio still running) -->
+  <div class="step-label">Step 2 — After docx_to_paras finishes (audio still running fine)</div>
+  <div class="row" style="justify-content:flex-end;padding-right:calc(50% - 172px);">
+    <div class="box box-script">
+      <div class="script-name">layout_selector.py 1</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/para/para_N.json
+        <div class="label out">writes</div>
+        assets/scene_prompts/scene_N_prompt.json
+        <div style="margin-top:6px;font-size:10px;color:#a78bfa;">run once per para number</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- fork to two parallel again -->
+  <div class="row" style="justify-content:flex-end;padding-right:calc(50% - 172px);">
+    <div style="min-width:220px;max-width:320px;display:flex;justify-content:center;">
+      <div class="v-line"></div>
+    </div>
+  </div>
+
+  <!-- STEP 3: para_to_scenes + layout_creator parallel -->
+  <div class="step-label">Step 3 — Run both at the same time (audio still running fine)</div>
+  <div class="parallel-note">▶ Run these simultaneously — they both only read scene_prompts</div>
+  <div class="row">
+
+    <div class="box box-audio" style="opacity:0.35;border-style:dashed;">
+      <div class="script-name" style="font-size:11px;color:#93c5fd;">script.py still running...</div>
+      <div class="io">waiting for AssemblyAI transcript to finish</div>
+    </div>
+
+    <div class="box box-script">
+      <span class="parallel-tag">PARALLEL</span>
+      <div class="script-name">para_to_scenes.py 1</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/para/ + assets/scene_prompts/
+        <div class="label out">writes</div>
+        assets/scenes/para1.json
+        <div style="margin-top:6px;font-size:10px;color:#a78bfa;">run once per para number</div>
+      </div>
+    </div>
+
+    <div class="box box-script">
+      <span class="parallel-tag">PARALLEL</span>
+      <div class="script-name">layout_creator.py</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/scene_prompts/scene_N_prompt.json
+        <div class="label out">writes</div>
+        assets/directorscript/scene_N_director.json
+        <div style="margin-top:6px;font-size:10px;color:#a78bfa;">processes all scenes automatically</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- MERGE 1 -->
+  <div style="height:16px;"></div>
+  <div class="box-merge" style="width:600px;">
+    ⏳ WAIT — need script.py done + para_to_scenes.py done before next step
+  </div>
+  <div class="connector"><div class="v-line-merge"></div></div>
+
+  <!-- STEP 4: audiocutter -->
+  <div class="step-label">Step 4 — After merge point above</div>
+  <div class="row center">
+    <div class="box box-audio">
+      <div class="script-name">audiocutter.py 1 2 3 ...</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        tmp/background_audio_transcript_full.json<br>
+        inputs/background_audio.mp3<br>
+        assets/scenes/paraN.json
+        <div class="label out">writes</div>
+        assets/scenes_audio/scene_N.mp3
+      </div>
+    </div>
+  </div>
+
+  <div class="connector"><div class="v-line"></div></div>
+
+  <!-- STEP 5: scenes_scripts -->
+  <div class="step-label">Step 5 — After audiocutter</div>
+  <div class="row center">
+    <div class="box box-audio">
+      <div class="script-name">scenes_scripts.py</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/scenes_audio/scene_N.mp3
+        <div class="label out">writes</div>
+        assets/scenes_audio/scene_N_transcript_full.json
+        <div style="margin-top:6px;font-size:10px;color:#93c5fd;">transcribes every scene mp3 automatically</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MERGE 2 -->
+  <div style="height:16px;"></div>
+  <div class="box-merge" style="width:660px;">
+    ⏳ WAIT — need layout_creator.py done + scenes_scripts.py done before next step
+  </div>
+  <div class="connector"><div class="v-line-merge"></div></div>
+
+  <!-- STEP 6: generate_prompts + timings in parallel -->
+  <div class="step-label">Step 6 — Run all at the same time</div>
+  <div class="parallel-note">▶ All generate_prompts calls are independent — fire them all at once. timings also runs at same time.</div>
+  <div class="row">
+
+    <div class="box box-image">
+      <span class="parallel-tag">PARALLEL</span>
+      <div class="script-name">generate_prompts.py 1</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/directorscript/scene_1_director.json
+        <div class="label out">writes</div>
+        assets/image_prompts/scene_1_image_prompts.json
+      </div>
+    </div>
+
+    <div class="box box-image">
+      <span class="parallel-tag">PARALLEL</span>
+      <div class="script-name">generate_prompts.py 2</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/directorscript/scene_2_director.json
+        <div class="label out">writes</div>
+        assets/image_prompts/scene_2_image_prompts.json
+      </div>
+    </div>
+
+    <div class="box box-timing">
+      <span class="parallel-tag">PARALLEL</span>
+      <div class="script-name">timings.py a</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/directorscript/scene_N_director.json<br>
+        assets/scenes_audio/scene_N_transcript_full.json
+        <div class="label out">writes</div>
+        assets/timings/scene_N_timings.json
+      </div>
+    </div>
+
+  </div>
+  <div class="parallel-note" style="margin-top:4px;">... repeat generate_prompts for every scene number</div>
+
+  <!-- MERGE 3 -->
+  <div style="height:16px;"></div>
+  <div class="box-merge" style="width:580px;">
+    ⏳ WAIT — need ALL generate_prompts done before sending to ComfyUI
+  </div>
+  <div class="connector"><div class="v-line-merge"></div></div>
+
+  <!-- STEP 7: image.py -->
+  <div class="step-label">Step 7 — Send all image prompts to ComfyUI at once</div>
+  <div class="row center">
+    <div class="box box-image">
+      <div class="script-name">image.py</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/image_prompts/scene_N_image_prompts.json (all scenes)
+        <div class="label out">writes</div>
+        assets/outputs/scene_N/filename.png
+        <div style="margin-top:6px;font-size:10px;color:#fcd34d;">
+          ComfyUI queues all jobs → never sits idle → fastest generation
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MERGE 4 -->
+  <div style="height:16px;"></div>
+  <div class="box-merge" style="width:600px;">
+    ⏳ WAIT — need images done + timings done before rendering
+  </div>
+  <div class="connector"><div class="v-line-merge"></div></div>
+
+  <!-- STEP 8: render -->
+  <div class="step-label">Step 8 — Final render (one scene at a time)</div>
+  <div class="row center">
+    <div class="box box-final">
+      <div class="script-name">render_video.py → localhost:5566</div>
+      <div class="io">
+        <div class="label in">reads</div>
+        assets/directorscript/scene_N_director.json<br>
+        assets/timings/scene_N_timings.json<br>
+        assets/scenes_audio/scene_N.mp3<br>
+        assets/outputs/scene_N/*.png
+        <div class="label out">writes</div>
+        scene_N.mp4 ✓
+      </div>
+    </div>
+  </div>
+
+  <div style="height:40px;"></div>
+
+  <!-- QUICK REFERENCE -->
+  <div style="background:#111827;border:1px solid #374151;border-radius:12px;padding:24px;max-width:820px;width:100%;">
+    <div style="font-size:14px;font-weight:700;margin-bottom:16px;color:#fff;letter-spacing:1px;">QUICK RUN ORDER</div>
+    <table style="width:100%;border-collapse:collapse;font-size:12px;">
+      <tr style="color:#6b7280;border-bottom:1px solid #1f2937;">
+        <td style="padding:6px 10px;font-weight:700;">Step</td>
+        <td style="padding:6px 10px;font-weight:700;">Command(s)</td>
+        <td style="padding:6px 10px;font-weight:700;">Notes</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;">
+        <td style="padding:8px 10px;color:#6b7280;">1</td>
+        <td style="padding:8px 10px;font-family:monospace;color:#93c5fd;">python script.py<br>python docx_to_paras.py</td>
+        <td style="padding:8px 10px;color:#16a34a;">Run both at same time</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;">
+        <td style="padding:8px 10px;color:#6b7280;">2</td>
+        <td style="padding:8px 10px;font-family:monospace;color:#c4b5fd;">python layout_selector.py 1</td>
+        <td style="padding:8px 10px;color:#888;">After docx_to_paras. Repeat for each para.</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;">
+        <td style="padding:8px 10px;color:#6b7280;">3</td>
+        <td style="padding:8px 10px;font-family:monospace;color:#c4b5fd;">python para_to_scenes.py 1<br>python layout_creator.py</td>
+        <td style="padding:8px 10px;color:#16a34a;">Run both at same time</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;background:#1a0a0a;">
+        <td style="padding:8px 10px;color:#f87171;">⏳</td>
+        <td colspan="2" style="padding:8px 10px;color:#f87171;">Wait for: script.py + para_to_scenes.py</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;">
+        <td style="padding:8px 10px;color:#6b7280;">4</td>
+        <td style="padding:8px 10px;font-family:monospace;color:#93c5fd;">python audiocutter.py 1 2 3</td>
+        <td style="padding:8px 10px;color:#888;">Pass all para numbers</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;">
+        <td style="padding:8px 10px;color:#6b7280;">5</td>
+        <td style="padding:8px 10px;font-family:monospace;color:#93c5fd;">python scenes_scripts.py</td>
+        <td style="padding:8px 10px;color:#888;">After audiocutter</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;background:#1a0a0a;">
+        <td style="padding:8px 10px;color:#f87171;">⏳</td>
+        <td colspan="2" style="padding:8px 10px;color:#f87171;">Wait for: layout_creator.py + scenes_scripts.py</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;">
+        <td style="padding:8px 10px;color:#6b7280;">6</td>
+        <td style="padding:8px 10px;font-family:monospace;color:#fcd34d;">python generate_prompts.py 1<br>python generate_prompts.py 2  ...<br>python timings.py a</td>
+        <td style="padding:8px 10px;color:#16a34a;">All run at same time</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;background:#1a0a0a;">
+        <td style="padding:8px 10px;color:#f87171;">⏳</td>
+        <td colspan="2" style="padding:8px 10px;color:#f87171;">Wait for: ALL generate_prompts done</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;">
+        <td style="padding:8px 10px;color:#6b7280;">7</td>
+        <td style="padding:8px 10px;font-family:monospace;color:#fcd34d;">python image.py</td>
+        <td style="padding:8px 10px;color:#888;">Sends all to ComfyUI queue at once</td>
+      </tr>
+      <tr style="border-bottom:1px solid #1f2937;background:#1a0a0a;">
+        <td style="padding:8px 10px;color:#f87171;">⏳</td>
+        <td colspan="2" style="padding:8px 10px;color:#f87171;">Wait for: images + timings both done</td>
+      </tr>
+      <tr>
+        <td style="padding:8px 10px;color:#6b7280;">8</td>
+        <td style="padding:8px 10px;font-family:monospace;color:#f9a8d4;">python render_video.py</td>
+        <td style="padding:8px 10px;color:#888;">localhost:5566 — render each scene</td>
+      </tr>
+    </table>
+  </div>
+
+</div>
+</body>
+</html>

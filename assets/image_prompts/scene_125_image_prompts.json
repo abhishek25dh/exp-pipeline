@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_125",
+  "elements": [
+    {
+      "element_id": "img_below_right_scene_125",
+      "filename": "img_below_right_scene_125.jpg",
+      "original_description": "A green dollar sign with a plus symbol, floating slightly above a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a vibrant green dollar sign paired with a plus symbol, floating slightly above a pure white background. Clean flat vector art, high contrast, no shading or gradients, crisp edges, isolated on a clean white background with no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_below_left_scene_125",
+      "filename": "img_below_left_scene_125.jpg",
+      "original_description": "A stack of three crisp $50 bills, neatly arranged on a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a stack of three crisp $50 bills, neatly and precisely arranged on a pure white background. Cinematic lighting with soft shadows to emphasize texture, sharp focus on the bills' details, high resolution, isolated with no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_top_left_scene_125",
+      "filename": "img_right_top_left_scene_125.jpg",
+      "original_description": "A shiny silver credit card with a chip, tilted slightly to show its reflective surface on a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a shiny silver credit card with a visible chip, tilted slightly to catch light and show its reflective metallic surface on a pure white background. Cinematic lighting with highlights and soft bokeh, sharp focus on the card's details, high resolution, isolated with no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_bot_left_scene_125",
+      "filename": "img_right_bot_left_scene_125.jpg",
+      "original_description": "A stack of three credit cards in different colors, arranged neatly on a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a stack of three credit cards in distinct colors (e.g., blue, red, black), arranged neatly and uniformly on a pure white background. Clean flat vector art, high contrast, no shading or gradients, crisp edges, isolated with no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_bot_right_scene_125",
+      "filename": "img_right_bot_right_scene_125.jpg",
+      "original_description": "A piggy bank with coins spilling out, surrounded by green dollar signs on a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a piggy bank with coins spilling out from its slot, surrounded by several green dollar signs, all on a pure white background. Clean flat vector art, high contrast, no shading or gradients, playful arrangement, isolated with no text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_205",
+  "elements": [
+    {
+      "element_id": "text_heading",
+      "type": "text_red",
+      "phrase": "But interest",
+      "text_content": "BUT INTEREST ADDS UP",
+      "x": 929,
+      "y": 332,
+      "scale": 3.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 33 heading (P1, line 1/1)"
+    },
+    {
+      "element_id": "img_left_scene_205",
+      "type": "image",
+      "phrase": "adds up fast.",
+      "text_content": "",
+      "x": 363,
+      "y": 711,
+      "scale": 0.488,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_left_scene_205.jpg",
+      "description": "A stack of coins rapidly grows taller on a pure white background, with dollar signs swirling around it energetically. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 33 left image (P2)"
+    }
+  ]
+}

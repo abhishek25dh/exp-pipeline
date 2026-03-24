@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_254",
+  "elements": [
+    {
+      "element_id": "img_left_scene_254",
+      "filename": "img_left_scene_254.jpg",
+      "original_description": "A cartoon piggy bank with a frown, tilted to the side with coins spilling out onto a white surface. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon piggy bank with a sad frown, tilted to the side with several coins spilling out from its coin slot onto a pure white background. Clean flat vector art, high contrast, no shading or gradients, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_254",
+      "filename": "img_right_scene_254.jpg",
+      "original_description": "A stack of dollar bills with a red 'fee' stamp across them, placed on a white surface. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a neat stack of dollar bills with a bold red 'fee' stamp clearly marked across the top bill, placed on a pure white background. Clean flat vector art, high contrast, no shading or gradients, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

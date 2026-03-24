@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_137",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_137",
+      "type": "image",
+      "phrase": "Stop waiting",
+      "text_content": "",
+      "x": 274,
+      "y": 384,
+      "scale": 0.392,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_tl_scene_137.jpg",
+      "description": "A person in casual clothes stands with their arms crossed, looking impatient, with a clock ticking rapidly in the background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_tl (P1)"
+    },
+    {
+      "element_id": "img_tr_scene_137",
+      "type": "image",
+      "phrase": "for perfect conditions.",
+      "text_content": "",
+      "x": 772,
+      "y": 386,
+      "scale": 0.384,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_tr_scene_137.jpg",
+      "description": "A magnifying glass hovers over a blank sheet of paper, symbolizing searching or waiting. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_tr (P2)"
+    }
+  ]
+}

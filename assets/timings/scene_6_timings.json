@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_0.jpg",
+    "phrase": "You buy the",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "cheapest option, even",
+    "start": 0.84,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_2_2",
+    "filename": "group_2_image_2.jpg",
+    "phrase": "if it breaks faster.",
+    "start": 2.12,
+    "end": 4.0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "host_center_explaining",
+    "filename": "host_explaining.png",
+    "phrase": "Are you buying",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_quad_0",
+    "filename": "quad_0_this_because_you.jpg",
+    "phrase": "this because you",
+    "start": 0.96,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_quad_1",
+    "filename": "quad_1_want_it_or_because.jpg",
+    "phrase": "want it or because",
+    "start": 1.72,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_quad_2",
+    "filename": "quad_2_you_want_people_to.jpg",
+    "phrase": "you want people to",
+    "start": 2.72,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_quad_3",
+    "filename": "quad_3_think_well_of_you.jpg",
+    "phrase": "think well of you?",
+    "start": 3.48,
+    "end": 5.0
+  }
+]

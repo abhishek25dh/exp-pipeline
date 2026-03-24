@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_25",
+  "elements": [
+    {
+      "element_id": "title_pyramid",
+      "type": "text_black",
+      "phrase": "American consumer",
+      "text_content": "AMERICAN CONSUMER",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 120,
+      "scale": 1.622,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_panel_1",
+      "type": "image",
+      "phrase": "culture is",
+      "text_content": "",
+      "filename": "panel_1_img.jpg",
+      "description": "A large red button labeled 'BUY NOW' floating in the center of a pure white background, with glowing rays emanating from it to symbolize triggering action.",
+      "x": 960,
+      "y": 340,
+      "scale": 0.3,
+      "angle": -3,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "txt_panel_1",
+      "type": "text_black",
+      "phrase": "designed to",
+      "text_content": "designed to",
+      "filename": "",
+      "description": "",
+      "x": 300,
+      "y": 880,
+      "scale": 1.455,
+      "angle": 1,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_panel_2",
+      "type": "image",
+      "phrase": "trigger this.",
+      "text_content": "",
+      "filename": "panel_2_img.jpg",
+      "description": "A shopping cart overflowing with branded products like smartphones, shoes, and electronics, placed in the center of a pure white background.",
+      "x": 420,
+      "y": 620,
+      "scale": 0.24,
+      "angle": 1,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_255",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_black",
+      "phrase": "Take out payday loans.",
+      "text_content": "TAKE OUT PAYDAY LOANS.",
+      "x": 960,
+      "y": 540,
+      "scale": 2.727,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# word	start_s	end_s	confidence	speaker
+In	0.16	0.28	0.99902344	
+the	0.28	0.44	0.9995117	
+US	0.44	0.72	0.9814453	
+There's	1.04	1.48	0.99593097	
+a	1.48	1.6	1.0	
+huge	1.6	1.88	0.99975586	
+gap	1.88	2.24	1.0	
+in	2.24	2.48	1.0	
+financial	2.48	2.8	1.0	
+literacy	2.8	3.4	1.0	
+around	3.4	3.72	1.0	
+investing.	3.72	4.32	0.99902344	

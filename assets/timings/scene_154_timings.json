@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "title",
+    "filename": "",
+    "phrase": "You're too",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "vs_center",
+    "filename": "",
+    "phrase": "embarrassed to",
+    "start": 0.76,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_left",
+    "filename": "left_concept.jpg",
+    "phrase": "admit you",
+    "start": 1.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "label_left",
+    "filename": "",
+    "phrase": "don't understand something.",
+    "start": 1.96,
+    "end": 4.0
+  }
+]

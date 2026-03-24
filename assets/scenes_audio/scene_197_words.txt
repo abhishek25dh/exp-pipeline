@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Money	0.32	0.48	0.99853516	
+is	0.48	0.72	0.9995117	
+neutral.	0.72	1.2	0.9998372	

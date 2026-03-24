@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "strip_title",
+    "filename": "",
+    "phrase": "You think",
+    "start": 0.24,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_frame_1",
+    "filename": "frame_1_img.jpg",
+    "phrase": "about today,",
+    "start": 0.52,
+    "end": 3.0
+  },
+  {
+    "element_id": "cap_frame_1",
+    "filename": "",
+    "phrase": "not tomorrow.",
+    "start": 1.2,
+    "end": 3.0
+  }
+]

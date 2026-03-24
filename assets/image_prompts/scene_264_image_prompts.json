@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_264",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "filename": "hero_main.jpg",
+      "original_description": "A vibrant 2D cartoon graphic of a circular flowchart with interconnected icons: a glowing coin, a growing piggy bank, and a shrinking credit card, arranged in a clockwise motion on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist cartoon icon set, a vibrant circular flowchart with interconnected icons: a brightly glowing coin, a piggy bank that appears to be growing in size, and a credit card that is shrinking, all arranged in a clear clockwise motion. Clean flat vector art on a pure white background, high contrast, no shading or gradients. No text, letters, numbers, or watermarks. Bright and educational mood."
+    }
+  ]
+}

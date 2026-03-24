@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Nice	0.32	0.56	0.9987793	
+car,	0.56	0.88	1.0	
+designer	1.2	1.76	1.0	
+clothes,	1.76	2.24	0.9217122	
+big	2.48	2.8	1.0	
+house.	2.8	3.12	0.99853516	

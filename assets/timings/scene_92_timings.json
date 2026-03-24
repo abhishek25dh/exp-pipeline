@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_center_scene_92",
+    "filename": "img_center_scene_92.jpg",
+    "phrase": "Over time,",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tl_scene_92",
+    "filename": "img_tl_scene_92.jpg",
+    "phrase": "emotional spending",
+    "start": 1.12,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_bl_scene_92",
+    "filename": "img_bl_scene_92.jpg",
+    "phrase": "becomes automatic.",
+    "start": 2.2,
+    "end": 4.0
+  }
+]

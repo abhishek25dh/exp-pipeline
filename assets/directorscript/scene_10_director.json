@@ -1,0 +1,96 @@
+{
+  "scene_id": "scene_10",
+  "host_emotion": "explaining",
+  "host_phrase": "You don't",
+  "elements": [
+    {
+      "element_id": "host_center_explaining",
+      "type": "host",
+      "phrase": "You don't",
+      "description": "Host in center expressing explaining",
+      "filename": "host_explaining.png",
+      "x": 960,
+      "y": 560,
+      "scale": 0.9,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_0",
+      "type": "image",
+      "phrase": "invest because",
+      "visual_description": "A person holding a wallet with a concerned expression, standing in front of a price tag labeled 'expensive'. No text, no letters, no numbers, no watermarks.",
+      "description": "A person holding a wallet with a concerned expression, standing in front of a price tag labeled 'expensive'. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_0_invest_because.jpg",
+      "x": 300,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "span": [
+        6,
+        7
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_1",
+      "type": "image",
+      "phrase": "you can't",
+      "visual_description": "A cartoon arrow pointing towards a blank white space, indicating direction without any specific destination. No text, no letters, no numbers, no watermarks.",
+      "description": "A cartoon arrow pointing towards a blank white space, indicating direction without any specific destination. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_1_you_can't.jpg",
+      "x": 300,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "span": [
+        7,
+        8
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_2",
+      "type": "image",
+      "phrase": "afford to",
+      "visual_description": "A hand dropping a coin into a void, with the coin disappearing into darkness. No text, no letters, no numbers, no watermarks.",
+      "description": "A hand dropping a coin into a void, with the coin disappearing into darkness. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_2_afford_to.jpg",
+      "x": 1620,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "span": [
+        8,
+        9
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_3",
+      "type": "image",
+      "phrase": "lose anything.",
+      "visual_description": "A cartoon-style empty box floating in a white void, symbolizing the absence of anything. No text, no letters, no numbers, no watermarks.",
+      "description": "A cartoon-style empty box floating in a white void, symbolizing the absence of anything. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_3_lose_anything.jpg",
+      "x": 1620,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "span": [
+        9,
+        10
+      ],
+      "property": ""
+    }
+  ]
+}

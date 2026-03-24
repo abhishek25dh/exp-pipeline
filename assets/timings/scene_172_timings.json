@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "Short-term thinking",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "also means",
+    "start": 1.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_172.jpg",
+    "phrase": "missing long-term opportunities.",
+    "start": 1.8,
+    "end": 4.0
+  }
+]

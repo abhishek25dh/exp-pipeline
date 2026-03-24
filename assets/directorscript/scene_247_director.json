@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_247",
+  "elements": [
+    {
+      "element_id": "title",
+      "type": "text_black",
+      "phrase": "You avoid",
+      "text_content": "",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 100,
+      "scale": 1.8,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.42
+    },
+    {
+      "element_id": "vs_center",
+      "type": "text_highlighted",
+      "phrase": "learning because",
+      "text_content": "VS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 470,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_left",
+      "type": "image",
+      "phrase": "it feels overwhelming.",
+      "text_content": "",
+      "filename": "left_concept.jpg",
+      "description": "A person sitting at a desk with their head in their hands, surrounded by scattered books and papers, avoiding learning, minimalist illustration style",
+      "x": 380,
+      "y": 470,
+      "scale": 0.3,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

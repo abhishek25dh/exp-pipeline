@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_136",
+  "elements": [
+    {
+      "element_id": "img_center_scene_136",
+      "filename": "img_center_scene_136.jpg",
+      "original_description": "A simple circular icon with a smiling face, radiating positivity and encouragement. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a simple circular icon with a smiling face, radiating positivity and encouragement, on a pure white background, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_tl_scene_136",
+      "filename": "img_tl_scene_136.jpg",
+      "original_description": "A crisp, green $20 bill floating slightly above the white background, with a subtle shine to emphasize its value. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a crisp, green $20 bill floating slightly above a pure white background, with a subtle shine to emphasize its value, cinematic lighting, high resolution, sharp focus, soft bokeh effect, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

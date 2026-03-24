@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_42",
+  "elements": [
+    {
+      "element_id": "img_left_scene_42",
+      "filename": "img_left_scene_42.jpg",
+      "original_description": "A cheerful cartoon character in business casual attire smiles while holding a stack of dollar bills. The character stands in front of a simple office desk with a computer monitor.",
+      "image_prompt": "A cheerful cartoon character in business casual attire smiling broadly while holding a stack of crisp dollar bills, standing in front of a simple, clean office desk with a computer monitor on it. Professional 2D minimalist flat vector art, vibrant colors, high contrast, pure white background, no shading or gradients, clean lines, playful and optimistic mood, high-resolution digital illustration."
+    },
+    {
+      "element_id": "img_right_scene_42",
+      "filename": "img_right_scene_42.jpg",
+      "original_description": "The same character looks stressed, holding an empty wallet open with one hand and scratching their head with the other. A calendar on the wall shows the end of the month approaching.",
+      "image_prompt": "The same cartoon character looking stressed, holding an empty wallet open with one hand and scratching their head with the other. A calendar on the wall prominently displays the end of the month date with a red circle around it. Professional 2D minimalist flat vector art, muted colors, high contrast, pure white background, no shading or gradients, clean lines, tense and worried mood, high-resolution digital illustration."
+    }
+  ]
+}

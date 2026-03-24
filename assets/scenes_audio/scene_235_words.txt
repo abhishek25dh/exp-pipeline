@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+They	0.4	0.52	0.99853516	
+bring	0.52	0.76	1.0	
+temporary	0.76	1.32	0.9998372	
+validation	1.32	2.0	1.0	
+that	2.08	2.36	1.0	
+doesn't	2.36	2.72	0.9980469	
+last.	2.72	3.04	1.0	

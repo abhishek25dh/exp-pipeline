@@ -1,0 +1,156 @@
+{
+  "id": "6111af16-67fc-4641-aff2-f4999f5f97e8",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/f8d5c34b88e6e15cc177d90e33b2ab13c7731254c14106063c7ae95bd8282548/d09e1f3e-3886-4899-9428-4a13a8128a43",
+  "text": "Then make a plan to pay down what you owe.",
+  "words": [
+    {
+      "text": "Then",
+      "start": 320,
+      "end": 480,
+      "confidence": 0.99560547,
+      "speaker": null
+    },
+    {
+      "text": "make",
+      "start": 480,
+      "end": 680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 680,
+      "end": 840,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "plan",
+      "start": 840,
+      "end": 1000,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 1000,
+      "end": 1160,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "pay",
+      "start": 1160,
+      "end": 1360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "down",
+      "start": 1360,
+      "end": 1560,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 1560,
+      "end": 1720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 1720,
+      "end": 1920,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "owe.",
+      "start": 1920,
+      "end": 2320,
+      "confidence": 0.99934894,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.99900717,
+  "audio_duration": 3,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

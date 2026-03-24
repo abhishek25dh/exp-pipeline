@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+It's	0.4	0.6	0.99625653	
+everywhere	0.6	1.04	1.0	
+and	1.04	1.28	0.7055664	
+it	1.28	1.48	0.9995117	
+works.	1.48	1.92	0.9995117	

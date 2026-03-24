@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_234",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A person standing with a shopping cart filled with random items like toys, clothes, and gadgets. The person looks slightly overwhelmed. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person standing with a shopping cart overflowing with random items, including toys, clothes, and various gadgets, conveying a sense of slight overwhelm. Cinematic lighting with soft bokeh in the background, high resolution, sharp focus on the person and cart, no text, letters, numbers, or watermarks. Mood: slightly overwhelming and chaotic."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A close-up of a hand holding a credit card, with various luxury items like jewelry, electronics, and designer bags floating around it. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph, close-up shot of a hand holding a credit card, with various luxury items such as sparkling jewelry, sleek electronics, and designer bags floating ethereally around it. Cinematic lighting with dramatic shadows and highlights, soft bokeh background, high resolution, sharp focus on the hand and credit card, no text, letters, numbers, or watermarks. Mood: materialistic and ephemeral."
+    }
+  ]
+}

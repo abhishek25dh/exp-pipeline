@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_62",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "type": "image",
+      "phrase": "You and",
+      "filename": "moment_1_img.jpg",
+      "description": "A cheerful cartoon character with a smiling face, wearing casual clothes, standing confidently on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 537,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Grid panel 1",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_moment_1",
+      "type": "text_red",
+      "phrase": "your partner",
+      "text_content": "your partner",
+      "x": 537,
+      "y": 453,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Grid panel label",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.73
+    },
+    {
+      "element_id": "img_moment_2",
+      "type": "image",
+      "phrase": "don't talk",
+      "filename": "moment_2_img.jpg",
+      "description": "A second cheerful cartoon character, slightly smaller, standing next to the first character, with a neutral expression, wearing casual clothes, on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1382,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Grid panel 2",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_moment_2",
+      "type": "text_black",
+      "phrase": "about money.",
+      "text_content": "about money.",
+      "x": 1382,
+      "y": 453,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Grid panel label",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

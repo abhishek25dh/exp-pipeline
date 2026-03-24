@@ -1,0 +1,18 @@
+Layout 19 Step 1 is deterministic (no AI prompt).
+
+It builds:
+- `main_title` from the opening tokens (2-5 words).
+- 3 panels, each with `img_phrase` + `txt_phrase`.
+
+The pyramid layout uses:
+- Panel 1 = hero image (top center, larger)
+- Panel 2 = left support image (middle row)
+- Panel 3 = right support image (middle row)
+- All 3 txt_phrases become keyword labels in the bottom row.
+
+Rules enforced by code:
+- All phrases are verbatim spans from the script tokens.
+- Phrases tile the full script in order (no gaps, no overlaps).
+- img_phrase and txt_phrase are consecutive fragments per panel.
+
+See `layout_19_step_1.py` for the deterministic segmentation logic.

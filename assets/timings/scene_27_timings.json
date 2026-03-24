@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_hero_scene_27",
+    "filename": "img_hero_scene_27.jpg",
+    "phrase": "The whole system",
+    "start": 0.4,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_bottom_right_scene_27",
+    "filename": "img_bottom_right_scene_27.jpg",
+    "phrase": "bypasses your rational",
+    "start": 1.28,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_top_mid_scene_27",
+    "filename": "img_top_mid_scene_27.jpg",
+    "phrase": "brain and goes",
+    "start": 2.64,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_top_right_scene_27",
+    "filename": "img_top_right_scene_27.jpg",
+    "phrase": "straight to emotions.",
+    "start": 3.72,
+    "end": 6.0
+  }
+]

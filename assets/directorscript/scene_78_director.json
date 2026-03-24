@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_78",
+  "elements": [
+    {
+      "element_id": "text_top",
+      "type": "text_black",
+      "phrase": "Write",
+      "text_content": "WRITE",
+      "x": 553,
+      "y": 400,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 26 top text (line 1/1)"
+    },
+    {
+      "element_id": "img_below_right_scene_78",
+      "type": "image",
+      "phrase": "down what",
+      "text_content": "",
+      "x": 886,
+      "y": 810,
+      "scale": 0.419,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_below_right_scene_78.jpg",
+      "description": "A hand holding a pen, writing on a lined piece of paper. The pen is blue, and the paper is yellow. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 below image (slot=right, priority=2)"
+    },
+    {
+      "element_id": "img_below_left_scene_78",
+      "type": "image",
+      "phrase": "you owe.",
+      "text_content": "",
+      "x": 287,
+      "y": 813,
+      "scale": 0.421,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_below_left_scene_78.jpg",
+      "description": "A simple ledger with dollar signs and numbers written in black ink, placed on a white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 below image (slot=left, priority=3)"
+    }
+  ]
+}

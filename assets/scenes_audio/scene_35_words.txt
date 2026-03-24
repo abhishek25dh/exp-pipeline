@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Breaking	0.24	0.52	1.0	
+this	0.52	0.72	0.9995117	
+pattern	0.72	1.12	0.8527832	
+means	1.12	1.48	1.0	
+inserting	1.48	1.96	1.0	
+a	1.96	2.12	0.9995117	
+pause.	2.12	2.64	0.9454753	

@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.48	0.9980469	
+you	0.48	0.68	0.9995117	
+don't.	0.68	1.04	0.99820966	

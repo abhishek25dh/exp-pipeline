@@ -1,0 +1,191 @@
+{
+  "id": "817b7c54-af1e-4648-94c2-0e209743bf66",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/42cd336e9c3f14e2256cedf67571248852a621746d073c477e10469322af43e3/15a1a81e-2c7b-47f2-a4f9-0d0334313090",
+  "text": "Not. Investing is one of the biggest money mistakes, but fear makes it feel safest.",
+  "words": [
+    {
+      "text": "Not.",
+      "start": 400,
+      "end": 560,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "Investing",
+      "start": 560,
+      "end": 1080,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 1080,
+      "end": 1320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 1320,
+      "end": 1480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 1480,
+      "end": 1600,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 1600,
+      "end": 1720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "biggest",
+      "start": 1720,
+      "end": 2160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 2160,
+      "end": 2440,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "mistakes,",
+      "start": 2440,
+      "end": 3040,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 3120,
+      "end": 3480,
+      "confidence": 0.6220703,
+      "speaker": null
+    },
+    {
+      "text": "fear",
+      "start": 3480,
+      "end": 4000,
+      "confidence": 0.96850586,
+      "speaker": null
+    },
+    {
+      "text": "makes",
+      "start": 4000,
+      "end": 4280,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 4280,
+      "end": 4480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "feel",
+      "start": 4480,
+      "end": 4760,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "safest.",
+      "start": 4760,
+      "end": 5280,
+      "confidence": 0.8256836,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9609538,
+  "audio_duration": 6,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

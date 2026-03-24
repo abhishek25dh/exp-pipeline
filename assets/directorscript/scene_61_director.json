@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_61",
+  "elements": [
+    {
+      "angle": 0,
+      "animation": "pop",
+      "description": "",
+      "element_id": "title_timeline",
+      "filename": "",
+      "phrase": "You don't",
+      "property": "",
+      "reason": "",
+      "scale": 2.4,
+      "text_content": "YOU DON'T",
+      "type": "text_black",
+      "x": 960,
+      "y": 130
+    },
+    {
+      "angle": 0,
+      "animation": "pop",
+      "description": "",
+      "element_id": "txt_step_1",
+      "filename": "",
+      "phrase": "credit score.",
+      "property": "",
+      "reason": "",
+      "scale": 2.5,
+      "text_content": "credit score.",
+      "type": "text_highlighted",
+      "x": 558,
+      "y": 650
+    },
+    {
+      "angle": 0,
+      "animation": "slide_in_up",
+      "description": "A person holding a magnifying glass over a glowing credit report with graphs and numbers. No text, no letters, no numbers, no watermarks.",
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "phrase": "check your",
+      "property": "",
+      "reason": "",
+      "scale": 0.25,
+      "text_content": "",
+      "type": "image",
+      "x": 200,
+      "y": 380,
+      "_loaded": true
+    }
+  ]
+}

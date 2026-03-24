@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_248",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "type": "image",
+      "phrase": "In America,",
+      "text_content": "",
+      "filename": "step_1_img.jpg",
+      "description": "A minimalist illustration of the word 'In' in bold, modern typography, centered on a pure white background.",
+      "x": 260,
+      "y": 840,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_step_1_1",
+      "type": "text_black",
+      "phrase": "financial education",
+      "text_content": "financial",
+      "filename": "",
+      "description": "",
+      "x": 260,
+      "y": 1042,
+      "scale": 1.05,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.39
+    },
+    {
+      "element_id": "label_step_1_2",
+      "type": "text_black",
+      "phrase": "",
+      "text_content": "education",
+      "filename": "",
+      "description": "",
+      "x": 260,
+      "y": 1091,
+      "scale": 1.05,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_step_2",
+      "type": "image",
+      "phrase": "isn't prioritized.",
+      "text_content": "",
+      "filename": "step_2_img.jpg",
+      "description": "An illustration of a stack of coins and a dollar bill, symbolizing 'financial', placed neatly on a pure white background.",
+      "x": 660,
+      "y": 660,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

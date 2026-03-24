@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "title_timeline",
+    "filename": "",
+    "phrase": "You don't",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "check your",
+    "start": 0.64,
+    "end": 2.0
+  },
+  {
+    "element_id": "txt_step_1",
+    "filename": "",
+    "phrase": "credit score.",
+    "start": 1.0,
+    "end": 2.0
+  }
+]

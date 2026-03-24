@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_177",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_177",
+      "filename": "img_tl_scene_177.jpg",
+      "original_description": "A white piggy bank with coins dropping into it automatically, surrounded by green dollar signs. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality professional photograph of a clean white ceramic piggy bank on a white surface. Golden coins are being dropped automatically into the coin slot from above, creating a slight motion blur to indicate movement. Several stylized, glowing green dollar signs float in the air around the piggy bank. Cinematic lighting with a soft, clean key light and a bright, minimalist studio background. Sharp focus on the piggy bank and coins. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_tr_scene_177",
+      "filename": "img_tr_scene_177.jpg",
+      "original_description": "A hand placing a checklist on a white table, with a green checkmark appearing. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-resolution photograph from a top-down angle. A human hand in frame, placing a white paper checklist onto a pristine white wooden table. A bright, vibrant green checkmark symbol is appearing as if being drawn or stamped onto the checklist, with a subtle glow or sparkle effect. Natural, soft window lighting creates gentle shadows. Clean, minimalist composition. Sharp focus on the checklist and hand. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_bl_scene_177",
+      "filename": "img_bl_scene_177.jpg",
+      "original_description": "A calendar on a white wall with a red arrow pointing to a specific date. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional high-resolution photograph of a blank, generic monthly paper calendar pinned to a clean white wall. A bold, shiny red 3D arrow sticker or magnet is pointing decisively at a specific, unlabeled square on the calendar grid. Bright, even studio lighting eliminates harsh shadows. Minimalist aesthetic with a shallow depth of field, slightly blurring the wall. No text, no letters, no numbers, no watermarks on the calendar or arrow."
+    }
+  ]
+}

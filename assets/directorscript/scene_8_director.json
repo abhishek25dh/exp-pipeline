@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_8",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "type": "image",
+      "phrase": "So you play",
+      "filename": "group_1_cause_0.jpg",
+      "description": "A person stands at a crossroads, one path brightly lit and inviting, the other dark and ominous. The person hesitates, looking worried, choosing to stay in place. No text, no letters, no numbers, no watermarks.",
+      "x": 367,
+      "y": 701,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Cause image for group_1",
+      "text_content": ""
+    },
+    {
+      "element_id": "arrow_group_1",
+      "type": "arrow",
+      "phrase": "it safe, avoid",
+      "filename": "arrow.png",
+      "description": "",
+      "x": 951,
+      "y": 701,
+      "scale": 0.541,
+      "angle": 3,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Cause-to-effect arrow for group_1",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_effect",
+      "type": "image",
+      "phrase": "risks, and miss opportunities.",
+      "filename": "group_1_effect_0.jpg",
+      "description": "A colorful treasure chest sits on the lit path, glowing with opportunity, while the person remains stuck in the same spot, looking regretful. No text, no letters, no numbers, no watermarks.",
+      "x": 1535,
+      "y": 701,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Effect image for group_1",
+      "text_content": ""
+    }
+  ]
+}

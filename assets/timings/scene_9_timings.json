@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_img_0.jpg",
+    "phrase": "You might turn",
+    "start": 0.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "text_group_1_1",
+    "filename": "",
+    "phrase": "down a better",
+    "start": 0.88,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_group_2_0",
+    "filename": "group_2_img_1.jpg",
+    "phrase": "job because you're",
+    "start": 1.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "text_group_2_1",
+    "filename": "",
+    "phrase": "afraid of losing",
+    "start": 2.36,
+    "end": 5.0
+  },
+  {
+    "element_id": "text_group_2_2",
+    "filename": "",
+    "phrase": "what you have.",
+    "start": 3.2,
+    "end": 5.0
+  }
+]

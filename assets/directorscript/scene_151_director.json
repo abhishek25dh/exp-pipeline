@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_151",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "type": "image",
+      "phrase": "Most Americans",
+      "filename": "moment_1_img.jpg",
+      "description": "A crowd of diverse cartoon people standing together, smiling, with a faint outline of the United States map behind them. No text, no letters, no numbers, no watermarks.",
+      "x": 537,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Grid panel 1",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_moment_1",
+      "type": "text_highlighted",
+      "phrase": "don't have",
+      "text_content": "don't have",
+      "x": 537,
+      "y": 453,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Grid panel label",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.8
+    },
+    {
+      "element_id": "img_moment_2",
+      "type": "image",
+      "phrase": "$1,000 saved",
+      "filename": "moment_2_img.jpg",
+      "description": "A cartoon person shrugging with a confused expression, hands palms up, surrounded by empty thought bubbles. No text, no letters, no numbers, no watermarks.",
+      "x": 1382,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Grid panel 2",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_moment_2",
+      "type": "text_red",
+      "phrase": "for emergencies.",
+      "text_content": "for emergencies.",
+      "x": 1382,
+      "y": 453,
+      "scale": 1.875,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Grid panel label",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

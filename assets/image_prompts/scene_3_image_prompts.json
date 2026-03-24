@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_3",
+  "elements": [
+    {
+      "element_id": "img_left_scene_3",
+      "filename": "img_left_scene_3.jpg",
+      "original_description": "A middle-aged man and woman sitting at a kitchen table, looking stressed, with a stack of bills and a calculator in front of them. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a middle-aged man and woman sitting at a kitchen table, looking visibly stressed and worried, with a stack of unpaid bills and a calculator placed in front of them on the table. Cinematic lighting with soft, natural light from a window creating a somber and tense mood. The setting is a realistic, slightly cluttered kitchen with subtle details. High resolution, sharp focus on their expressions and the financial documents, capturing the emotional weight of the scene. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_3",
+      "filename": "img_right_scene_3.jpg",
+      "original_description": "A close-up of a wallet with coins and bills spilling out, surrounded by shopping receipts and credit cards. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a close-up shot of a leather wallet with coins and paper bills spilling out onto a wooden surface, surrounded by scattered shopping receipts and several credit cards. Cinematic lighting with a shallow depth of field and soft bokeh in the background, emphasizing the chaos and financial stress. The mood is tense and realistic, with detailed textures on the wallet, money, and receipts. High resolution, sharp focus on the wallet and spilled contents. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "host_center_explaining",
+    "filename": "host_explaining.png",
+    "phrase": "But most",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_quad_0",
+    "filename": "quad_0_people_are.jpg",
+    "phrase": "people are",
+    "start": 0.72,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_quad_1",
+    "filename": "quad_1_struggling_with.jpg",
+    "phrase": "struggling with",
+    "start": 1.16,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_quad_2",
+    "filename": "quad_2_money_somehow.jpg",
+    "phrase": "money somehow.",
+    "start": 1.68,
+    "end": 3.0
+  }
+]

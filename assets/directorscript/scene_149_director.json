@@ -1,0 +1,77 @@
+{
+  "scene_id": "scene_149",
+  "host_emotion": "explaining",
+  "host_phrase": "But most",
+  "elements": [
+    {
+      "element_id": "host_center_explaining",
+      "type": "host",
+      "phrase": "But most",
+      "description": "Host in center expressing explaining",
+      "filename": "host_explaining.png",
+      "x": 960,
+      "y": 560,
+      "scale": 0.9,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_0",
+      "type": "image",
+      "phrase": "people are",
+      "visual_description": "A person sitting at a cluttered desk with their head in their hands, surrounded by bills and papers. No text, no letters, no numbers, no watermarks.",
+      "description": "A person sitting at a cluttered desk with their head in their hands, surrounded by bills and papers. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_0_people_are.jpg",
+      "x": 300,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "span": [
+        4,
+        5
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_1",
+      "type": "image",
+      "phrase": "struggling with",
+      "visual_description": "A cartoon-style hand reaching out towards a floating dollar sign, with a confused expression on the hand's face. No text, no letters, no numbers, no watermarks.",
+      "description": "A cartoon-style hand reaching out towards a floating dollar sign, with a confused expression on the hand's face. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_1_struggling_with.jpg",
+      "x": 300,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "fade_up",
+      "span": [
+        5,
+        6
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_2",
+      "type": "image",
+      "phrase": "money somehow.",
+      "visual_description": "A stack of coins and bills neatly arranged on a wooden table, with a faint shadow cast by the coins. No text, no letters, no numbers, no watermarks.",
+      "description": "A stack of coins and bills neatly arranged on a wooden table, with a faint shadow cast by the coins. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_2_money_somehow.jpg",
+      "x": 1620,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "span": [
+        6,
+        7
+      ],
+      "property": ""
+    }
+  ]
+}

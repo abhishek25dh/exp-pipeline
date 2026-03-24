@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+Most	0.16	0.32	0.9995117	
+Americans	0.32	0.88	0.9995117	
+don't	0.88	1.16	0.99886066	
+have	1.16	1.44	1.0	
+$1,000	1.44	2.48	0.96916	
+saved	2.48	2.84	0.9987793	
+for	2.84	3.0	1.0	
+emergencies.	3.0	3.6	0.9758301	

@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "host_center_explaining",
+    "filename": "host_explaining.png",
+    "phrase": "Lifestyle",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_quad_0",
+    "filename": "quad_0_creep_keeps.jpg",
+    "phrase": "creep keeps",
+    "start": 0.84,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_quad_1",
+    "filename": "quad_1_you_broke.jpg",
+    "phrase": "you broke",
+    "start": 1.6,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_quad_2",
+    "filename": "quad_2_at_every.jpg",
+    "phrase": "at every",
+    "start": 2.12,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_quad_3",
+    "filename": "quad_3_income_level.jpg",
+    "phrase": "income level.",
+    "start": 2.64,
+    "end": 4.0
+  }
+]

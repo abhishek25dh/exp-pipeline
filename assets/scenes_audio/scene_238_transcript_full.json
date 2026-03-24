@@ -1,0 +1,205 @@
+{
+  "id": "242427ea-f0f0-4a4e-b637-1b8d0f71f1a6",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/fc9ae593b89dbe107ac41e39bcfcc0b8ad764f433db62cf50d35fbeee706b00b/eeda5807-d1e9-421b-ada1-6e0951b946b0",
+  "text": "You're working to pay for things that make you look successful while actually keeping you financially trapped.",
+  "words": [
+    {
+      "text": "You're",
+      "start": 160,
+      "end": 440,
+      "confidence": 0.9977214,
+      "speaker": null
+    },
+    {
+      "text": "working",
+      "start": 440,
+      "end": 640,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 640,
+      "end": 840,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "pay",
+      "start": 840,
+      "end": 1000,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 1000,
+      "end": 1200,
+      "confidence": 0.9526367,
+      "speaker": null
+    },
+    {
+      "text": "things",
+      "start": 1200,
+      "end": 1440,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 1440,
+      "end": 1680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "make",
+      "start": 1680,
+      "end": 1880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 1880,
+      "end": 2040,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "look",
+      "start": 2040,
+      "end": 2240,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "successful",
+      "start": 2240,
+      "end": 2960,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "while",
+      "start": 2960,
+      "end": 3320,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "actually",
+      "start": 3320,
+      "end": 3640,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "keeping",
+      "start": 3640,
+      "end": 4000,
+      "confidence": 0.765625,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 4000,
+      "end": 4240,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "financially",
+      "start": 4240,
+      "end": 4800,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "trapped.",
+      "start": 4800,
+      "end": 5280,
+      "confidence": 0.9998372,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9830825,
+  "audio_duration": 6,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

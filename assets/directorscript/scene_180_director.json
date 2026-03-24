@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_180",
+  "elements": [
+    {
+      "element_id": "img_left_scene_180",
+      "type": "image",
+      "phrase": "You grew up hearing money",
+      "text_content": "",
+      "x": 502,
+      "y": 556,
+      "scale": 0.806,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_left_scene_180.jpg",
+      "description": "A young child sits cross-legged on the floor, looking up with curiosity, with a piggy bank and coins scattered around them. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 32 image (slot=left, priority=1)"
+    },
+    {
+      "element_id": "img_right_scene_180",
+      "type": "image",
+      "phrase": "is the root of evil.",
+      "text_content": "",
+      "x": 1391,
+      "y": 559,
+      "scale": 0.784,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_180.jpg",
+      "description": "A dark, gnarled tree with twisted roots, one root wrapped around a glowing coin. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 32 image (slot=right, priority=2)"
+    }
+  ]
+}

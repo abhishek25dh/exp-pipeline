@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Friends	0.32	0.56	0.9980469	
+post	0.56	0.92	1.0	
+vacation	0.92	1.48	0.99975586	
+photos.	1.48	2.0	0.99853516	

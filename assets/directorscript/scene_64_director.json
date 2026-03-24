@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_64",
+  "elements": [
+    {
+      "element_id": "title",
+      "type": "text_black",
+      "phrase": "But ignoring",
+      "text_content": "",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 100,
+      "scale": 1.8,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.46
+    },
+    {
+      "element_id": "vs_center",
+      "type": "text_highlighted",
+      "phrase": "money problems",
+      "text_content": "VS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 470,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_left",
+      "type": "image",
+      "phrase": "makes them worse.",
+      "text_content": "",
+      "filename": "left_concept.jpg",
+      "description": "A person covering their eyes with their hands, symbolizing ignoring financial issues, pure white background, 2D illustration style",
+      "x": 380,
+      "y": 470,
+      "scale": 0.3,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

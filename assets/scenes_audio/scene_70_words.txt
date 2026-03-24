@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Parents	0.32	0.68	0.88793945	
+created	0.68	1.16	0.99975586	
+fear	1.16	1.52	1.0	
+or	1.52	1.76	0.9970703	
+shame	1.76	2.08	1.0	
+around	2.08	2.32	1.0	
+it.	2.32	2.64	0.99853516	

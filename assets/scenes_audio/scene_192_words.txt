@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+This	0.32	0.48	0.99902344	
+creates	0.48	0.96	0.9995117	
+internal	0.96	1.44	1.0	
+conflict.	1.44	2.0	0.9996745	

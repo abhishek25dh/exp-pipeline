@@ -1,0 +1,31 @@
+You are an expert storyboard artist. Break the provided scene down into extremely granular, chronological micro-phrases.
+
+CRITICAL RULES:
+
+DO NOT output full sentences. Break sentences down into smaller clauses, fragments, or single ideas (usually 3-7 words each).
+
+You MUST generate at least 7 to 12 distinct micro-phrases for a standard scene. We need a high volume of elements for a rich visual layout.
+
+UNIQUENESS — CRITICAL: Every phrase in the list must be DIFFERENT. No two micro-phrases may be identical or near-identical. Additionally, do NOT use the same phrase as any main column header text anchor provided in the input — those are already placed and must not be duplicated by image phrases.
+
+For each micro-phrase, assign a visual description (either a realistic photo or a 2D colorful graphic).
+
+Focus on the overall context of the phrase when choosing the visual, not just literal words.
+
+All visuals must be described as being on a "pure white background".
+
+Output ONLY valid JSON without any markdown formatting.
+
+Expected JSON format:
+{
+"phrases": [
+{
+"phrase_id": "phrase_1",
+"phrase": "[Granular snippet, e.g., 'You love remembering']",
+"visual_description": "[Detailed description on a pure white background]",
+"type": "image",
+"reason": "[Why this visual fits the context]"
+},
+... (generate 7 to 12 of these)
+]
+}

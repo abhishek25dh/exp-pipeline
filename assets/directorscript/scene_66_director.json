@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_66",
+  "elements": [
+    {
+      "element_id": "center_title_1",
+      "type": "text_highlighted",
+      "phrase": "Your credit",
+      "text_content": "Your credit",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 512,
+      "scale": 1.567,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "center_title_2",
+      "type": "text_highlighted",
+      "phrase": "Your credit",
+      "text_content": "score drops.",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 567,
+      "scale": 1.567,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_phase_1",
+      "type": "image",
+      "phrase": "score drops.",
+      "text_content": "",
+      "filename": "phase_1_img.jpg",
+      "description": "A cartoon-style hand holding a credit report, with a concerned expression on the face. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 960,
+      "y": 220,
+      "scale": 0.22,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

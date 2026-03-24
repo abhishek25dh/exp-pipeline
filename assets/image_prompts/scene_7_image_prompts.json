@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_7",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "filename": "host_explaining.png",
+      "original_description": "Host Character",
+      "image_prompt": "Professional 2D minimalist icon of a friendly, smiling host character on a pure white background. Clean flat vector art style with high contrast, no shading or gradients, and no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_2_2",
+      "filename": "group_2_image_0.jpg",
+      "original_description": "A cartoon hourglass with coins instead of sand, slowly trickling down. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon hourglass where coins instead of sand are slowly trickling down from the top to the bottom. The background is pure white. Clean flat vector art style with high contrast, no shading or gradients, and no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A cartoon person sitting cross-legged with a thought bubble above their head containing a dollar sign and a question mark. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon person sitting cross-legged with a thought bubble above their head that contains a dollar sign and a question mark. The background is pure white. Clean flat vector art style with high contrast, no shading or gradients, and no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_2.jpg",
+      "original_description": "A cartoon person holding a magnifying glass, inspecting a small pile of coins on the ground. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon person holding a magnifying glass and inspecting a small pile of coins on the ground. The background is pure white. Clean flat vector art style with high contrast, no shading or gradients, and no text, letters, numbers, or watermarks."
+    }
+  ]
+}

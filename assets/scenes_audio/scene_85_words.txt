@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Emotional	0.32	0.76	0.8741862	
+spending	0.76	1.28	0.8642578	
+is	1.28	1.48	0.9995117	
+a	1.48	1.64	0.9995117	
+coping	1.64	2.04	0.9889323	
+mechanism.	2.04	2.64	0.99890137	

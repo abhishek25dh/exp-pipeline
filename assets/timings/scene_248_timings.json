@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "In America,",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "label_step_1_1",
+    "filename": "",
+    "phrase": "financial education",
+    "start": 1.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "label_step_1_2",
+    "filename": "",
+    "phrase": "",
+    "start": 1.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_step_2",
+    "filename": "step_2_img.jpg",
+    "phrase": "isn't prioritized.",
+    "start": 2.32,
+    "end": 4.0
+  }
+]

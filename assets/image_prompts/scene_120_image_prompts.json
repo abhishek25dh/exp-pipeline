@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_120",
+  "elements": [
+    {
+      "element_id": "img_tl",
+      "filename": "polaroid_tl.jpg",
+      "original_description": "A close-up of a calendar page with a red circle around a specific date, emphasizing anticipation.",
+      "image_prompt": "A high-quality photograph of a close-up on a paper calendar page, featuring a single date circled vividly in bright red ink, emphasizing a sense of waiting and anticipation. Soft, cinematic lighting from a side window, sharp focus on the red circle, shallow depth of field with a soft bokeh background, high resolution, realistic texture of the paper and ink."
+    },
+    {
+      "element_id": "img_tr",
+      "filename": "polaroid_tr.jpg",
+      "original_description": "A person holding a small stack of coins and bills in their hands, symbolizing possession or accumulation.",
+      "image_prompt": "A high-quality photograph of a person's cupped hands holding a small stack of mixed coins and several folded paper bills, symbolizing possession and accumulation. Warm, inviting lighting highlights the metallic sheen of the coins and the texture of the bills, sharp focus on the hands and money, shallow depth of field with a soft bokeh background, high resolution, realistic skin and material details."
+    },
+    {
+      "element_id": "img_bl",
+      "filename": "polaroid_bl.jpg",
+      "original_description": "A jar filled with coins and bills, almost overflowing, representing abundance or readiness.",
+      "image_prompt": "A high-quality photograph of a clear glass jar filled to the brim with coins and tightly rolled or folded paper bills, almost overflowing, representing abundance and readiness. Soft, natural lighting from above accentuates the gleam of coins and the texture of bills, sharp focus on the jar's contents, shallow depth of field with a soft bokeh background, high resolution, realistic glass, metal, and paper textures."
+    }
+  ]
+}

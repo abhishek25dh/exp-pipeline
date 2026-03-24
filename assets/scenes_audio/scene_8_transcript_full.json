@@ -1,0 +1,156 @@
+{
+  "id": "70b57506-5bdd-4928-b206-9e8fdb9f94c1",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/491282fe0a1c4e1113d71f8bc24f4e5e60bec5f2899f4b3900b1850cc97f12ef/15eeb8e7-1da3-4ba2-8e02-2f2c2efffd81",
+  "text": "So you play it safe, avoid risks and miss opportunities.",
+  "words": [
+    {
+      "text": "So",
+      "start": 320,
+      "end": 440,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 440,
+      "end": 600,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "play",
+      "start": 600,
+      "end": 760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 760,
+      "end": 960,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "safe,",
+      "start": 960,
+      "end": 1360,
+      "confidence": 0.9897461,
+      "speaker": null
+    },
+    {
+      "text": "avoid",
+      "start": 1440,
+      "end": 1920,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "risks",
+      "start": 1920,
+      "end": 2400,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 2400,
+      "end": 2640,
+      "confidence": 0.9580078,
+      "speaker": null
+    },
+    {
+      "text": "miss",
+      "start": 2640,
+      "end": 2920,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "opportunities.",
+      "start": 2920,
+      "end": 3680,
+      "confidence": 1.0,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.99418944,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

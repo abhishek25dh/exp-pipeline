@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_moment_1",
+    "filename": "moment_1_img.jpg",
+    "phrase": "You and",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_moment_1",
+    "filename": "",
+    "phrase": "your partner",
+    "start": 0.72,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_moment_2",
+    "filename": "moment_2_img.jpg",
+    "phrase": "don't talk",
+    "start": 1.28,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_moment_2",
+    "filename": "",
+    "phrase": "about money.",
+    "start": 1.68,
+    "end": 3.0
+  }
+]

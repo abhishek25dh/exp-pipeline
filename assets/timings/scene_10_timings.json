@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "host_center_explaining",
+    "filename": "host_explaining.png",
+    "phrase": "You don't",
+    "start": 0.24,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_quad_0",
+    "filename": "quad_0_invest_because.jpg",
+    "phrase": "invest because",
+    "start": 0.56,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_quad_1",
+    "filename": "quad_1_you_can't.jpg",
+    "phrase": "you can't",
+    "start": 1.16,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_quad_2",
+    "filename": "quad_2_afford_to.jpg",
+    "phrase": "afford to",
+    "start": 1.72,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_quad_3",
+    "filename": "quad_3_lose_anything.jpg",
+    "phrase": "lose anything.",
+    "start": 2.24,
+    "end": 4.0
+  }
+]

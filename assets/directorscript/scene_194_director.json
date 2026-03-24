@@ -1,0 +1,39 @@
+{
+  "scene_id": "scene_194",
+  "host_emotion": "explaining",
+  "host_phrase": "So you",
+  "elements": [
+    {
+      "element_id": "host_center_explaining",
+      "type": "host",
+      "phrase": "So you",
+      "description": "Host in center expressing explaining",
+      "filename": "host_explaining.png",
+      "x": 960,
+      "y": 560,
+      "scale": 0.9,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_0",
+      "type": "image",
+      "phrase": "sabotage yourself.",
+      "visual_description": "A white question mark floating in the center of a pure white background, tilted slightly to the right. No text, no letters, no numbers, no watermarks.",
+      "description": "A white question mark floating in the center of a pure white background, tilted slightly to the right. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_0_sabotage_yourself.jpg",
+      "x": 300,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "fade_up",
+      "span": [
+        0,
+        1
+      ],
+      "property": ""
+    }
+  ]
+}

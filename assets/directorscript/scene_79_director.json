@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_79",
+  "elements": [
+    {
+      "element_id": "img_host_mid_scene_79",
+      "type": "image",
+      "phrase": "Just knowing",
+      "text_content": "",
+      "x": 964,
+      "y": 576,
+      "scale": 0.75,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 27 host (center, emotion=explaining)"
+    },
+    {
+      "element_id": "text_right_scene_79",
+      "type": "text_black",
+      "phrase": "is power.",
+      "text_content": "POWER.",
+      "x": 1542,
+      "y": 426,
+      "scale": 2.778,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 27 right text (P2, line 1/1)",
+      "typing_speed": 0.65
+    }
+  ]
+}

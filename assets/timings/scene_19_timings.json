@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "Shopping feels",
+    "start": 0.24,
+    "end": 2.0
+  },
+  {
+    "element_id": "label_step_1",
+    "filename": "",
+    "phrase": "good in",
+    "start": 0.92,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_step_2",
+    "filename": "step_2_img.jpg",
+    "phrase": "the moment.",
+    "start": 1.24,
+    "end": 2.0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_45",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_red",
+      "phrase": "In the US,",
+      "text_content": "IN THE US, WE MEASURE",
+      "x": 960,
+      "y": 310,
+      "scale": 2.857,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "we measure success",
+      "text_content": "",
+      "x": 646,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 38,
+      "animation": "pop",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "by what we own.",
+      "text_content": "",
+      "x": 1006,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_1_scene_45.jpg",
+      "description": "A collection of consumer items, including a car, a house, a smartphone, and a TV, arranged neatly on a pure white background. Each item is brightly colored and stylized with simple, clean lines.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

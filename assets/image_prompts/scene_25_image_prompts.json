@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_25",
+  "elements": [
+    {
+      "element_id": "img_panel_1",
+      "filename": "panel_1_img.jpg",
+      "original_description": "A large red button labeled 'BUY NOW' floating in the center of a pure white background, with glowing rays emanating from it to symbolize triggering action.",
+      "image_prompt": "Professional 2D minimalist icon, a large red button labeled 'BUY NOW' floating in the exact center of a pure white background, with bright glowing rays emanating outward from the button, clean flat vector art, high contrast, no shading or gradients, symbolizing triggering action."
+    },
+    {
+      "element_id": "img_panel_2",
+      "filename": "panel_2_img.jpg",
+      "original_description": "A shopping cart overflowing with branded products like smartphones, shoes, and electronics, placed in the center of a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon, a shopping cart overflowing with branded products such as smartphones, athletic shoes, and electronics, placed in the exact center of a pure white background, clean flat vector art, high contrast, no shading or gradients, sharp and detailed."
+    }
+  ]
+}

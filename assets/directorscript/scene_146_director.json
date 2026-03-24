@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_146",
+  "elements": [
+    {
+      "element_id": "img_right_scene_146",
+      "type": "image",
+      "phrase": "They post vacation",
+      "text_content": "",
+      "x": 1370,
+      "y": 380,
+      "scale": 0.42,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_right_scene_146.jpg",
+      "description": "A smiling person holding a smartphone with a beach sunset photo on the screen, wearing sunglasses and a sun hat. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 24 image (right, priority 2)"
+    },
+    {
+      "element_id": "img_left_scene_146",
+      "type": "image",
+      "phrase": "photos while credit",
+      "text_content": "",
+      "x": 550,
+      "y": 380,
+      "scale": 0.42,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_146.jpg",
+      "description": "A credit card with a red 'MAXED OUT' stamp next to a pile of shopping bags and receipts. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 24 image (left, priority 3)"
+    },
+    {
+      "element_id": "text_bottom",
+      "type": "text_black",
+      "phrase": "cards max out.",
+      "text_content": "CARDS MAX OUT.",
+      "x": 960,
+      "y": 870,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Bottom anchor text for layout 24 (line 1/1)"
+    }
+  ]
+}

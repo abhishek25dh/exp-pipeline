@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.44	0.99853516	
+don't	0.44	0.68	0.99869794	
+plan	0.68	0.92	1.0	
+months	0.92	1.28	1.0	
+or	1.28	1.6	0.9995117	
+years	1.6	1.88	1.0	
+ahead.	1.88	2.24	1.0	

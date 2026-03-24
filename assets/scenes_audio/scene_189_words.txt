@@ -1,0 +1,13 @@
+# word	start_s	end_s	confidence	speaker
+Your	0.16	0.32	0.9975586	
+subconscious	0.32	0.96	0.98205566	
+won't	0.96	1.24	0.98128253	
+let	1.24	1.4	1.0	
+you	1.4	1.56	1.0	
+keep	1.56	1.8	1.0	
+something	1.8	2.08	1.0	
+you	2.08	2.32	0.9995117	
+believe	2.32	2.64	1.0	
+is	2.72	3.04	0.9995117	
+morally	3.04	3.44	1.0	
+wrong.	3.44	3.84	0.99780273	

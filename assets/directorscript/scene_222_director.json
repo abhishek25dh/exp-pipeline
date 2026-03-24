@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_222",
+  "elements": [
+    {
+      "element_id": "img_right_scene_222",
+      "type": "image",
+      "phrase": "Breaking free",
+      "text_content": "",
+      "x": 1371,
+      "y": 465,
+      "scale": 0.609,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_222.jpg",
+      "description": "A person mid-jump with arms outstretched, surrounded by a broken chain floating in the air, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 28 image (slot=right, priority=1)"
+    },
+    {
+      "element_id": "img_left_scene_222",
+      "type": "image",
+      "phrase": "starts with",
+      "text_content": "",
+      "x": 493,
+      "y": 475,
+      "scale": 0.616,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_left_scene_222.jpg",
+      "description": "A hand pressing a large red stop button on a podium, with a circular motion effect radiating outward, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 28 image (slot=left, priority=2)"
+    },
+    {
+      "element_id": "text_punchline",
+      "type": "text_highlighted",
+      "phrase": "stopping the cycle.",
+      "text_content": "STOPPING THE CYCLE.",
+      "x": 943,
+      "y": 922,
+      "scale": 3.158,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 28 punchline text (line 1/1)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_123",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_123",
+      "type": "image",
+      "phrase": "Saving $20",
+      "text_content": "",
+      "x": 466,
+      "y": 558,
+      "scale": 0.728,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_hero_scene_123.jpg",
+      "description": "A glass jar filled with colorful coins and dollar bills, with a label reading '$20' prominently displayed. The jar sits on a white surface, surrounded by small stacks of coins and bills. No text, no letters, no numbers, no watermarks.",
+      "reason": "hero image (priority 1)"
+    },
+    {
+      "element_id": "img_bottom_right_scene_123",
+      "type": "image",
+      "phrase": "a week",
+      "text_content": "",
+      "x": 1336,
+      "y": 761,
+      "scale": 0.465,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_bottom_right_scene_123.jpg",
+      "description": "A close-up of a hand placing a $20 bill into a piggy bank with a cheerful expression. The piggy bank is bright pink with a coin slot on top. No text, no letters, no numbers, no watermarks.",
+      "reason": "bottom_right image (priority 2)"
+    },
+    {
+      "element_id": "img_top_mid_scene_123",
+      "type": "image",
+      "phrase": "is over",
+      "text_content": "",
+      "x": 1041,
+      "y": 351,
+      "scale": 0.285,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_top_mid_scene_123.jpg",
+      "description": "A stack of colorful $100 bills arranged neatly on a white surface, with a small calculator next to it displaying '$1,000'. The bills are crisp and new. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_mid image (priority 3)"
+    },
+    {
+      "element_id": "img_top_right_scene_123",
+      "type": "image",
+      "phrase": "$1,000 a year.",
+      "text_content": "",
+      "x": 1592,
+      "y": 350,
+      "scale": 0.301,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_top_right_scene_123.jpg",
+      "description": "A calendar with colorful stickers marking each week, symbolizing the passage of time. The calendar is open to a year view, with a small jar of coins and bills next to it. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_right image (priority 4)"
+    }
+  ]
+}

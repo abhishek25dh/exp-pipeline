@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_170",
+  "elements": [
+    {
+      "element_id": "title_timeline",
+      "type": "text_black",
+      "phrase": "The cycle repeats.",
+      "text_content": "THE CYCLE REPEATS.",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 130,
+      "scale": 2.4,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_122",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_black",
+      "phrase": "In reality,",
+      "text_content": "IN REALITY, SMALL",
+      "x": 960,
+      "y": 315,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 20"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "small steps",
+      "text_content": "",
+      "x": 960,
+      "y": 566,
+      "scale": 0.2,
+      "angle": 90,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to center image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "add up.",
+      "text_content": "",
+      "x": 960,
+      "y": 830,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_1_scene_122.jpg",
+      "description": "A stack of small colorful blocks in the center of a white background, with each block slightly offset to show growth upward. No text, no letters, no numbers, no watermarks.",
+      "reason": "Center image for layout 20"
+    }
+  ]
+}

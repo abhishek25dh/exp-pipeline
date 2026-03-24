@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "title_pyramid",
+    "filename": "",
+    "phrase": "That day",
+    "start": 0.24,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_panel_1",
+    "filename": "panel_1_img.jpg",
+    "phrase": "never comes.",
+    "start": 0.56,
+    "end": 2.0
+  }
+]

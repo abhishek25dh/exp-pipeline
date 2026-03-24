@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_265",
+  "elements": [
+    {
+      "element_id": "img_host_mid_scene_265",
+      "type": "image",
+      "phrase": "The information",
+      "text_content": "",
+      "x": 964,
+      "y": 576,
+      "scale": 0.75,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 27 host (center, emotion=explaining)"
+    },
+    {
+      "element_id": "text_left_scene_265",
+      "type": "text_black",
+      "phrase": "is out there.",
+      "text_content": "OUT THERE.",
+      "x": 404,
+      "y": 425,
+      "scale": 1.667,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 27 left text (P2, line 1/1)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "host_scene_91",
+    "filename": "host_explaining.png",
+    "phrase": "You're",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left_scene_91",
+    "filename": "img_left_scene_91.jpg",
+    "phrase": "treating",
+    "start": 0.6,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_scene_91",
+    "filename": "arrow.png",
+    "phrase": "symptoms,",
+    "start": 0.92,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_center_scene_91",
+    "filename": "img_center_scene_91.jpg",
+    "phrase": "not causes.",
+    "start": 1.52,
+    "end": 3.0
+  }
+]

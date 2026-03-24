@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Money.	0.32	0.52	0.99853516	
+Shame	0.52	0.96	0.9614258	
+also	0.96	1.32	0.9995117	
+prevents	1.32	1.8	0.9998372	
+learning.	1.8	2.16	0.9992676	

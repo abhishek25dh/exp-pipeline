@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_174",
+  "elements": [
+    {
+      "element_id": "img_host_mid_scene_174",
+      "type": "image",
+      "phrase": "But future you is",
+      "text_content": "",
+      "x": 964,
+      "y": 576,
+      "scale": 0.75,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 27 host (center, emotion=explaining)"
+    },
+    {
+      "element_id": "text_right_scene_174",
+      "type": "text_red",
+      "phrase": "going to need money too.",
+      "text_content": "MONEY TOO.",
+      "x": 1542,
+      "y": 426,
+      "scale": 1.667,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 27 right text (P2, line 1/1)"
+    }
+  ]
+}

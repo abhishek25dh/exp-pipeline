@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_148",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_img_0.jpg",
+      "original_description": "A group of diverse cartoon people standing still, their faces blank and eyes wide, surrounded by a faint gray mist. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a diverse group of cartoon people standing still, their faces blank and eyes wide, surrounded by a faint gray mist. Clean flat vector art on a pure white background. High contrast, no shading or gradients. The overall mood is silent and suspended, with an eerie stillness. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_2_0",
+      "filename": "group_2_img_1.jpg",
+      "original_description": "The same group of cartoon people now trapped inside transparent glass boxes, their hands pressed against the walls, looking frustrated. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon showing the same group of cartoon people now trapped inside transparent glass boxes, their hands pressed against the walls, looking frustrated. Clean flat vector art on a pure white background. High contrast, no shading or gradients. The mood conveys a feeling of being stuck and helpless. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

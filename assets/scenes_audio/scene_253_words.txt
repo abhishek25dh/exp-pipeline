@@ -1,0 +1,13 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.9980469	
+make	0.52	0.72	1.0	
+decisions	0.72	1.24	0.99975586	
+based	1.24	1.44	0.6791992	
+on	1.44	1.68	1.0	
+guesses,	1.68	2.16	1.0	
+and	2.16	2.48	0.96240234	
+often	2.48	2.84	1.0	
+those	2.84	3.12	1.0	
+decisions	3.12	3.64	0.99975586	
+are	3.64	3.8	1.0	
+wrong.	3.8	4.16	0.99975586	

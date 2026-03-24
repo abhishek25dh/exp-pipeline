@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_75",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_75",
+      "filename": "img_hero_scene_75.jpg",
+      "original_description": "A close-up of a person's hand typing on a laptop keyboard, with a bank login page displayed on the screen. The screen shows a username and password field, with soft blue and white tones. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph, cinematic lighting, sharp focus, a close-up of a person's hand typing on a laptop keyboard, with a bank login page displayed on the screen. The screen shows a username and password field, with soft blue and white tones. Professional and clean composition, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_bottom_right_scene_75",
+      "filename": "img_bottom_right_scene_75.jpg",
+      "original_description": "A simplified illustration of a bank building with a vault door slightly ajar, glowing gold light spilling out. The building has a modern design with glass windows and a blue logo above the entrance. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, simplified illustration of a bank building with a vault door slightly ajar, glowing gold light spilling out. The building has a modern design with glass windows and a blue logo above the entrance. Pure white background, clean flat vector art, high contrast, no shading/gradients, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

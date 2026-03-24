@@ -1,0 +1,52 @@
+{
+  "scene_id": "scene_210",
+  "elements": [
+    {
+      "element_id": "wall_title",
+      "type": "text_highlighted",
+      "phrase": "Easy to",
+      "text_content": "EASY",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 80,
+      "scale": 1.9,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.4
+    },
+    {
+      "element_id": "img_tl",
+      "type": "image",
+      "phrase": "get, hard",
+      "text_content": "",
+      "filename": "polaroid_tl.jpg",
+      "description": "A hand reaching out to grab a golden key on a pure white background.",
+      "x": 420,
+      "y": 290,
+      "scale": 0.24,
+      "angle": -9,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "cap_tl",
+      "type": "text_highlighted",
+      "phrase": "to escape.",
+      "text_content": "to escape.",
+      "filename": "",
+      "description": "",
+      "x": 420,
+      "y": 474,
+      "scale": 2.0,
+      "angle": -9,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.67
+    }
+  ]
+}

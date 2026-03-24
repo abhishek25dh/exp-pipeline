@@ -1,0 +1,23 @@
+# Generated outputs
+assets/outputs/
+assets/tmp/
+tmp/
+mvp_output/
+
+# Media files (generated, not source)
+*.mp4
+*.mp3
+*.wav
+*.zip
+
+# Input files (user-specific)
+inputs/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.claude/
+.vscode/

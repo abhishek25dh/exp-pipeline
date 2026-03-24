@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_138",
+  "elements": [
+    {
+      "element_id": "text_1",
+      "type": "text_highlighted",
+      "phrase": "You're embarrassed",
+      "text_content": "You're embarrassed",
+      "x": 360,
+      "y": 190,
+      "scale": 1.63,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic left anchor from first narrative half.",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "text_2",
+      "type": "text_red",
+      "phrase": "your financial situation.",
+      "text_content": "your financial situation.",
+      "x": 1560,
+      "y": 190,
+      "scale": 1.28,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic right anchor from second narrative half.",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_1",
+      "type": "image",
+      "phrase": "about",
+      "filename": "middle_image_0.jpg",
+      "description": "A person with a worried expression, sitting at a desk with a calculator and scattered bills, surrounded by a faint red glow indicating stress. No text, no letters, no numbers, no watermarks.",
+      "x": 924,
+      "y": 678,
+      "scale": 0.6,
+      "angle": 3,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "First subgroup in this column.",
+      "text_content": ""
+    }
+  ]
+}

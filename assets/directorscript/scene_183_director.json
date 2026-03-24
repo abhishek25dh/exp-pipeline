@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_183",
+  "elements": [
+    {
+      "element_id": "text_bc_scene_183",
+      "type": "text_highlighted",
+      "phrase": "You absorbed",
+      "text_content": "YOU ABSORBED",
+      "x": 942,
+      "y": 970,
+      "scale": 1.3,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/1)"
+    },
+    {
+      "element_id": "img_left_scene_183",
+      "type": "image",
+      "phrase": "absorbed",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_left_scene_183.jpg",
+      "description": "A person standing with arms outstretched, surrounded by glowing yellow thought bubbles floating upwards. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_183",
+      "type": "image",
+      "phrase": "these messages.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_right_scene_183.jpg",
+      "description": "The same person now with arms relaxed, the thought bubbles absorbed into their body, glowing faintly. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

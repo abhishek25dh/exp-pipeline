@@ -1,0 +1,13 @@
+# word	start_s	end_s	confidence	speaker
+So	0.4	0.56	0.99853516	
+millions	0.56	1.0	0.9992676	
+are	1.0	1.2	0.9995117	
+financially	1.2	1.72	0.99975586	
+illiterate,	1.72	2.4	0.99902344	
+navigating	2.48	3.12	0.9998779	
+a	3.12	3.32	1.0	
+complex	3.32	3.84	0.9238281	
+system	3.84	4.2	1.0	
+without	4.2	4.56	0.6220703	
+a	4.56	4.84	1.0	
+map.	4.84	5.2	0.9995117	

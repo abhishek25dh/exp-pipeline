@@ -1,0 +1,3 @@
+# word	start_s	end_s	confidence	speaker
+That's	0.4	0.6	0.9975586	
+freedom.	0.6	1.12	0.9995117	

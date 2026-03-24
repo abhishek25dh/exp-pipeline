@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Automate	0.4	0.8	0.9995117	
+Savings,	0.8	1.36	0.99869794	
+set	1.6	1.88	1.0	
+up	1.88	2.08	0.99316406	
+retirement	2.08	2.64	1.0	
+contributions.	2.64	3.2	0.81103516	

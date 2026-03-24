@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "text_heading",
+    "filename": "",
+    "phrase": "Money at",
+    "start": 0.4,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_left_scene_104",
+    "filename": "img_left_scene_104.jpg",
+    "phrase": "0.5% interest loses",
+    "start": 0.84,
+    "end": 6.0
+  },
+  {
+    "element_id": "arrow_scene_104",
+    "filename": "arrow.png",
+    "phrase": "value when inflation",
+    "start": 3.24,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_right_scene_104",
+    "filename": "img_right_scene_104.jpg",
+    "phrase": "runs at 3%.",
+    "start": 4.36,
+    "end": 6.0
+  }
+]

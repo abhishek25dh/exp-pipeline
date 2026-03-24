@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+These	0.32	0.52	0.99853516	
+feel	0.52	0.8	1.0	
+impossible,	0.8	1.44	0.8435872	
+so	1.6	1.88	0.99902344	
+people	1.88	2.12	1.0	
+don't	2.12	2.44	0.9996745	
+try.	2.44	2.72	0.9995117	

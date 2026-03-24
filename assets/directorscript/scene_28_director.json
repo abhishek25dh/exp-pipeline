@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_28",
+  "elements": [
+    {
+      "element_id": "img_left_scene_28",
+      "type": "image",
+      "phrase": "The average American has thousands",
+      "text_content": "",
+      "x": 550,
+      "y": 380,
+      "scale": 0.42,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_28.jpg",
+      "description": "A cheerful cartoon American family standing together, holding shopping bags and smiling, with a thought bubble showing a stack of dollar bills labeled 'Thousands'. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 24 image (left, priority 2)"
+    },
+    {
+      "element_id": "img_right_scene_28",
+      "type": "image",
+      "phrase": "in credit card debt from",
+      "text_content": "",
+      "x": 1370,
+      "y": 380,
+      "scale": 0.42,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_28.jpg",
+      "description": "A close-up of a credit card with a small pile of coins and a coffee cup beside it, symbolizing small purchases. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 24 image (right, priority 3)"
+    },
+    {
+      "element_id": "text_bottom",
+      "type": "text_highlighted",
+      "phrase": "impulse purchases that added up.",
+      "text_content": "IMPULSE PURCHASES THAT ADDED UP.",
+      "x": 960,
+      "y": 870,
+      "scale": 1.875,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Bottom anchor text for layout 24 (line 1/1)"
+    }
+  ]
+}

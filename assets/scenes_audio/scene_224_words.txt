@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Pay	0.4	0.56	0.9946289	
+cash	0.56	0.92	0.8251953	
+or	0.92	1.2	0.9951172	
+debit	1.2	1.56	1.0	
+only.	1.56	1.84	0.99853516	

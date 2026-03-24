@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_18",
+  "elements": [
+    {
+      "element_id": "title",
+      "type": "text_black",
+      "phrase": "No thinking.",
+      "text_content": "",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 100,
+      "scale": 1.8,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "vs_center",
+      "type": "text_highlighted",
+      "phrase": "No waiting.",
+      "text_content": "VS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 470,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "ad40d6d6-1aad-4b7a-b76d-4cecab20d511",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/47babb35b7b703973f6c2dd0d339fd6ebb032686c2a4d703edaf1d3db80b4345/f20a3774-7000-4023-9211-b3ac4e989f28",
+  "text": "Share which one hit home in the comments, naming it as the first step to changing it.",
+  "words": [
+    {
+      "text": "Share",
+      "start": 320,
+      "end": 480,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "which",
+      "start": 480,
+      "end": 720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 720,
+      "end": 960,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "hit",
+      "start": 960,
+      "end": 1160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "home",
+      "start": 1160,
+      "end": 1360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 1360,
+      "end": 1520,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 1520,
+      "end": 1640,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "comments,",
+      "start": 1640,
+      "end": 1920,
+      "confidence": 0.9946289,
+      "speaker": null
+    },
+    {
+      "text": "naming",
+      "start": 2240,
+      "end": 2680,
+      "confidence": 0.9921875,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 2680,
+      "end": 2840,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 2840,
+      "end": 3040,
+      "confidence": 0.81640625,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 3040,
+      "end": 3240,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "first",
+      "start": 3240,
+      "end": 3480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "step",
+      "start": 3480,
+      "end": 3760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 3760,
+      "end": 3960,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "changing",
+      "start": 3960,
+      "end": 4280,
+      "confidence": 0.9812012,
+      "speaker": null
+    },
+    {
+      "text": "it.",
+      "start": 4280,
+      "end": 4560,
+      "confidence": 0.9980469,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9868308,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

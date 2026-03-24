@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "strip_title",
+    "filename": "",
+    "phrase": "The",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_frame_1",
+    "filename": "frame_1_img.jpg",
+    "phrase": "bills",
+    "start": 0.44,
+    "end": 2.0
+  },
+  {
+    "element_id": "cap_frame_1",
+    "filename": "",
+    "phrase": "pile up.",
+    "start": 0.8,
+    "end": 2.0
+  }
+]

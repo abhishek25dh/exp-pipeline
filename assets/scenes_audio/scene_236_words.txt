@@ -1,0 +1,12 @@
+# word	start_s	end_s	confidence	speaker
+Soon	0.4	0.56	0.9995117	
+someone	0.56	0.84	1.0	
+has	0.84	1.12	0.9995117	
+something	1.12	1.4	1.0	
+newer	1.4	1.92	0.99975586	
+and	1.92	2.2	0.9975586	
+you're	2.2	2.44	0.9873047	
+back	2.44	2.6	1.0	
+to	2.6	2.76	0.9995117	
+feeling	2.76	3.04	0.7963867	
+behind.	3.04	3.36	0.9970703	

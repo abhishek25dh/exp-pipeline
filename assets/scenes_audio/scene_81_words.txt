@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.48	0.9970703	
+shop	0.48	0.76	1.0	
+when	0.76	0.92	1.0	
+you're	0.92	1.2	0.95198566	
+sad,	1.2	1.6	1.0	
+bored,	1.76	2.32	0.99975586	
+anxious	2.48	3.12	0.99934894	
+or	3.12	3.44	0.99902344	
+stressed.	3.44	4.0	0.9995117	

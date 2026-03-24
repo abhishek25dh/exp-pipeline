@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Small	0.4	0.6	0.9995117	
+actions	0.6	1.12	1.0	
+don't	1.12	1.4	0.9973958	
+feel	1.4	1.6	1.0	
+rewarding.	1.6	2.24	0.9977214	

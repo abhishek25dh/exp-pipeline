@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_223",
+  "elements": [
+    {
+      "element_id": "host_left_scene_223",
+      "type": "image",
+      "phrase": "Stop using cards.",
+      "text_content": "",
+      "x": 473,
+      "y": 577,
+      "scale": 1.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "host_looking_right.png",
+      "description": "",
+      "reason": "Layout 30 host (P1, static local asset)"
+    }
+  ]
+}

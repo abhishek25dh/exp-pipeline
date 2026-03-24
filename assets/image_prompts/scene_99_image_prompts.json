@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_99",
+  "elements": [
+    {
+      "element_id": "img_left_scene_99",
+      "filename": "img_left_scene_99.jpg",
+      "original_description": "A person in casual clothes stands with a thoughtful expression, holding a small stack of coins in one hand and a magnifying glass in the other, examining the coins closely. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a person in casual clothes standing with a thoughtful expression. They are holding a small stack of coins in one hand and a magnifying glass in the other, examining the coins closely with focused attention. The scene features cinematic lighting with soft bokeh, emphasizing the coins and magnifying glass. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_99",
+      "filename": "img_right_scene_99.jpg",
+      "original_description": "A rollercoaster track with a sharp drop twists through the air, with a tiny cartoon person sitting in the front car, clutching the safety bar tightly. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a rollercoaster track with a sharp drop twisting dramatically through the air. In the front car, a tiny cartoon person is sitting, clutching the safety bar tightly with a tense expression. The scene has cinematic lighting, sharp focus on the track and person, and a high-resolution, dynamic composition. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

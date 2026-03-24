@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_242",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A person sitting cross-legged on the floor, hands on their head, with a thoughtful expression. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person sitting cross-legged on the floor, hands placed on their head, with a deeply thoughtful and introspective expression. The mood is reflective and contemplative, emphasizing the theme of inner conflict. Cinematic lighting, soft bokeh background, high resolution, and sharp focus on the subject's face and posture. Absolutely no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_step_2",
+      "filename": "step_2_img.jpg",
+      "original_description": "A person walking confidently forward, with a determined look on their face, leaving behind a shadowy crowd. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person walking confidently forward with a determined, resolute look on their face. The subject is leaving behind a crowd of indistinct, shadowy figures, representing societal pressure. The mood is one of resolve and forward momentum. Cinematic lighting with a strong sense of direction, high resolution, and a shallow depth of field to separate the subject from the background. Absolutely no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_step_3",
+      "filename": "step_3_img.jpg",
+      "original_description": "A person climbing a ladder upward, stepping over a pile of labeled boxes marked 'status' at the bottom. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person climbing a ladder upward, looking focused and upward. At the bottom of the ladder, a pile of wooden or cardboard boxes is visible, with the word 'status' clearly legible on their labels. The composition symbolizes escaping a trap. Moody, high-contrast cinematic lighting, sharp focus on the climber and the 'status' labels, high resolution. Absolutely no text, letters, numbers, or watermarks other than the word 'status' as described on the box labels."
+    }
+  ]
+}

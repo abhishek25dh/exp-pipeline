@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_261",
+  "elements": [
+    {
+      "element_id": "img_host_right_scene_261",
+      "type": "image",
+      "phrase": "Maybe it",
+      "text_content": "",
+      "x": 1485,
+      "y": 621,
+      "scale": 0.754,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "host_looking_left.png",
+      "description": "",
+      "reason": "Layout 25 host image (P1, static local asset)"
+    },
+    {
+      "element_id": "img_bottom_right_scene_261",
+      "type": "image",
+      "phrase": "feels boring.",
+      "text_content": "",
+      "x": 764,
+      "y": 762,
+      "scale": 0.283,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_bottom_right_scene_261.jpg",
+      "description": "A gray, droopy-faced cartoon character sitting on a plain gray chair in the center of the frame, surrounded by blank white space. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 25 left image (slot=bottom_right, priority=2)"
+    }
+  ]
+}

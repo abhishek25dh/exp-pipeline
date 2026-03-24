@@ -1,0 +1,51 @@
+[
+  {
+    "element_id": "img_moment_1",
+    "filename": "moment_1_img.jpg",
+    "phrase": "All because",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_moment_1",
+    "filename": "",
+    "phrase": "your subconscious",
+    "start": 0.76,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_moment_2",
+    "filename": "moment_2_img.jpg",
+    "phrase": "protects you",
+    "start": 1.76,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_moment_2",
+    "filename": "",
+    "phrase": "from becoming",
+    "start": 2.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_moment_3",
+    "filename": "moment_3_img.jpg",
+    "phrase": "what you",
+    "start": 2.88,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_moment_3",
+    "filename": "",
+    "phrase": "were taught",
+    "start": 3.24,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_moment_4",
+    "filename": "moment_4_img.jpg",
+    "phrase": "to fear.",
+    "start": 3.64,
+    "end": 5.0
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_208",
+  "elements": [
+    {
+      "element_id": "strip_title",
+      "type": "text_highlighted",
+      "phrase": "Before",
+      "text_content": "BEFORE YOU KNOW",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 220,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_frame_1",
+      "type": "image",
+      "phrase": "you",
+      "text_content": "",
+      "filename": "frame_1_img.jpg",
+      "description": "A cartoon dollar bill with a worried face, floating in mid-air against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 192,
+      "y": 500,
+      "scale": 0.18,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "cap_frame_1",
+      "type": "text_black",
+      "phrase": "know it,",
+      "text_content": "know it,",
+      "filename": "",
+      "description": "",
+      "x": 192,
+      "y": 652,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_frame_2",
+      "type": "image",
+      "phrase": "you're deep",
+      "text_content": "",
+      "filename": "frame_2_img.jpg",
+      "description": "A cartoon character waist-deep in a pile of colorful coins and dollar bills, looking overwhelmed, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 576,
+      "y": 500,
+      "scale": 0.18,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "cap_frame_2",
+      "type": "text_highlighted",
+      "phrase": "in debt.",
+      "text_content": "in debt.",
+      "filename": "",
+      "description": "",
+      "x": 576,
+      "y": 652,
+      "scale": 1.433,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+You are selecting the best host anchor for Layout 7 (center host + 4 supporting images).
+The user message provides:
+- `scene_id`
+- `script_tokens` (canonical token list)
+- `host_candidates` (valid precomputed options with id/span/phrase)
+
+Task:
+1) Choose exactly one candidate ID from `host_candidates` as the host phrase.
+2) Choose host emotion from: ["happy", "sad", "angry", "explaining"].
+3) Provide two short narrative focuses for the two side groups.
+
+Output JSON only (no prose, no markdown):
+{
+  "host_candidate_id": "H1",
+  "host_emotion": "explaining",
+  "group_1_focus": "short 3-6 words",
+  "group_2_focus": "short 3-6 words"
+}
+
+Rules:
+- `host_candidate_id` MUST be one of the provided IDs.
+- Keep focuses short and concrete.

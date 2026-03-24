@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_202",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A cheerful cartoon-style person holding a credit card, smiling confidently, with a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a cheerful cartoon-style person holding a credit card, smiling confidently, pure white background, clean flat vector art, high contrast, no shading or gradients, sharp edges, vibrant colors, centered composition."
+    },
+    {
+      "element_id": "img_step_2",
+      "filename": "step_2_img.jpg",
+      "original_description": "A stack of colorful credit cards neatly arranged on a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a vertical stack of colorful credit cards neatly arranged, pure white background, clean flat vector art, high contrast, no shading or gradients, sharp edges, vibrant colors, top-down or isometric view for clear arrangement."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Now	0.4	0.52	0.9980469	
+you	0.52	0.68	0.9995117	
+feel	0.68	0.88	1.0	
+guilty	0.88	1.28	1.0	
+wanting	1.28	1.68	0.91748047	
+more.	1.68	2.0	0.9970703	

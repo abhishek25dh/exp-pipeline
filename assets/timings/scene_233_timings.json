@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "image_1",
+    "filename": "left_image_0.jpg",
+    "phrase": "But",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "text_1",
+    "filename": "",
+    "phrase": "chasing status keeps",
+    "start": 0.48,
+    "end": 3.0
+  },
+  {
+    "element_id": "text_2",
+    "filename": "",
+    "phrase": "you broke.",
+    "start": 1.6,
+    "end": 3.0
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_191",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "type": "image",
+      "phrase": "Success",
+      "filename": "host_explaining.png",
+      "description": "Host Character",
+      "x": 526,
+      "y": 634,
+      "scale": 0.62,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Host P1",
+      "text_content": ""
+    },
+    {
+      "element_id": "main_title_text_0",
+      "type": "text_red",
+      "phrase": "as shallow.",
+      "text_content": "AS SHALLOW.",
+      "x": 1318,
+      "y": 286,
+      "scale": 2.8,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Main Anchor P2",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "is celebrated, but",
+      "filename": "group_1_image_0.jpg",
+      "description": "A group of diverse people cheering and throwing confetti in the air, wearing party hats and holding colorful balloons. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1277,
+      "y": 670,
+      "scale": 0.531,
+      "angle": 3,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "wanting money is seen",
+      "filename": "group_1_image_1.jpg",
+      "description": "A person holding a stack of dollar bills with a disapproving crowd shaking their heads in the background. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1666,
+      "y": 635,
+      "scale": 0.181,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

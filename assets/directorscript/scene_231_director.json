@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_231",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_highlighted",
+      "phrase": "You see what everyone",
+      "text_content": "YOU SEE WHAT EVERYONE ELSE HAS",
+      "x": 960,
+      "y": 310,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21",
+      "typing_speed": 0.7
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "else has and feel",
+      "text_content": "",
+      "x": 1274,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 142,
+      "animation": "pop",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "pressure to keep up.",
+      "text_content": "",
+      "x": 914,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_1_scene_231.jpg",
+      "description": "A stressed cartoon character surrounded by oversized shopping bags and gadgets, sweating as they try to carry everything. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

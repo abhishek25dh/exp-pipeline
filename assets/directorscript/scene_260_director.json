@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_260",
+  "elements": [
+    {
+      "element_id": "img_left_scene_260",
+      "type": "image",
+      "phrase": "Maybe you",
+      "text_content": "",
+      "x": 550,
+      "y": 380,
+      "scale": 0.42,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_260.jpg",
+      "description": "A confused cartoon person scratching their head, wearing a bright blue shirt and tan pants. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 24 image (left, priority 2)"
+    },
+    {
+      "element_id": "img_right_scene_260",
+      "type": "image",
+      "phrase": "feel stupid",
+      "text_content": "",
+      "x": 1370,
+      "y": 380,
+      "scale": 0.42,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_right_scene_260.jpg",
+      "description": "A cartoon person with a red face, looking embarrassed, holding their hands over their eyes. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 24 image (right, priority 3)"
+    },
+    {
+      "element_id": "text_bottom",
+      "type": "text_highlighted",
+      "phrase": "not knowing.",
+      "text_content": "NOT KNOWING.",
+      "x": 960,
+      "y": 870,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Bottom anchor text for layout 24 (line 1/1)"
+    }
+  ]
+}

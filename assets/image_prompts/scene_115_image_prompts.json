@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_115",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A large, abstract brain illustration with swirling patterns and glowing neurons, symbolizing psychological complexity.",
+      "image_prompt": "A large, abstract brain illustration with intricate swirling patterns and glowing neurons against a dark background, symbolizing psychological complexity. High-quality digital art, intricate line work, ethereal lighting on the neurons, deep and mysterious mood, sharp focus, high resolution."
+    },
+    {
+      "element_id": "img_step_2",
+      "filename": "step_2_img.jpg",
+      "original_description": "A tall, solid brick wall with the word 'barriers' engraved on it, blocking a path forward.",
+      "image_prompt": "A tall, solid brick wall with the word 'barriers' deeply engraved into its surface, blocking a winding path forward. High-quality photograph, cinematic lighting with long shadows, moody and oppressive atmosphere, sharp focus on the textured bricks, high resolution, desaturated tones."
+    }
+  ]
+}

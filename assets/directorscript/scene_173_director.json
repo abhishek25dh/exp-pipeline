@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_173",
+  "elements": [
+    {
+      "element_id": "text_top",
+      "type": "text_highlighted",
+      "phrase": "You",
+      "text_content": "YOU",
+      "x": 553,
+      "y": 400,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 26 top text (line 1/1)"
+    },
+    {
+      "element_id": "img_below_right_scene_173",
+      "type": "image",
+      "phrase": "invest because",
+      "text_content": "",
+      "x": 886,
+      "y": 810,
+      "scale": 0.419,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_below_right_scene_173.jpg",
+      "description": "A person holding a piggy bank with a cross mark over it, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 below image (slot=right, priority=2)"
+    },
+    {
+      "element_id": "img_below_left_scene_173",
+      "type": "image",
+      "phrase": "you need",
+      "text_content": "",
+      "x": 287,
+      "y": 813,
+      "scale": 0.421,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_below_left_scene_173.jpg",
+      "description": "A person shrugging with a confused expression, wearing casual clothes, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 below image (slot=left, priority=3)"
+    },
+    {
+      "element_id": "img_right_bot_left_scene_173",
+      "type": "image",
+      "phrase": "money now.",
+      "text_content": "",
+      "x": 1326,
+      "y": 812,
+      "scale": 0.244,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_right_bot_left_scene_173.jpg",
+      "description": "A hand reaching out with an open palm, as if asking for something, on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 right image (slot=bot_left, priority=4)"
+    }
+  ]
+}

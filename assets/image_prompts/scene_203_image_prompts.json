@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_203",
+  "elements": [
+    {
+      "element_id": "img_left_scene_203",
+      "filename": "img_left_scene_203.jpg",
+      "original_description": "A cheerful cartoon character holding a wallet and smiling, with coins and bills floating around them. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A cheerful cartoon character holding a wallet and smiling, with coins and bills floating around them. Professional 2D minimalist cartoon style, clean flat vector art, high contrast, no shading or gradients, pure white background. No text, no letters, no numbers, no watermarks. Bright and dynamic mood to emphasize 'paying'."
+    },
+    {
+      "element_id": "img_right_scene_203",
+      "filename": "img_right_scene_203.jpg",
+      "original_description": "A cartoon scale tipping heavily to one side, with a stack of coins and bills on the heavier side. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A cartoon scale tipping heavily to one side, with a stack of coins and bills on the heavier side. Professional 2D minimalist cartoon style, clean flat vector art, high contrast, no shading or gradients, pure white background. No text, no letters, no numbers, no watermarks. Imbalanced and weighted mood to emphasize 'growing balance'."
+    }
+  ]
+}

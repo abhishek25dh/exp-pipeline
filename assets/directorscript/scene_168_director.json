@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_168",
+  "elements": [
+    {
+      "element_id": "img_host_right_scene_168",
+      "type": "image",
+      "phrase": "When something",
+      "text_content": "",
+      "x": 1485,
+      "y": 621,
+      "scale": 0.754,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "host_looking_left.png",
+      "description": "",
+      "reason": "Layout 25 host image (P1, static local asset)"
+    },
+    {
+      "element_id": "img_bottom_left_scene_168",
+      "type": "image",
+      "phrase": "goes wrong,",
+      "text_content": "",
+      "x": 323,
+      "y": 763,
+      "scale": 0.284,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_bottom_left_scene_168.jpg",
+      "description": "A cartoonish red exclamation mark icon tilted sideways, surrounded by jagged lines suggesting chaos or malfunction. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 25 left image (slot=bottom_left, priority=2)"
+    },
+    {
+      "element_id": "img_top_left_scene_168",
+      "type": "image",
+      "phrase": "you have",
+      "text_content": "",
+      "x": 308,
+      "y": 350,
+      "scale": 0.295,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_top_left_scene_168.jpg",
+      "description": "A cartoon person standing upright with arms outstretched, looking slightly concerned. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 25 left image (slot=top_left, priority=3)"
+    },
+    {
+      "element_id": "img_top_right_scene_168",
+      "type": "image",
+      "phrase": "no cushion.",
+      "text_content": "",
+      "x": 752,
+      "y": 352,
+      "scale": 0.313,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_top_right_scene_168.jpg",
+      "description": "A flat cartoon cushion with a torn corner, lying on its side with stuffing spilling out. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 25 left image (slot=top_right, priority=4)"
+    }
+  ]
+}

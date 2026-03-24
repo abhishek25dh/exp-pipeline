@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_191",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "filename": "host_explaining.png",
+      "original_description": "Host Character",
+      "image_prompt": "A professional 2D minimalist icon of a host character, clean flat vector art on a pure white background, high contrast with sharp lines, no shading or gradients, captured in a style that conveys an uplifting and successful mood."
+    },
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A group of diverse people cheering and throwing confetti in the air, wearing party hats and holding colorful balloons. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a group of diverse people cheering and throwing confetti in the air, wearing party hats and holding colorful balloons. Cinematic lighting with vibrant colors and dynamic motion, sharp focus on the expressions of joy, pure white background, no text, no letters, no numbers, no watermarks, captured with a professional DSLR for a celebratory and lively mood."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A person holding a stack of dollar bills with a disapproving crowd shaking their heads in the background. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a person holding a stack of dollar bills with a disapproving crowd shaking their heads in the background. Cinematic lighting with dramatic shadows and contrast, sharp focus on the person's hands and the money, soft bokeh effect on the background crowd, pure white background, no text, no letters, no numbers, no watermarks, conveying a tense and judgmental tone."
+    }
+  ]
+}

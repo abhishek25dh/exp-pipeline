@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "host_character",
+    "filename": "host_explaining.png",
+    "phrase": "Soon",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_2.jpg",
+    "phrase": "someone has",
+    "start": 0.56,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "something newer, and",
+    "start": 1.12,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_2_2",
+    "filename": "group_2_image_0.jpg",
+    "phrase": "you're back to",
+    "start": 2.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "main_title_text_0",
+    "filename": "",
+    "phrase": "feeling behind.",
+    "start": 2.76,
+    "end": 4.0
+  }
+]

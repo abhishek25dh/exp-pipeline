@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "hero_image",
+    "filename": "hero_main.jpg",
+    "phrase": "If you can't",
+    "start": 0.24,
+    "end": 4.0
+  },
+  {
+    "element_id": "section_title",
+    "filename": "",
+    "phrase": "pay off all your",
+    "start": 0.76,
+    "end": 4.0
+  },
+  {
+    "element_id": "bullet_b1",
+    "filename": "",
+    "phrase": "debt, why pay extra?",
+    "start": 1.6,
+    "end": 4.0
+  }
+]

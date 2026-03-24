@@ -1,0 +1,16 @@
+# word	start_s	end_s	confidence	speaker
+Understanding	0.4	0.96	0.9995117	
+how	0.96	1.2	1.0	
+money	1.2	1.48	1.0	
+works,	1.48	2.0	0.9995117	
+how	2.16	2.48	1.0	
+debt	2.48	2.8	1.0	
+grows	2.8	3.28	1.0	
+and	3.28	3.64	0.8666992	
+how	3.64	3.92	1.0	
+savings	3.92	4.44	0.9983724	
+compound	4.44	4.8	0.9370117	
+will	4.8	5.0	0.99902344	
+change	5.0	5.2	1.0	
+your	5.2	5.4	0.9970703	
+life.	5.4	5.68	0.99609375	

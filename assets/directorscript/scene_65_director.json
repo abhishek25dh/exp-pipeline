@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_65",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "type": "image",
+      "phrase": "Late fees",
+      "text_content": "",
+      "filename": "step_1_img.jpg",
+      "description": "A single red overdue bill with the word 'Late' highlighted in bold, placed on a pure white background.",
+      "x": 260,
+      "y": 840,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_step_1",
+      "type": "text_black",
+      "phrase": "stack up.",
+      "text_content": "stack up.",
+      "filename": "",
+      "description": "",
+      "x": 260,
+      "y": 1042,
+      "scale": 1.4,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

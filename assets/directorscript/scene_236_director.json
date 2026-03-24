@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_236",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "type": "image",
+      "phrase": "Soon",
+      "filename": "host_explaining.png",
+      "description": "Host Character",
+      "x": 1398,
+      "y": 638,
+      "scale": 0.62,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Host P1",
+      "text_content": ""
+    },
+    {
+      "element_id": "main_title_text_0",
+      "type": "text_red",
+      "phrase": "feeling behind.",
+      "text_content": "FEELING BEHIND.",
+      "x": 559,
+      "y": 243,
+      "scale": 2.4,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Main Anchor P2",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_2_2",
+      "type": "image",
+      "phrase": "you're back to",
+      "filename": "group_2_image_0.jpg",
+      "description": "The same person from the first scene now on the right side, looking down with a disappointed expression, holding their older smartphone. A faint shadow falls behind them. No text, no letters, no numbers, no watermarks.",
+      "x": 589,
+      "y": 624,
+      "scale": 0.437,
+      "angle": 8,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "something newer, and",
+      "filename": "group_1_image_1.jpg",
+      "description": "A person standing confidently on the left side, holding a shiny smartphone in their hand. The person has a proud expression. No text, no letters, no numbers, no watermarks.",
+      "x": 938,
+      "y": 626,
+      "scale": 0.195,
+      "angle": -14,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "someone has",
+      "filename": "group_1_image_2.jpg",
+      "description": "A sleek, futuristic gadget with glowing edges appears in the center, slightly overlapping the smartphone from the previous scene. The gadget emits a faint light. No text, no letters, no numbers, no watermarks.",
+      "x": 940,
+      "y": 900,
+      "scale": 0.195,
+      "angle": 7,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

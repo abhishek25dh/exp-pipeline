@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_0.jpg",
+    "phrase": "They bring temporary",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "validation that doesn't last.",
+    "start": 1.32,
+    "end": 4.0
+  }
+]

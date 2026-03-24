@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "First with",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "yourself, then",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_158.jpg",
+    "phrase": "someone you trust.",
+    "start": 1.6,
+    "end": 3.0
+  }
+]

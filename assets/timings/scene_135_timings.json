@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "host_scene_135",
+    "filename": "host_explaining.png",
+    "phrase": "Breaking",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left_scene_135",
+    "filename": "img_left_scene_135.jpg",
+    "phrase": "this",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_scene_135",
+    "filename": "arrow.png",
+    "phrase": "means celebrating",
+    "start": 0.88,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_center_scene_135",
+    "filename": "img_center_scene_135.jpg",
+    "phrase": "small wins.",
+    "start": 1.76,
+    "end": 3.0
+  }
+]

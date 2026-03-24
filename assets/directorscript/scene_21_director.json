@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_21",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "type": "image",
+      "phrase": "But later,",
+      "text_content": "",
+      "filename": "hero_main.jpg",
+      "description": "A cartoon character with a sad expression, sitting on a stool in the center of a pure white background. The character holds their head in their hands, with a thought bubble above showing a clock ticking backwards. No text, no letters, no numbers, no watermarks.",
+      "x": 490,
+      "y": 540,
+      "scale": 0.44,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "section_title",
+      "type": "text_highlighted",
+      "phrase": "you regret it.",
+      "text_content": "",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 150,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

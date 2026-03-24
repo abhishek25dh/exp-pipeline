@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_11",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A child sitting on a chair, looking curious with wide eyes, surrounded by a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a child sitting on a chair, looking curious with wide eyes, surrounded by a pure white background. Clean flat vector art, high contrast, no shading or gradients. The mood is innocent and receptive, as if observing quietly. Pure white background, sharp lines, simple shapes."
+    },
+    {
+      "element_id": "img_step_2",
+      "filename": "step_2_img.jpg",
+      "original_description": "A group of adults standing in a room, one holding a stack of papers with a worried expression, while a child observes from the side.",
+      "image_prompt": "Professional 2D minimalist icon of a group of adults standing in a room, one holding a stack of papers with a worried expression, while a child observes from the side. Clean flat vector art, high contrast, no shading or gradients. The scene conveys tension and observation. Pure white background, simple geometric figures, clear emotional expressions."
+    },
+    {
+      "element_id": "img_step_3",
+      "filename": "step_3_img.jpg",
+      "original_description": "An adult sitting at a table with bills and coins scattered around, holding their head in their hands with a stressed expression.",
+      "image_prompt": "Professional 2D minimalist icon of an adult sitting at a table with bills and coins scattered around, holding their head in their hands with a stressed expression. Clean flat vector art, high contrast, no shading or gradients. The mood is heavy and anxious. Pure white background, simplified financial items, clear body language of stress."
+    }
+  ]
+}

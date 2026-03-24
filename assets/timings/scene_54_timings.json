@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_0.jpg",
+    "phrase": "No cushion.",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "No savings growth.",
+    "start": 1.2,
+    "end": 3.0
+  }
+]

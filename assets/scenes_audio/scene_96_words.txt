@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Bored.	0.48	0.8	0.94433594	
+Go	0.96	1.24	0.99609375	
+for	1.24	1.4	1.0	
+a	1.4	1.52	0.9975586	
+walk.	1.52	1.76	0.9995117	

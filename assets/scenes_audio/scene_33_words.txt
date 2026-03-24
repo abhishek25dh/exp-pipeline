@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Stressed	0.4	0.96	0.96777344	
+by	1.04	1.36	0.5058594	
+something.	1.36	1.68	0.99853516	

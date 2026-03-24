@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "If you",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_72.jpg",
+    "phrase": "you don't",
+    "start": 0.44,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "don't look,",
+    "start": 0.6,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_2",
+    "filename": "arrow.png",
+    "phrase": "have to",
+    "start": 1.68,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_2",
+    "filename": "img_2_scene_72.jpg",
+    "phrase": "admit how",
+    "start": 1.96,
+    "end": 4.0
+  }
+]

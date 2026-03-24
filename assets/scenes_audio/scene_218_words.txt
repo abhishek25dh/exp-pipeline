@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+Your	0.4	0.56	0.9970703	
+brain	0.56	0.92	0.9934082	
+doesn't	0.92	1.32	0.9995117	
+register	1.32	1.68	1.0	
+it	1.68	1.88	0.9975586	
+the	1.88	2.04	0.99853516	
+same	2.04	2.24	1.0	
+way.	2.24	2.56	0.9975586	

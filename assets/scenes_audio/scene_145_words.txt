@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+So	0.32	0.44	0.9995117	
+everyone	0.44	0.68	0.9995117	
+pretends.	0.68	1.28	0.98128253	

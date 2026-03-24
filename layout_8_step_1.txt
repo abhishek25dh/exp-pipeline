@@ -1,0 +1,12 @@
+Layout 8 Step 1 is deterministic (no AI prompt).
+
+It builds:
+- `main_title` from the opening tokens (2-6 words).
+- 3 or 4 steps, each with `img_phrase` + `txt_phrase`.
+
+Rules enforced by code:
+- All phrases are verbatim spans from the script tokens.
+- Phrases tile the full script in order (no gaps, no overlaps).
+- img_phrase and txt_phrase are consecutive fragments per step.
+
+See `layout_8_step_1.py` for the deterministic segmentation logic.

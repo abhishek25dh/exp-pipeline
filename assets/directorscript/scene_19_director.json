@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_19",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "type": "image",
+      "phrase": "Shopping feels",
+      "text_content": "",
+      "filename": "step_1_img.jpg",
+      "description": "A cheerful person holding shopping bags filled with colorful items, smiling widely, on a pure white background.",
+      "x": 260,
+      "y": 840,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_step_1",
+      "type": "text_black",
+      "phrase": "good in",
+      "text_content": "good in",
+      "filename": "",
+      "description": "",
+      "x": 260,
+      "y": 1042,
+      "scale": 1.4,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_step_2",
+      "type": "image",
+      "phrase": "the moment.",
+      "text_content": "",
+      "filename": "step_2_img.jpg",
+      "description": "A glowing thumbs-up icon with a happy face, symbolizing 'good', centered on a pure white background.",
+      "x": 660,
+      "y": 660,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

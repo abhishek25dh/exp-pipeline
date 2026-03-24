@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_28",
+  "elements": [
+    {
+      "element_id": "img_left_scene_28",
+      "filename": "img_left_scene_28.jpg",
+      "original_description": "A cheerful cartoon American family standing together, holding shopping bags and smiling, with a thought bubble showing a stack of dollar bills labeled 'Thousands'. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cheerful cartoon American family, including parents and children, standing close together and smiling broadly. The family is holding shopping bags. A stylized thought bubble emerges from the family, containing a neat stack of dollar bills clearly labeled 'Thousands'. Clean flat vector art, high contrast lines, no shading or gradients. Pure white seamless background. High-resolution, commercial style. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_28",
+      "filename": "img_right_scene_28.jpg",
+      "original_description": "A close-up of a credit card with a small pile of coins and a coffee cup beside it, symbolizing small purchases. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a close-up view of a single credit card lying flat. Beside it is a small, neat pile of coins and a simple coffee cup, symbolizing small daily purchases. Clean flat vector art, high contrast, no shading or gradients. All items arranged aesthetically on a pure white seamless background. High-resolution, commercial style. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

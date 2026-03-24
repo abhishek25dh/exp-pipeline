@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "img_moment_1",
+    "filename": "moment_1_img.jpg",
+    "phrase": "So they",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "txt_moment_1",
+    "filename": "",
+    "phrase": "avoid it.",
+    "start": 0.6,
+    "end": 2.0
+  }
+]

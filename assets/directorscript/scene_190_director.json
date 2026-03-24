@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_190",
+  "elements": [
+    {
+      "element_id": "text_1",
+      "type": "text_black",
+      "phrase": "In the",
+      "text_content": "In the",
+      "x": 960,
+      "y": 540,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic verbatim anchor selected by AI from candidate list.",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "US, there's mixed",
+      "filename": "group_1_image_0.jpg",
+      "description": "A white map of the United States with bold red and blue outlines, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 635,
+      "y": 240,
+      "scale": 0.35,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "messaging about wealth.",
+      "filename": "group_1_image_1.jpg",
+      "description": "Two speech bubbles on a pure white background, one filled with green dollar signs and the other with red warning signs, overlapping slightly. No text, no letters, no numbers, no watermarks.",
+      "x": 1285,
+      "y": 240,
+      "scale": 0.35,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

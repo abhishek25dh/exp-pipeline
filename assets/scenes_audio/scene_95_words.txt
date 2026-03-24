@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Ask	0.32	0.48	0.9975586	
+what	0.48	0.68	1.0	
+you're	0.68	0.88	0.9972331	
+really	0.88	1.08	0.99902344	
+feeling.	1.08	1.52	0.9875488	

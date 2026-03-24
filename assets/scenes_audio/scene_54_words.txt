@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+No	0.4	0.52	0.99365234	
+cushion,	0.52	0.96	0.84375	
+no	1.2	1.52	0.99902344	
+savings	1.52	2.0	0.99886066	
+growth.	2.0	2.32	0.9995117	

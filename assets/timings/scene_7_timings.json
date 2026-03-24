@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "host_character",
+    "filename": "host_explaining.png",
+    "phrase": "Scarcity",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "mindset makes",
+    "start": 0.84,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_2.jpg",
+    "phrase": "you believe that",
+    "start": 1.6,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_group_2_2",
+    "filename": "group_2_image_0.jpg",
+    "phrase": "money is always",
+    "start": 2.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "main_title_text_0",
+    "filename": "",
+    "phrase": "about to run out.",
+    "start": 3.48,
+    "end": 5.0
+  }
+]

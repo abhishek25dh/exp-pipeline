@@ -1,0 +1,11 @@
+# word	start_s	end_s	confidence	speaker
+Impulse	0.4	0.8	0.9995117	
+spending	0.8	1.2	0.98291016	
+fills	1.2	1.56	0.9995117	
+an	1.56	1.72	1.0	
+emotional	1.72	2.2	0.99283856	
+need,	2.2	2.56	1.0	
+not	2.8	3.08	1.0	
+a	3.08	3.24	1.0	
+real	3.24	3.44	1.0	
+one.	3.44	3.76	0.9980469	

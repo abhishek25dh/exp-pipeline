@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_139",
+  "elements": [
+    {
+      "element_id": "text_1",
+      "type": "text_red",
+      "phrase": "Maybe you",
+      "text_content": "Maybe you",
+      "x": 960,
+      "y": 540,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic verbatim anchor selected by AI from candidate list.",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "have hidden",
+      "filename": "group_1_image_0.jpg",
+      "description": "A person standing on a pure white background, looking thoughtful with a raised eyebrow, wearing casual clothes in bright colors. No text, no letters, no numbers, no watermarks.",
+      "x": 635,
+      "y": 240,
+      "scale": 0.35,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "credit card debt.",
+      "filename": "group_1_image_1.jpg",
+      "description": "A credit card partially hidden under a stack of papers on a pure white background, with a magnifying glass hovering above it. No text, no letters, no numbers, no watermarks.",
+      "x": 1285,
+      "y": 240,
+      "scale": 0.35,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

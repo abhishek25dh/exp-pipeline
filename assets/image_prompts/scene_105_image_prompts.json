@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_105",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_img_0.jpg",
+      "original_description": "A person sitting at a desk with a worried expression, holding a stack of papers labeled 'Safe Investments'. A downward arrow above their head indicates loss. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a person sitting at a desk with a distinct worried expression, holding a stack of papers clearly labeled 'Safe Investments'. A bold downward arrow is positioned directly above their head, indicating loss. Clean flat vector art, high contrast, pure white seamless background, no shading or gradients. Moody and deterministic lighting to emphasize loss. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_group_2_0",
+      "filename": "group_2_img_1.jpg",
+      "original_description": "A person rolling dice on a table labeled 'Risk', with coins and dollar signs flying outwards. Their face shows hesitation. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a person rolling dice on a table surface clearly labeled 'Risk'. Coins and stylized dollar sign symbols are shown flying outwards from the action. The person's face shows clear hesitation. Clean flat vector art, high contrast, pure white seamless background, no shading or gradients. Dynamic and tense mood. No text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

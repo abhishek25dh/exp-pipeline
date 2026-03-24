@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_75",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_75",
+      "type": "image",
+      "phrase": "Log into",
+      "text_content": "",
+      "x": 466,
+      "y": 558,
+      "scale": 0.728,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_hero_scene_75.jpg",
+      "description": "A close-up of a person's hand typing on a laptop keyboard, with a bank login page displayed on the screen. The screen shows a username and password field, with soft blue and white tones. No text, no letters, no numbers, no watermarks.",
+      "reason": "hero image (priority 1)"
+    },
+    {
+      "element_id": "img_bottom_right_scene_75",
+      "type": "image",
+      "phrase": "your bank account.",
+      "text_content": "",
+      "x": 1336,
+      "y": 761,
+      "scale": 0.465,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_bottom_right_scene_75.jpg",
+      "description": "A simplified illustration of a bank building with a vault door slightly ajar, glowing gold light spilling out. The building has a modern design with glass windows and a blue logo above the entrance. No text, no letters, no numbers, no watermarks.",
+      "reason": "bottom_right image (priority 2)"
+    }
+  ]
+}

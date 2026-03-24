@@ -1,0 +1,170 @@
+{
+  "id": "4fec4957-87b7-4901-b351-ba9509af22ab",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/88ee8099e5d05a0edb403fce6b510efbed2ddf776b8361a107385750c031fef6/e7279642-6c53-4a04-ab7b-0a97d2740370",
+  "text": "But resisting the urge to upgrade is hard, and most people can't.",
+  "words": [
+    {
+      "text": "But",
+      "start": 320,
+      "end": 480,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "resisting",
+      "start": 480,
+      "end": 1000,
+      "confidence": 0.9557292,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 1000,
+      "end": 1160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "urge",
+      "start": 1160,
+      "end": 1440,
+      "confidence": 0.99487305,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 1440,
+      "end": 1640,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "upgrade",
+      "start": 1640,
+      "end": 2160,
+      "confidence": 0.8435872,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 2160,
+      "end": 2400,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "hard,",
+      "start": 2400,
+      "end": 2720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 2720,
+      "end": 3120,
+      "confidence": 0.95751953,
+      "speaker": null
+    },
+    {
+      "text": "most",
+      "start": 3120,
+      "end": 3400,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 3400,
+      "end": 3640,
+      "confidence": 0.77734375,
+      "speaker": null
+    },
+    {
+      "text": "can't.",
+      "start": 3640,
+      "end": 4080,
+      "confidence": 0.99886066,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.96049666,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

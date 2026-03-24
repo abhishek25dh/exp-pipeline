@@ -1,0 +1,156 @@
+{
+  "id": "923112b1-8f2d-4075-ae98-18b949f61827",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/d0f6668bcef0869e68d4dcf6562849d4ed5ed8a3f8eda3bc316373ee8b210828/aa74ed14-caa4-47c2-8bcc-e1dc62eaef41",
+  "text": "Impulse spending fills an emotional need, not a real one.",
+  "words": [
+    {
+      "text": "Impulse",
+      "start": 400,
+      "end": 800,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "spending",
+      "start": 800,
+      "end": 1200,
+      "confidence": 0.98291016,
+      "speaker": null
+    },
+    {
+      "text": "fills",
+      "start": 1200,
+      "end": 1560,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 1560,
+      "end": 1720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "emotional",
+      "start": 1720,
+      "end": 2200,
+      "confidence": 0.99283856,
+      "speaker": null
+    },
+    {
+      "text": "need,",
+      "start": 2200,
+      "end": 2560,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 2800,
+      "end": 3080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 3080,
+      "end": 3240,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "real",
+      "start": 3240,
+      "end": 3440,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "one.",
+      "start": 3440,
+      "end": 3760,
+      "confidence": 0.9980469,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9972819,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

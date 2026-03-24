@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+Breaking	0.32	0.68	0.99975586	
+this	0.68	0.92	1.0	
+means	0.92	1.2	1.0	
+learning	1.2	1.52	0.9987793	
+other	1.52	1.76	1.0	
+ways	1.76	2.04	0.99975586	
+to	2.04	2.2	0.9995117	
+cope.	2.2	2.56	1.0	

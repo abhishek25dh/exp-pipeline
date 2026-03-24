@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "img_hero_scene_75",
+    "filename": "img_hero_scene_75.jpg",
+    "phrase": "Log into",
+    "start": 0.4,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_bottom_right_scene_75",
+    "filename": "img_bottom_right_scene_75.jpg",
+    "phrase": "your bank account.",
+    "start": 0.8,
+    "end": 2.0
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "slot_1",
+    "filename": "",
+    "phrase": "You shop",
+    "start": 0.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "slot_2",
+    "filename": "",
+    "phrase": "when you're",
+    "start": 0.76,
+    "end": 5.0
+  }
+]

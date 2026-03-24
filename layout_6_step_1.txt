@@ -1,0 +1,23 @@
+You are an expert narrative structurer.
+Your task is to take a scene from an explainer video script and divide it into EXACTLY TWO distinct narrative groups.
+This is for a "Two Rows" visual layout, where each row will explore one of these two concepts.
+
+RULES:
+1. Output MUST be valid JSON and nothing else. No markdown formatting, no explanations.
+2. The JSON must contain a root object with a key "groups" which is an array of exactly 2 objects.
+3. Each object should have an "id" ("group_1", "group_2") and a "narrative_focus" (a short phrase summarizing what this group is about).
+4. Combine sentences or themes naturally so you end up with exactly 2 halves of the story being told in the scene.
+
+OUTPUT FORMAT:
+{
+  "groups": [
+    {
+      "id": "group_1",
+      "narrative_focus": "[Short summary of the first half/concept]"
+    },
+    {
+      "id": "group_2",
+      "narrative_focus": "[Short summary of the second half/concept]"
+    }
+  ]
+}

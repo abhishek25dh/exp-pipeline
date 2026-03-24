@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "img_macro",
+    "filename": "macro_img.jpg",
+    "phrase": "Real success is financial security,",
+    "start": 0.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_macro",
+    "filename": "",
+    "phrase": "not the appearance of it.",
+    "start": 2.56,
+    "end": 5.0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_56",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_img_0.jpg",
+      "original_description": "A smiling person sits at a wooden desk with a laptop, a coffee cup, and a small plant, wearing casual clothes. The desk is simple and uncluttered, emphasizing a modest lifestyle. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a smiling person sitting at a simple wooden desk. The person wears casual clothes and is positioned with a laptop, a coffee cup, and a small plant on the desk. The scene is uncluttered, emphasizing a modest lifestyle. Cinematic lighting with soft bokeh, high resolution, sharp focus, natural daylight from a window, warm and optimistic mood, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_2_0",
+      "filename": "group_2_img_1.jpg",
+      "original_description": "A cartoon piggy bank with a coin slot, surrounded by stacks of gold coins and dollar bills, sits on a white surface. The piggy bank has a cheerful expression and a shiny metallic finish. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cheerful cartoon piggy bank with a coin slot and shiny metallic finish. Surrounded by stacks of gold coins and dollar bills, all on a pure white background. Clean flat vector art, high contrast, no shading or gradients, bright and cheerful mood, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

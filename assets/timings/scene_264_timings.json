@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "hero_image",
+    "filename": "hero_main.jpg",
+    "phrase": "Understanding how money",
+    "start": 0.4,
+    "end": 6.0
+  },
+  {
+    "element_id": "section_title",
+    "filename": "",
+    "phrase": "works, how debt grows,",
+    "start": 1.48,
+    "end": 6.0
+  },
+  {
+    "element_id": "bullet_b1",
+    "filename": "",
+    "phrase": "and how savings compound",
+    "start": 3.28,
+    "end": 6.0
+  },
+  {
+    "element_id": "bullet_b2",
+    "filename": "",
+    "phrase": "will change your life.",
+    "start": 4.8,
+    "end": 6.0
+  }
+]

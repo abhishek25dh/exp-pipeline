@@ -1,0 +1,68 @@
+{
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "voiceover": "You grew up hearing there's never enough."
+    },
+    {
+      "scene_id": "scene_2",
+      "voiceover": "Money was always tight."
+    },
+    {
+      "scene_id": "scene_3",
+      "voiceover": "Your parents stressed about every expense."
+    },
+    {
+      "scene_id": "scene_4",
+      "voiceover": "Even when you get a little extra now, you feel like it will disappear."
+    },
+    {
+      "scene_id": "scene_5",
+      "voiceover": "You hold onto things you don't need, just in case."
+    },
+    {
+      "scene_id": "scene_6",
+      "voiceover": "You buy the cheapest option, even if it breaks faster."
+    },
+    {
+      "scene_id": "scene_7",
+      "voiceover": "Scarcity mindset makes you believe that money is always about to run out."
+    },
+    {
+      "scene_id": "scene_8",
+      "voiceover": "So you play it safe, avoid risks, and miss opportunities."
+    },
+    {
+      "scene_id": "scene_9",
+      "voiceover": "You might turn down a better job because you're afraid of losing what you have."
+    },
+    {
+      "scene_id": "scene_10",
+      "voiceover": "You don't invest because you can't afford to lose anything."
+    },
+    {
+      "scene_id": "scene_11",
+      "voiceover": "This mindset was installed when you were young, watching adults stress about money."
+    },
+    {
+      "scene_id": "scene_12",
+      "voiceover": "Your brain learned that money equals fear."
+    },
+    {
+      "scene_id": "scene_13",
+      "voiceover": "Research shows that scarcity actually changes how your brain works."
+    },
+    {
+      "scene_id": "scene_14",
+      "voiceover": "When you're constantly worried about not having enough, your brain focuses on immediate problems and can't think long-term."
+    },
+    {
+      "scene_id": "scene_15",
+      "voiceover": "Breaking this means recognizing the fear and asking, is this based on current reality or old programming?"
+    },
+    {
+      "scene_id": "scene_16",
+      "voiceover": "Most of the time, it's old programming."
+    }
+  ]
+}

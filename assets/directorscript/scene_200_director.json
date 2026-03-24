@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_200",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_highlighted",
+      "phrase": "That's not evil.",
+      "text_content": "THAT'S NOT EVIL.",
+      "x": 960,
+      "y": 310,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21",
+      "typing_speed": 0.39
+    }
+  ]
+}

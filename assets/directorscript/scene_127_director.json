@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_127",
+  "elements": [
+    {
+      "element_id": "text_bc_l1_scene_127",
+      "type": "text_highlighted",
+      "phrase": "In the US, people",
+      "text_content": "IN THE US, PEOPLE",
+      "x": 942,
+      "y": 900,
+      "scale": 1.029,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/3)"
+    },
+    {
+      "element_id": "text_bc_l2_scene_127",
+      "type": "text_highlighted",
+      "phrase": "are overwhelmed",
+      "text_content": "ARE OVERWHELMED",
+      "x": 942,
+      "y": 970,
+      "scale": 1.029,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 2/3)"
+    },
+    {
+      "element_id": "text_bc_l3_scene_127",
+      "type": "text_highlighted",
+      "phrase": "by big",
+      "text_content": "BY BIG",
+      "x": 942,
+      "y": 1040,
+      "scale": 1.029,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 3/3)"
+    },
+    {
+      "element_id": "img_left_scene_127",
+      "type": "image",
+      "phrase": "people are overwhelmed",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_left_scene_127.jpg",
+      "description": "A cartoon stack of dollar bills, coins, and a piggy bank arranged neatly on a white surface. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_127",
+      "type": "image",
+      "phrase": "by big financial goals.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_right_scene_127.jpg",
+      "description": "A cartoon mountain with a flag at the top labeled 'Financial Goals', surrounded by clouds on a white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

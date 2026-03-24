@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_211",
+  "elements": [
+    {
+      "element_id": "text_bc_scene_211",
+      "type": "text_red",
+      "phrase": "Offers arrive",
+      "text_content": "OFFERS ARRIVE",
+      "x": 942,
+      "y": 970,
+      "scale": 1.3,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/1)",
+      "typing_speed": 0.67
+    },
+    {
+      "element_id": "img_left_scene_211",
+      "type": "image",
+      "phrase": "arrive constantly.",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_left_scene_211.jpg",
+      "description": "A white envelope with a red stamp floats diagonally downward on a pure white background. A yellow arrow follows its path, emphasizing continuous movement. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    }
+  ]
+}

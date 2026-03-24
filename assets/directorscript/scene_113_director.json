@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_113",
+  "elements": [
+    {
+      "element_id": "text_bc_l1_scene_113",
+      "type": "text_red",
+      "phrase": "The truth is,",
+      "text_content": "THE TRUTH IS,",
+      "x": 942,
+      "y": 900,
+      "scale": 1.029,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/3)"
+    },
+    {
+      "element_id": "text_bc_l2_scene_113",
+      "type": "text_red",
+      "phrase": "investing doesn't",
+      "text_content": "INVESTING DOESN'T",
+      "x": 942,
+      "y": 970,
+      "scale": 1.029,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 2/3)"
+    },
+    {
+      "element_id": "text_bc_l3_scene_113",
+      "type": "text_red",
+      "phrase": "have to",
+      "text_content": "HAVE TO",
+      "x": 942,
+      "y": 1040,
+      "scale": 1.029,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 3/3)"
+    },
+    {
+      "element_id": "img_left_scene_113",
+      "type": "image",
+      "phrase": "investing doesn't have",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_113.jpg",
+      "description": "A simple piggy bank with coins dropping into it, centered on a pure white background. The piggy bank is bright pink with a cheerful expression.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_113",
+      "type": "image",
+      "phrase": "to be complicated.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_right_scene_113.jpg",
+      "description": "A tangled mess of colorful wires and gears scattered across a pure white background, conveying confusion and complexity.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

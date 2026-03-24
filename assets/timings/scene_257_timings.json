@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_macro",
+    "filename": "macro_img.jpg",
+    "phrase": "Ignoring financial education means staying in",
+    "start": 0.32,
+    "end": 6.0
+  },
+  {
+    "element_id": "txt_macro_0",
+    "filename": "",
+    "phrase": "the dark when",
+    "start": 2.92,
+    "end": 6.0
+  },
+  {
+    "element_id": "txt_macro_1",
+    "filename": "",
+    "phrase": "information is available.",
+    "start": 3.56,
+    "end": 6.0
+  }
+]

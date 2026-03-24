@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_222",
+  "elements": [
+    {
+      "element_id": "img_right_scene_222",
+      "filename": "img_right_scene_222.jpg",
+      "original_description": "A person mid-jump with arms outstretched, surrounded by a broken chain floating in the air, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A person mid-jump with arms outstretched, surrounded by a broken chain floating in the air, professional 2D minimalist icon on pure white background, clean flat vector art, high contrast, no shading or gradients, capturing the motion and freedom suggested by 'breaking free', no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_left_scene_222",
+      "filename": "img_left_scene_222.jpg",
+      "original_description": "A hand pressing a large red stop button on a podium, with a circular motion effect radiating outward, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A hand pressing a large red stop button on a podium, with a circular motion effect radiating outward, professional 2D minimalist icon on pure white background, clean flat vector art, high contrast, no shading or gradients, capturing the decisive moment suggested by 'starts with', no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

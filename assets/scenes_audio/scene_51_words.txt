@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+More	0.4	0.52	0.99560547	
+money,	0.52	0.8	0.9941406	
+same	0.96	1.28	0.9995117	
+stress.	1.28	1.76	0.998291	

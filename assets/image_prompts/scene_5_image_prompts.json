@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_5",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A smiling cartoon character stands in a cluttered room filled with boxes, old furniture, and random items like a broken lamp and a stack of books. The character holds a dusty item tightly. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist cartoon scene. A smiling, simple-style cartoon character stands in a cluttered room. The room is filled with boxes, old furniture, a broken lamp, and a stack of books. The character is tightly holding a dusty, unspecified item. The scene has a conflicted and hesitant mood. Clean flat vector art, high contrast, no shading or gradients, pure white background. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "The same cartoon character looks conflicted, holding a cracked vase while surrounded by unnecessary items like outdated electronics and unused kitchenware. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist cartoon icon. The same simple-style cartoon character looks emotionally conflicted, holding a cracked vase. The character is surrounded by unnecessary clutter including outdated electronics and unused kitchenware. A tone of caution and preparedness. Clean flat vector art, high contrast, no shading or gradients, pure white background. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_151",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "filename": "moment_1_img.jpg",
+      "original_description": "A crowd of diverse cartoon people standing together, smiling, with a faint outline of the United States map behind them. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a diverse crowd of cheerful cartoon people standing together in unity, all smiling warmly. In the background, a very faint, subtle outline of the United States map. Clean flat vector art, high contrast, with a pure white background, no shading or gradients. No text, letters, numbers, or watermarks. The mood is positive and hopeful, fitting for a representation of a collective group."
+    },
+    {
+      "element_id": "img_moment_2",
+      "filename": "moment_2_img.jpg",
+      "original_description": "A cartoon person shrugging with a confused expression, hands palms up, surrounded by empty thought bubbles. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a single cartoon person shrugging with a clearly confused and helpless expression, both hands held up palms facing outward. The figure is surrounded by several empty, wispy thought bubbles, emphasizing lack of ideas or resources. Clean flat vector art, high contrast, with a pure white background, no shading or gradients. No text, letters, numbers, or watermarks. The tone conveys financial uncertainty and a sense of unpreparedness."
+    }
+  ]
+}

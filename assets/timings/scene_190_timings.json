@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_1",
+    "filename": "",
+    "phrase": "In the",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_0.jpg",
+    "phrase": "US, there's mixed",
+    "start": 0.6,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "messaging about wealth.",
+    "start": 1.88,
+    "end": 4.0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_126",
+  "elements": [
+    {
+      "element_id": "img_host_mid_scene_126",
+      "type": "image",
+      "phrase": "Contributing even 3% to",
+      "text_content": "",
+      "x": 964,
+      "y": 576,
+      "scale": 0.75,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 27 host (center, emotion=explaining)"
+    },
+    {
+      "element_id": "text_right_scene_126",
+      "type": "text_red",
+      "phrase": "retirement grows over time.",
+      "text_content": "OVER TIME.",
+      "x": 1542,
+      "y": 426,
+      "scale": 1.667,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 27 right text (P2, line 1/1)"
+    }
+  ]
+}

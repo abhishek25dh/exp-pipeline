@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "title_pyramid",
+    "filename": "",
+    "phrase": "American consumer",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_panel_1",
+    "filename": "panel_1_img.jpg",
+    "phrase": "culture is",
+    "start": 1.24,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_panel_1",
+    "filename": "",
+    "phrase": "designed to",
+    "start": 1.96,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_panel_2",
+    "filename": "panel_2_img.jpg",
+    "phrase": "trigger this.",
+    "start": 2.44,
+    "end": 4.0
+  }
+]

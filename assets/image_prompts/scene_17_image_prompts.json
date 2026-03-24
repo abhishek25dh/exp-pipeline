@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_17",
+  "elements": [
+    {
+      "element_id": "img_left_scene_17",
+      "filename": "img_left_scene_17.jpg",
+      "original_description": "A single red apple with a green leaf, centered on a pure white background. The apple has a glossy texture and casts a soft shadow underneath. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional high-quality photograph of a single, perfect red apple with a glossy, reflective texture and a small vibrant green leaf attached, centered perfectly on a pure white, seamless background. The apple casts a soft, subtle shadow underneath, enhancing the 3D effect. Cinematic softbox lighting for a clean, bright, and realistic look, sharp focus on the apple's skin, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_17",
+      "filename": "img_right_scene_17.jpg",
+      "original_description": "A hand reaching out to grab the red apple, fingers slightly curled, with a sense of urgency. The apple is slightly tilted as if being picked. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional high-quality photograph capturing a hand reaching out dynamically to grab a red apple, fingers slightly curled with a sense of urgency and motion, the apple is slightly tilted as if being plucked from the air. Shot with a fast shutter speed to freeze the action, dramatic yet soft cinematic lighting creating contrast and depth, shallow depth of field with soft bokeh background, high resolution, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

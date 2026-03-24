@@ -1,0 +1,96 @@
+{
+  "scene_id": "scene_106",
+  "host_emotion": "explaining",
+  "host_phrase": "In the",
+  "elements": [
+    {
+      "element_id": "host_center_explaining",
+      "type": "host",
+      "phrase": "In the",
+      "description": "Host in center expressing explaining",
+      "filename": "host_explaining.png",
+      "x": 960,
+      "y": 560,
+      "scale": 0.9,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_0",
+      "type": "image",
+      "phrase": "US, there's",
+      "visual_description": "A cartoon-style magnifying glass zooming in on a giant red arrow pointing upwards against a white background. No text, no letters, no numbers, no watermarks.",
+      "description": "A cartoon-style magnifying glass zooming in on a giant red arrow pointing upwards against a white background. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_0_US_there's.jpg",
+      "x": 300,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "span": [
+        4,
+        6
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_1",
+      "type": "image",
+      "phrase": "a huge",
+      "visual_description": "A photorealistic image of a wide canyon with steep cliffs on either side, emphasizing the empty space between them. No text, no letters, no numbers, no watermarks.",
+      "description": "A photorealistic image of a wide canyon with steep cliffs on either side, emphasizing the empty space between them. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_1_a_huge.jpg",
+      "x": 300,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "span": [
+        6,
+        8
+      ],
+      "property": "shadow"
+    },
+    {
+      "element_id": "image_quad_2",
+      "type": "image",
+      "phrase": "gap in financial",
+      "visual_description": "A cartoon-style stack of coins and dollar bills with a glowing light bulb above them, symbolizing financial knowledge. No text, no letters, no numbers, no watermarks.",
+      "description": "A cartoon-style stack of coins and dollar bills with a glowing light bulb above them, symbolizing financial knowledge. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_2_gap_in_financial.jpg",
+      "x": 1620,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "span": [
+        8,
+        10
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_3",
+      "type": "image",
+      "phrase": "literacy around investing.",
+      "visual_description": "A photorealistic image of a person analyzing stock market charts on a computer screen in a modern office setting. No text, no letters, no numbers, no watermarks.",
+      "description": "A photorealistic image of a person analyzing stock market charts on a computer screen in a modern office setting. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_3_literacy_around_investing.jpg",
+      "x": 1620,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "span": [
+        10,
+        12
+      ],
+      "property": "shadow"
+    }
+  ]
+}

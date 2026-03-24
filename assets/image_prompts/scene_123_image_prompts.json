@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_123",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_123",
+      "filename": "img_hero_scene_123.jpg",
+      "original_description": "A glass jar filled with colorful coins and dollar bills, with a label reading '$20' prominently displayed. The jar sits on a white surface, surrounded by small stacks of coins and bills. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a transparent glass jar filled with vibrant, colorful coins and crisp dollar bills. A prominent label reads '$20'. The jar rests on a pristine white surface, surrounded by small, neat stacks of coins and bills. The scene is lit with soft, cinematic lighting that highlights the textures of the money and the glass. Clean white background, sharp focus, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_bottom_right_scene_123",
+      "filename": "img_bottom_right_scene_123.jpg",
+      "original_description": "A close-up of a hand placing a $20 bill into a piggy bank with a cheerful expression. The piggy bank is bright pink with a coin slot on top. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A close-up, high-resolution photograph of a person's hand in the act of placing a crisp $20 bill into the coin slot of a cheerful, bright pink ceramic piggy bank. The person's expression is joyful and determined, reflecting the 'Saving $20' theme. The lighting is bright and optimistic, with a soft bokeh background that emphasizes the action. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_top_mid_scene_123",
+      "filename": "img_top_mid_scene_123.jpg",
+      "original_description": "A stack of colorful $100 bills arranged neatly on a white surface, with a small calculator next to it displaying '$1,000'. The bills are crisp and new. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional, high-resolution photograph of a tall, neat stack of colorful, crisp new $100 bills on a clean white surface. A modern, small calculator sits beside the stack, its digital screen clearly displaying '$1,000'. The lighting is sharp and dramatic, creating clean shadows and highlighting the texture of the money. The mood is one of financial achievement. No text, letters, numbers (except for the calculator display), or watermarks."
+    },
+    {
+      "element_id": "img_top_right_scene_123",
+      "filename": "img_top_right_scene_123.jpg",
+      "original_description": "A calendar with colorful stickers marking each week, symbolizing the passage of time. The calendar is open to a year view, with a small jar of coins and bills next to it. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a desk calendar open to a full year view. Colorful, varied stickers mark each week, creating a vibrant pattern that symbolizes the steady passage of time. Next to the calendar sits a small, clear jar partially filled with coins and a few folded bills. The lighting is warm and inviting, creating a sense of gradual progress. The composition is clean on a white background. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

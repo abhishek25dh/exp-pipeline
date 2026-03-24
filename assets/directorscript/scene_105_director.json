@@ -1,0 +1,67 @@
+{
+  "scene_id": "scene_105",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "You're technically",
+      "filename": "group_1_img_0.jpg",
+      "description": "A person sitting at a desk with a worried expression, holding a stack of papers labeled 'Safe Investments'. A downward arrow above their head indicates loss. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1329,
+      "y": 320,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "text_group_1_1",
+      "type": "text_highlighted",
+      "phrase": "losing money",
+      "text_content": "losing money",
+      "x": 590,
+      "y": 320,
+      "scale": 2.222,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Emphasis text",
+      "typing_speed": 0.7,
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_2_0",
+      "type": "image",
+      "phrase": "by playing",
+      "filename": "group_2_img_1.jpg",
+      "description": "A person rolling dice on a table labeled 'Risk', with coins and dollar signs flying outwards. Their face shows hesitation. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 590,
+      "y": 760,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "text_group_2_1",
+      "type": "text_highlighted",
+      "phrase": "it safe.",
+      "text_content": "it safe.",
+      "x": 1329,
+      "y": 760,
+      "scale": 3.333,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Emphasis text",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.83
+    }
+  ]
+}

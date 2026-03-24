@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_124",
+  "elements": [
+    {
+      "element_id": "img_top_left_scene_124",
+      "filename": "img_top_left_scene_124.jpg",
+      "original_description": "A transparent glass piggy bank filled with gold coins, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a transparent glass piggy bank filled with gold coins, centered on a pure white background. Clean flat vector art, high contrast, no shading or gradients, ensuring no text, letters, numbers, or watermarks are present. Simple and clear visual style."
+    },
+    {
+      "element_id": "img_bottom_right_scene_124",
+      "filename": "img_bottom_right_scene_124.jpg",
+      "original_description": "A shiny red car with a flat tire, parked on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a shiny red car with a flat tire, parked on a pure white background. Clean flat vector art, high contrast, no shading or gradients, ensuring no text, letters, numbers, or watermarks are present. Simple and clear visual style."
+    },
+    {
+      "element_id": "img_bottom_left_scene_124",
+      "filename": "img_bottom_left_scene_124.jpg",
+      "original_description": "A mechanic in blue overalls tightening a bolt on a car tire, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a mechanic in blue overalls tightening a bolt on a car tire, centered on a pure white background. Clean flat vector art, high contrast, no shading or gradients, ensuring no text, letters, numbers, or watermarks are present. Simple and clear visual style."
+    }
+  ]
+}

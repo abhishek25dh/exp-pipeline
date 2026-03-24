@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Your	0.32	0.44	0.99853516	
+brain	0.44	0.76	0.85302734	
+learned	0.76	1.12	0.8769531	
+that	1.12	1.36	0.9995117	
+money	1.36	1.68	1.0	
+equals	1.68	2.12	0.79467773	
+fear.	2.12	2.56	0.99975586	

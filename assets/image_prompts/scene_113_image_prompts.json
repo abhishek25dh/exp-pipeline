@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_113",
+  "elements": [
+    {
+      "element_id": "img_left_scene_113",
+      "filename": "img_left_scene_113.jpg",
+      "original_description": "A simple piggy bank with coins dropping into it, centered on a pure white background. The piggy bank is bright pink with a cheerful expression.",
+      "image_prompt": "Professional 2D minimalist icon of a simple, bright pink piggy bank with a cheerful, happy expression. Coins are shown dropping into the slot at the top. Clean flat vector art with high contrast, no shading or gradients, on a pure white background. Conveys a sense of simple, approachable saving and investing."
+    },
+    {
+      "element_id": "img_right_scene_113",
+      "filename": "img_right_scene_113.jpg",
+      "original_description": "A tangled mess of colorful wires and gears scattered across a pure white background, conveying confusion and complexity.",
+      "image_prompt": "Professional 2D minimalist icon of a tangled, chaotic mess of colorful wires and mechanical gears scattered randomly. Clean flat vector art with high contrast, no shading or gradients, on a pure white background. The composition should visually convey overwhelming confusion, disarray, and unnecessary complexity."
+    }
+  ]
+}

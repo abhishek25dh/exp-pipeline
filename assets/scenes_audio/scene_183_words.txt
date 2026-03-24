@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.48	0.9975586	
+absorb	0.48	1.0	0.95861816	
+these	1.0	1.24	0.9980469	
+messages.	1.24	1.76	0.99780273	

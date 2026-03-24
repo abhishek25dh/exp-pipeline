@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "host_center_explaining",
+    "filename": "host_explaining.png",
+    "phrase": "So you",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "image_quad_0",
+    "filename": "quad_0_sabotage_yourself.jpg",
+    "phrase": "sabotage yourself.",
+    "start": 0.64,
+    "end": 2.0
+  }
+]

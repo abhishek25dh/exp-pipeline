@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_104",
+  "elements": [
+    {
+      "element_id": "text_heading",
+      "type": "text_red",
+      "phrase": "Money at",
+      "text_content": "MONEY AT 0.5% INTEREST LOSES VALUE WHEN INFLATION",
+      "x": 929,
+      "y": 332,
+      "scale": 1.224,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 33 heading (P1, line 1/1)"
+    },
+    {
+      "element_id": "img_left_scene_104",
+      "type": "image",
+      "phrase": "0.5% interest loses",
+      "text_content": "",
+      "x": 363,
+      "y": 711,
+      "scale": 0.488,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_left_scene_104.jpg",
+      "description": "A green dollar bill with legs running on a treadmill, sweating profusely, with a red arrow pointing downward next to it. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 33 left image (P2)"
+    },
+    {
+      "element_id": "arrow_scene_104",
+      "type": "arrow",
+      "phrase": "value when inflation",
+      "text_content": "",
+      "x": 1019,
+      "y": 681,
+      "scale": 0.374,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Layout 33 arrow (P3, static local asset)"
+    },
+    {
+      "element_id": "img_right_scene_104",
+      "type": "image",
+      "phrase": "runs at 3%.",
+      "text_content": "",
+      "x": 1520,
+      "y": 700,
+      "scale": 0.486,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_104.jpg",
+      "description": "A price tag with a shopping cart and groceries, with a large '3%' icon floating above, surrounded by upward-pointing arrows. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 33 right image (P4)"
+    }
+  ]
+}

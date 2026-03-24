@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_225",
+  "elements": [
+    {
+      "element_id": "text_bc_l1_scene_225",
+      "type": "text_red",
+      "phrase": "Then make a plan",
+      "text_content": "THEN MAKE A PLAN",
+      "x": 942,
+      "y": 935,
+      "scale": 1.094,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/2)"
+    },
+    {
+      "element_id": "text_bc_l2_scene_225",
+      "type": "text_red",
+      "phrase": "to pay down what",
+      "text_content": "TO PAY DOWN WHAT",
+      "x": 942,
+      "y": 1005,
+      "scale": 1.094,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 2/2)",
+      "typing_speed": 0.63
+    },
+    {
+      "element_id": "img_left_scene_225",
+      "type": "image",
+      "phrase": "plan to pay",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_left_scene_225.jpg",
+      "description": "A smiling cartoon person wearing casual clothes stands confidently, pointing at a clipboard with a checklist titled 'Debt Payoff Plan'.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_225",
+      "type": "image",
+      "phrase": "down what you owe.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_225.jpg",
+      "description": "A stack of colorful bills and coins with a downward arrow pointing toward a piggy bank, indicating paying down debt.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

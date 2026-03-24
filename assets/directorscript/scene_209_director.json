@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_209",
+  "elements": [
+    {
+      "element_id": "center_word",
+      "type": "text_highlighted",
+      "phrase": "America, credit",
+      "text_content": "AMERICA, CREDIT",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 540,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.47
+    },
+    {
+      "element_id": "img_top",
+      "type": "image",
+      "phrase": "In",
+      "text_content": "",
+      "filename": "top_img.jpg",
+      "description": "A stylized map of the United States with bold outlines and a minimalist design, centered on a pure white background.",
+      "x": 960,
+      "y": 190,
+      "scale": 0.22,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_top",
+      "type": "text_black",
+      "phrase": "is everywhere.",
+      "text_content": "IS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 355,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

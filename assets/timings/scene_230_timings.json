@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "host_scene_230",
+    "filename": "host_explaining.png",
+    "phrase": "Social",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left_scene_230",
+    "filename": "img_left_scene_230.jpg",
+    "phrase": "media",
+    "start": 0.6,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_scene_230",
+    "filename": "arrow.png",
+    "phrase": "makes",
+    "start": 0.96,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_center_scene_230",
+    "filename": "img_center_scene_230.jpg",
+    "phrase": "this worse.",
+    "start": 1.28,
+    "end": 3.0
+  }
+]

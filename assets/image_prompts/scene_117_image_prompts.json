@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_117",
+  "elements": [
+    {
+      "element_id": "img_phase_1",
+      "filename": "phase_1_img.jpg",
+      "original_description": "A colorful cartoon graphic of a person shrugging, standing in front of a blank white wall. The person wears a casual outfit with neutral colors.",
+      "image_prompt": "Professional 2D minimalist icon, clean flat vector art. A cartoon character shrugging their shoulders with a perplexed or helpless expression. The person is standing in front of a plain white wall, wearing a casual outfit in neutral colors like beige, grey, or light blue. The style is colorful, with high contrast outlines and solid fill colors. No shading or gradients, pure white background, very simple and clean graphic design."
+    },
+    {
+      "element_id": "img_phase_2",
+      "filename": "phase_2_img.jpg",
+      "original_description": "A colorful cartoon graphic of a piggy bank with coins spilling out, placed on a white surface. The piggy bank is bright pink with a cheerful expression.",
+      "image_prompt": "Professional 2D minimalist icon, clean flat vector art. A bright pink cartoon piggy bank with a cheerful, smiling face. Coins are spilling out from its coin slot onto a plain white surface. The coins are a shiny gold color. The art style is colorful and simple, with high contrast outlines and no complex textures. Pure white background, no shading or gradients, flat graphic design."
+    },
+    {
+      "element_id": "img_phase_3",
+      "filename": "phase_3_img.jpg",
+      "original_description": "A colorful cartoon graphic of a scale with one side empty and the other side filled with coins, balanced on a white background. The scale is made of wood with metal details.",
+      "image_prompt": "Professional 2D minimalist icon, clean flat vector art. A colorful cartoon graphic of a balance scale. One side of the scale's pan is completely empty, while the other side is filled to the brim with gold coins. The scale itself has a wooden beam and stand, with metal details for the chains and pans. The image is balanced on a pure white background. Flat colors, high contrast, no shading or gradients, simple vector lines."
+    }
+  ]
+}

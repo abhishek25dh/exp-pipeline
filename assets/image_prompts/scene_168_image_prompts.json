@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_168",
+  "elements": [
+    {
+      "element_id": "img_bottom_left_scene_168",
+      "filename": "img_bottom_left_scene_168.jpg",
+      "original_description": "A cartoonish red exclamation mark icon tilted sideways, surrounded by jagged lines suggesting chaos or malfunction. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a cartoonish red exclamation mark tilted sideways, surrounded by dynamic jagged lines suggesting chaos or malfunction, on a pure white background, clean flat vector art, high contrast, no shading or gradients, no text, letters, numbers, or watermarks, conveying a sense of alert or problem, in a bright, high-impact style."
+    },
+    {
+      "element_id": "img_top_left_scene_168",
+      "filename": "img_top_left_scene_168.jpg",
+      "original_description": "A cartoon person standing upright with arms outstretched, looking slightly concerned. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a cartoon person standing upright with arms outstretched, looking slightly concerned with simple facial expression, on a pure white background, clean flat vector art, high contrast, no shading or gradients, no text, letters, numbers, or watermarks, conveying a sense of unease or worry, in a bright, clear style."
+    },
+    {
+      "element_id": "img_top_right_scene_168",
+      "filename": "img_top_right_scene_168.jpg",
+      "original_description": "A flat cartoon cushion with a torn corner, lying on its side with stuffing spilling out. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a flat cartoon cushion with a torn corner, lying on its side with fluffy stuffing spilling out, on a pure white background, clean flat vector art, high contrast, no shading or gradients, no text, letters, numbers, or watermarks, conveying damage or lack of support, in a bright, illustrative style."
+    }
+  ]
+}

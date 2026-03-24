@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "Breaking free",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_step_1_1",
+    "filename": "",
+    "phrase": "starts with honesty.",
+    "start": 1.12,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_step_1_2",
+    "filename": "",
+    "phrase": "",
+    "start": 1.12,
+    "end": 3.0
+  }
+]

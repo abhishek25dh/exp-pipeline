@@ -1,0 +1,96 @@
+{
+  "scene_id": "scene_240",
+  "host_emotion": "explaining",
+  "host_phrase": "Are you buying",
+  "elements": [
+    {
+      "element_id": "host_center_explaining",
+      "type": "host",
+      "phrase": "Are you buying",
+      "description": "Host in center expressing explaining",
+      "filename": "host_explaining.png",
+      "x": 960,
+      "y": 560,
+      "scale": 0.9,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_0",
+      "type": "image",
+      "phrase": "this because you",
+      "visual_description": "A person holding a shopping bag with a question mark hovering above their head, standing in a store aisle filled with colorful products. No text, no letters, no numbers, no watermarks.",
+      "description": "A person holding a shopping bag with a question mark hovering above their head, standing in a store aisle filled with colorful products. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_0_this_because_you.jpg",
+      "x": 300,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "pop",
+      "span": [
+        6,
+        9
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_1",
+      "type": "image",
+      "phrase": "want it or because",
+      "visual_description": "A cartoon character pointing at another character with a thought bubble containing a heart and a shopping cart. No text, no letters, no numbers, no watermarks.",
+      "description": "A cartoon character pointing at another character with a thought bubble containing a heart and a shopping cart. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_1_want_it_or_because.jpg",
+      "x": 300,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "span": [
+        9,
+        12
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_2",
+      "type": "image",
+      "phrase": "you want people to",
+      "visual_description": "A group of people sitting at a cafe table, one person gesturing while others listen intently. No text, no letters, no numbers, no watermarks.",
+      "description": "A group of people sitting at a cafe table, one person gesturing while others listen intently. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_2_you_want_people_to.jpg",
+      "x": 1620,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "fade_up",
+      "span": [
+        12,
+        15
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_3",
+      "type": "image",
+      "phrase": "think well of you?",
+      "visual_description": "A smiling cartoon character surrounded by glowing stars and thumbs-up gestures from other characters. No text, no letters, no numbers, no watermarks.",
+      "description": "A smiling cartoon character surrounded by glowing stars and thumbs-up gestures from other characters. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_3_think_well_of_you.jpg",
+      "x": 1620,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "span": [
+        15,
+        18
+      ],
+      "property": ""
+    }
+  ]
+}

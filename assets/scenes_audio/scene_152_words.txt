@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+You're	0.32	0.56	0.98876953	
+not	0.56	0.68	1.0	
+alone.	0.68	1.04	0.9934082	

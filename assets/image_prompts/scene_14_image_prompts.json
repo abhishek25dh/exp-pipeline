@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_14",
+  "elements": [
+    {
+      "element_id": "img_node_1",
+      "filename": "orb_0_img.jpg",
+      "original_description": "A person sitting with a worried expression, holding their head in their hands, pure white background",
+      "image_prompt": "Professional 2D minimalist icon of a person sitting with a deeply worried expression, holding their head in their hands. Clean flat vector art, high contrast, no shading or gradients. On a pure white background. The overall mood is of anxiety and being overwhelmed."
+    },
+    {
+      "element_id": "img_node_2",
+      "filename": "orb_1_img.jpg",
+      "original_description": "A clock ticking rapidly with urgent red alerts popping up around it, pure white background",
+      "image_prompt": "Professional 2D minimalist icon of a clock with visible ticking motion lines, surrounded by popping urgent red alert symbols. Clean flat vector art, high contrast, no shading or gradients. On a pure white background. The visual conveys a sense of frantic urgency and pressure."
+    },
+    {
+      "element_id": "img_node_3",
+      "filename": "orb_2_img.jpg",
+      "original_description": "A calendar with future dates fading into obscurity, pure white background",
+      "image_prompt": "Professional 2D minimalist icon of a calendar where the dates in the near future are clear and bold, while the dates further out fade into obscurity and become blurry or transparent. Clean flat vector art, high contrast, no shading or gradients. On a pure white background. The concept shows a loss of long-term visibility."
+    },
+    {
+      "element_id": "img_node_4",
+      "filename": "orb_3_img.jpg",
+      "original_description": "A brain illustration with short-term goals glowing brightly while long-term goals are dim, pure white background",
+      "image_prompt": "Professional 2D minimalist icon of a stylized brain illustration. Inside, icons representing short-term goals are glowing with a bright, vibrant light, while icons representing long-term goals are dim and muted. Clean flat vector art, high contrast, no shading or gradients. On a pure white background. The visual illustrates a focus imbalance within the mind."
+    }
+  ]
+}

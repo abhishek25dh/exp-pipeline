@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_109",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "type": "image",
+      "phrase": "So they",
+      "filename": "moment_1_img.jpg",
+      "description": "A person standing at a crossroads, looking confused, with a large red 'X' marking one path. White background. No text, no letters, no numbers, no watermarks.",
+      "x": 537,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Grid panel 1",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_moment_1",
+      "type": "text_highlighted",
+      "phrase": "avoid it.",
+      "text_content": "avoid it.",
+      "x": 537,
+      "y": 453,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Grid panel label",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.38
+    }
+  ]
+}

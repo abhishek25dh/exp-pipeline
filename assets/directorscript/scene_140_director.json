@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_140",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "Low credit score.",
+      "filename": "group_1_image_0.jpg",
+      "description": "A downward-pointing red arrow on a white background. The arrow is thick and bold, conveying a sense of decline.",
+      "x": 485,
+      "y": 505,
+      "scale": 0.45,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

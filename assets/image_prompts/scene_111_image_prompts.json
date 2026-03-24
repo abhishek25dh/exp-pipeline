@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_111",
+  "elements": [
+    {
+      "element_id": "img_left",
+      "filename": "left_concept.jpg",
+      "original_description": "A small pile of coins on a white background, symbolizing minimal investment",
+      "image_prompt": "Professional 2D minimalist icon of a small, neat pile of coins on a pure white background, symbolizing minimal investment. Clean flat vector art, high contrast, sharp lines, no shading or gradients. Isolated on a stark white background with even studio lighting."
+    },
+    {
+      "element_id": "img_right",
+      "filename": "right_concept.jpg",
+      "original_description": "A person standing still on a white background, representing stagnation",
+      "image_prompt": "High-quality photograph of a person standing perfectly still on a pure white background, representing stagnation and inaction. Cinematic lighting with soft, even tones, full body shot with sharp focus on the subject. High resolution, professional studio environment, neutral expression, conveying a sense of being stuck."
+    }
+  ]
+}

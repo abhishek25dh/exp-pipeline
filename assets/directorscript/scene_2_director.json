@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_2",
+  "elements": [
+    {
+      "element_id": "img_2",
+      "type": "image",
+      "phrase": "Money was",
+      "text_content": "",
+      "filename": "img_2.jpg",
+      "description": "A single, worn-out dollar bill lying flat on a pure white background, slightly crumpled and faded.",
+      "x": 780,
+      "y": 520,
+      "scale": 0.411,
+      "angle": 0,
+      "animation": "pop",
+      "property": "shadow",
+      "reason": ""
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "always tight.",
+      "text_content": "",
+      "filename": "img_1.jpg",
+      "description": "A clenched fist gripping a few coins tightly against a pure white background, emphasizing scarcity and tension.",
+      "x": 260,
+      "y": 540,
+      "scale": 0.239,
+      "angle": 0,
+      "animation": "pop",
+      "property": "shadow",
+      "reason": ""
+    }
+  ]
+}

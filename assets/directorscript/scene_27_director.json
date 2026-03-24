@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_27",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_27",
+      "type": "image",
+      "phrase": "The whole system",
+      "text_content": "",
+      "x": 466,
+      "y": 558,
+      "scale": 0.728,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_hero_scene_27.jpg",
+      "description": "A glowing human brain with a transparent skull, showing neural pathways lighting up in vibrant colors. The focus is on the emotional centers glowing brightest, surrounded by softer light in the rational areas. No text, no letters, no numbers, no watermarks.",
+      "reason": "hero image (priority 1)"
+    },
+    {
+      "element_id": "img_bottom_right_scene_27",
+      "type": "image",
+      "phrase": "bypasses your rational",
+      "text_content": "",
+      "x": 1336,
+      "y": 761,
+      "scale": 0.465,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_bottom_right_scene_27.jpg",
+      "description": "A cartoonish brain section labeled 'Rational' with gears turning inside, surrounded by muted tones. The gears are slowing down as colorful sparks drift away. No text, no letters, no numbers, no watermarks.",
+      "reason": "bottom_right image (priority 2)"
+    },
+    {
+      "element_id": "img_top_mid_scene_27",
+      "type": "image",
+      "phrase": "brain and goes",
+      "text_content": "",
+      "x": 1041,
+      "y": 351,
+      "scale": 0.285,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_top_mid_scene_27.jpg",
+      "description": "A glowing arrow shooting upward through a stylized brain, leaving a trail of sparkling light. The arrow is vibrant pink, emphasizing movement toward the emotional centers. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_mid image (priority 3)"
+    },
+    {
+      "element_id": "img_top_right_scene_27",
+      "type": "image",
+      "phrase": "straight to emotions.",
+      "text_content": "",
+      "x": 1592,
+      "y": 350,
+      "scale": 0.301,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_top_right_scene_27.jpg",
+      "description": "A close-up of a human eye with a tear forming, reflecting colorful light patterns. The iris is detailed, and the tear glistens, symbolizing raw emotion. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_right image (priority 4)"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "1dd0daf6-1bd0-4bb4-8d01-5bd542e150ea",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/53b398921326ef47ced6d6e562a63a02b5346793c9e254fd7497b6bfa8d261df/129e8a72-5c79-470f-bc92-885c77b839c5",
+  "text": "Having money means you can take care of yourself, help others, and live without constant stress.",
+  "words": [
+    {
+      "text": "Having",
+      "start": 320,
+      "end": 520,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 520,
+      "end": 880,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "means",
+      "start": 880,
+      "end": 1160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 1160,
+      "end": 1320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "can",
+      "start": 1320,
+      "end": 1480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "take",
+      "start": 1480,
+      "end": 1680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "care",
+      "start": 1680,
+      "end": 1880,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 1880,
+      "end": 2040,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "yourself,",
+      "start": 2040,
+      "end": 2480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "help",
+      "start": 2560,
+      "end": 2960,
+      "confidence": 0.7060547,
+      "speaker": null
+    },
+    {
+      "text": "others,",
+      "start": 2960,
+      "end": 3360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 3360,
+      "end": 3760,
+      "confidence": 0.9580078,
+      "speaker": null
+    },
+    {
+      "text": "live",
+      "start": 3760,
+      "end": 4040,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "without",
+      "start": 4040,
+      "end": 4320,
+      "confidence": 0.5620117,
+      "speaker": null
+    },
+    {
+      "text": "constant",
+      "start": 4480,
+      "end": 4960,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "stress.",
+      "start": 4960,
+      "end": 5360,
+      "confidence": 0.9929199,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9510956,
+  "audio_duration": 6,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

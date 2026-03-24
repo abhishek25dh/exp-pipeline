@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_92",
+  "elements": [
+    {
+      "element_id": "img_center_scene_92",
+      "filename": "img_center_scene_92.jpg",
+      "original_description": "A large hourglass floating in center, sand flowing from top to bottom, surrounded by faint clock hands rotating slowly. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a large, ornate hourglass floating in the center of the frame, with fine sand flowing smoothly from the top bulb to the bottom. Faint, translucent clock hands rotate slowly around it, creating a soft, ethereal effect. Cinematic lighting with a warm, golden glow emphasizes the passage of time, soft bokeh background, sharp focus on the hourglass, high resolution, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tl_scene_92",
+      "filename": "img_tl_scene_92.jpg",
+      "original_description": "A calendar with pages flipping rapidly, showing dates passing by in a blur. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a calendar on a desk, with pages flipping rapidly in motion blur, showing dates passing by in a soft, indistinct sequence. Dramatic, directional lighting casts dynamic shadows, conveying a sense of urgency and fleeting time, shallow depth of field with sharp focus on the flipping pages, high resolution, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_bl_scene_92",
+      "filename": "img_bl_scene_92.jpg",
+      "original_description": "A person holding a heart-shaped balloon, looking slightly sad, with a thought bubble showing a shopping bag. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a person holding a red heart-shaped balloon, looking slightly sad with a distant, contemplative expression. A thought bubble above their head shows a simple shopping bag illustration. Soft, moody lighting with a cool, melancholic tone, shallow depth of field focusing on the person's face and balloon, high resolution, emotional and intimate composition, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

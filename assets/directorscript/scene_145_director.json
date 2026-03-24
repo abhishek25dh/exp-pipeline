@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_145",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "type": "image",
+      "phrase": "So everyone pretends.",
+      "filename": "group_1_cause_0.jpg",
+      "description": "A diverse group of six people standing in a line, each wearing different colored outfits, smiling brightly with their arms crossed. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 379,
+      "y": 636,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Cause image for group_1",
+      "text_content": ""
+    },
+    {
+      "element_id": "arrow_group_1",
+      "type": "arrow",
+      "phrase": "",
+      "filename": "arrow.png",
+      "description": "",
+      "x": 963,
+      "y": 636,
+      "scale": 0.541,
+      "angle": -3,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Cause-to-effect arrow for group_1",
+      "text_content": ""
+    }
+  ]
+}

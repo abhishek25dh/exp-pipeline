@@ -1,0 +1,81 @@
+{
+  "scene_id": "scene_55",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "type": "image",
+      "phrase": "The",
+      "filename": "host_explaining.png",
+      "description": "Host Character",
+      "x": 516,
+      "y": 516,
+      "scale": 0.62,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Host P1",
+      "text_content": ""
+    },
+    {
+      "element_id": "main_title_text_0",
+      "type": "text_black",
+      "phrase": "the difference.",
+      "text_content": "THE DIFFERENCE.",
+      "x": 342,
+      "y": 949,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Main Anchor P2",
+      "typing_speed": 0.4,
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_2_2",
+      "type": "image",
+      "phrase": "you get a",
+      "filename": "group_2_image_0.jpg",
+      "description": "A piggy bank with a coin slot smiles as coins pour into it from above. The piggy bank is centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1319,
+      "y": 418,
+      "scale": 0.455,
+      "angle": 7,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "raise is to save",
+      "filename": "group_1_image_1.jpg",
+      "description": "A lightbulb with a golden coin inside hovers above a stack of coins on a pure white background. The lightbulb emits a bright glow, symbolizing a smart idea. No text, no letters, no numbers, no watermarks.",
+      "x": 1433,
+      "y": 836,
+      "scale": 0.311,
+      "angle": -6,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "smartest move when",
+      "filename": "group_1_image_2.jpg",
+      "description": "A hand holds up a paycheck with a green upward arrow next to it, indicating an increase in salary. The scene is on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1075,
+      "y": 841,
+      "scale": 0.311,
+      "angle": -11,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.44	0.99853516	
+don't	0.44	0.68	0.9991862	
+check	0.68	0.88	0.9992676	
+your	0.88	1.0	0.99853516	
+bank	1.0	1.2	0.99902344	
+account.	1.2	1.52	0.99853516	

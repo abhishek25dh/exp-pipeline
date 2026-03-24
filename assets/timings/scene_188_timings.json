@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "img_center_scene_188",
+    "filename": "img_center_scene_188.jpg",
+    "phrase": "If money",
+    "start": 0.24,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tl_scene_188",
+    "filename": "img_tl_scene_188.jpg",
+    "phrase": "is bad,",
+    "start": 0.76,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_bl_scene_188",
+    "filename": "img_bl_scene_188.jpg",
+    "phrase": "then having",
+    "start": 1.52,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tr1_scene_188",
+    "filename": "img_tr1_scene_188.jpg",
+    "phrase": "money makes",
+    "start": 2.16,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tr2_scene_188",
+    "filename": "img_tr2_scene_188.jpg",
+    "phrase": "you bad too.",
+    "start": 2.68,
+    "end": 4.0
+  }
+]

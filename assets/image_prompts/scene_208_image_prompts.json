@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_208",
+  "elements": [
+    {
+      "element_id": "img_frame_1",
+      "filename": "frame_1_img.jpg",
+      "original_description": "A cartoon dollar bill with a worried face, floating in mid-air against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon US one-dollar bill with a worried, anxious expression drawn on it, floating in mid-air, clean flat vector art, high contrast, no shading or gradients, pure white background, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_frame_2",
+      "filename": "frame_2_img.jpg",
+      "original_description": "A cartoon character waist-deep in a pile of colorful coins and dollar bills, looking overwhelmed, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon character waist-deep in a large pile of colorful coins and US dollar bills, the character looks overwhelmed and stressed, clean flat vector art, high contrast, no shading or gradients, pure white background, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+You're	0.4	0.6	0.9593099	
+buying	0.6	0.84	0.97631836	
+the	0.84	1.0	0.9995117	
+feeling,	1.0	1.44	0.9995117	
+not	1.52	1.8	0.9995117	
+the	1.8	1.96	0.99902344	
+thing.	1.96	2.24	0.9970703	

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_44",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "filename": "group_1_cause_0.jpg",
+      "original_description": "A green upward arrow on the left side of the frame, pointing diagonally upwards, with a small stack of gold coins at its base. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a green upward arrow pointing diagonally upwards on the left side of a pure white background. A small stack of gold coins is positioned at the base of the arrow. Clean flat vector art, high contrast, no shading or gradients. No text, letters, numbers, or watermarks. The composition evokes a sense of positive growth and financial increase."
+    },
+    {
+      "element_id": "image_group_1_effect",
+      "filename": "group_1_effect_0.jpg",
+      "original_description": "A blue upward arrow on the right side of the frame, pointing diagonally upwards, with a shopping cart at its base. The arrows are parallel and aligned. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a blue upward arrow pointing diagonally upwards on the right side of a pure white background. A shopping cart is positioned at the base of the arrow. The arrow and cart are clean flat vector art, high contrast, no shading or gradients. It is visually designed to be parallel and aligned with a similar green arrow icon (not shown in this image). No text, letters, numbers, or watermarks. The composition conveys a matching rise in consumer activity."
+    }
+  ]
+}

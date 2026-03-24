@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_119",
+  "elements": [
+    {
+      "element_id": "center_word",
+      "type": "text_highlighted",
+      "phrase": "black-and-white thinking",
+      "text_content": "BLACK-AND-WHITE THINKING",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 540,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_top",
+      "type": "image",
+      "phrase": "This",
+      "text_content": "",
+      "filename": "top_img.jpg",
+      "description": "A stark black-and-white yin-yang symbol, perfectly balanced, on a pure white background.",
+      "x": 960,
+      "y": 190,
+      "scale": 0.22,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_top",
+      "type": "text_black",
+      "phrase": "prevents progress.",
+      "text_content": "PREVENTS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 355,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

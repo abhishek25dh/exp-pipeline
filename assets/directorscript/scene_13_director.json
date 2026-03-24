@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_13",
+  "elements": [
+    {
+      "element_id": "img_macro",
+      "type": "image",
+      "phrase": "Research shows that scarcity actually",
+      "filename": "macro_img.jpg",
+      "description": "A simplified human brain with glowing blue and orange neural connections, surrounded by small icons of clocks, coins, and shopping carts. The brain is centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 550,
+      "y": 590,
+      "scale": 0.5,
+      "angle": -2,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Main macro overview",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_macro",
+      "type": "text_black",
+      "phrase": "changes how your brain works.",
+      "text_content": "changes how your brain works.",
+      "x": 550,
+      "y": 200,
+      "scale": 1.126,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Macro Title",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

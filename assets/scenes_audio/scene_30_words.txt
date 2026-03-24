@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Over	0.32	0.48	0.99853516	
+a	0.48	0.68	0.9995117	
+year,	0.68	0.96	0.98535156	
+thousands.	1.12	1.76	0.99609375	

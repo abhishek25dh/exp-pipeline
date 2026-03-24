@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_216",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_216",
+      "type": "image",
+      "phrase": "The psychological",
+      "text_content": "",
+      "x": 466,
+      "y": 558,
+      "scale": 0.728,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_hero_scene_216.jpg",
+      "description": "A person holding a credit card with a confused expression, standing in front of a cash register. The credit card glows faintly with a surreal, dreamlike aura. No text, no letters, no numbers, no watermarks.",
+      "reason": "hero image (priority 1)"
+    },
+    {
+      "element_id": "img_bottom_right_scene_216",
+      "type": "image",
+      "phrase": "trap is that",
+      "text_content": "",
+      "x": 1336,
+      "y": 761,
+      "scale": 0.465,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_bottom_right_scene_216.jpg",
+      "description": "A close-up of a credit card, slightly tilted, with a blurry background. The card appears weightless, floating in mid-air. No text, no letters, no numbers, no watermarks.",
+      "reason": "bottom_right image (priority 2)"
+    },
+    {
+      "element_id": "img_top_mid_scene_216",
+      "type": "image",
+      "phrase": "credit doesn't feel",
+      "text_content": "",
+      "x": 1041,
+      "y": 351,
+      "scale": 0.285,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_top_mid_scene_216.jpg",
+      "description": "A hand holding a stack of dollar bills next to a credit card, emphasizing the contrast between physical cash and plastic. The bills appear solid while the card feels intangible. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_mid image (priority 3)"
+    },
+    {
+      "element_id": "img_top_right_scene_216",
+      "type": "image",
+      "phrase": "like real money.",
+      "text_content": "",
+      "x": 1592,
+      "y": 350,
+      "scale": 0.301,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "shadow",
+      "filename": "img_top_right_scene_216.jpg",
+      "description": "A pile of coins and dollar bills stacked neatly, glowing slightly to signify their tangible value. The coins reflect light, creating a realistic texture. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_right image (priority 4)"
+    }
+  ]
+}

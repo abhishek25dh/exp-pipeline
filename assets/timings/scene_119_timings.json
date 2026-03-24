@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_top",
+    "filename": "top_img.jpg",
+    "phrase": "This",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "center_word",
+    "filename": "",
+    "phrase": "black-and-white thinking",
+    "start": 0.6,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_top",
+    "filename": "",
+    "phrase": "prevents progress.",
+    "start": 1.8,
+    "end": 3.0
+  }
+]

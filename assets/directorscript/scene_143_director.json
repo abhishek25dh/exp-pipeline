@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_143",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "type": "image",
+      "phrase": "Money",
+      "filename": "host_explaining.png",
+      "description": "Host Character",
+      "x": 1392,
+      "y": 528,
+      "scale": 0.62,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Host P1",
+      "text_content": ""
+    },
+    {
+      "element_id": "main_title_text_0",
+      "type": "text_red",
+      "phrase": "for help.",
+      "text_content": "FOR HELP.",
+      "x": 553,
+      "y": 923,
+      "scale": 2.8,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Main Anchor P2",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_2_2",
+      "type": "image",
+      "phrase": "you hide problems",
+      "filename": "group_2_image_0.jpg",
+      "description": "A person turning away from a hand reaching out to help, with a hesitant expression. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 575,
+      "y": 524,
+      "scale": 0.437,
+      "angle": 7,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "and avoid asking",
+      "filename": "group_1_image_1.jpg",
+      "description": "A person with a worried expression, sitting hunched over with a large dark cloud labeled 'Shame' hovering above their head. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 930,
+      "y": 568,
+      "scale": 0.205,
+      "angle": 5,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "shame makes",
+      "filename": "group_1_image_2.jpg",
+      "description": "A person hiding behind a large stack of papers labeled 'Problems', peeking out nervously. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 932,
+      "y": 265,
+      "scale": 0.205,
+      "angle": -9,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

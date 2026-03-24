@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_228",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "filename": "moment_1_img.jpg",
+      "original_description": "A sleek, shiny red sports car with clean lines and a glossy finish, positioned centrally on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a sleek, shiny red sports car with clean lines and a glossy finish, positioned centrally on a pure white background. Clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks. Mood: admiring and appreciative."
+    },
+    {
+      "element_id": "img_moment_2",
+      "filename": "moment_2_img.jpg",
+      "original_description": "A mannequin wearing a stylish black suit with gold accents and a designer label tag, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a mannequin wearing a stylish black suit with gold accents and a designer label tag, standing on a pure white background. Clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks. Mood: luxurious and grand."
+    }
+  ]
+}

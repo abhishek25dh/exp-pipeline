@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_46",
+  "elements": [
+    {
+      "element_id": "img_left_scene_46",
+      "filename": "img_left_scene_46.jpg",
+      "original_description": "A cheerful cartoon thumbs-up gesture with a shining golden star above it, conveying approval and positivity. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cheerful cartoon thumbs-up gesture with a shining golden star above it, on a pure white background, clean flat vector art, high contrast, no shading or gradients, conveying approval and positivity, no text, no letters, no numbers, no watermarks, highly detailed."
+    },
+    {
+      "element_id": "img_right_scene_46",
+      "filename": "img_right_scene_46.jpg",
+      "original_description": "Two sleek, modern cartoon cars side by side, one red and one blue, with shiny surfaces and stylish designs. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of two sleek, modern cartoon cars side by side, one red and one blue, with shiny surfaces and stylish designs, on a pure white background, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks, highly detailed."
+    }
+  ]
+}

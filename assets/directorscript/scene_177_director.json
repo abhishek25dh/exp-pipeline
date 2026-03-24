@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_177",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_177",
+      "type": "image",
+      "phrase": "Automate savings.",
+      "text_content": "",
+      "x": 274,
+      "y": 384,
+      "scale": 0.392,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_tl_scene_177.jpg",
+      "description": "A white piggy bank with coins dropping into it automatically, surrounded by green dollar signs. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_tl (P1)"
+    },
+    {
+      "element_id": "img_tr_scene_177",
+      "type": "image",
+      "phrase": "Set up",
+      "text_content": "",
+      "x": 772,
+      "y": 386,
+      "scale": 0.384,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_tr_scene_177.jpg",
+      "description": "A hand placing a checklist on a white table, with a green checkmark appearing. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_tr (P2)"
+    },
+    {
+      "element_id": "img_bl_scene_177",
+      "type": "image",
+      "phrase": "retirement contributions.",
+      "text_content": "",
+      "x": 270,
+      "y": 832,
+      "scale": 0.384,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_bl_scene_177.jpg",
+      "description": "A calendar on a white wall with a red arrow pointing to a specific date. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_bl (P3)"
+    }
+  ]
+}

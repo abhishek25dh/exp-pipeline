@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_96",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A person sitting on a couch with a bored expression, holding a remote control, surrounded by a messy living room with scattered items like magazines and snacks. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person sitting on a couch with a bored expression, holding a remote control, in a messy living room interior with scattered items like magazines and snacks, illuminated by natural window light, cinematic soft focus with muted tones reflecting a subdued mood."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A cheerful person walking on a sunny path with green trees and colorful flowers on both sides, holding a water bottle and wearing a hat. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-resolution photograph of a cheerful person walking on a sunny outdoor path, surrounded by lush green trees and vibrant colorful flowers, holding a water bottle and wearing a hat, with bright natural sunlight casting warm shadows, sharp focus and soft bokeh background, evoking an uplifting and energetic atmosphere."
+    }
+  ]
+}

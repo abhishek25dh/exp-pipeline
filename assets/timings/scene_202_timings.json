@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "You use",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_step_1",
+    "filename": "",
+    "phrase": "credit cards",
+    "start": 0.72,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_step_2",
+    "filename": "step_2_img.jpg",
+    "phrase": "for everything.",
+    "start": 1.32,
+    "end": 3.0
+  }
+]

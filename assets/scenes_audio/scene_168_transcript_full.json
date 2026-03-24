@@ -1,0 +1,142 @@
+{
+  "id": "5e43fe69-132d-413c-9379-029fefc24096",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/ee9fb03fca5774e8f6ab1b86f0129d4b93e7294260ac26a1430a3c5ee9dd46dd/3032fd9d-8585-467c-bd5a-259d7e9ab55e",
+  "text": "When something goes wrong, you have no cushion.",
+  "words": [
+    {
+      "text": "When",
+      "start": 320,
+      "end": 480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "something",
+      "start": 480,
+      "end": 720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "goes",
+      "start": 720,
+      "end": 1040,
+      "confidence": 0.9086914,
+      "speaker": null
+    },
+    {
+      "text": "wrong,",
+      "start": 1040,
+      "end": 1440,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 1600,
+      "end": 1880,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 1880,
+      "end": 2040,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "no",
+      "start": 2040,
+      "end": 2240,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "cushion.",
+      "start": 2240,
+      "end": 2720,
+      "confidence": 0.9996745,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9884847,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

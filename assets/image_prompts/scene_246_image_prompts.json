@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_246",
+  "elements": [
+    {
+      "element_id": "img_panel_1",
+      "filename": "panel_1_img.jpg",
+      "original_description": "A confused young adult standing in front of a blank whiteboard with a question mark above their head, symbolizing 'with no idea'.",
+      "image_prompt": "A confused young adult standing in front of a blank whiteboard with a question mark above their head, cinematic lighting, high-resolution photograph, professional studio setup, soft bokeh background, conveying a sense of uncertainty and curiosity, sharp focus on the subject's expression and the question mark, realistic human features."
+    },
+    {
+      "element_id": "img_panel_2",
+      "filename": "panel_2_img.jpg",
+      "original_description": "A stack of credit cards and a calculator on a white table, with arrows pointing to a growing pile of coins, representing 'how credit, compound'.",
+      "image_prompt": "A stack of credit cards and a calculator on a white table, with arrows pointing to a growing pile of coins, high-quality photograph, professional product photography, clean minimalist composition, sharp focus on the credit cards and coins, cinematic lighting with soft shadows, representing financial concepts, realistic textures and materials."
+    },
+    {
+      "element_id": "img_panel_3",
+      "filename": "panel_3_img.jpg",
+      "original_description": "A person holding a notebook with a budget chart, surrounded by coins and bills, illustrating 'interest, or budgeting works.'",
+      "image_prompt": "A person holding a notebook with a budget chart, surrounded by coins and bills, high-resolution photograph, cinematic lighting, professional studio setup, soft bokeh in the background, sharp focus on the notebook and coins, realistic human hand, detailed budget chart, conveying financial planning and organization."
+    }
+  ]
+}

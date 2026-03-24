@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_49",
+  "elements": [
+    {
+      "element_id": "img_center_scene_49",
+      "type": "image",
+      "phrase": "But lifestyle",
+      "text_content": "",
+      "x": 730,
+      "y": 530,
+      "scale": 0.59,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_center_scene_49.jpg",
+      "description": "A person standing with a neutral expression, arms slightly outstretched, on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_center (P1, AI generated)"
+    },
+    {
+      "element_id": "img_tl_scene_49",
+      "type": "image",
+      "phrase": "creep eats",
+      "text_content": "",
+      "x": 232,
+      "y": 376,
+      "scale": 0.271,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_tl_scene_49.jpg",
+      "description": "A cartoonish green vine creeping upward from the bottom left corner, with small dollar signs embedded in its leaves. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tl (P2, AI generated)"
+    },
+    {
+      "element_id": "img_bl_scene_49",
+      "type": "image",
+      "phrase": "up every",
+      "text_content": "",
+      "x": 224,
+      "y": 702,
+      "scale": 0.259,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_bl_scene_49.jpg",
+      "description": "A cartoon mouth with sharp teeth biting down on a stack of dollar bills, with crumbs of money falling. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_bl (P3, AI generated)"
+    },
+    {
+      "element_id": "img_tr1_scene_49",
+      "type": "image",
+      "phrase": "extra dollar.",
+      "text_content": "",
+      "x": 1293,
+      "y": 405,
+      "scale": 0.303,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_tr1_scene_49.jpg",
+      "description": "An upward-pointing arrow with a dollar sign at its tip, angled diagonally from the bottom left to the top right. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tr1 (P4, AI generated)"
+    }
+  ]
+}

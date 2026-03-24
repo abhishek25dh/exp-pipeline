@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_202",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "type": "image",
+      "phrase": "You use",
+      "text_content": "",
+      "filename": "step_1_img.jpg",
+      "description": "A cheerful cartoon-style person holding a credit card, smiling confidently, with a pure white background.",
+      "x": 260,
+      "y": 840,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_step_1",
+      "type": "text_black",
+      "phrase": "credit cards",
+      "text_content": "credit cards",
+      "filename": "",
+      "description": "",
+      "x": 260,
+      "y": 1042,
+      "scale": 1.2799999999999998,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.53
+    },
+    {
+      "element_id": "img_step_2",
+      "type": "image",
+      "phrase": "for everything.",
+      "text_content": "",
+      "filename": "step_2_img.jpg",
+      "description": "A stack of colorful credit cards neatly arranged on a pure white background.",
+      "x": 660,
+      "y": 660,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

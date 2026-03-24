@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+The	0.32	0.44	0.99902344	
+goal	0.44	0.72	0.998291	
+is	0.72	0.92	0.9995117	
+meeting	0.92	1.16	1.0	
+emotional	1.16	1.68	0.99527997	
+needs	1.68	2.0	0.99072266	
+without	2.0	2.36	1.0	
+spending	2.36	2.84	0.8883464	
+money.	2.84	3.12	0.99853516	

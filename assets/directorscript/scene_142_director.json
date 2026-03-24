@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_142",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_highlighted",
+      "phrase": "You look around and feel like everyone else has it together.",
+      "text_content": "YOU LOOK AROUND AND FEEL LIKE EVERYONE ELSE HAS IT TOGETHER.",
+      "x": 960,
+      "y": 540,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1",
+      "typing_speed": 0.76
+    }
+  ]
+}

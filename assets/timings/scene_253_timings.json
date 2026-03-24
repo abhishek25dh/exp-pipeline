@@ -1,0 +1,44 @@
+[
+  {
+    "element_id": "wall_title",
+    "filename": "",
+    "phrase": "You make",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_tl",
+    "filename": "polaroid_tl.jpg",
+    "phrase": "decisions based",
+    "start": 0.72,
+    "end": 5.0
+  },
+  {
+    "element_id": "cap_tl",
+    "filename": "",
+    "phrase": "on guesses,",
+    "start": 1.44,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_tr",
+    "filename": "polaroid_tr.jpg",
+    "phrase": "and often",
+    "start": 2.16,
+    "end": 5.0
+  },
+  {
+    "element_id": "cap_tr",
+    "filename": "",
+    "phrase": "those decisions",
+    "start": 2.84,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_bl",
+    "filename": "polaroid_bl.jpg",
+    "phrase": "are wrong.",
+    "start": 3.64,
+    "end": 5.0
+  }
+]

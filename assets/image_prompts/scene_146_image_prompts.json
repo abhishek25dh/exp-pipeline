@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_146",
+  "elements": [
+    {
+      "element_id": "img_right_scene_146",
+      "filename": "img_right_scene_146.jpg",
+      "original_description": "A smiling person holding a smartphone with a beach sunset photo on the screen, wearing sunglasses and a sun hat. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a smiling person holding a smartphone displaying a beautiful beach sunset photo. The person is wearing stylish sunglasses and a sun hat. The mood is joyful and carefree, reflecting the 'post vacation' feeling. Cinematic lighting, sharp focus on the person and phone, with a soft, warm bokeh background. High resolution. Absolutely no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_left_scene_146",
+      "filename": "img_left_scene_146.jpg",
+      "original_description": "A credit card with a red 'MAXED OUT' stamp next to a pile of shopping bags and receipts. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a credit card with a prominent, realistic red 'MAXED OUT' stamp on it, placed next to a disorganized pile of shopping bags and crumpled receipts. The lighting is stark and dramatic, creating a mood of financial stress and consequence. Sharp focus on the card and stamp, with shallow depth of field. High resolution. Absolutely no text, letters, numbers, or watermarks aside from the depicted stamp."
+    }
+  ]
+}

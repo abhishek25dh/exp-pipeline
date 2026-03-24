@@ -1,0 +1,11 @@
+# word	start_s	end_s	confidence	speaker
+Research	0.4	0.64	1.0	
+shows	0.72	1.16	1.0	
+that	1.16	1.36	1.0	
+scarcity	1.36	2.0	0.9942627	
+actually	2.08	2.48	1.0	
+changes	2.48	3.0	1.0	
+how	3.0	3.16	1.0	
+your	3.16	3.32	0.9995117	
+brain	3.32	3.6	0.9992676	
+works.	3.6	4.0	0.96606445	

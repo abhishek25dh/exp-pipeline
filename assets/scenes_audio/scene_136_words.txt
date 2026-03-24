@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Every	0.4	0.6	0.99853516	
+$20	0.6	1.24	0.9657	
+saved	1.24	1.56	0.9992676	
+as	1.56	1.76	0.55615234	
+progress.	1.76	2.24	0.99902344	

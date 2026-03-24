@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_162",
+  "elements": [
+    {
+      "element_id": "center_word",
+      "type": "text_highlighted",
+      "phrase": "already spent.",
+      "text_content": "ALREADY SPENT.",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 540,
+      "scale": 1.038,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_top",
+      "type": "image",
+      "phrase": "Your",
+      "text_content": "",
+      "filename": "top_img.jpg",
+      "description": "A paycheck with detailed numbers and a signature, placed on a clean white desk.",
+      "x": 960,
+      "y": 190,
+      "scale": 0.22,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_top",
+      "type": "text_black",
+      "phrase": "paycheck is",
+      "text_content": "PAYCHECK",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 355,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

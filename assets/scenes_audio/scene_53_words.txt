@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Higher	0.4	0.6	0.99560547	
+car	0.6	0.88	1.0	
+payment,	0.88	1.36	0.99902344	
+higher	1.52	1.88	0.99853516	
+rent,	1.88	2.32	0.9996745	
+more	2.48	2.8	0.99902344	
+subscriptions.	2.8	3.44	0.8949219	

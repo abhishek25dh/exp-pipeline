@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "host_scene_48",
+    "filename": "host_explaining.png",
+    "phrase": "Social",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left_scene_48",
+    "filename": "img_left_scene_48.jpg",
+    "phrase": "media",
+    "start": 0.6,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_scene_48",
+    "filename": "arrow.png",
+    "phrase": "shows",
+    "start": 0.96,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_center_scene_48",
+    "filename": "img_center_scene_48.jpg",
+    "phrase": "constant comparison.",
+    "start": 1.4,
+    "end": 3.0
+  }
+]

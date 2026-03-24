@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "image_group_1_cause",
+    "filename": "group_1_cause_0.jpg",
+    "phrase": "The more you",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_group_1",
+    "filename": "arrow.png",
+    "phrase": "chase, the more",
+    "start": 0.8,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_group_1_effect",
+    "filename": "group_1_effect_0.jpg",
+    "phrase": "you need to spend.",
+    "start": 1.72,
+    "end": 3.0
+  }
+]

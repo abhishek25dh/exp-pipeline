@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_268",
+  "elements": [
+    {
+      "element_id": "host_scene_268",
+      "type": "image",
+      "phrase": "Most people struggle",
+      "text_content": "",
+      "x": 456,
+      "y": 566,
+      "scale": 0.759,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 35 host (P1, static local asset)"
+    },
+    {
+      "element_id": "text_right_scene_268",
+      "type": "text_highlighted",
+      "phrase": "money psychology.",
+      "text_content": "MONEY PSYCHOLOGY.",
+      "x": 1372,
+      "y": 446,
+      "scale": 1.667,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 35 text right (P2, line 1/1)"
+    }
+  ]
+}

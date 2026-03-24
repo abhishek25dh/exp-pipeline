@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_266",
+  "elements": [
+    {
+      "element_id": "img_left_scene_266",
+      "filename": "img_left_scene_266.jpg",
+      "original_description": "A cheerful young person stands in the center, arms wide open, smiling directly at the viewer. They wear casual, modern clothing in bright colors. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a cheerful young person standing in the center, arms wide open, smiling directly at the viewer. They wear casual, modern clothing in bright colors. Cinematic lighting, soft bokeh background, high resolution, emotional warmth and positive energy. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_right_scene_266",
+      "filename": "img_right_scene_266.jpg",
+      "original_description": "A glowing lightbulb hovers slightly above an open book centered in the frame. The book has colorful pages and the lightbulb emits soft yellow rays. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a glowing lightbulb hovering slightly above an open book centered in the frame. The book has colorful pages and the lightbulb emits soft yellow rays. Cinematic lighting, high resolution, sharp focus, concept of illumination and knowledge. No text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Take	0.32	0.48	0.99902344	
+out	0.48	0.68	0.99365234	
+payday	0.68	1.04	0.99853516	
+loans.	1.04	1.44	0.9995117	

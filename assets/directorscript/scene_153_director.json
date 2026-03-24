@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_153",
+  "elements": [
+    {
+      "element_id": "txt_core",
+      "type": "text_red",
+      "phrase": "Money shame",
+      "text_content": "MONEY SHAME",
+      "x": 960,
+      "y": 540,
+      "scale": 1.139,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Central Mind Map Root",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.79
+    },
+    {
+      "element_id": "img_node_4",
+      "type": "image",
+      "phrase": "also",
+      "filename": "orb_3_img.jpg",
+      "description": "A confused individual staring at a complex financial chart, pure white background",
+      "x": 1520,
+      "y": 250,
+      "scale": 0.22,
+      "angle": 4,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Orbit node 4",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_node_4",
+      "type": "text_highlighted",
+      "phrase": "prevents learning.",
+      "text_content": "prevents",
+      "x": 1520,
+      "y": 412,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Node label",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

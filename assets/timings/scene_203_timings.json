@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_left_scene_203",
+    "filename": "img_left_scene_203.jpg",
+    "phrase": "You'll pay",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_scene_203",
+    "filename": "arrow.png",
+    "phrase": "it off",
+    "start": 0.72,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_right_scene_203",
+    "filename": "img_right_scene_203.jpg",
+    "phrase": "later, but the",
+    "start": 1.04,
+    "end": 4.0
+  },
+  {
+    "element_id": "text_label_scene_203",
+    "filename": "",
+    "phrase": "balance keeps growing.",
+    "start": 1.88,
+    "end": 4.0
+  }
+]

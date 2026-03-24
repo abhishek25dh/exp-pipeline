@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_34",
+  "elements": [
+    {
+      "element_id": "img_host_mid_scene_34",
+      "type": "image",
+      "phrase": "Your brain craves",
+      "text_content": "",
+      "x": 964,
+      "y": 576,
+      "scale": 0.75,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 27 host (center, emotion=explaining)"
+    },
+    {
+      "element_id": "text_left_scene_34",
+      "type": "text_red",
+      "phrase": "that dopamine hit.",
+      "text_content": "DOPAMINE HIT.",
+      "x": 404,
+      "y": 425,
+      "scale": 1.282,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 27 left text (P2, line 1/1)"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "e7ebb205-2032-4b19-91b4-022fe8eb9c7b",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/689c5c0642528f4dcfc16717f552632d418a11f25da78f58b36fcc1c68c096a9/51206c80-aaf1-4e46-a227-d979670a4d95",
+  "text": "But future you is going to need money too.",
+  "words": [
+    {
+      "text": "But",
+      "start": 320,
+      "end": 480,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "future",
+      "start": 480,
+      "end": 800,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 800,
+      "end": 1120,
+      "confidence": 0.63183594,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 1120,
+      "end": 1280,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 1280,
+      "end": 1400,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 1400,
+      "end": 1520,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "need",
+      "start": 1520,
+      "end": 1680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 1680,
+      "end": 1920,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "too.",
+      "start": 1920,
+      "end": 2240,
+      "confidence": 0.9824219,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9560547,
+  "audio_duration": 3,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

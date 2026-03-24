@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_187",
+  "elements": [
+    {
+      "element_id": "img_left_scene_187",
+      "filename": "img_left_scene_187.jpg",
+      "original_description": "A hand releasing a glowing gold coin into the air, surrounded by sparkling particles. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "high-quality photograph of a hand releasing a glowing gold coin into the air, surrounded by sparkling particles, cinematic lighting with soft bokeh, high resolution, sharp focus, no text, no letters, no numbers, no watermarks"
+    },
+    {
+      "element_id": "img_center_scene_187",
+      "filename": "img_center_scene_187.jpg",
+      "original_description": "A person with a worried expression, holding an empty wallet upside down, coins falling out. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "high-quality photograph of a person with a worried expression, holding an empty wallet upside down with coins falling out, cinematic lighting with a sense of anxiety, high resolution, sharp focus, no text, no letters, no numbers, no watermarks"
+    }
+  ]
+}

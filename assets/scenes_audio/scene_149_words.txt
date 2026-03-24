@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.48	0.9980469	
+most	0.48	0.72	1.0	
+people	0.72	0.96	0.9995117	
+are	0.96	1.16	0.9995117	
+struggling	1.16	1.48	1.0	
+with	1.48	1.68	1.0	
+money	1.68	1.96	0.9995117	
+somehow.	1.96	2.48	0.9995117	

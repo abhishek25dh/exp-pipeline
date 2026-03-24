@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_38",
+  "elements": [
+    {
+      "element_id": "img_left_scene_38",
+      "type": "image",
+      "phrase": "You get",
+      "text_content": "",
+      "x": 445,
+      "y": 553,
+      "scale": 0.589,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_left_scene_38.jpg",
+      "description": "A cheerful person in casual clothes holding a large paycheck with a dollar sign on it, smiling brightly. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 31 left image (P1)"
+    },
+    {
+      "element_id": "arrow_scene_38",
+      "type": "arrow",
+      "phrase": "a raise",
+      "text_content": "",
+      "x": 1018,
+      "y": 561,
+      "scale": 0.387,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Layout 31 arrow (P2, static local asset)"
+    },
+    {
+      "element_id": "img_right_scene_38",
+      "type": "image",
+      "phrase": "and suddenly",
+      "text_content": "",
+      "x": 1501,
+      "y": 557,
+      "scale": 0.499,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_right_scene_38.jpg",
+      "description": "The same person surrounded by shopping bags, a new smartphone, and a fancy coffee cup, looking slightly overwhelmed. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 31 right image (P3)"
+    },
+    {
+      "element_id": "text_label_scene_38",
+      "type": "text_black",
+      "phrase": "you're spending more.",
+      "text_content": "SPENDING MORE.",
+      "x": 1488,
+      "y": 208,
+      "scale": 2.143,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 31 text label (P4, line 1/1)"
+    }
+  ]
+}

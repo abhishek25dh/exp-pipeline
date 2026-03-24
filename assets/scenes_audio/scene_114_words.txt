@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+Starting	0.16	0.44	0.9995117	
+small	0.44	0.68	0.8808594	
+with	0.68	0.96	1.0	
+low	0.96	1.2	1.0	
+cost	1.2	1.48	1.0	
+index	1.48	2.0	0.8642578	
+funds	2.0	2.44	0.9995117	
+is	2.44	2.72	0.99902344	
+accessible.	2.72	3.36	0.99658203	

@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_67",
+  "elements": [
+    {
+      "element_id": "strip_title",
+      "type": "text_highlighted",
+      "phrase": "Debt",
+      "text_content": "DEBT",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 220,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_frame_1",
+      "type": "image",
+      "phrase": "grows.",
+      "text_content": "",
+      "filename": "frame_1_img.jpg",
+      "description": "A small green plant sprout on a pure white background, symbolizing initial growth. The plant has two tiny leaves. No text, no letters, no numbers, no watermarks.",
+      "x": 192,
+      "y": 500,
+      "scale": 0.18,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

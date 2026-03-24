@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_img_0.jpg",
+    "phrase": "You want",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "text_group_1_1",
+    "filename": "",
+    "phrase": "money but",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_group_2_0",
+    "filename": "group_2_img_1.jpg",
+    "phrase": "feel bad",
+    "start": 1.2,
+    "end": 3.0
+  },
+  {
+    "element_id": "text_group_2_1",
+    "filename": "",
+    "phrase": "for wanting it.",
+    "start": 1.72,
+    "end": 3.0
+  }
+]

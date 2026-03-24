@@ -1,0 +1,17 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.44	0.99902344	
+the	0.44	0.6	1.0	
+less	0.6	0.8	1.0	
+you	0.8	1.0	1.0	
+know,	1.0	1.28	1.0	
+the	1.44	1.72	1.0	
+more	1.72	1.88	1.0	
+mistakes	1.88	2.32	1.0	
+you	2.32	2.52	1.0	
+make.	2.52	2.8	1.0	
+And	2.8	3.16	0.5307617	
+those	3.16	3.48	1.0	
+mistakes	3.48	3.92	1.0	
+keep	3.92	4.16	1.0	
+you	4.16	4.36	1.0	
+broke.	4.36	4.72	0.99975586	

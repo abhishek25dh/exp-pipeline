@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_129",
+  "elements": [
+    {
+      "element_id": "img_right_scene_129",
+      "type": "image",
+      "phrase": "$10,000 emergency fund.",
+      "text_content": "",
+      "x": 1371,
+      "y": 465,
+      "scale": 0.609,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_129.jpg",
+      "description": "A large bold green dollar sign with the number 10,000 floating in the center, surrounded by glowing coins and bills. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 28 image (slot=right, priority=1)"
+    }
+  ]
+}

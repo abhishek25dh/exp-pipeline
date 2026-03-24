@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_80",
+  "elements": [
+    {
+      "element_id": "img_left_scene_80",
+      "filename": "img_left_scene_80.jpg",
+      "original_description": "A simple white arrow pointing diagonally upward to the right on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a simple white arrow pointing diagonally upward to the right, centered on a pure white background, clean flat vector art, high contrast, no shading or gradients, sharp edges, simple and elegant design, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_right_scene_80",
+      "filename": "img_right_scene_80.jpg",
+      "original_description": "A lightbulb icon with colorful rays emanating from it, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a lightbulb icon with bright, vibrant, colorful rays emanating outward from it, centered on a pure white background, clean flat vector art, high contrast, no shading or gradients, sharp edges, simple and modern design, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

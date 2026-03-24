@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_232",
+  "elements": [
+    {
+      "element_id": "img_center_scene_232",
+      "filename": "img_center_scene_232.jpg",
+      "original_description": "A blank white screen with faint outlines of objects starting to form. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a blank white screen with faint, subtle outlines of abstract objects just beginning to form, like faint sketches emerging. Pure white background, clean flat vector art, high contrast, no shading or gradients. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tl_scene_232",
+      "filename": "img_tl_scene_232.jpg",
+      "original_description": "A cartoon map of the United States with bold colors and simple outlines, centered on the screen. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon map of the United States with bold, vibrant colors and simple, clean outlines, centered in the frame. Pure white background, clean flat vector art, high contrast, no shading or gradients. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_bl_scene_232",
+      "filename": "img_bl_scene_232.jpg",
+      "original_description": "A cartoon figure of a person wearing a suit, standing confidently with arms crossed, centered on the screen. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon figure of a person wearing a suit, standing confidently with arms crossed, centered in the frame. Pure white background, clean flat vector art, high contrast, no shading or gradients. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tr1_scene_232",
+      "filename": "img_tr1_scene_232.jpg",
+      "original_description": "A cartoon scale with one side filled with gold bars and the other side empty, centered on the screen. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon scale with one side filled with stylized gold bars and the other side empty, centered in the frame. Pure white background, clean flat vector art, high contrast, no shading or gradients. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tr2_scene_232",
+      "filename": "img_tr2_scene_232.jpg",
+      "original_description": "A cartoon thought bubble with a question mark inside, floating above the scale, centered on the screen. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon thought bubble with a simple question mark inside, floating subtly above the scale, centered in the frame. Pure white background, clean flat vector art, high contrast, no shading or gradients. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

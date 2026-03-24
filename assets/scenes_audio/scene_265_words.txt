@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+The	0.4	0.52	0.9980469	
+information	0.52	0.8	0.9995117	
+is	0.88	1.16	0.9995117	
+out	1.16	1.32	0.9995117	
+there.	1.32	1.6	0.99609375	

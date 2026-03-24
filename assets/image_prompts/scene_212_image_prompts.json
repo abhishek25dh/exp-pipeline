@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_212",
+  "elements": [
+    {
+      "element_id": "img_panel_1",
+      "filename": "panel_1_img.jpg",
+      "original_description": "A glowing checkmark icon on a pure white background, symbolizing affirmation or confirmation.",
+      "image_prompt": "A professional 2D minimalist icon of a glowing checkmark on a pure white background, symbolizing affirmation or confirmation. Clean flat vector art, high contrast, no shading or gradients, crisp edges."
+    },
+    {
+      "element_id": "img_panel_2",
+      "filename": "panel_2_img.jpg",
+      "original_description": "A laptop screen displaying multiple website banners with 'Buy now, pay later' offers, set against a pure white background.",
+      "image_prompt": "A laptop screen displaying multiple website banners with 'Buy now, pay later' offers, set against a pure white background. High-quality digital illustration, sharp focus on the screen details, clean UI elements, flat vector style."
+    }
+  ]
+}

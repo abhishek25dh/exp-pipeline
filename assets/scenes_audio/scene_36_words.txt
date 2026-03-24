@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+Wait	0.32	0.56	0.99975586	
+24	0.56	1.04	0.99976	
+hours	1.04	1.36	1.0	
+before	1.36	1.76	1.0	
+buying	1.76	2.24	0.7963867	
+anything	2.24	2.72	0.99975586	
+non	2.72	2.92	0.9970703	
+essential.	2.92	3.44	0.79174805	

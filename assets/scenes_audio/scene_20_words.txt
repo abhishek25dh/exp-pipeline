@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+That	0.32	0.48	0.9941406	
+quick	0.48	0.72	0.9995117	
+dopamine	0.72	1.28	0.99975586	
+hit.	1.28	1.6	0.9995117	

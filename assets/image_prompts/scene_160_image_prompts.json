@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_160",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "filename": "hero_main.jpg",
+      "original_description": "A 2D colorful cartoon graphic of a person sitting on a chair, hunched over with a dark cloud over their head. The chair is simple and gray, placed in the center of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A 2D colorful cartoon graphic of a person sitting on a chair, hunched over with a dark cloud over their head. The chair is simple and gray, placed in the center of a pure white background. Professional 2D minimalist icon, clean flat vector art, high contrast, no shading or gradients, pure white background. No text, no letters, no numbers, no watermarks. The image conveys a somber and stuck emotional tone through the pose and dark cloud."
+    }
+  ]
+}

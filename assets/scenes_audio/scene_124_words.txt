@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+An	0.32	0.44	0.9941406	
+emergency	0.44	0.92	1.0	
+fund	0.92	1.2	1.0	
+for	1.2	1.4	1.0	
+a	1.4	1.56	0.99853516	
+car	1.56	1.76	1.0	
+repair.	1.76	2.24	0.99975586	

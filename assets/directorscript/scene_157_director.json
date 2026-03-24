@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_157",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "type": "image",
+      "phrase": "Breaking free",
+      "text_content": "",
+      "filename": "step_1_img.jpg",
+      "description": "A pair of hands breaking free from chains, with shattered links falling away, on a pure white background.",
+      "x": 260,
+      "y": 757,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_step_1_1",
+      "type": "text_black",
+      "phrase": "starts with honesty.",
+      "text_content": "starts with",
+      "filename": "",
+      "description": "",
+      "x": 260,
+      "y": 974,
+      "scale": 1.4,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_step_1_2",
+      "type": "text_black",
+      "phrase": "",
+      "text_content": "honesty.",
+      "filename": "",
+      "description": "",
+      "x": 260,
+      "y": 1040,
+      "scale": 1.4,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

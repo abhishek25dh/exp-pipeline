@@ -1,0 +1,58 @@
+[
+  {
+    "element_id": "title_timeline",
+    "filename": "",
+    "phrase": "This mindset",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "was installed",
+    "start": 1.08,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_step_1",
+    "filename": "",
+    "phrase": "when you",
+    "start": 1.72,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_step_2",
+    "filename": "step_2_img.jpg",
+    "phrase": "were young,",
+    "start": 2.04,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_step_2",
+    "filename": "",
+    "phrase": "watching adults",
+    "start": 2.72,
+    "end": 5.0
+  },
+  {
+    "element_id": "arrow_0_1",
+    "filename": "arrow.png",
+    "phrase": "",
+    "start": 3.64,
+    "end": 5.0
+  },
+  {
+    "element_id": "arrow_1_2",
+    "filename": "arrow.png",
+    "phrase": "",
+    "start": 3.64,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_step_3",
+    "filename": "step_3_img.jpg",
+    "phrase": "stress about money.",
+    "start": 3.64,
+    "end": 5.0
+  }
+]

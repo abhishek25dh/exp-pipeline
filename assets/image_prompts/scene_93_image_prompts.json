@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_93",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_93",
+      "filename": "img_tl_scene_93.jpg",
+      "original_description": "A large glass pane cracks diagonally from top left to bottom right, with shards starting to fall away. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a large, clear glass pane with a dramatic diagonal crack running from the top left corner to the bottom right. Sharp, jagged shards of glass are captured in the moment of falling away, creating a sense of destruction and tension. Cinematic lighting with high contrast, sharp focus, and a dark, moody atmosphere. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tr_scene_93",
+      "filename": "img_tr_scene_93.jpg",
+      "original_description": "A cartoon brain with lightbulb icon above it, surrounded by glowing yellow sparks. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon brain with a simple lightbulb icon floating directly above it. The brain and lightbulb are surrounded by glowing yellow sparks. Clean flat vector art on a pure white background, high contrast, no shading or gradients. Bright, cheerful, and optimistic mood. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_bl_scene_93",
+      "filename": "img_bl_scene_93.jpg",
+      "original_description": "Four colorful arrows pointing in different directions - red up, blue right, green down, yellow left. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon featuring four bold, colorful arrows pointing in distinct directions: red arrow pointing up, blue arrow pointing right, green arrow pointing down, yellow arrow pointing left. Clean flat vector art on a pure white background, high contrast, no shading or gradients. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_br_scene_93",
+      "filename": "img_br_scene_93.jpg",
+      "original_description": "Three winding paths of different colors - pink, purple, and orange - extending into the distance. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of three winding paths extending into the distance, each with a distinct color: pink, purple, and orange. The paths are smooth and slightly curved, set against a soft, neutral background with cinematic lighting that creates a hopeful, open-ended mood. Soft bokeh effect in the background to emphasize the paths' direction. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_193",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "You want",
+      "filename": "group_1_img_0.jpg",
+      "description": "A cheerful cartoon character holding a large stack of dollar bills, smiling widely, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 590,
+      "y": 320,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "text_group_1_1",
+      "type": "text_highlighted",
+      "phrase": "money but",
+      "text_content": "money but",
+      "x": 1329,
+      "y": 320,
+      "scale": 2.963,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Emphasis text",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.69
+    },
+    {
+      "element_id": "image_group_2_0",
+      "type": "image",
+      "phrase": "feel bad",
+      "filename": "group_2_img_1.jpg",
+      "description": "The same cartoon character now looking guilty, holding their head down, with a small rain cloud above them, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1329,
+      "y": 760,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "text_group_2_1",
+      "type": "text_highlighted",
+      "phrase": "for wanting it.",
+      "text_content": "for wanting it.",
+      "x": 590,
+      "y": 760,
+      "scale": 1.778,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Emphasis text",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

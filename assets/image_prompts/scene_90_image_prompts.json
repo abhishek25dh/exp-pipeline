@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_90",
+  "elements": [
+    {
+      "element_id": "img_left_scene_90",
+      "filename": "img_left_scene_90.jpg",
+      "original_description": "A person holding a stack of dollar bills in one hand, with a distressed facial expression, standing in front of a plain white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person holding a stack of dollar bills in one hand, with a distressed facial expression, standing in front of a plain white background. Cinematic lighting, soft bokeh, high resolution, detailed texture of the bills and skin, emotional and tense mood, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_90",
+      "filename": "img_right_scene_90.jpg",
+      "original_description": "A person sitting on an empty wallet, looking sad and frustrated, with a thought bubble showing a broken heart, against a plain white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person sitting on an empty wallet, looking sad and frustrated, with a thought bubble showing a broken heart, against a plain white background. Cinematic lighting, sharp focus, high resolution, detailed expression and clothing, melancholic and emotional tone, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

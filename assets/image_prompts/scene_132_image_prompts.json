@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_132",
+  "elements": [
+    {
+      "element_id": "img_right_scene_132",
+      "filename": "img_right_scene_132.jpg",
+      "original_description": "A tiny green sprout emerging from soil, with a soft glow around it. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a tiny green sprout emerging from rich, dark soil, with a soft, gentle glow emanating from its tip. Clean flat vector art on a pure white background. High contrast, no shading, no gradients, no textures. No text, letters, numbers, or watermarks. Consistent and subtle mood, isolated subject."
+    },
+    {
+      "element_id": "img_left_scene_132",
+      "filename": "img_left_scene_132.jpg",
+      "original_description": "A large, flourishing tree with bright green leaves and vibrant roots. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a large, flourishing tree with a full canopy of bright green leaves and a network of vibrant, detailed roots visible below. Clean flat vector art on a pure white background. High contrast, no shading, no gradients, no textures. No text, letters, numbers, or watermarks. Strong, impactful result, isolated subject."
+    }
+  ]
+}

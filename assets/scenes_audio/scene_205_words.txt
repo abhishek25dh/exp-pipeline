@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.48	0.99658203	
+interest	0.48	0.76	1.0	
+adds	0.76	1.2	0.8105469	
+up	1.2	1.36	0.9995117	
+fast.	1.36	1.76	0.9968262	

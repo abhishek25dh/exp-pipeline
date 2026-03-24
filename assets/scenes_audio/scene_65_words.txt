@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Late	0.32	0.48	0.9951172	
+fee	0.48	0.8	0.95703125	
+stack	0.8	1.12	0.998291	
+up.	1.12	1.44	0.5263672	

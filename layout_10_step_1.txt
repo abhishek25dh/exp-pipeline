@@ -1,0 +1,22 @@
+You are designing structure only for Layout 10 (Macro + Micro).
+
+Given a scene script, output:
+- one macro topic
+- 2 or 3 micro details
+
+Rules:
+- Do not assign phrase strings in this step.
+- Do not assign word spans in this step.
+- Keep output concise and semantic.
+
+Output JSON only:
+{
+  "macro": {
+    "topic_name": "short id",
+    "summary": "1 short sentence"
+  },
+  "micro_details": [
+    { "detail_id": "detail_1", "summary": "1 short sentence" },
+    { "detail_id": "detail_2", "summary": "1 short sentence" }
+  ]
+}

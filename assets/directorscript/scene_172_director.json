@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_172",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_red",
+      "phrase": "Short-term thinking",
+      "text_content": "SHORT-TERM THINKING ALSO",
+      "x": 960,
+      "y": 310,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "also means",
+      "text_content": "",
+      "x": 1274,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 142,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "missing long-term opportunities.",
+      "text_content": "",
+      "x": 914,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_1_scene_172.jpg",
+      "description": "A person standing at a crossroads, looking down at a small coin on the ground while a glowing golden path leading to a distant treasure chest fades into the background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

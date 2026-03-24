@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_270",
+  "elements": [
+    {
+      "element_id": "host_left_scene_270",
+      "type": "image",
+      "phrase": "And if you want more real",
+      "text_content": "",
+      "x": 473,
+      "y": 577,
+      "scale": 1.5,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "host_looking_right.png",
+      "description": "",
+      "reason": "Layout 30 host (P1, static local asset)"
+    },
+    {
+      "element_id": "img_right_scene_270",
+      "type": "image",
+      "phrase": "talk about money and psychology, hit subscribe.",
+      "text_content": "",
+      "x": 1383,
+      "y": 553,
+      "scale": 0.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_270.jpg",
+      "description": "A cheerful cartoon character holds a megaphone in one hand and a piggy bank in the other, with a thought bubble showing a brain and a dollar sign. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 30 right image (P2, AI-generated)"
+    }
+  ]
+}

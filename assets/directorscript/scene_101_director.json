@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_101",
+  "elements": [
+    {
+      "element_id": "strip_title",
+      "type": "text_highlighted",
+      "phrase": "Maybe",
+      "text_content": "MAYBE",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 220,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_frame_1",
+      "type": "image",
+      "phrase": "you",
+      "text_content": "",
+      "filename": "frame_1_img.jpg",
+      "description": "A cartoon-style hand pointing directly at the viewer, with a friendly smiley face on the palm. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "x": 192,
+      "y": 500,
+      "scale": 0.18,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "cap_frame_1",
+      "type": "text_black",
+      "phrase": "remember 2008.",
+      "text_content": "remember 2008.",
+      "filename": "",
+      "description": "",
+      "x": 192,
+      "y": 652,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

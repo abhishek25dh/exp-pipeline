@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_63",
+  "elements": [
+    {
+      "element_id": "img_node_2",
+      "filename": "orb_1_img.jpg",
+      "original_description": "A person holding a remote control with a determined expression, pointing it at a blank TV screen, pure white background",
+      "image_prompt": "Professional 2D minimalist icon, a person holding a remote control with a determined expression, pointing it at a blank TV screen, pure white background, clean flat vector art, high contrast, no shading or gradients, emotionally resonant with a sense of focused decision."
+    },
+    {
+      "element_id": "img_node_3",
+      "filename": "orb_2_img.jpg",
+      "original_description": "A calendar with today's date circled in red and a future date marked with a question mark, pure white background",
+      "image_prompt": "Professional 2D minimalist icon, a calendar with today's date circled in red and a future date marked with a question mark, pure white background, clean flat vector art, high contrast, no shading or gradients, mood of uncertainty and anticipation."
+    },
+    {
+      "element_id": "img_node_4",
+      "filename": "orb_3_img.jpg",
+      "original_description": "A person building a wall of colorful blocks around themselves, with a serious expression, pure white background",
+      "image_prompt": "Professional 2D minimalist icon, a person building a wall of colorful blocks around themselves, with a serious expression, pure white background, clean flat vector art, high contrast, no shading or gradients, conveying a defensive and serious atmosphere."
+    }
+  ]
+}

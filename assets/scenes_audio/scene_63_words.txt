@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+Avoidance	0.24	0.72	1.0	
+feels	0.72	1.0	1.0	
+safer	1.0	1.4	1.0	
+than	1.4	1.56	1.0	
+dealing	1.56	1.92	0.9465332	
+with	1.92	2.08	1.0	
+stress	2.08	2.52	1.0	
+or	2.52	2.8	0.9399414	
+shame.	2.8	3.28	0.9995117	

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_38",
+  "elements": [
+    {
+      "element_id": "img_left_scene_38",
+      "filename": "img_left_scene_38.jpg",
+      "original_description": "A cheerful person in casual clothes holding a large paycheck with a dollar sign on it, smiling brightly. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a cheerful person in casual clothes holding a large, oversized paycheck with a prominent dollar sign on it, smiling brightly with genuine joy. Professional cinematic lighting with soft bokeh background, high resolution, sharp focus on the person and paycheck, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_right_scene_38",
+      "filename": "img_right_scene_38.jpg",
+      "original_description": "The same person surrounded by shopping bags, a new smartphone, and a fancy coffee cup, looking slightly overwhelmed. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of the same cheerful person from the previous image, now surrounded by numerous shopping bags, a brand new smartphone, and a fancy coffee cup, looking slightly overwhelmed or flustered. Professional cinematic lighting with a shallow depth of field, high resolution, sharp focus on the person's expression and items, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

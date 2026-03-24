@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_128",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_black",
+      "phrase": "$30,000 in student loans.",
+      "text_content": "$30,000 IN STUDENT LOANS.",
+      "x": 960,
+      "y": 540,
+      "scale": 2.4,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

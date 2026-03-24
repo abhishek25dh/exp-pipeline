@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_114",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_red",
+      "phrase": "Starting small with low-cost index funds is accessible.",
+      "text_content": "STARTING SMALL WITH LOW-COST INDEX FUNDS IS ACCESSIBLE.",
+      "x": 960,
+      "y": 540,
+      "scale": 1.091,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Same	0.08	0.24	0.9941406	
+day	0.24	0.44	1.0	
+delivery	0.44	1.04	1.0	
+binge	1.12	1.56	0.99886066	
+watching	1.56	2.08	1.0	
+fast	2.16	2.56	0.99975586	
+food.	2.56	2.88	1.0	

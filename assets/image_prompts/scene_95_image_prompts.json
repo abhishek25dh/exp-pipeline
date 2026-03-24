@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_95",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A bright yellow speech bubble with a question mark inside, floating on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a bright yellow speech bubble with a single, bold question mark inside, floating on a pure white background. Clean flat vector art, high contrast, no shading or gradients. No text, no letters, no numbers, no watermarks. The overall mood should be inquisitive and approachable."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A stylized cartoon heart in shades of pink and red, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a stylized cartoon heart in shades of pink and red, centered on a pure white background. Clean flat vector art, high contrast, no shading or gradients. The heart should look friendly and emotive. No text, no letters, no numbers, no watermarks. The overall tone should be warm and heartfelt."
+    }
+  ]
+}

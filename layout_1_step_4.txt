@@ -1,0 +1,28 @@
+You are an expert layout formatter. You are given a list of visual elements assigned to specific columns ("left", "middle", "right").
+
+Your task is to assign a "subgroup" integer to each element to determine its vertical placement within its column.
+
+CRITICAL GROUPING RULES:
+
+If multiple micro-phrases belong to the EXACT SAME original sentence, or describe the exact same sub-topic (e.g., two phrases about 'music'), they MUST share the SAME subgroup number. This tells the renderer to group them together.
+
+Only increment the subgroup number (e.g., go from 1 to 2) when the narrative shifts to a completely new sub-topic or idea within that column.
+
+Subgroups restart at 1 for each column independently.
+
+Output ONLY the finalized JSON structure without markdown formatting.
+
+Expected JSON format:
+{
+"final_elements": [
+{
+"element_id": "image_[auto_increment_number]",
+"phrase_id": "[id from input]",
+"phrase": "[text from input]",
+"visual_description": "[description from input]",
+"column": "[from input]",
+"subgroup": [integer],
+"reason": "[Explain why it shares a subgroup with another element, or why it triggered a new subgroup]"
+}
+]
+}

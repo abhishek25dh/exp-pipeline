@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_235",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "They bring temporary",
+      "filename": "group_1_image_0.jpg",
+      "description": "A bright yellow smiley face balloon floats upward, slowly deflating, with a faint smile fading as it loses air. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "x": 501,
+      "y": 553,
+      "scale": 0.45,
+      "angle": -4,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "validation that doesn't last.",
+      "filename": "group_1_image_1.jpg",
+      "description": "A cracked gold trophy sits on a pedestal, its shine dulled and pieces falling apart. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "x": 1491,
+      "y": 553,
+      "scale": 0.45,
+      "angle": 4,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

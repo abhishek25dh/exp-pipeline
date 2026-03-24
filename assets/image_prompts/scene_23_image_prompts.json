@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_23",
+  "elements": [
+    {
+      "element_id": "img_top",
+      "filename": "top_img.jpg",
+      "original_description": "A shopping cart overflowing with random items like clothes, electronics, and snacks, all haphazardly thrown in.",
+      "image_prompt": "High-quality photograph of a shopping cart overflowing with random items like clothes, electronics, and snacks, all haphazardly thrown in, under vibrant store lighting, with a sense of clutter and impulse, high resolution, sharp focus, filled composition."
+    },
+    {
+      "element_id": "img_bottom_right",
+      "filename": "bottom_right_img.jpg",
+      "original_description": "A close-up of a person's face smiling brightly while holding a shopping bag, with a warm glow around them.",
+      "image_prompt": "High-quality photograph of a close-up of a person's face smiling brightly while holding a shopping bag, with a warm glow around them, cinematic lighting, emotional and joyful mood, soft bokeh background, high resolution."
+    },
+    {
+      "element_id": "img_bottom_left",
+      "filename": "bottom_left_img.jpg",
+      "original_description": "A minimalist illustration of a person sitting surrounded by unused purchases, looking confused and overwhelmed.",
+      "image_prompt": "Professional 2D minimalist icon of a person sitting surrounded by unused purchases, looking confused and overwhelmed, pure white background, clean flat vector art, high contrast, no shading or gradients, simple and clear design."
+    }
+  ]
+}

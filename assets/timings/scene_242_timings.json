@@ -1,0 +1,65 @@
+[
+  {
+    "element_id": "title_timeline",
+    "filename": "",
+    "phrase": "Learning to",
+    "start": 0.32,
+    "end": 7.0
+  },
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "stop caring",
+    "start": 0.76,
+    "end": 7.0
+  },
+  {
+    "element_id": "txt_step_1",
+    "filename": "",
+    "phrase": "what others think",
+    "start": 1.4,
+    "end": 7.0
+  },
+  {
+    "element_id": "img_step_2",
+    "filename": "step_2_img.jpg",
+    "phrase": "is hard, but",
+    "start": 2.16,
+    "end": 7.0
+  },
+  {
+    "element_id": "txt_step_2",
+    "filename": "",
+    "phrase": "it's the only",
+    "start": 3.16,
+    "end": 7.0
+  },
+  {
+    "element_id": "img_step_3",
+    "filename": "step_3_img.jpg",
+    "phrase": "way to escape",
+    "start": 3.8,
+    "end": 7.0
+  },
+  {
+    "element_id": "arrow_0_1",
+    "filename": "arrow.png",
+    "phrase": "",
+    "start": 4.8,
+    "end": 7.0
+  },
+  {
+    "element_id": "arrow_1_2",
+    "filename": "arrow.png",
+    "phrase": "",
+    "start": 4.8,
+    "end": 7.0
+  },
+  {
+    "element_id": "txt_step_3",
+    "filename": "",
+    "phrase": "the status trap.",
+    "start": 4.8,
+    "end": 7.0
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "element_id": "img_tl_scene_50",
+    "filename": "img_tl_scene_50.jpg",
+    "phrase": "You go",
+    "start": 0.32,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_tr_scene_50",
+    "filename": "img_tr_scene_50.jpg",
+    "phrase": "from barely",
+    "start": 0.68,
+    "end": 6.0
+  },
+  {
+    "element_id": "text_row2_scene_50",
+    "filename": "",
+    "phrase": "making it",
+    "start": 1.24,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_br_scene_50",
+    "filename": "img_br_scene_50.jpg",
+    "phrase": "on $50,000",
+    "start": 1.72,
+    "end": 6.0
+  },
+  {
+    "element_id": "text_row1_scene_50",
+    "filename": "",
+    "phrase": "to barely",
+    "start": 3.04,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_bl_scene_50",
+    "filename": "img_bl_scene_50.jpg",
+    "phrase": "making it",
+    "start": 3.8,
+    "end": 6.0
+  },
+  {
+    "element_id": "text_row3_scene_50",
+    "filename": "",
+    "phrase": "on $70,000.",
+    "start": 4.28,
+    "end": 6.0
+  }
+]

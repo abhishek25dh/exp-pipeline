@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.99560547	
+want	0.52	0.68	0.9736328	
+to	0.68	0.8	0.9995117	
+look	0.8	0.96	1.0	
+successful.	0.96	1.52	0.99316406	

@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_49",
+  "elements": [
+    {
+      "element_id": "img_center_scene_49",
+      "filename": "img_center_scene_49.jpg",
+      "original_description": "A person standing with a neutral expression, arms slightly outstretched, on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a person standing with a neutral expression, arms slightly outstretched, isolated on a pure white background. Cinematic, lifestyle-themed studio lighting with soft bokeh, high resolution, and sharp focus. Professional photography. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_tl_scene_49",
+      "filename": "img_tl_scene_49.jpg",
+      "original_description": "A cartoonish green vine creeping upward from the bottom left corner, with small dollar signs embedded in its leaves. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoonish green vine creeping upward from the bottom left corner, with small dollar signs embedded in its leaves. Clean flat vector art on a pure white background, high contrast, no shading or gradients. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_bl_scene_49",
+      "filename": "img_bl_scene_49.jpg",
+      "original_description": "A cartoon mouth with sharp teeth biting down on a stack of dollar bills, with crumbs of money falling. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon mouth with sharp teeth biting down on a stack of dollar bills, with crumbs of money falling. Clean flat vector art on a pure white background, high contrast, no shading or gradients. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_tr1_scene_49",
+      "filename": "img_tr1_scene_49.jpg",
+      "original_description": "An upward-pointing arrow with a dollar sign at its tip, angled diagonally from the bottom left to the top right. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of an upward-pointing arrow with a dollar sign at its tip, angled diagonally from the bottom left to the top right. Clean flat vector art on a pure white background, high contrast, no shading or gradients. No text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

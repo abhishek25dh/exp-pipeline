@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_136",
+  "elements": [
+    {
+      "element_id": "img_center_scene_136",
+      "type": "image",
+      "phrase": "Every $20",
+      "text_content": "",
+      "x": 730,
+      "y": 530,
+      "scale": 0.59,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_center_scene_136.jpg",
+      "description": "A simple circular icon with a smiling face, radiating positivity and encouragement. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_center (P1, AI generated)"
+    },
+    {
+      "element_id": "img_tl_scene_136",
+      "type": "image",
+      "phrase": "saved is progress.",
+      "text_content": "",
+      "x": 232,
+      "y": 376,
+      "scale": 0.271,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_tl_scene_136.jpg",
+      "description": "A crisp, green $20 bill floating slightly above the white background, with a subtle shine to emphasize its value. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tl (P2, AI generated)"
+    }
+  ]
+}

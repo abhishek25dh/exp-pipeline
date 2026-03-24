@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_233",
+  "elements": [
+    {
+      "element_id": "text_1",
+      "type": "text_highlighted",
+      "phrase": "chasing status keeps",
+      "text_content": "chasing status keeps",
+      "x": 360,
+      "y": 190,
+      "scale": 1.6,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Deterministic left anchor from first narrative half.",
+      "typing_speed": 0.64,
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "text_2",
+      "type": "text_red",
+      "phrase": "you broke.",
+      "text_content": "you broke.",
+      "x": 1560,
+      "y": 190,
+      "scale": 1.63,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic right anchor from second narrative half.",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_1",
+      "type": "image",
+      "phrase": "But",
+      "filename": "left_image_0.jpg",
+      "description": "A frustrated cartoon person stands in front of a pile of empty wallets and credit cards, looking overwhelmed. The background is pure white.",
+      "x": 343,
+      "y": 676,
+      "scale": 0.6,
+      "angle": -3,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "First subgroup in this column.",
+      "text_content": ""
+    }
+  ]
+}

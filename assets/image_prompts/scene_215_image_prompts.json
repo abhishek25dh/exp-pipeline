@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_215",
+  "elements": [
+    {
+      "element_id": "img_1",
+      "filename": "img_1_scene_215.jpg",
+      "original_description": "A cartoon dollar bill with a sad face flies toward a large cartoon piggy bank labeled 'Interest'. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A cartoon style illustration. A dollar bill with a simple, expressive sad face drawn on it. The dollar bill is in mid-air, flying towards a large, friendly cartoon piggy bank. The piggy bank is clearly labeled with the word 'Interest' on its side. Professional 2D minimalist icon style, clean flat vector art, pure white background, high contrast, no shading or gradients. No text, letters, numbers, or watermarks in the image. The mood is lighthearted and illustrative."
+    },
+    {
+      "element_id": "img_2",
+      "filename": "img_2_scene_215.jpg",
+      "original_description": "A sleek glass jar filled with coins and a few crumpled bills sits on a white surface. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph. A modern, sleek glass jar sits on a clean, minimalist white surface. Inside the jar is a mix of coins and a few crumpled paper bills. The composition is clean and aspirational, with soft, cinematic lighting creating gentle highlights on the glass. Sharp focus on the jar and its contents, with a soft bokeh effect on the white background. No text, letters, numbers, or watermarks in the image."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "89e8f95e-d1cf-483a-bd88-bce2bd10e062",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/eceec051c54bb0139d0040f2ade4117252e1181e307d34bee722543f15478134/c0dc449b-5b9d-4d2c-8921-93fba07a098b",
+  "text": "The whole system bypasses your rational brain and goes straight to emotions.",
+  "words": [
+    {
+      "text": "The",
+      "start": 400,
+      "end": 520,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "whole",
+      "start": 520,
+      "end": 760,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "system",
+      "start": 760,
+      "end": 1040,
+      "confidence": 0.53125,
+      "speaker": null
+    },
+    {
+      "text": "bypasses",
+      "start": 1280,
+      "end": 1960,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 1960,
+      "end": 2160,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "rational",
+      "start": 2160,
+      "end": 2640,
+      "confidence": 0.99527997,
+      "speaker": null
+    },
+    {
+      "text": "brain",
+      "start": 2640,
+      "end": 3080,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 3080,
+      "end": 3400,
+      "confidence": 0.9707031,
+      "speaker": null
+    },
+    {
+      "text": "goes",
+      "start": 3400,
+      "end": 3720,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "straight",
+      "start": 3720,
+      "end": 4040,
+      "confidence": 0.9958496,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 4040,
+      "end": 4240,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "emotions.",
+      "start": 4240,
+      "end": 4800,
+      "confidence": 0.9897461,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.95602757,
+  "audio_duration": 6,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_moment_1",
+    "filename": "moment_1_img.jpg",
+    "phrase": "Your brain",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_moment_1",
+    "filename": "",
+    "phrase": "learned that",
+    "start": 0.76,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_moment_2",
+    "filename": "moment_2_img.jpg",
+    "phrase": "money equals fear.",
+    "start": 1.36,
+    "end": 3.0
+  }
+]

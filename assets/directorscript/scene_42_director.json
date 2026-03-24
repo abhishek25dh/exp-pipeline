@@ -1,0 +1,81 @@
+{
+  "scene_id": "scene_42",
+  "elements": [
+    {
+      "element_id": "img_left_scene_42",
+      "type": "image",
+      "phrase": "You're making",
+      "text_content": "",
+      "x": 361,
+      "y": 559,
+      "scale": 0.604,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_left_scene_42.jpg",
+      "description": "A cheerful cartoon character in business casual attire smiles while holding a stack of dollar bills. The character stands in front of a simple office desk with a computer monitor.",
+      "reason": "Layout 34 left image (P1)"
+    },
+    {
+      "element_id": "img_right_scene_42",
+      "type": "image",
+      "phrase": "more but",
+      "text_content": "",
+      "x": 1582,
+      "y": 564,
+      "scale": 0.598,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_right_scene_42.jpg",
+      "description": "The same character looks stressed, holding an empty wallet open with one hand and scratching their head with the other. A calendar on the wall shows the end of the month approaching.",
+      "reason": "Layout 34 right image (P2)"
+    },
+    {
+      "element_id": "text_1_l1",
+      "type": "text_red",
+      "phrase": "still living",
+      "text_content": "STILL LIVING",
+      "x": 973,
+      "y": 170,
+      "scale": 1.25,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 34 text_1 (P3, line 1/2)"
+    },
+    {
+      "element_id": "text_1_l2",
+      "type": "text_red",
+      "phrase": "",
+      "text_content": "PAYCHECK",
+      "x": 973,
+      "y": 270,
+      "scale": 1.25,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 34 text_1 (P3, line 2/2)",
+      "typing_speed": 0.63
+    },
+    {
+      "element_id": "text_2",
+      "type": "text_red",
+      "phrase": "paycheck to paycheck.",
+      "text_content": "TO PAYCHECK.",
+      "x": 976,
+      "y": 470,
+      "scale": 1.25,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 34 text_2 (P4, line 1/1)"
+    }
+  ]
+}

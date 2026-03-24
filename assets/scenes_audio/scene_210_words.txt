@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Easy	0.32	0.56	0.9995117	
+to	0.56	0.68	1.0	
+get,	0.68	0.96	0.9995117	
+hard	1.2	1.52	1.0	
+to	1.52	1.72	1.0	
+escape.	1.72	2.24	0.9998372	

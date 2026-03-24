@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_186",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_highlighted",
+      "phrase": "You turn down opportunities.",
+      "text_content": "YOU TURN DOWN OPPORTUNITIES.",
+      "x": 960,
+      "y": 310,
+      "scale": 2.143,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21"
+    }
+  ]
+}

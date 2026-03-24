@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_4",
+  "elements": [
+    {
+      "element_id": "img_2",
+      "type": "image",
+      "phrase": "Even when you get a",
+      "text_content": "",
+      "filename": "img_2.jpg",
+      "description": "A hand reaching out toward a small glowing coin floating in mid-air, surrounded by a faint golden aura. The coin represents something valuable or extra.",
+      "x": 780,
+      "y": 520,
+      "scale": 0.411,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "little extra now, you feel",
+      "text_content": "",
+      "filename": "img_1.jpg",
+      "description": "The glowing coin now held delicately in the palm of a hand, but the golden aura begins to fade, symbolizing uncertainty or impermanence.",
+      "x": 260,
+      "y": 540,
+      "scale": 0.239,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_3",
+      "type": "image",
+      "phrase": "like it will disappear.",
+      "text_content": "",
+      "filename": "img_3.jpg",
+      "description": "The coin dissolving into shimmering particles, vanishing into thin air, leaving the hand empty and the background stark white.",
+      "x": 1500,
+      "y": 500,
+      "scale": 0.683,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

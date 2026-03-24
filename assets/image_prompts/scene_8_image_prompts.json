@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_8",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "filename": "group_1_cause_0.jpg",
+      "original_description": "A person stands at a crossroads, one path brightly lit and inviting, the other dark and ominous. The person hesitates, looking worried, choosing to stay in place. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph, cinematic lighting. A person stands at a crossroads, one path brightly lit and inviting, the other dark and ominous. The person hesitates, looking worried, choosing to stay in place. No text, no letters, no numbers, no watermarks. The mood is one of hesitation and internal conflict, captured with a shallow depth of field to focus on the person's conflicted expression and the fork in the road."
+    },
+    {
+      "element_id": "image_group_1_effect",
+      "filename": "group_1_effect_0.jpg",
+      "original_description": "A colorful treasure chest sits on the lit path, glowing with opportunity, while the person remains stuck in the same spot, looking regretful. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph, cinematic lighting. A colorful treasure chest sits on the lit path, glowing with opportunity, while the person remains stuck in the same spot, looking regretful. No text, no letters, no numbers, no watermarks. The mood is one of missed opportunity and regret, with soft bokeh highlighting the contrast between the glowing treasure chest and the person's stationary, regretful posture."
+    }
+  ]
+}

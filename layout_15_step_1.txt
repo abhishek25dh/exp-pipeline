@@ -1,0 +1,30 @@
+You are planning ONLY the hero part of Layout 15 (Hero + Bullets).
+
+You will receive:
+- `scene_script`: full script text
+- `script_words_indexed`: the same script tokenized into indexed words (1-based)
+
+Your job in this step:
+1. Pick one contiguous hero phrase span using word indices.
+2. Describe the hero image visual.
+
+Important:
+- Do NOT assign section title, bullets, or CTA in this step.
+- Hero phrase must be chosen by index span only (start_word, end_word).
+- Keep hero phrase length between 4 and 12 words.
+- Hero phrase should represent the core emotional or narrative center of the scene.
+- Hero image description must semantically match that hero phrase.
+- White background in description.
+
+Output JSON only:
+{
+  "hero_phrase_span": {
+    "start_word": 1,
+    "end_word": 8
+  },
+  "hero_concept": "1 short sentence",
+  "hero_image": {
+    "visual_description": "detailed image prompt, white background",
+    "is_realistic": true
+  }
+}

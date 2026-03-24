@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_150",
+  "elements": [
+    {
+      "element_id": "title_timeline",
+      "type": "text_black",
+      "phrase": "Consumer debt",
+      "text_content": "CONSUMER DEBT IS AT ALL-TIME HIGHS.",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 130,
+      "scale": 1.695,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_step_1",
+      "type": "image",
+      "phrase": "is at",
+      "text_content": "",
+      "filename": "step_1_img.jpg",
+      "description": "A tall red bar graph with multiple ascending bars reaching the top, representing increasing levels of consumer debt. The graph sits on a pure white background.",
+      "x": 200,
+      "y": 380,
+      "scale": 0.25,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "txt_step_1",
+      "type": "text_highlighted",
+      "phrase": "all-time highs.",
+      "text_content": "all-time highs.",
+      "filename": "",
+      "description": "",
+      "x": 633,
+      "y": 650,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.37
+    }
+  ]
+}

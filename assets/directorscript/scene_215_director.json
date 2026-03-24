@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_215",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_highlighted",
+      "phrase": "Every dollar",
+      "text_content": "EVERY DOLLAR",
+      "x": 960,
+      "y": 315,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 20"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "to interest",
+      "text_content": "",
+      "x": 476,
+      "y": 526,
+      "scale": 0.2,
+      "angle": 129,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to center image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "could have",
+      "text_content": "",
+      "x": 351,
+      "y": 830,
+      "scale": 0.3,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_1_scene_215.jpg",
+      "description": "A cartoon dollar bill with a sad face flies toward a large cartoon piggy bank labeled 'Interest'. No text, no letters, no numbers, no watermarks.",
+      "reason": "Center image for layout 20"
+    },
+    {
+      "element_id": "arrow_2",
+      "type": "arrow",
+      "phrase": "gone to",
+      "text_content": "",
+      "x": 952,
+      "y": 566,
+      "scale": 0.2,
+      "angle": 90,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to left image"
+    },
+    {
+      "element_id": "img_2",
+      "type": "image",
+      "phrase": "savings or investment.",
+      "text_content": "",
+      "x": 959,
+      "y": 830,
+      "scale": 0.3,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_2_scene_215.jpg",
+      "description": "A sleek glass jar filled with coins and a few crumpled bills sits on a white surface. No text, no letters, no numbers, no watermarks.",
+      "reason": "Left image for layout 20"
+    }
+  ]
+}

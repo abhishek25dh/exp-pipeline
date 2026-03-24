@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_155",
+  "elements": [
+    {
+      "element_id": "img_left_scene_155",
+      "filename": "img_left_scene_155.jpg",
+      "original_description": "A stern-looking financial advisor in a suit sits behind a desk, raising an eyebrow while looking at a document. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "high-quality photograph of a stern-looking financial advisor in a suit sitting behind a polished desk, raising an eyebrow while critically examining a financial document. Cinematic lighting emphasizing a serious, judgmental mood, sharp focus, detailed textures, and soft bokeh in the background. Professional office environment, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_right_scene_155",
+      "filename": "img_right_scene_155.jpg",
+      "original_description": "A nervous person with wide eyes and a worried expression stands in front of the advisor, clutching their hands together. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "high-quality photograph of a nervous person with wide eyes and a worried expression standing in front of an advisor, clutching their hands together anxiously. Cinematic lighting capturing a tense, fearful mood, shallow depth of field, high resolution, detailed facial expression, soft bokeh background. Professional office setting, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

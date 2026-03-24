@@ -1,0 +1,44 @@
+[
+  {
+    "element_id": "title",
+    "filename": "",
+    "phrase": "While others",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "vs_center",
+    "filename": "",
+    "phrase": "invest small",
+    "start": 0.8,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_left",
+    "filename": "left_concept.jpg",
+    "phrase": "amounts and",
+    "start": 1.44,
+    "end": 5.0
+  },
+  {
+    "element_id": "label_left",
+    "filename": "",
+    "phrase": "watch it",
+    "start": 2.16,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_right",
+    "filename": "right_concept.jpg",
+    "phrase": "grow, you",
+    "start": 2.64,
+    "end": 5.0
+  },
+  {
+    "element_id": "label_right",
+    "filename": "",
+    "phrase": "stay in place.",
+    "start": 3.4,
+    "end": 5.0
+  }
+]

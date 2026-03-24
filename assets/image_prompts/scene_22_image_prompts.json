@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_22",
+  "elements": [
+    {
+      "element_id": "img_frame_1",
+      "filename": "frame_1_img.jpg",
+      "original_description": "A single white envelope with a red stamp and a dollar sign on it, placed on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a single white envelope with a red stamp featuring a bold black dollar sign symbol on a pure white background, clean flat vector art style, high contrast, no shading, gradients, or textures, sharp lines, centered composition, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

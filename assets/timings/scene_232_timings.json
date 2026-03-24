@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "img_center_scene_232",
+    "filename": "img_center_scene_232.jpg",
+    "phrase": "In the",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tl_scene_232",
+    "filename": "img_tl_scene_232.jpg",
+    "phrase": "US, status",
+    "start": 0.68,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_bl_scene_232",
+    "filename": "img_bl_scene_232.jpg",
+    "phrase": "is measured",
+    "start": 1.84,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tr1_scene_232",
+    "filename": "img_tr1_scene_232.jpg",
+    "phrase": "by what",
+    "start": 2.36,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tr2_scene_232",
+    "filename": "img_tr2_scene_232.jpg",
+    "phrase": "you own.",
+    "start": 2.68,
+    "end": 4.0
+  }
+]

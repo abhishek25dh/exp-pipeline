@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+Contributing	0.4	1.0	1.0	
+even	1.0	1.36	1.0	
+3%	1.36	2.08	0.99902	
+to	2.08	2.36	0.9995117	
+retirement	2.36	2.92	1.0	
+grows	2.92	3.32	0.99975586	
+over	3.32	3.52	1.0	
+time.	3.52	3.84	0.9946289	

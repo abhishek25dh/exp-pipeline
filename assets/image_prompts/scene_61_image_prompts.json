@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_61",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A person holding a magnifying glass over a glowing credit report with graphs and numbers. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person holding a magnifying glass over a glowing credit report with graphs and numbers. The credit report radiates a soft, digital glow, showing abstract charts and data visualizations. The magnifying glass is clean and reflective. The background is neutral and uncluttered. Cinematic lighting with a focused beam on the report and subtle lens flare for intrigue. Professional composition, sharp focus, high resolution, with no text, letters, numbers, or watermarks."
+    }
+  ]
+}

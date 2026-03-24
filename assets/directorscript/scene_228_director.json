@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_228",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "type": "image",
+      "phrase": "Nice car.",
+      "filename": "moment_1_img.jpg",
+      "description": "A sleek, shiny red sports car with clean lines and a glossy finish, positioned centrally on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 537,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Grid panel 1",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_moment_1",
+      "type": "text_black",
+      "phrase": "Designer clothes.",
+      "text_content": "Designer clothes.",
+      "x": 537,
+      "y": 453,
+      "scale": 1.765,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Grid panel label",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "img_moment_2",
+      "type": "image",
+      "phrase": "Big house.",
+      "filename": "moment_2_img.jpg",
+      "description": "A mannequin wearing a stylish black suit with gold accents and a designer label tag, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1382,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Grid panel 2",
+      "text_content": ""
+    }
+  ]
+}

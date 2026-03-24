@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_169",
+  "elements": [
+    {
+      "element_id": "img_left_scene_169",
+      "filename": "img_left_scene_169.jpg",
+      "original_description": "A hand holding a credit card, angled diagonally against a pure white background. The card has a metallic sheen with faint holographic details.",
+      "image_prompt": "Professional 2D minimalist icon of a hand holding a credit card, angled diagonally against a pure white background, clean flat vector art, high contrast, no shading or gradients, the credit card has a detailed metallic sheen with faint holographic details, crisp edges, isolated on a stark white background, emotionally neutral."
+    },
+    {
+      "element_id": "img_right_scene_169",
+      "filename": "img_right_scene_169.jpg",
+      "original_description": "A shopping cart filled with various items like groceries, electronics, and clothing, placed centrally on a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a shopping cart filled with various items like groceries, electronics, and clothing, placed centrally on a pure white background, clean flat vector art, high contrast, no shading or gradients, the items are clearly distinguishable and neatly arranged, crisp outlines, isolated on a stark white background, emotionally neutral."
+    }
+  ]
+}

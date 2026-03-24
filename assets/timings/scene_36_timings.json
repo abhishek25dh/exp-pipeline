@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "slot_1",
+    "filename": "",
+    "phrase": "Wait 24",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "slot_2",
+    "filename": "",
+    "phrase": "hours before",
+    "start": 1.04,
+    "end": 4.0
+  }
+]

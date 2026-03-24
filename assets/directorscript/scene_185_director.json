@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_185",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_red",
+      "phrase": "You don't ask for raises.",
+      "text_content": "YOU DON'T ASK FOR RAISES.",
+      "x": 960,
+      "y": 540,
+      "scale": 2.4,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

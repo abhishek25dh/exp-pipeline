@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+They	0.32	0.48	0.99902344	
+drive	0.48	0.8	1.0	
+nice	0.8	1.08	1.0	
+cars	1.08	1.36	1.0	
+they	1.36	1.48	0.99902344	
+can't	1.48	1.72	0.97233075	
+afford.	1.72	2.08	0.9926758	

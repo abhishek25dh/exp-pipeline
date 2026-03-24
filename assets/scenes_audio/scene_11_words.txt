@@ -1,0 +1,14 @@
+# word	start_s	end_s	confidence	speaker
+This	0.4	0.56	0.9995117	
+mindset	0.56	1.08	0.9998372	
+was	1.08	1.24	1.0	
+installed	1.24	1.72	1.0	
+when	1.72	1.88	0.9995117	
+you	1.88	2.04	0.9995117	
+were	2.04	2.2	0.99853516	
+young,	2.2	2.48	1.0	
+watching	2.72	3.16	1.0	
+adults	3.16	3.64	1.0	
+stress	3.64	3.96	1.0	
+about	3.96	4.2	0.9399414	
+money.	4.2	4.56	0.9995117	

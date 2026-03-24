@@ -1,0 +1,11 @@
+# word	start_s	end_s	confidence	speaker
+Success	0.32	0.56	1.0	
+is	0.72	1.04	1.0	
+celebrated,	1.04	1.68	1.0	
+but	1.68	2.04	0.9145508	
+wanting	2.04	2.44	1.0	
+money	2.44	2.72	0.7060547	
+is	2.72	3.0	0.9995117	
+seen	3.0	3.2	0.6225586	
+as	3.2	3.48	0.5620117	
+shallow.	3.48	4.08	0.9998372	

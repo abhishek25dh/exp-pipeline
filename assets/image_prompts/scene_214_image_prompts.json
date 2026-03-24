@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_214",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "filename": "hero_main.jpg",
+      "original_description": "A 2D colorful cartoon graphic of a person holding a large credit card with a sad expression, standing next to a broken piggy bank on a pure white background. The credit card is oversized and slightly tilted, with a red 'X' mark over it, emphasizing rejection. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon style illustration: A person with a sad expression holding an oversized, slightly tilted credit card with a bold red 'X' mark over it, emphasizing rejection. Next to the person is a broken piggy bank, clearly shattered. The art is clean flat vector art with high contrast lines, vibrant colors, and no shading or gradients. The background is pure white, with no text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "9b996c58-56f7-4797-8349-173000f39133",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/cc0895993c7ce7338ad199a56a9d5c824118f9dafa250680c90ecb41c241ac6b/5022d3ad-e116-4f6a-81b4-208c1aba30a8",
+  "text": "You and your partner don't talk about money.",
+  "words": [
+    {
+      "text": "You",
+      "start": 320,
+      "end": 480,
+      "confidence": 0.9921875,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 480,
+      "end": 720,
+      "confidence": 0.6225586,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 720,
+      "end": 920,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "partner",
+      "start": 920,
+      "end": 1280,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "don't",
+      "start": 1280,
+      "end": 1520,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "talk",
+      "start": 1520,
+      "end": 1680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 1680,
+      "end": 1920,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "money.",
+      "start": 1920,
+      "end": 2240,
+      "confidence": 0.99609375,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9511719,
+  "audio_duration": 3,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

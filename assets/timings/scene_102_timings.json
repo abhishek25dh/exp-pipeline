@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "So you keep",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "money in a savings",
+    "start": 0.8,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_102.jpg",
+    "phrase": "account earning almost nothing.",
+    "start": 1.72,
+    "end": 4.0
+  }
+]

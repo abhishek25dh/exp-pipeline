@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_26",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_black",
+      "phrase": "One-click ordering.",
+      "text_content": "ONE-CLICK ORDERING.",
+      "x": 960,
+      "y": 315,
+      "scale": 3.158,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 20"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "Buy now,",
+      "text_content": "",
+      "x": 620,
+      "y": 540,
+      "scale": 0.2,
+      "angle": 107,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to center image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "pay later.",
+      "text_content": "",
+      "x": 480,
+      "y": 830,
+      "scale": 0.33,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_1_scene_26.jpg",
+      "description": "A smiling cartoon character holding a smartphone with a glowing 'Pay Now' button on the screen. No text, no letters, no numbers, no watermarks.",
+      "reason": "Center image for layout 20"
+    }
+  ]
+}

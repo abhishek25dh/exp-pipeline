@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_31",
+  "elements": [
+    {
+      "element_id": "img_left_scene_31",
+      "filename": "img_left_scene_31.jpg",
+      "original_description": "A person sitting on a couch, holding a credit card in one hand and a shopping bag in the other, with a stressed expression on their face. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person sitting on a modern couch, holding a credit card in one hand and a shopping bag in the other, with a stressed and anxious expression on their face. Cinematic lighting with soft bokeh background, sharp focus on the person's face and hands, high resolution, realistic textures, no text or letters."
+    },
+    {
+      "element_id": "img_right_scene_31",
+      "filename": "img_right_scene_31.jpg",
+      "original_description": "A shopping cart overflowing with various items like clothes, electronics, and groceries, with a price tag floating above it. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a shopping cart overflowing with various items including clothes, electronics, and groceries, with a visible price tag floating above it. Cinematic lighting with dramatic shadows, high resolution, realistic textures, sharp focus on the cart contents, no text or letters."
+    }
+  ]
+}

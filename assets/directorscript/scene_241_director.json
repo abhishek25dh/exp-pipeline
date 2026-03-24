@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_241",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_black",
+      "phrase": "Most of the time, it's the second.",
+      "text_content": "MOST OF THE TIME, IT'S THE SECOND.",
+      "x": 960,
+      "y": 540,
+      "scale": 1.765,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1",
+      "typing_speed": 0.49
+    }
+  ]
+}

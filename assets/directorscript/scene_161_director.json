@@ -1,0 +1,52 @@
+{
+  "scene_id": "scene_161",
+  "elements": [
+    {
+      "element_id": "strip_title",
+      "type": "text_highlighted",
+      "phrase": "You think",
+      "text_content": "YOU",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 220,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.49
+    },
+    {
+      "element_id": "img_frame_1",
+      "type": "image",
+      "phrase": "about today,",
+      "text_content": "",
+      "filename": "frame_1_img.jpg",
+      "description": "A cartoon brain with lightbulbs floating around it, on a pure white background. The brain is light pink with cartoonish details, and the lightbulbs are yellow and glowing. No text, no letters, no numbers, no watermarks.",
+      "x": 192,
+      "y": 500,
+      "scale": 0.18,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "cap_frame_1",
+      "type": "text_black",
+      "phrase": "not tomorrow.",
+      "text_content": "not tomorrow.",
+      "filename": "",
+      "description": "",
+      "x": 192,
+      "y": 652,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.41
+    }
+  ]
+}

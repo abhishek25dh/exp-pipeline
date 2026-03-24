@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_162",
+  "elements": [
+    {
+      "element_id": "img_top",
+      "filename": "top_img.jpg",
+      "original_description": "A paycheck with detailed numbers and a signature, placed on a clean white desk.",
+      "image_prompt": "High-quality photograph of a realistic paycheck with detailed numbers, text, and a handwritten signature, placed neatly on a clean, minimalist white desk. Cinematic soft lighting, sharp focus on the check, shallow depth of field with soft bokeh in the background, high resolution, professional composition."
+    }
+  ]
+}

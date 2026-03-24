@@ -1,0 +1,34 @@
+You are assigning ONLY the right-column text slots for Layout 15.
+
+You will receive:
+- `scene_script`
+- `script_words_indexed` (1-based word list)
+- `hero_phrase` span already chosen in step 1
+
+Your job:
+1. Choose a span for `section_title` (top-right).
+2. Choose spans for exactly 3 bullets (`b1`, `b2`, `b3`) in visual order.
+3. Choose an optional span for `cta` (bottom-right), or disable it.
+
+Rules:
+- Use word indices only.
+- Each span must be contiguous.
+- Do not overlap hero span.
+- Keep order natural for on-screen flow:
+  section_title first, then b1, then b2, then b3, then cta.
+- Typical lengths:
+  section_title: 2-6 words
+  bullets: 3-8 words each
+  cta: 3-8 words if enabled
+- Pick phrases that make semantic sense for each slot.
+
+Output JSON only:
+{
+  "section_title": { "start_word": 1, "end_word": 4 },
+  "bullets": [
+    { "bullet_id": "b1", "start_word": 5, "end_word": 9 },
+    { "bullet_id": "b2", "start_word": 10, "end_word": 14 },
+    { "bullet_id": "b3", "start_word": 15, "end_word": 19 }
+  ],
+  "cta": { "enabled": true, "start_word": 20, "end_word": 24 }
+}

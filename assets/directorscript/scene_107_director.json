@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_107",
+  "elements": [
+    {
+      "element_id": "slot_1",
+      "type": "text_black",
+      "phrase": "Many don't",
+      "text_content": "MANY DON'T",
+      "x": 964,
+      "y": 282,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 29 slot 1 (priority=1, line 1/1)"
+    },
+    {
+      "element_id": "slot_2",
+      "type": "text_red",
+      "phrase": "understand 401ks,",
+      "text_content": "UNDERSTAND 401KS,",
+      "x": 962,
+      "y": 497,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 29 slot 2 (priority=2, line 1/1)",
+      "typing_speed": 0.67
+    },
+    {
+      "element_id": "slot_3",
+      "type": "text_black",
+      "phrase": "IRAs, index funds,",
+      "text_content": "IRAS, INDEX FUNDS,",
+      "x": 968,
+      "y": 694,
+      "scale": 3.333,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 29 slot 3 (priority=3, line 1/1)"
+    }
+  ]
+}

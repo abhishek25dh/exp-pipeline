@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_91",
+  "elements": [
+    {
+      "element_id": "img_left_scene_91",
+      "filename": "img_left_scene_91.jpg",
+      "original_description": "A cartoon thermometer with a red mercury line, a band-aid, and a pill bottle arranged diagonally on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon thermometer with a red mercury line, a band-aid, and a pill bottle arranged diagonally on a pure white background. Clean flat vector art, high contrast, no shading or gradients, cartoon style, playful and approachable aesthetic, items distinct and clearly separated, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_center_scene_91",
+      "filename": "img_center_scene_91.jpg",
+      "original_description": "A cartoon magnifying glass with a bright light shining on a small cartoon virus with spikes, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon magnifying glass with a bright light shining on a small cartoon virus with spikes, centered on a pure white background. Clean flat vector art, high contrast, no shading or gradients, cartoon style, investigative and focused mood, light beam effect as simple rays, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+You're	0.4	0.6	0.8691406	
+too	0.6	0.76	0.99902344	
+embarrassed	0.76	1.28	0.9696452	
+to	1.28	1.4	0.9995117	
+admit	1.4	1.76	1.0	
+you	1.76	1.96	0.99902344	
+don't	1.96	2.2	0.99820966	
+understand	2.2	2.48	0.9995117	
+something.	2.56	2.96	0.99902344	

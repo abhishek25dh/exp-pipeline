@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_147",
+  "elements": [
+    {
+      "element_id": "img_left_scene_147",
+      "filename": "img_left_scene_147.jpg",
+      "original_description": "A young man with a smug expression sitting in the driver's seat of a car, hands on the steering wheel, wearing sunglasses. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "high-quality photograph, a young man with a smug expression, sitting confidently in the driver's seat of a modern car, his hands resting firmly on the steering wheel, wearing stylish sunglasses, seen from an interior perspective, dramatic cinematic lighting, sharp focus on his face and hands, professional studio photography, vibrant colors, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_right_scene_147",
+      "filename": "img_right_scene_147.jpg",
+      "original_description": "A sleek, shiny red sports car parked on a white background, emphasizing its luxury design and polished exterior. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "professional 2D minimalist icon, a sleek shiny red sports car, isolated on a pure white background, emphasizing its luxury design and polished exterior, clean flat vector art, high contrast, no shading or gradients, sharp edges, modern aesthetic, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+So	0.32	0.44	0.9980469	
+they	0.44	0.6	0.9995117	
+avoid	0.6	0.92	0.9767253	
+it.	0.92	1.2	0.9975586	

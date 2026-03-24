@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_121",
+  "elements": [
+    {
+      "element_id": "img_panel_1",
+      "filename": "panel_1_img.jpg",
+      "original_description": "A blank white background with no elements, emphasizing emptiness.",
+      "image_prompt": "A high-quality photograph of a pure, blank white background, with no objects, shapes, or textures. Cinematic lighting emphasizing emptiness and void, sterile studio environment, high resolution, sharp focus. The mood is desolate and lonely, conveying a sense of absence and nothingness."
+    }
+  ]
+}

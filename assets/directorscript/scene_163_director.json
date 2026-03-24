@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_163",
+  "elements": [
+    {
+      "element_id": "wall_title",
+      "type": "text_highlighted",
+      "phrase": "You don't",
+      "text_content": "YOU",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 80,
+      "scale": 1.9,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_tl",
+      "type": "image",
+      "phrase": "plan months",
+      "text_content": "",
+      "filename": "polaroid_tl.jpg",
+      "description": "A red circle with a diagonal line crossing through it, symbolizing 'don't', placed on a white background.",
+      "x": 420,
+      "y": 290,
+      "scale": 0.24,
+      "angle": -9,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "cap_tl",
+      "type": "text_red",
+      "phrase": "or years ahead.",
+      "text_content": "or years ahead.",
+      "filename": "",
+      "description": "",
+      "x": 420,
+      "y": 474,
+      "scale": 2.0,
+      "angle": -9,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

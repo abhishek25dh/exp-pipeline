@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_257",
+  "elements": [
+    {
+      "element_id": "img_macro",
+      "type": "image",
+      "phrase": "Ignoring financial education means staying in",
+      "filename": "macro_img.jpg",
+      "description": "A person stands in the center of the frame with a confused expression, surrounded by a dark cloud. A light bulb hangs above them, but it is turned off. No text, no letters, no numbers, no watermarks.",
+      "x": 550,
+      "y": 590,
+      "scale": 0.5,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Main macro overview",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_macro_0",
+      "type": "text_red",
+      "phrase": "the dark when",
+      "text_content": "the dark when information is",
+      "x": 550,
+      "y": 173,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Macro Title line",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.8
+    },
+    {
+      "element_id": "txt_macro_1",
+      "type": "text_red",
+      "phrase": "information is available.",
+      "text_content": "available.",
+      "x": 550,
+      "y": 228,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Macro Title line",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

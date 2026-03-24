@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_184",
+  "elements": [
+    {
+      "element_id": "host_scene_184",
+      "type": "image",
+      "phrase": "Now you feel",
+      "text_content": "",
+      "x": 456,
+      "y": 566,
+      "scale": 0.759,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 35 host (P1, static local asset)"
+    },
+    {
+      "element_id": "text_right_scene_184",
+      "type": "text_black",
+      "phrase": "wanting more.",
+      "text_content": "WANTING MORE.",
+      "x": 1372,
+      "y": 446,
+      "scale": 2.179,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 35 text right (P2, line 1/1)"
+    }
+  ]
+}

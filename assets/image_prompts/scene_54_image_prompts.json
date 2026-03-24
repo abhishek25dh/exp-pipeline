@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_54",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A flat, deflated cushion lies on a pure white background, appearing empty and lifeless. The cushion is soft blue with subtle wrinkles, emphasizing its lack of support. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, clean flat vector art. A flat, deflated cushion lying on a pure white background. The cushion is soft blue with subtle wrinkles, appearing completely empty and lifeless. The scene is minimalistic, emphasizing the cushion's lack of support and volume. High contrast, no shading or gradients. No text, no letters, no numbers, no watermarks. The mood is empty and hollow, matching the deflated form."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A small green plant in a pot sits on a pure white background, wilting with dry soil and drooping leaves, symbolizing stagnation. The pot is simple and brown, blending into the minimalistic scene. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, clean flat vector art. A small green plant in a simple brown pot sits on a pure white background. The plant is wilting, with dry, cracked soil and drooping, sad leaves. The scene is highly minimalistic, symbolizing stagnation and lack of growth. High contrast, flat colors, no shading or gradients. The pot blends into the background. No text, no letters, no numbers, no watermarks. The mood is bleak and stagnant."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "50c01031-81b2-47ed-af81-6a4e2072a5a6",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/4c95d2c6ca0cc1f341b40e7bc50dbb0cc65cc20e27db5a1cc832070da16081d5/40914e5e-a54d-452b-81b1-0c58c74575f2",
+  "text": "This short term focus is common in the US where instant gratification is built into everything.",
+  "words": [
+    {
+      "text": "This",
+      "start": 400,
+      "end": 560,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "short",
+      "start": 560,
+      "end": 800,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "term",
+      "start": 800,
+      "end": 1080,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "focus",
+      "start": 1080,
+      "end": 1440,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 1440,
+      "end": 1760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "common",
+      "start": 1760,
+      "end": 2080,
+      "confidence": 0.9404297,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 2080,
+      "end": 2280,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 2280,
+      "end": 2440,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "US",
+      "start": 2440,
+      "end": 2720,
+      "confidence": 0.9848633,
+      "speaker": null
+    },
+    {
+      "text": "where",
+      "start": 3040,
+      "end": 3360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "instant",
+      "start": 3360,
+      "end": 3760,
+      "confidence": 0.859375,
+      "speaker": null
+    },
+    {
+      "text": "gratification",
+      "start": 3760,
+      "end": 4560,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 4560,
+      "end": 4880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "built",
+      "start": 4880,
+      "end": 5240,
+      "confidence": 0.9876302,
+      "speaker": null
+    },
+    {
+      "text": "into",
+      "start": 5240,
+      "end": 5600,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "everything.",
+      "start": 5600,
+      "end": 6000,
+      "confidence": 0.9995117,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9855855,
+  "audio_duration": 7,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

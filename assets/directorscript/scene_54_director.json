@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_54",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "No cushion.",
+      "filename": "group_1_image_0.jpg",
+      "description": "A flat, deflated cushion lies on a pure white background, appearing empty and lifeless. The cushion is soft blue with subtle wrinkles, emphasizing its lack of support. No text, no letters, no numbers, no watermarks.",
+      "x": 481,
+      "y": 507,
+      "scale": 0.45,
+      "angle": -2,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "No savings growth.",
+      "filename": "group_1_image_1.jpg",
+      "description": "A small green plant in a pot sits on a pure white background, wilting with dry soil and drooping leaves, symbolizing stagnation. The pot is simple and brown, blending into the minimalistic scene. No text, no letters, no numbers, no watermarks.",
+      "x": 1471,
+      "y": 507,
+      "scale": 0.45,
+      "angle": -4,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

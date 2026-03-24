@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Breaking	0.32	0.68	1.0	
+free	0.68	0.96	0.71875	
+starts	1.12	1.52	1.0	
+with	1.52	1.68	1.0	
+honesty.	1.68	2.24	0.99934894	

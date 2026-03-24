@@ -1,0 +1,149 @@
+{
+  "id": "19a7e651-d235-403b-a3ae-6a935bff45bf",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/37b7b1ae8dda3cad178a98d30b7204e74b647b5f2b3731d82151309501690f55/d315b8cc-d400-4076-a957-fd30534d602d",
+  "text": "They post vacation photos while credit cards max out.",
+  "words": [
+    {
+      "text": "They",
+      "start": 400,
+      "end": 520,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "post",
+      "start": 520,
+      "end": 760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "vacation",
+      "start": 760,
+      "end": 1320,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "photos",
+      "start": 1320,
+      "end": 1720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "while",
+      "start": 1720,
+      "end": 1920,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "credit",
+      "start": 1920,
+      "end": 2360,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "cards",
+      "start": 2360,
+      "end": 2640,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "max",
+      "start": 2640,
+      "end": 2960,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "out.",
+      "start": 2960,
+      "end": 3280,
+      "confidence": 0.99853516,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9995931,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Shopping	0.24	0.6	0.9998779	
+feels	0.6	0.92	1.0	
+good	0.92	1.08	1.0	
+in	1.08	1.24	0.9995117	
+the	1.24	1.36	0.9995117	
+moment.	1.36	1.68	0.7949219	

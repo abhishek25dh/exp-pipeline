@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_58",
+  "elements": [
+    {
+      "element_id": "image_quad_0",
+      "filename": "quad_0_creep_keeps.jpg",
+      "original_description": "A minimalist living room with a sleek sofa, glass coffee table, and potted plants arranged neatly. The walls are bare except for a single abstract painting. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a minimalist living room with a sleek sofa, glass coffee table, and neatly arranged potted plants. The walls are bare except for a single abstract painting. Cinematic lighting with soft bokeh, high resolution, sharp focus, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_1",
+      "filename": "quad_1_you_broke.jpg",
+      "original_description": "A cartoonish calendar with every day marked with a red X, emphasizing the word 'every' in bold letters. The background is plain white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoonish calendar with every day marked with a red X, emphasizing the word 'every' in bold letters. Pure white background, clean flat vector art, high contrast, no shading, no gradients, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_2",
+      "filename": "quad_2_at_every.jpg",
+      "original_description": "A stack of dollar bills arranged neatly on a wooden table, with a paycheck partially visible underneath. The lighting highlights the texture of the money. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a stack of dollar bills arranged neatly on a wooden table, with a paycheck partially visible underneath. Dramatic lighting highlights the texture of the paper money, soft bokeh, high resolution, sharp focus, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_3",
+      "filename": "quad_3_income_level.jpg",
+      "original_description": "A cartoon-style graph with a rising line labeled 'level' pointing upwards. The graph is simple, with no numbers or detailed markings. The background is white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon-style graph with a rising line labeled 'level' pointing upwards. The graph is simple with no numbers or detailed markings. Pure white background, clean flat vector art, high contrast, no shading, no gradients, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

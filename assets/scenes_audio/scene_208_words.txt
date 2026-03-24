@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+Before	0.24	0.4	0.9995117	
+you	0.4	0.6	1.0	
+know	0.6	0.76	1.0	
+it,	0.76	1.04	0.9995117	
+you're	1.04	1.4	0.9947917	
+deep	1.4	1.6	1.0	
+in	1.6	1.72	0.9995117	
+debt.	1.72	2.08	0.9995117	

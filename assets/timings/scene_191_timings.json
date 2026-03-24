@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "host_character",
+    "filename": "host_explaining.png",
+    "phrase": "Success",
+    "start": 0.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_0.jpg",
+    "phrase": "is celebrated, but",
+    "start": 0.72,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "wanting money is seen",
+    "start": 2.04,
+    "end": 5.0
+  },
+  {
+    "element_id": "main_title_text_0",
+    "filename": "",
+    "phrase": "as shallow.",
+    "start": 3.2,
+    "end": 5.0
+  }
+]

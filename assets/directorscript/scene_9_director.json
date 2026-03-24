@@ -1,0 +1,81 @@
+{
+  "scene_id": "scene_9",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "You might turn",
+      "filename": "group_1_img_0.jpg",
+      "description": "A person stands at a crossroads, holding a briefcase in one hand and a golden opportunity sign in the other, looking hesitant. No text, no letters, no numbers, no watermarks.",
+      "x": 1329,
+      "y": 320,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "text_group_1_1",
+      "type": "text_highlighted",
+      "phrase": "down a better",
+      "text_content": "turn down a better job",
+      "x": 590,
+      "y": 320,
+      "scale": 1.212,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Emphasis text",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.77
+    },
+    {
+      "element_id": "image_group_2_0",
+      "type": "image",
+      "phrase": "job because you're",
+      "filename": "group_2_img_1.jpg",
+      "description": "The same person clings tightly to a small, glowing treasure chest labeled 'Current Job', with a fearful expression. No text, no letters, no numbers, no watermarks.",
+      "x": 590,
+      "y": 760,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "text_group_2_1",
+      "type": "text_highlighted",
+      "phrase": "afraid of losing",
+      "text_content": "afraid of losing what you",
+      "x": 1329,
+      "y": 705,
+      "scale": 1.067,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Emphasis text",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "text_group_2_2",
+      "type": "text_red",
+      "phrase": "what you have.",
+      "text_content": "have.",
+      "x": 1329,
+      "y": 815,
+      "scale": 1.067,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Emphasis text",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

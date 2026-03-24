@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_top",
+    "filename": "",
+    "phrase": "Learning",
+    "start": 0.24,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_below_right_scene_263",
+    "filename": "img_below_right_scene_263.jpg",
+    "phrase": "basics gives",
+    "start": 0.76,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_below_left_scene_263",
+    "filename": "img_below_left_scene_263.jpg",
+    "phrase": "you power.",
+    "start": 1.52,
+    "end": 3.0
+  }
+]

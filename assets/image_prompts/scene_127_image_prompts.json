@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_127",
+  "elements": [
+    {
+      "element_id": "img_left_scene_127",
+      "filename": "img_left_scene_127.jpg",
+      "original_description": "A cartoon stack of dollar bills, coins, and a piggy bank arranged neatly on a white surface. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a cartoon stack of U.S. dollar bills, several coins, and a classic piggy bank, arranged in a neat, balanced composition on a pure white background. Clean flat vector art, high contrast, no shading or gradients. Conveys a feeling of being overwhelmed or burdened through a sense of heavy accumulation. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_127",
+      "filename": "img_right_scene_127.jpg",
+      "original_description": "A cartoon mountain with a flag at the top labeled 'Financial Goals', surrounded by clouds on a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a cartoon-style mountain peak with a small flag planted at the summit labeled 'Financial Goals', surrounded by soft clouds on a pure white background. Clean flat vector art, high contrast, no shading or gradients. Conveys a sense of a daunting, big, and distant goal. No text, letters, numbers, or watermarks aside from the specified label on the flag."
+    }
+  ]
+}

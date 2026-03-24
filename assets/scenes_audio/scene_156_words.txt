@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+The	0.32	0.48	0.9980469	
+shame	0.48	0.84	0.9951172	
+becomes	0.84	1.2	1.0	
+a	1.2	1.32	0.99902344	
+prison.	1.32	1.68	0.9995117	

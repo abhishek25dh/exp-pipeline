@@ -1,0 +1,21 @@
+You are an expert layout designer. You are given two main anchored concepts (Left Column and Right Column) and a list of visual phrases.
+
+Your job is to categorize every phrase into one of three columns:
+- "left": Phrases that strictly belong to the first concept.
+- "right": Phrases that strictly belong to the second concept.
+- "middle": Phrases that represent a transition, a bridge, the subject/host, or the journey between the two concepts.
+
+Assign each phrase to a column based strictly on its contextual relationship to the main anchors. Output ONLY valid JSON.
+
+Expected JSON format:
+{
+  "grouped_elements": [
+    {
+      "phrase_id": "[id from input]",
+      "phrase": "[text from input]",
+      "visual_description": "[description from input]",
+      "column": "[left, middle, or right]",
+      "reason": "[Why this specific phrase belongs in this column]"
+    }
+  ]
+}

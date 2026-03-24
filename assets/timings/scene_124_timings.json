@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_host_right_scene_124",
+    "filename": "host_looking_left.png",
+    "phrase": "An",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_top_left_scene_124",
+    "filename": "img_top_left_scene_124.jpg",
+    "phrase": "emergency fund",
+    "start": 0.44,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_bottom_right_scene_124",
+    "filename": "img_bottom_right_scene_124.jpg",
+    "phrase": "for a",
+    "start": 1.2,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_bottom_left_scene_124",
+    "filename": "img_bottom_left_scene_124.jpg",
+    "phrase": "car repair.",
+    "start": 1.56,
+    "end": 3.0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_230",
+  "elements": [
+    {
+      "element_id": "img_left_scene_230",
+      "filename": "img_left_scene_230.jpg",
+      "original_description": "A smartphone with a glowing social media app icon on the screen, floating against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a smartphone with a glowing social media app icon on the screen, floating in mid-air against a pure white background. Clean flat vector art with high contrast, no shading or gradients. No text, no letters, no numbers, no watermarks. Bright, vibrant colors for the app icon with a subtle glow effect."
+    },
+    {
+      "element_id": "img_center_scene_230",
+      "filename": "img_center_scene_230.jpg",
+      "original_description": "A downward red arrow crossing over a smartphone, indicating a negative trend, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a downward red arrow crossing over a smartphone, symbolizing a negative trend, against a pure white background. Clean flat vector art with high contrast, no shading or gradients. The arrow is bold red and slightly overlapping the smartphone for clear visual impact. No text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

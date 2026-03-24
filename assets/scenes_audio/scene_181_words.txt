@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Rich	0.32	0.56	0.9992676	
+people	0.56	0.76	1.0	
+are	0.76	0.92	0.99902344	
+greedy.	0.92	1.44	0.99527997	

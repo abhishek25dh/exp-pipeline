@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "In the US,",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "we measure success",
+    "start": 1.12,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_45.jpg",
+    "phrase": "by what we own.",
+    "start": 2.12,
+    "end": 4.0
+  }
+]

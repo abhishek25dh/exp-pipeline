@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+The	0.32	0.44	0.99902344	
+fear	0.44	0.72	0.93359375	
+keeps	0.72	1.0	0.9699707	
+you	1.0	1.16	0.9995117	
+stuck.	1.16	1.52	0.9987793	

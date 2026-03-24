@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_97",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "filename": "host_explaining.png",
+      "original_description": "Host Character",
+      "image_prompt": "High-quality photograph of a host character, professional television or presentation setting, conveying a questioning or explanatory expression with subtle stress or concern, cinematic lighting with soft key light, sharp focus on the face, clean background, realistic skin texture and detailed clothing, professional portrait style."
+    }
+  ]
+}

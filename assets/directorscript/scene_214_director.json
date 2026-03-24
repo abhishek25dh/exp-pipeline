@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_214",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "type": "image",
+      "phrase": "But relying on",
+      "text_content": "",
+      "filename": "hero_main.jpg",
+      "description": "A 2D colorful cartoon graphic of a person holding a large credit card with a sad expression, standing next to a broken piggy bank on a pure white background. The credit card is oversized and slightly tilted, with a red 'X' mark over it, emphasizing rejection. No text, no letters, no numbers, no watermarks.",
+      "x": 490,
+      "y": 540,
+      "scale": 0.44,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "section_title",
+      "type": "text_highlighted",
+      "phrase": "credit keeps you",
+      "text_content": "BECAUSE YOU'RE PAYING",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 150,
+      "scale": 1.746,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "bullet_b1",
+      "type": "text_black",
+      "phrase": "broke because you're paying",
+      "text_content": "for the",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 360,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "bullet_b2",
+      "type": "text_red",
+      "phrase": "for the past instead",
+      "text_content": "past instead of building",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 545,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "bullet_b3",
+      "type": "text_black",
+      "phrase": "of building the future.",
+      "text_content": "the future.",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 730,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

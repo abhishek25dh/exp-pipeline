@@ -1,0 +1,51 @@
+[
+  {
+    "element_id": "wall_title",
+    "filename": "",
+    "phrase": "You're waiting",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tl",
+    "filename": "polaroid_tl.jpg",
+    "phrase": "for the",
+    "start": 0.84,
+    "end": 4.0
+  },
+  {
+    "element_id": "cap_tl",
+    "filename": "",
+    "phrase": "day when",
+    "start": 1.08,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tr",
+    "filename": "polaroid_tr.jpg",
+    "phrase": "you have",
+    "start": 1.64,
+    "end": 4.0
+  },
+  {
+    "element_id": "cap_tr",
+    "filename": "",
+    "phrase": "enough to",
+    "start": 1.96,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_bl",
+    "filename": "polaroid_bl.jpg",
+    "phrase": "make a",
+    "start": 2.48,
+    "end": 4.0
+  },
+  {
+    "element_id": "cap_bl",
+    "filename": "",
+    "phrase": "\"real\" difference.",
+    "start": 2.84,
+    "end": 4.0
+  }
+]

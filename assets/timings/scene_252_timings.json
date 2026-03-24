@@ -1,0 +1,51 @@
+[
+  {
+    "element_id": "img_top",
+    "filename": "top_img.jpg",
+    "phrase": "You don't",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "center_word",
+    "filename": "",
+    "phrase": "know",
+    "start": 0.72,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_top",
+    "filename": "",
+    "phrase": "how to",
+    "start": 0.8,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_bottom_right",
+    "filename": "bottom_right_img.jpg",
+    "phrase": "get out",
+    "start": 1.04,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_bottom_right",
+    "filename": "",
+    "phrase": "of debt",
+    "start": 1.28,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_bottom_left",
+    "filename": "bottom_left_img.jpg",
+    "phrase": "or how",
+    "start": 1.76,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_bottom_left",
+    "filename": "",
+    "phrase": "to invest.",
+    "start": 2.2,
+    "end": 3.0
+  }
+]

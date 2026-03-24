@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Breaking	0.4	0.72	0.91748047	
+free	0.72	1.04	1.0	
+starts	1.2	1.6	1.0	
+with	1.6	1.76	1.0	
+stopping	1.76	2.16	1.0	
+the	2.16	2.32	1.0	
+cycle.	2.32	2.8	0.9998372	

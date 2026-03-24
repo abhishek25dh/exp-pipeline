@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_71",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_highlighted",
+      "phrase": "Avoidance is also about shame.",
+      "text_content": "AVOIDANCE IS ALSO ABOUT SHAME.",
+      "x": 960,
+      "y": 540,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

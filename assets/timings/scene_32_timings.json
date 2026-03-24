@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "img_host_right_scene_32",
+    "filename": "host_looking_left.png",
+    "phrase": "Bored?",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_top_right_scene_32",
+    "filename": "img_top_right_scene_32.jpg",
+    "phrase": "Buy something.",
+    "start": 0.8,
+    "end": 2.0
+  }
+]

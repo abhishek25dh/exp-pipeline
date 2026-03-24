@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.99609375	
+pay	0.52	0.72	0.99902344	
+overdraft	0.72	1.36	0.99890137	
+fees.	1.36	1.76	0.99902344	

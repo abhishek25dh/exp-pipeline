@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Your	0.32	0.44	0.9970703	
+co	0.44	0.6	1.0	
+workers	0.6	0.88	0.53759766	
+have	0.96	1.24	1.0	
+nice	1.24	1.48	1.0	
+cars.	1.48	1.92	0.9992676	

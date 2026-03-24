@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.48	0.9975586	
+your	0.48	0.68	0.99902344	
+bank	0.68	0.88	0.9995117	
+account	0.88	1.16	1.0	
+doesn't	1.16	1.56	0.9995117	
+grow.	1.56	1.84	0.9995117	

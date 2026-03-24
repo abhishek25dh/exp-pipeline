@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_99",
+  "elements": [
+    {
+      "element_id": "text_bc_l1_scene_99",
+      "type": "text_red",
+      "phrase": "You want your",
+      "text_content": "YOU WANT YOUR",
+      "x": 942,
+      "y": 900,
+      "scale": 1.25,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/3)"
+    },
+    {
+      "element_id": "text_bc_l2_scene_99",
+      "type": "text_red",
+      "phrase": "money to grow,",
+      "text_content": "MONEY TO GROW,",
+      "x": 942,
+      "y": 970,
+      "scale": 1.25,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 2/3)"
+    },
+    {
+      "element_id": "text_bc_l3_scene_99",
+      "type": "text_red",
+      "phrase": "but investing",
+      "text_content": "BUT INVESTING",
+      "x": 942,
+      "y": 1040,
+      "scale": 1.25,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 3/3)"
+    },
+    {
+      "element_id": "img_left_scene_99",
+      "type": "image",
+      "phrase": "money to grow,",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_left_scene_99.jpg",
+      "description": "A person in casual clothes stands with a thoughtful expression, holding a small stack of coins in one hand and a magnifying glass in the other, examining the coins closely. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_99",
+      "type": "image",
+      "phrase": "but investing feels risky.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_99.jpg",
+      "description": "A rollercoaster track with a sharp drop twists through the air, with a tiny cartoon person sitting in the front car, clutching the safety bar tightly. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

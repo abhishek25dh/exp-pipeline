@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_207",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_207",
+      "type": "image",
+      "phrase": "You pay",
+      "text_content": "",
+      "x": 274,
+      "y": 384,
+      "scale": 0.392,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_tl_scene_207.jpg",
+      "description": "A stack of $100 bills, totaling hundreds, placed neatly on a white surface. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_tl (P1)"
+    },
+    {
+      "element_id": "img_tr_scene_207",
+      "type": "image",
+      "phrase": "hundreds or",
+      "text_content": "",
+      "x": 772,
+      "y": 386,
+      "scale": 0.384,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_tr_scene_207.jpg",
+      "description": "A plus sign (+) in black, centered on a white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_tr (P2)"
+    },
+    {
+      "element_id": "img_bl_scene_207",
+      "type": "image",
+      "phrase": "thousands in",
+      "text_content": "",
+      "x": 270,
+      "y": 832,
+      "scale": 0.384,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_bl_scene_207.jpg",
+      "description": "A large pile of $100 bills, totaling thousands, fanned out on a white surface. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_bl (P3)"
+    },
+    {
+      "element_id": "img_br_scene_207",
+      "type": "image",
+      "phrase": "interest alone.",
+      "text_content": "",
+      "x": 785,
+      "y": 823,
+      "scale": 0.386,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_br_scene_207.jpg",
+      "description": "A magnifying glass hovering over a single $100 bill, focusing on the details. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_br (P4)"
+    }
+  ]
+}

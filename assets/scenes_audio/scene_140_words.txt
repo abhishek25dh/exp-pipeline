@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Low	0.4	0.56	0.99365234	
+credit	0.56	0.92	0.99975586	
+score.	0.92	1.28	0.99780273	

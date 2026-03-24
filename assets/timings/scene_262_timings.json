@@ -1,0 +1,51 @@
+[
+  {
+    "element_id": "title_pyramid",
+    "filename": "",
+    "phrase": "But the",
+    "start": 0.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_panel_1",
+    "filename": "panel_1_img.jpg",
+    "phrase": "less you",
+    "start": 0.6,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_panel_1",
+    "filename": "",
+    "phrase": "know, the",
+    "start": 1.0,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_panel_2",
+    "filename": "panel_2_img.jpg",
+    "phrase": "more mistakes",
+    "start": 1.72,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_panel_2",
+    "filename": "",
+    "phrase": "you make,",
+    "start": 2.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_panel_3",
+    "filename": "panel_3_img.jpg",
+    "phrase": "and those mistakes",
+    "start": 2.8,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_panel_3",
+    "filename": "",
+    "phrase": "keep you broke.",
+    "start": 3.92,
+    "end": 5.0
+  }
+]

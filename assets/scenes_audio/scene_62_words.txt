@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.48	0.9921875	
+and	0.48	0.72	0.6225586	
+your	0.72	0.92	0.9995117	
+partner	0.92	1.28	1.0	
+don't	1.28	1.52	0.9995117	
+talk	1.52	1.68	1.0	
+about	1.68	1.92	0.9995117	
+money.	1.92	2.24	0.99609375	

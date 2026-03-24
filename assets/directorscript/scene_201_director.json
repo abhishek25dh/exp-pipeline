@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_201",
+  "elements": [
+    {
+      "element_id": "title",
+      "type": "text_black",
+      "phrase": "That's freedom.",
+      "text_content": "",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 100,
+      "scale": 1.8,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

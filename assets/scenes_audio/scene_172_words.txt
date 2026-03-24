@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+Short	0.4	0.56	1.0	
+term	0.56	0.8	0.9995117	
+thinking	0.8	1.2	0.89404297	
+also	1.2	1.48	1.0	
+means	1.48	1.8	1.0	
+missing	1.8	2.24	1.0	
+long	2.24	2.48	1.0	
+term	2.48	2.76	0.9995117	
+opportunities.	2.76	3.44	1.0	

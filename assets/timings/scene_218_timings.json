@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_left_scene_218",
+    "filename": "img_left_scene_218.jpg",
+    "phrase": "Your brain",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_right_scene_218",
+    "filename": "img_right_scene_218.jpg",
+    "phrase": "doesn't register it",
+    "start": 0.92,
+    "end": 3.0
+  },
+  {
+    "element_id": "text_bottom",
+    "filename": "",
+    "phrase": "same way.",
+    "start": 2.04,
+    "end": 3.0
+  }
+]

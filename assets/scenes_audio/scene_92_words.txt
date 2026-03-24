@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Over	0.4	0.6	1.0	
+time,	0.6	0.96	0.9980469	
+emotional	1.12	1.68	0.9842122	
+spending	1.68	2.2	0.8676758	
+becomes	2.2	2.6	0.99975586	
+automatic.	2.6	3.12	0.9996745	

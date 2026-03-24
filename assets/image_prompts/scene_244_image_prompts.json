@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_244",
+  "elements": [
+    {
+      "element_id": "img_node_2",
+      "filename": "orb_1_img.jpg",
+      "original_description": "A young adult looking confused while holding a stack of bills and a calculator, pure white background",
+      "image_prompt": "A professional 2D minimalist icon of a young adult looking confused while holding a stack of bills and a calculator. Clean flat vector art on a pure white background. High contrast, no shading or gradients. The style conveys a feeling of confusion and being overwhelmed."
+    },
+    {
+      "element_id": "img_node_4",
+      "filename": "orb_3_img.jpg",
+      "original_description": "A person reading a book titled 'Personal Finance' with a laptop open next to them, pure white background",
+      "image_prompt": "A professional 2D minimalist icon of a person reading a book titled 'Personal Finance' with a laptop open next to them. Clean flat vector art on a pure white background. High contrast, no shading or gradients. The style suggests self-education and personal initiative."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "img_macro",
+    "filename": "macro_img.jpg",
+    "phrase": "Research shows that scarcity actually",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "txt_macro",
+    "filename": "",
+    "phrase": "changes how your brain works.",
+    "start": 2.48,
+    "end": 5.0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_panel_1",
+    "filename": "panel_1_img.jpg",
+    "phrase": "pay later",
+    "start": 1.04,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_panel_1",
+    "filename": "",
+    "phrase": "is on",
+    "start": 1.68,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_panel_2",
+    "filename": "panel_2_img.jpg",
+    "phrase": "every website.",
+    "start": 2.16,
+    "end": 4.0
+  },
+  {
+    "element_id": "title_pyramid",
+    "filename": "",
+    "phrase": "Buy now,",
+    "start": 4.0,
+    "end": 4.0
+  }
+]

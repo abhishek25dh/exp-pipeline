@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_50",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_50",
+      "filename": "img_tl_scene_50.jpg",
+      "original_description": "A frustrated cartoon person sitting at a cluttered desk with bills and a calculator, looking stressed. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist cartoon style, a frustrated cartoon person sitting at a cluttered wooden desk, scattered bills and a calculator on the desk, stressed expression with furrowed brows and slumped shoulders, clean flat vector art, high contrast, pure white background, no shading or gradients, no text, letters, numbers, or watermarks, lighting conveys a tense, overwhelmed mood."
+    },
+    {
+      "element_id": "img_tr_scene_50",
+      "filename": "img_tr_scene_50.jpg",
+      "original_description": "A green dollar bill with the number 50,000 prominently displayed in the center. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a green US dollar bill, the number 50,000 printed prominently and centrally in bold white numerals, crisp details and texture of the bill visible, cinematic lighting with soft bokeh background, sharp focus on the number, no text, letters, additional numbers, or watermarks, lighting conveys a financial or transactional tone."
+    },
+    {
+      "element_id": "img_bl_scene_50",
+      "filename": "img_bl_scene_50.jpg",
+      "original_description": "A simple arrow pointing from left to right, indicating a transition. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a simple black arrow pointing from left to right on a pure white background, clean flat vector art, high contrast, sharp edges, no shading or gradients, indicating a transition or movement, no text, letters, numbers, or watermarks, lighting is neutral and clear."
+    },
+    {
+      "element_id": "img_br_scene_50",
+      "filename": "img_br_scene_50.jpg",
+      "original_description": "The same frustrated cartoon person from img_tl, now with a slightly larger stack of bills, still looking stressed. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist cartoon style, the same frustrated cartoon person as in img_tl_scene_50, sitting at a cluttered wooden desk, now with a slightly larger stack of bills next to the calculator, stressed expression with furrowed brows and slumped shoulders, clean flat vector art, high contrast, pure white background, no shading or gradients, no text, letters, numbers, or watermarks, lighting conveys a persistent tense, overwhelmed mood."
+    }
+  ]
+}

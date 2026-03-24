@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_252",
+  "elements": [
+    {
+      "element_id": "img_top",
+      "filename": "top_img.jpg",
+      "original_description": "A person standing with a confused expression, scratching their head, symbolizing uncertainty or lack of knowledge.",
+      "image_prompt": "High-quality photograph of a person standing with a visibly confused facial expression, scratching their head, depicting a moment of deep thought or uncertainty. The scene should have soft, cinematic lighting with sharp focus on the subject against a neutral background, conveying a sense of confusion and lack of knowledge."
+    },
+    {
+      "element_id": "img_bottom_right",
+      "filename": "bottom_right_img.jpg",
+      "original_description": "A stack of bills and a red 'Due' stamp on a white background, representing financial debt.",
+      "image_prompt": "High-resolution professional 2D minimalist icon of a neat stack of paper bills with a bold red 'Due' stamp prominently overlayed, placed on a pure white background. Clean flat vector art with high contrast, sharp edges, and absolutely no shading or gradients, symbolizing financial debt with clarity and simplicity."
+    },
+    {
+      "element_id": "img_bottom_left",
+      "filename": "bottom_left_img.jpg",
+      "original_description": "A graphic of a rising stock market chart with a dollar sign, symbolizing investment growth.",
+      "image_prompt": "Professional 2D minimalist icon of a simplified, rising stock market line graph with a dollar sign integrated into the design, on a pure white background. Clean flat vector art with high contrast and no shading or gradients, conveying the concept of investment growth in a clear, modern, and graphical style."
+    }
+  ]
+}

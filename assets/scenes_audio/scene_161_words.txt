@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+You	0.24	0.36	0.9980469	
+think	0.36	0.52	1.0	
+about	0.52	0.76	1.0	
+today,	0.76	1.12	1.0	
+not	1.2	1.52	1.0	
+tomorrow.	1.52	2.08	0.97302246	

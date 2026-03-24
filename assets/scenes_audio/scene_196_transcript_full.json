@@ -1,0 +1,163 @@
+{
+  "id": "d36c8d03-56c0-489b-af2e-0b8b099c04b0",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/ccbf71c182b6333d8209a21860787270b0e298c7508a8810c3a73f3b2c19a336/7217ab15-5618-4caf-8c9a-e12720b43309",
+  "text": "Letting go of the idea that money is bad is key.",
+  "words": [
+    {
+      "text": "Letting",
+      "start": 320,
+      "end": 560,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "go",
+      "start": 560,
+      "end": 680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 680,
+      "end": 840,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 840,
+      "end": 1000,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "idea",
+      "start": 1000,
+      "end": 1440,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 1440,
+      "end": 1680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 1680,
+      "end": 1960,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 1960,
+      "end": 2240,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "bad",
+      "start": 2240,
+      "end": 2520,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 2520,
+      "end": 2800,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "key.",
+      "start": 2800,
+      "end": 3120,
+      "confidence": 0.9995117,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.99986684,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

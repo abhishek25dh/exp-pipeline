@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_229",
+  "elements": [
+    {
+      "element_id": "host_scene_229",
+      "type": "image",
+      "phrase": "You post photos to",
+      "text_content": "",
+      "x": 456,
+      "y": 566,
+      "scale": 0.759,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 35 host (P1, static local asset)"
+    },
+    {
+      "element_id": "text_right_scene_229",
+      "type": "text_highlighted",
+      "phrase": "life is good.",
+      "text_content": "LIFE IS GOOD.",
+      "x": 1372,
+      "y": 446,
+      "scale": 2.179,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 35 text right (P2, line 1/1)"
+    }
+  ]
+}

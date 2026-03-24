@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_207",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_207",
+      "filename": "img_tl_scene_207.jpg",
+      "original_description": "A stack of $100 bills, totaling hundreds, placed neatly on a white surface. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a stack of US one hundred dollar bills, totaling in the hundreds, arranged in a neat, orderly stack on a clean white surface. The lighting is professional and clear, with sharp focus on the texture of the paper and the green ink of the bills, creating a cinematic and authoritative mood. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tr_scene_207",
+      "filename": "img_tr_scene_207.jpg",
+      "original_description": "A plus sign (+) in black, centered on a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a plus sign (+) in solid black, perfectly centered on a pure white background. The design is clean, flat vector art with high contrast and sharp edges, rendered with no shading, gradients, or textures. The mood is neutral and functional. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_bl_scene_207",
+      "filename": "img_bl_scene_207.jpg",
+      "original_description": "A large pile of $100 bills, totaling thousands, fanned out on a white surface. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-resolution photograph of a large, opulent pile of US one hundred dollar bills, totaling in the thousands, fanned out dynamically on a pristine white surface. Cinematic, dramatic lighting with soft bokeh highlights the wealth and scale, creating an emotional and impactful mood. The focus is sharp on the intricate details of the currency. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_br_scene_207",
+      "filename": "img_br_scene_207.jpg",
+      "original_description": "A magnifying glass hovering over a single $100 bill, focusing on the details. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality macro photograph of a magnifying glass hovering just above a single, pristine US one hundred dollar bill, with the lens sharply focused on the intricate details of the bill's design\u2014the portrait, fine lines, and security features. The lighting is precise and investigative, casting a focused beam that creates a mood of scrutiny and discovery, set against a clean, white background. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

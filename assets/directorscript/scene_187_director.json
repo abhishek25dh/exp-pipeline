@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_187",
+  "elements": [
+    {
+      "element_id": "host_scene_187",
+      "type": "image",
+      "phrase": "You spend",
+      "text_content": "",
+      "x": 1497,
+      "y": 559,
+      "scale": 0.75,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 36 host (P1, right side, static asset)"
+    },
+    {
+      "element_id": "img_left_scene_187",
+      "type": "image",
+      "phrase": "everything because",
+      "text_content": "",
+      "x": 277,
+      "y": 483,
+      "scale": 0.437,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_left_scene_187.jpg",
+      "description": "A hand releasing a glowing gold coin into the air, surrounded by sparkling particles. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 36 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "arrow_scene_187",
+      "type": "arrow",
+      "phrase": "holding onto",
+      "text_content": "",
+      "x": 632,
+      "y": 482,
+      "scale": 0.2,
+      "angle": 27,
+      "animation": "pop",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Layout 36 arrow (P3, static asset, angle=27)"
+    },
+    {
+      "element_id": "img_center_scene_187",
+      "type": "image",
+      "phrase": "it feels wrong.",
+      "text_content": "",
+      "x": 899,
+      "y": 503,
+      "scale": 0.362,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_center_scene_187.jpg",
+      "description": "A person with a worried expression, holding an empty wallet upside down, coins falling out. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 36 center image (P4, AI generated)"
+    }
+  ]
+}

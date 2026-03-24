@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_267",
+  "elements": [
+    {
+      "element_id": "slot_1",
+      "type": "text_black",
+      "phrase": "If you",
+      "text_content": "IF YOU",
+      "x": 964,
+      "y": 282,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 29 slot 1 (priority=1, line 1/1)"
+    },
+    {
+      "element_id": "slot_2",
+      "type": "text_red",
+      "phrase": "recognize yourself in",
+      "text_content": "RECOGNIZE YOURSELF IN",
+      "x": 962,
+      "y": 497,
+      "scale": 2.857,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 29 slot 2 (priority=2, line 1/1)"
+    }
+  ]
+}

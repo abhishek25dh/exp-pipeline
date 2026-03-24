@@ -1,0 +1,12 @@
+# word	start_s	end_s	confidence	speaker
+This	0.32	0.48	0.99902344	
+keeps	0.48	0.8	0.99975586	
+you	0.8	0.96	0.9995117	
+living	0.96	1.28	1.0	
+paycheck	1.28	1.76	0.9998372	
+to	1.76	2.0	0.99902344	
+paycheck,	2.0	2.56	0.99316406	
+one	2.64	2.96	0.99316406	
+emergency	2.96	3.56	1.0	
+from	3.56	3.8	0.9995117	
+disaster.	3.8	4.24	0.99902344	

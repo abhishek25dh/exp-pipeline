@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_149",
+  "elements": [
+    {
+      "element_id": "image_quad_0",
+      "filename": "quad_0_people_are.jpg",
+      "original_description": "A person sitting at a cluttered desk with their head in their hands, surrounded by bills and papers. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a person sitting at a cluttered desk with their head in their hands, surrounded by bills and papers. The lighting is cinematic and moody, emphasizing the stress and clutter, with a sharp focus on the person and soft bokeh on the background. No text, no letters, no numbers, no watermarks. Professional studio shot with high resolution and detailed textures, capturing the emotional and financial strain."
+    },
+    {
+      "element_id": "image_quad_1",
+      "filename": "quad_1_struggling_with.jpg",
+      "original_description": "A cartoon-style hand reaching out towards a floating dollar sign, with a confused expression on the hand's face. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon-style hand reaching out towards a floating dollar sign, with a confused expression on the hand's face, clean flat vector art with high contrast and no shading or gradients, on a pure white background. No text, no letters, no numbers, no watermarks. Simple, clear, and modern illustration style."
+    },
+    {
+      "element_id": "image_quad_2",
+      "filename": "quad_2_money_somehow.jpg",
+      "original_description": "A stack of coins and bills neatly arranged on a wooden table, with a faint shadow cast by the coins. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a stack of coins and bills neatly arranged on a wooden table, with a faint shadow cast by the coins. The lighting is soft and warm, creating a realistic and detailed texture on the money and wood, with sharp focus and a shallow depth of field for a professional look. No text, no letters, no numbers, no watermarks. Cinematic composition with high resolution and natural tones."
+    }
+  ]
+}

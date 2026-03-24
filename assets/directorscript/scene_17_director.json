@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_17",
+  "elements": [
+    {
+      "element_id": "text_bc_l1_scene_17",
+      "type": "text_black",
+      "phrase": "You see something",
+      "text_content": "YOU SEE SOMETHING",
+      "x": 942,
+      "y": 935,
+      "scale": 1.029,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/2)"
+    },
+    {
+      "element_id": "text_bc_l2_scene_17",
+      "type": "text_black",
+      "phrase": "and buy",
+      "text_content": "AND BUY",
+      "x": 942,
+      "y": 1005,
+      "scale": 1.029,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 2/2)"
+    },
+    {
+      "element_id": "img_left_scene_17",
+      "type": "image",
+      "phrase": "something and",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_17.jpg",
+      "description": "A single red apple with a green leaf, centered on a pure white background. The apple has a glossy texture and casts a soft shadow underneath. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_17",
+      "type": "image",
+      "phrase": "buy it immediately.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_17.jpg",
+      "description": "A hand reaching out to grab the red apple, fingers slightly curled, with a sense of urgency. The apple is slightly tilted as if being picked. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

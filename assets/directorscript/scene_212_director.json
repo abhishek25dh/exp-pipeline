@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_212",
+  "elements": [
+    {
+      "element_id": "title_pyramid",
+      "type": "text_black",
+      "phrase": "Buy now,",
+      "text_content": "BUY NOW,",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 120,
+      "scale": 1.85,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_panel_1",
+      "type": "image",
+      "phrase": "pay later",
+      "text_content": "",
+      "filename": "panel_1_img.jpg",
+      "description": "A glowing checkmark icon on a pure white background, symbolizing affirmation or confirmation.",
+      "x": 960,
+      "y": 340,
+      "scale": 0.3,
+      "angle": 2,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "txt_panel_1",
+      "type": "text_red",
+      "phrase": "is on",
+      "text_content": "is on",
+      "filename": "",
+      "description": "",
+      "x": 300,
+      "y": 880,
+      "scale": 2.0,
+      "angle": 1,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.61
+    },
+    {
+      "element_id": "img_panel_2",
+      "type": "image",
+      "phrase": "every website.",
+      "text_content": "",
+      "filename": "panel_2_img.jpg",
+      "description": "A laptop screen displaying multiple website banners with 'Buy now, pay later' offers, set against a pure white background.",
+      "x": 420,
+      "y": 620,
+      "scale": 0.24,
+      "angle": -1,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

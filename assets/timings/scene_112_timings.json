@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "img_node_2",
+    "filename": "orb_1_img.jpg",
+    "phrase": "Decades",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_node_2",
+    "filename": "",
+    "phrase": "pass,",
+    "start": 0.84,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_node_4",
+    "filename": "orb_3_img.jpg",
+    "phrase": "and",
+    "start": 1.2,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_node_4",
+    "filename": "",
+    "phrase": "the",
+    "start": 1.52,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_core",
+    "filename": "",
+    "phrase": "gap widens.",
+    "start": 1.72,
+    "end": 3.0
+  }
+]

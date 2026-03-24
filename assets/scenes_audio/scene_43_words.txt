@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+This	0.32	0.44	0.9995117	
+is	0.44	0.64	0.99853516	
+lifestyle	0.64	1.16	0.9782715	
+creep.	1.16	1.6	0.9987793	

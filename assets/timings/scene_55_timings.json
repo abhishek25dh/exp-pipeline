@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "host_character",
+    "filename": "host_explaining.png",
+    "phrase": "The",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_2.jpg",
+    "phrase": "smartest move when",
+    "start": 0.52,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_2_2",
+    "filename": "group_2_image_0.jpg",
+    "phrase": "you get a",
+    "start": 1.36,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "raise is to save",
+    "start": 1.8,
+    "end": 4.0
+  },
+  {
+    "element_id": "main_title_text_0",
+    "filename": "",
+    "phrase": "the difference.",
+    "start": 2.76,
+    "end": 4.0
+  }
+]

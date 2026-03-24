@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_209",
+  "elements": [
+    {
+      "element_id": "img_top",
+      "filename": "top_img.jpg",
+      "original_description": "A stylized map of the United States with bold outlines and a minimalist design, centered on a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a stylized map of the United States with bold, clean outlines, on a pure white background, clean flat vector art, high contrast, no shading or gradients."
+    }
+  ]
+}

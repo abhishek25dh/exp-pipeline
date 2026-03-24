@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Write	0.32	0.52	0.9992676	
+down	0.52	0.68	0.99560547	
+what	0.68	0.84	0.9995117	
+you	0.84	1.0	0.99902344	
+owe.	1.0	1.36	0.99527997	

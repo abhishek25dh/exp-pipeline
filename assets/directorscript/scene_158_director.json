@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_158",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_black",
+      "phrase": "First with",
+      "text_content": "FIRST WITH YOURSELF,",
+      "x": 960,
+      "y": 310,
+      "scale": 3.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "yourself, then",
+      "text_content": "",
+      "x": 646,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 38,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "someone you trust.",
+      "text_content": "",
+      "x": 1006,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_1_scene_158.jpg",
+      "description": "Two smiling cartoon characters shaking hands on a pure white background, one character slightly taller than the other, both wearing casual colorful clothing. No text, no letters, no numbers, no watermarks.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

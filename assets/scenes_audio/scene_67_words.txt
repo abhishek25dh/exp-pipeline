@@ -1,0 +1,2 @@
+# word	start_s	end_s	confidence	speaker
+Decros.	0.32	1.12	0.82714844	

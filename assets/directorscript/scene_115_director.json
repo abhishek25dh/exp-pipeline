@@ -1,0 +1,81 @@
+{
+  "scene_id": "scene_115",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "type": "image",
+      "phrase": "But psychological",
+      "text_content": "",
+      "filename": "step_1_img.jpg",
+      "description": "A large, abstract brain illustration with swirling patterns and glowing neurons, symbolizing psychological complexity.",
+      "x": 260,
+      "y": 840,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_step_1",
+      "type": "text_black",
+      "phrase": "barriers keep",
+      "text_content": "barriers keep",
+      "filename": "",
+      "description": "",
+      "x": 260,
+      "y": 1042,
+      "scale": 1.1599999999999997,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_step_2",
+      "type": "image",
+      "phrase": "millions from",
+      "text_content": "",
+      "filename": "step_2_img.jpg",
+      "description": "A tall, solid brick wall with the word 'barriers' engraved on it, blocking a path forward.",
+      "x": 660,
+      "y": 660,
+      "scale": 0.359,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_step_2_1",
+      "type": "text_black",
+      "phrase": "ever starting.",
+      "text_content": "ever",
+      "filename": "",
+      "description": "",
+      "x": 660,
+      "y": 894,
+      "scale": 1.4,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.67
+    },
+    {
+      "element_id": "label_step_2_2",
+      "type": "text_black",
+      "phrase": "ever starting.",
+      "text_content": "starting.",
+      "filename": "",
+      "description": "",
+      "x": 660,
+      "y": 960,
+      "scale": 1.4,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

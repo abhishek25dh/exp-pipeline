@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+Your	0.4	0.56	0.9916992	
+brain	0.56	0.88	0.9733887	
+is	0.88	1.12	0.9995117	
+wired	1.12	1.48	0.9260254	
+to	1.48	1.72	0.9995117	
+prioritize	1.72	2.48	0.9511719	
+immediate	2.48	3.08	0.9967448	
+needs.	3.08	3.44	0.9970703	

@@ -1,0 +1,44 @@
+[
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_img_0.jpg",
+    "phrase": "You're working",
+    "start": 0.16,
+    "end": 6.0
+  },
+  {
+    "element_id": "text_group_1_1",
+    "filename": "",
+    "phrase": "to pay for",
+    "start": 0.64,
+    "end": 6.0
+  },
+  {
+    "element_id": "text_group_1_2",
+    "filename": "",
+    "phrase": "things that make",
+    "start": 1.2,
+    "end": 6.0
+  },
+  {
+    "element_id": "image_group_2_0",
+    "filename": "group_2_img_1.jpg",
+    "phrase": "you look successful",
+    "start": 1.88,
+    "end": 6.0
+  },
+  {
+    "element_id": "text_group_2_1",
+    "filename": "",
+    "phrase": "while actually keeping",
+    "start": 2.96,
+    "end": 6.0
+  },
+  {
+    "element_id": "text_group_2_2",
+    "filename": "",
+    "phrase": "you financially trapped.",
+    "start": 4.0,
+    "end": 6.0
+  }
+]

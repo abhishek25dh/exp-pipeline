@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_65",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A single red overdue bill with the word 'Late' highlighted in bold, placed on a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a single red overdue bill or payment notice. The word 'Late' is prominently highlighted in bold text. The bill is clean, modern vector art with sharp edges and high contrast. It is placed on a pure, seamless white background. The style is flat design with no shading, gradients, or shadows."
+    }
+  ]
+}

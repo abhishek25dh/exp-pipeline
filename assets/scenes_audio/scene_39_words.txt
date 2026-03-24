@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.48	0.99658203	
+upgrade	0.48	0.92	1.0	
+your	0.92	1.12	0.9995117	
+car,	1.12	1.44	1.0	
+your	1.6	1.92	0.99902344	
+apartment,	1.92	2.48	0.9998372	
+your	2.56	2.84	0.99853516	
+lifestyle.	2.84	3.44	0.9440918	

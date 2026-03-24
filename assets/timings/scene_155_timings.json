@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "text_bc_l1_scene_155",
+    "filename": "",
+    "phrase": "You avoid",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "text_bc_l2_scene_155",
+    "filename": "",
+    "phrase": "financial",
+    "start": 0.84,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_left_scene_155",
+    "filename": "img_left_scene_155.jpg",
+    "phrase": "financial advisors thinking",
+    "start": 0.84,
+    "end": 4.0
+  },
+  {
+    "element_id": "text_bc_l3_scene_155",
+    "filename": "",
+    "phrase": "advisors thinking they'll",
+    "start": 1.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_right_scene_155",
+    "filename": "img_right_scene_155.jpg",
+    "phrase": "they'll judge you.",
+    "start": 2.2,
+    "end": 4.0
+  }
+]

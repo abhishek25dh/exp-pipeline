@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+You're	0.4	0.6	0.9625651	
+treating	0.6	0.92	0.7807617	
+symptoms,	0.92	1.52	0.9989258	
+not	1.52	1.84	0.9995117	
+causes.	1.84	2.4	0.9995117	

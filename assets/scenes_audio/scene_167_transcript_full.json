@@ -1,0 +1,156 @@
+{
+  "id": "2f2335aa-21c5-4400-8e4f-9c18520f7a71",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/3e4627ed97468e05e5146e09e1e6b1a9a552ecf9be026d6b72059bef85d85142/f25b044a-94cf-4775-a540-5b969fbc0f94",
+  "text": "But not planning ahead means you're always reacting to problems.",
+  "words": [
+    {
+      "text": "But",
+      "start": 240,
+      "end": 440,
+      "confidence": 0.6791992,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 440,
+      "end": 680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "planning",
+      "start": 680,
+      "end": 1040,
+      "confidence": 0.9680176,
+      "speaker": null
+    },
+    {
+      "text": "ahead",
+      "start": 1040,
+      "end": 1280,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "means",
+      "start": 1440,
+      "end": 1760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "you're",
+      "start": 1760,
+      "end": 2040,
+      "confidence": 0.9710286,
+      "speaker": null
+    },
+    {
+      "text": "always",
+      "start": 2040,
+      "end": 2320,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "reacting",
+      "start": 2320,
+      "end": 2880,
+      "confidence": 0.8595378,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 2880,
+      "end": 3080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "problems.",
+      "start": 3080,
+      "end": 3520,
+      "confidence": 0.78100586,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9255859,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

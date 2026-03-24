@@ -1,0 +1,51 @@
+[
+  {
+    "element_id": "txt_core",
+    "filename": "",
+    "phrase": "Avoidance feels safer",
+    "start": 0.24,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_node_3",
+    "filename": "orb_2_img.jpg",
+    "phrase": "than",
+    "start": 1.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_node_3",
+    "filename": "",
+    "phrase": "dealing",
+    "start": 1.56,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_node_4",
+    "filename": "orb_3_img.jpg",
+    "phrase": "with",
+    "start": 1.92,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_node_4",
+    "filename": "",
+    "phrase": "stress",
+    "start": 2.08,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_node_2",
+    "filename": "orb_1_img.jpg",
+    "phrase": "or",
+    "start": 2.52,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_node_2",
+    "filename": "",
+    "phrase": "shame.",
+    "start": 2.8,
+    "end": 4.0
+  }
+]

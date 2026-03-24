@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_101",
+  "elements": [
+    {
+      "element_id": "img_frame_1",
+      "filename": "frame_1_img.jpg",
+      "original_description": "A cartoon-style hand pointing directly at the viewer, with a friendly smiley face on the palm. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D cartoon-style illustration of a hand pointing directly at the viewer, with a friendly, cheerful smiley face drawn on the palm. Pure white background. Clean flat vector art, high contrast, bright and inviting colors, no shading or gradients. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

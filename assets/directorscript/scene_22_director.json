@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_22",
+  "elements": [
+    {
+      "element_id": "strip_title",
+      "type": "text_highlighted",
+      "phrase": "The",
+      "text_content": "THE",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 220,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_frame_1",
+      "type": "image",
+      "phrase": "bills",
+      "text_content": "",
+      "filename": "frame_1_img.jpg",
+      "description": "A single white envelope with a red stamp and a dollar sign on it, placed on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 192,
+      "y": 500,
+      "scale": 0.18,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "cap_frame_1",
+      "type": "text_black",
+      "phrase": "pile up.",
+      "text_content": "pile up.",
+      "filename": "",
+      "description": "",
+      "x": 192,
+      "y": 652,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

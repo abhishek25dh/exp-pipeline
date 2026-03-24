@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+It's	0.16	0.32	0.9614258	
+a	0.32	0.44	0.9995117	
+tool.	0.44	0.72	0.9995117	

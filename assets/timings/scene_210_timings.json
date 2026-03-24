@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "wall_title",
+    "filename": "",
+    "phrase": "Easy to",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_tl",
+    "filename": "polaroid_tl.jpg",
+    "phrase": "get, hard",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "cap_tl",
+    "filename": "",
+    "phrase": "to escape.",
+    "start": 1.52,
+    "end": 3.0
+  }
+]

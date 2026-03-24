@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_53",
+  "elements": [
+    {
+      "element_id": "img_macro",
+      "type": "image",
+      "phrase": "Higher",
+      "filename": "macro_img.jpg",
+      "description": "A red car with a dollar sign on its hood, tilted slightly upward on a white background. The car appears larger than normal, emphasizing expense. No text, no letters, no numbers, no watermarks.",
+      "x": 550,
+      "y": 590,
+      "scale": 0.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Main macro overview",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_macro",
+      "type": "text_black",
+      "phrase": "car",
+      "text_content": "car",
+      "x": 550,
+      "y": 200,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Macro Title",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "arrow_0",
+      "type": "arrow",
+      "phrase": "payment.",
+      "filename": "arrow.png",
+      "description": "Connecting macro to micro",
+      "x": 1061,
+      "y": 565,
+      "scale": 0.2,
+      "angle": -6,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Transition",
+      "text_content": ""
+    },
+    {
+      "element_id": "img_micro_0",
+      "type": "image",
+      "phrase": "Higher rent.",
+      "filename": "micro_0_img.jpg",
+      "description": "A stack of coins next to a small house with a dollar sign on its roof, placed on a white background. The house and coins are simplified and colorful. No text, no letters, no numbers, no watermarks.",
+      "x": 1450,
+      "y": 540,
+      "scale": 0.22,
+      "angle": 3,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Micro detail 1",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_micro_0",
+      "type": "text_black",
+      "phrase": "More subscriptions.",
+      "text_content": "More subscriptions.",
+      "x": 1450,
+      "y": 682,
+      "scale": 1.2,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Micro label",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

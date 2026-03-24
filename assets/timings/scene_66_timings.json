@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "center_title_1",
+    "filename": "",
+    "phrase": "Your credit",
+    "start": 0.4,
+    "end": 2.0
+  },
+  {
+    "element_id": "center_title_2",
+    "filename": "",
+    "phrase": "Your credit",
+    "start": 0.4,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_phase_1",
+    "filename": "phase_1_img.jpg",
+    "phrase": "score drops.",
+    "start": 0.84,
+    "end": 2.0
+  }
+]

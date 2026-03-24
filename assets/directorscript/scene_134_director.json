@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_134",
+  "elements": [
+    {
+      "element_id": "host_scene_134",
+      "type": "image",
+      "phrase": "Small actions",
+      "text_content": "",
+      "x": 456,
+      "y": 566,
+      "scale": 0.759,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 35 host (P1, static local asset)"
+    },
+    {
+      "element_id": "text_right_scene_134",
+      "type": "text_red",
+      "phrase": "feel rewarding.",
+      "text_content": "FEEL REWARDING.",
+      "x": 1372,
+      "y": 446,
+      "scale": 1.889,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 35 text right (P2, line 1/1)"
+    }
+  ]
+}

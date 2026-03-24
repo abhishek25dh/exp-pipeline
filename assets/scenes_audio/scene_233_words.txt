@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.48	0.9970703	
+chasing	0.48	0.88	0.9951172	
+status	0.88	1.36	0.9995117	
+keeps	1.36	1.6	0.99902344	
+you	1.6	1.72	0.99902344	
+broke.	1.72	2.08	0.9968262	

@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "hero_image",
+    "filename": "hero_main.jpg",
+    "phrase": "So millions are",
+    "start": 0.4,
+    "end": 6.0
+  },
+  {
+    "element_id": "section_title",
+    "filename": "",
+    "phrase": "financially illiterate, navigating",
+    "start": 1.2,
+    "end": 6.0
+  },
+  {
+    "element_id": "bullet_b1",
+    "filename": "",
+    "phrase": "a complex system",
+    "start": 3.12,
+    "end": 6.0
+  },
+  {
+    "element_id": "bullet_b2",
+    "filename": "",
+    "phrase": "without a map.",
+    "start": 4.2,
+    "end": 6.0
+  }
+]

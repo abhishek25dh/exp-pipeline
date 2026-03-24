@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_left_scene_90",
+    "filename": "img_left_scene_90.jpg",
+    "phrase": "But using money to",
+    "start": 0.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_right_scene_90",
+    "filename": "img_right_scene_90.jpg",
+    "phrase": "manage emotions keeps you",
+    "start": 1.32,
+    "end": 5.0
+  },
+  {
+    "element_id": "text_bottom",
+    "filename": "",
+    "phrase": "and doesn't fix anything.",
+    "start": 3.0,
+    "end": 5.0
+  }
+]

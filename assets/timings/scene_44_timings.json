@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "image_group_1_cause",
+    "filename": "group_1_cause_0.jpg",
+    "phrase": "As income goes",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_group_1",
+    "filename": "arrow.png",
+    "phrase": "up, spending goes",
+    "start": 1.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_effect",
+    "filename": "group_1_effect_0.jpg",
+    "phrase": "up to match it.",
+    "start": 2.28,
+    "end": 4.0
+  }
+]

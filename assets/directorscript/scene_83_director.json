@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_83",
+  "elements": [
+    {
+      "element_id": "img_left_scene_83",
+      "type": "image",
+      "phrase": "But",
+      "text_content": "",
+      "x": 445,
+      "y": 553,
+      "scale": 0.589,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_left_scene_83.jpg",
+      "description": "A bright yellow smiling sun with rays radiating outward, positioned at the center of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 31 left image (P1)"
+    },
+    {
+      "element_id": "arrow_scene_83",
+      "type": "arrow",
+      "phrase": "the feeling",
+      "text_content": "",
+      "x": 1018,
+      "y": 561,
+      "scale": 0.387,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Layout 31 arrow (P2, static local asset)"
+    },
+    {
+      "element_id": "img_right_scene_83",
+      "type": "image",
+      "phrase": "fades fast.",
+      "text_content": "",
+      "x": 1501,
+      "y": 557,
+      "scale": 0.499,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_83.jpg",
+      "description": "The same yellow sun now dimmed to pale gray, with short faint rays, positioned at the center of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 31 right image (P3)"
+    }
+  ]
+}

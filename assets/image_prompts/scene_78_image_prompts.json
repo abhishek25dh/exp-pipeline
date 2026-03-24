@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_78",
+  "elements": [
+    {
+      "element_id": "img_below_right_scene_78",
+      "filename": "img_below_right_scene_78.jpg",
+      "original_description": "A hand holding a pen, writing on a lined piece of paper. The pen is blue, and the paper is yellow. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a hand holding a blue pen, writing on a yellow lined piece of paper. The pen is a classic blue ballpoint. The paper is aged, textured yellow notepad paper with faint gray lines. Focus on the hand's grip and the pen tip touching the paper. Cinematic lighting with soft shadows and a shallow depth of field. No text, letters, numbers, or watermarks. Clean, professional shot with a warm, focused mood."
+    },
+    {
+      "element_id": "img_below_left_scene_78",
+      "filename": "img_below_left_scene_78.jpg",
+      "original_description": "A simple ledger with dollar signs and numbers written in black ink, placed on a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a simple ledger with dollar signs and numbers written in black ink, placed on a pure white background. The ledger is a classic brown leather-bound book with off-white pages. The ink is glossy, dark black, and precisely applied. Soft, diffused lighting creates subtle shadows. Sharp focus on the ledger and writing. Clean, minimalist composition. No text, letters, numbers, or watermarks visible."
+    }
+  ]
+}

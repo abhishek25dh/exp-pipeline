@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+No	0.24	0.36	0.9980469	
+retirement	0.36	0.88	1.0	
+savings.	0.88	1.36	0.9995117	

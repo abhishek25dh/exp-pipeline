@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_221",
+  "elements": [
+    {
+      "element_id": "img_host_mid_scene_221",
+      "type": "image",
+      "phrase": "But eventually, future you becomes present",
+      "text_content": "",
+      "x": 964,
+      "y": 576,
+      "scale": 0.75,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "host_sad.png",
+      "description": "",
+      "reason": "Layout 27 host (center, emotion=sad)"
+    },
+    {
+      "element_id": "text_left_scene_221",
+      "type": "text_highlighted",
+      "phrase": "you, and the bill is real.",
+      "text_content": "IS REAL.",
+      "x": 404,
+      "y": 425,
+      "scale": 2.083,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 27 left text (P2, line 1/1)"
+    }
+  ]
+}

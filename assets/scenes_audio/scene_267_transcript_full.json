@@ -1,0 +1,163 @@
+{
+  "id": "777f29df-126a-43f8-982a-527282862833",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/78be02ac12d8737a1223455fd72760ea0cc71f267e3d9abc125492c2159d7e3b/528de47f-02c2-4fe9-9146-b21723e9e086",
+  "text": "If you recognize yourself in any of these, you're not alone.",
+  "words": [
+    {
+      "text": "If",
+      "start": 320,
+      "end": 440,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 440,
+      "end": 640,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "recognize",
+      "start": 640,
+      "end": 1160,
+      "confidence": 0.99768066,
+      "speaker": null
+    },
+    {
+      "text": "yourself",
+      "start": 1160,
+      "end": 1520,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 1520,
+      "end": 1800,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "any",
+      "start": 1800,
+      "end": 2080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 2080,
+      "end": 2280,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "these,",
+      "start": 2280,
+      "end": 2560,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "you're",
+      "start": 2640,
+      "end": 3040,
+      "confidence": 0.99609375,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 3040,
+      "end": 3160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "alone.",
+      "start": 3160,
+      "end": 3600,
+      "confidence": 0.99975586,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9991011,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

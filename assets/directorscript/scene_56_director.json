@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_56",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "Live on",
+      "filename": "group_1_img_0.jpg",
+      "description": "A smiling person sits at a wooden desk with a laptop, a coffee cup, and a small plant, wearing casual clothes. The desk is simple and uncluttered, emphasizing a modest lifestyle. No text, no letters, no numbers, no watermarks.",
+      "x": 1329,
+      "y": 320,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "text_group_1_1",
+      "type": "text_highlighted",
+      "phrase": "your old",
+      "text_content": "your old income",
+      "x": 590,
+      "y": 320,
+      "scale": 1.778,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Emphasis text",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_2_0",
+      "type": "image",
+      "phrase": "income and bank",
+      "filename": "group_2_img_1.jpg",
+      "description": "A cartoon piggy bank with a coin slot, surrounded by stacks of gold coins and dollar bills, sits on a white surface. The piggy bank has a cheerful expression and a shiny metallic finish. No text, no letters, no numbers, no watermarks.",
+      "x": 590,
+      "y": 760,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "text_group_2_1",
+      "type": "text_highlighted",
+      "phrase": "the new money.",
+      "text_content": "the new money.",
+      "x": 1329,
+      "y": 760,
+      "scale": 1.905,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Emphasis text",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

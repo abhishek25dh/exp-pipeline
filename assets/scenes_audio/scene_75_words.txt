@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Log	0.4	0.56	0.9975586	
+into	0.56	0.8	0.8959961	
+your	0.8	1.0	0.99902344	
+bank	1.0	1.16	0.9980469	
+account.	1.16	1.44	0.9975586	

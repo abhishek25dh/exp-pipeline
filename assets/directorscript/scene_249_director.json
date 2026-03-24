@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_249",
+  "elements": [
+    {
+      "element_id": "center_title_1",
+      "type": "text_highlighted",
+      "phrase": "Schools don't",
+      "text_content": "Schools don't",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 512,
+      "scale": 1.446,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "center_title_2",
+      "type": "text_highlighted",
+      "phrase": "",
+      "text_content": "teach it.",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 567,
+      "scale": 1.446,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.39
+    },
+    {
+      "element_id": "img_phase_1",
+      "type": "image",
+      "phrase": "teach it.",
+      "text_content": "",
+      "filename": "phase_1_img.jpg",
+      "description": "A simple 2D cartoon graphic of a red brick school building with a bell tower, surrounded by green grass and a blue sky. No text, no letters, no numbers, no watermarks.",
+      "x": 960,
+      "y": 220,
+      "scale": 0.22,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

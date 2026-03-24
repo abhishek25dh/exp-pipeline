@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Avoidance	0.4	0.88	1.0	
+is	0.88	1.08	0.9995117	
+also	1.08	1.28	1.0	
+about	1.28	1.6	0.7548828	
+shame.	1.6	2.08	0.99902344	

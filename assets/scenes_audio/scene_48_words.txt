@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Social	0.4	0.6	1.0	
+media	0.6	0.96	1.0	
+shows	0.96	1.4	0.9992676	
+constant	1.4	1.84	1.0	
+comparison.	1.84	2.4	0.99886066	

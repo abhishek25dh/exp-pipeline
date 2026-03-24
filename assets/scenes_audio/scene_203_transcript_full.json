@@ -1,0 +1,156 @@
+{
+  "id": "c6dd8f35-6c1c-49f7-8440-ce693614bab7",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/27fd0041c131e38a009609b8ca507fc3c3cc48deff5d77bea7c5b7c770169157/43256270-bc9d-4c48-9fc4-5e2ae35ad1a9",
+  "text": "You'll pay it off later, but the balance keeps growing.",
+  "words": [
+    {
+      "text": "You'll",
+      "start": 320,
+      "end": 600,
+      "confidence": 0.9900716,
+      "speaker": null
+    },
+    {
+      "text": "pay",
+      "start": 600,
+      "end": 720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 720,
+      "end": 840,
+      "confidence": 0.98876953,
+      "speaker": null
+    },
+    {
+      "text": "off",
+      "start": 840,
+      "end": 1040,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "later,",
+      "start": 1040,
+      "end": 1360,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 1440,
+      "end": 1720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 1720,
+      "end": 1880,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "balance",
+      "start": 1880,
+      "end": 2200,
+      "confidence": 0.96028644,
+      "speaker": null
+    },
+    {
+      "text": "keeps",
+      "start": 2200,
+      "end": 2520,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "growing.",
+      "start": 2520,
+      "end": 2880,
+      "confidence": 0.9934082,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.99291176,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_237",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "filename": "group_1_cause_0.jpg",
+      "original_description": "A cheerful cartoon person running energetically on a pure white background, arms outstretched toward a floating dollar bill.",
+      "image_prompt": "Professional 2D minimalist icon of a cheerful cartoon person running energetically, arms outstretched toward a floating dollar bill. Clean flat vector art on a pure white background, high contrast, no shading or gradients. The mood is bright and energetic to match the cause."
+    },
+    {
+      "element_id": "image_group_1_effect",
+      "filename": "group_1_effect_0.jpg",
+      "original_description": "The same cartoon person holding an empty wallet with a sad expression, surrounded by scattered coins on a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of the same cartoon person holding an empty wallet with a sad expression, surrounded by scattered coins. Clean flat vector art on a pure white background, high contrast, no shading or gradients. The tone is somber to reflect the effect of spending."
+    }
+  ]
+}

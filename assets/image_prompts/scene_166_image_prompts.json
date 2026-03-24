@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_166",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A smiling delivery person in a bright uniform holds a package, standing next to a red and white delivery van on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a smiling delivery person in a bright, cheerful uniform holding a small cardboard package. They are standing proudly next to a clean, modern red and white delivery van. The scene is set on a pure, seamless white background with professional studio lighting to create a crisp, bright, and inviting mood. Cinematic, clear focus on the person and van, no shadows. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A cozy couch with a person lounging, holding a remote, facing a flat-screen TV. A table nearby has a burger, fries, and a soda on a tray. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a cozy, modern couch with a relaxed person lounging comfortably, holding a TV remote in their hand. They are facing a large, sleek flat-screen TV. On a small table nearby, there is a delicious-looking burger, a serving of golden fries, and a soda in a cup, all arranged neatly on a tray. The scene is set on a pure, seamless white background with warm, soft cinematic lighting that enhances the comfortable, leisurely mood. Sharp focus, no clutter. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

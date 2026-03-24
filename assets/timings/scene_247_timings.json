@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "title",
+    "filename": "",
+    "phrase": "You avoid",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "vs_center",
+    "filename": "",
+    "phrase": "learning because",
+    "start": 0.8,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left",
+    "filename": "left_concept.jpg",
+    "phrase": "it feels overwhelming.",
+    "start": 1.44,
+    "end": 3.0
+  }
+]

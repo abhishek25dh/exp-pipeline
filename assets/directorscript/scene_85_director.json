@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_85",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_black",
+      "phrase": "Emotional spending is a coping mechanism.",
+      "text_content": "EMOTIONAL SPENDING IS A COPING MECHANISM.",
+      "x": 960,
+      "y": 540,
+      "scale": 1.463,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1",
+      "typing_speed": 0.76
+    }
+  ]
+}

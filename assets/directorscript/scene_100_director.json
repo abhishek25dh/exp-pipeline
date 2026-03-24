@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_100",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_highlighted",
+      "phrase": "You worry about losing everything.",
+      "text_content": "YOU WORRY ABOUT LOSING EVERYTHING.",
+      "x": 960,
+      "y": 540,
+      "scale": 1.765,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

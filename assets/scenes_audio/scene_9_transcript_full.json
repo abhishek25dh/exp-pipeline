@@ -1,0 +1,191 @@
+{
+  "id": "3ec0a7bb-8e48-4ddd-a2a0-f7177fb486c7",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/a84481d35dc1574a0cccfbb1cb35cae5dbf4247d8c469b6cab7a8a9d035f07f4/e1936e06-13ad-4891-b792-e550f69c42dc",
+  "text": "You might turn down a better job because you're afraid of losing what you have.",
+  "words": [
+    {
+      "text": "You",
+      "start": 320,
+      "end": 440,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "might",
+      "start": 440,
+      "end": 640,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "turn",
+      "start": 640,
+      "end": 880,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "down",
+      "start": 880,
+      "end": 1080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 1080,
+      "end": 1200,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "better",
+      "start": 1200,
+      "end": 1400,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "job",
+      "start": 1400,
+      "end": 1760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "because",
+      "start": 1760,
+      "end": 2080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "you're",
+      "start": 2080,
+      "end": 2360,
+      "confidence": 0.99316406,
+      "speaker": null
+    },
+    {
+      "text": "afraid",
+      "start": 2360,
+      "end": 2680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 2680,
+      "end": 2840,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "losing",
+      "start": 2840,
+      "end": 3200,
+      "confidence": 0.9998372,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 3200,
+      "end": 3400,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 3400,
+      "end": 3560,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "have.",
+      "start": 3560,
+      "end": 3840,
+      "confidence": 0.9995117,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.999273,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

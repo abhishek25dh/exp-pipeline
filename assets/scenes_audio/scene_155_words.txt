@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.48	0.9941406	
+avoid	0.48	0.84	0.9469401	
+financial	0.84	1.2	1.0	
+advisors	1.2	1.92	0.98583984	
+thinking	1.92	2.2	0.99438477	
+they'll	2.2	2.44	0.87369794	
+judge	2.44	2.68	0.9404297	
+you.	2.68	2.96	0.9980469	

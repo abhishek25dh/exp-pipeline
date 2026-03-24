@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_1",
+  "elements": [
+    {
+      "element_id": "img_2",
+      "type": "image",
+      "phrase": "You grew up",
+      "text_content": "",
+      "filename": "img_2.jpg",
+      "description": "A small child sitting on a wooden floor, surrounded by scattered toys, looking curiously at a glowing piggy bank in front of them.",
+      "x": 780,
+      "y": 520,
+      "scale": 0.411,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "hearing there's",
+      "text_content": "",
+      "filename": "img_1.jpg",
+      "description": "A pair of oversized, cartoonish ears floating in mid-air, with sound waves emanating outward, symbolizing the act of hearing.",
+      "x": 260,
+      "y": 540,
+      "scale": 0.239,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_3",
+      "type": "image",
+      "phrase": "never enough.",
+      "text_content": "",
+      "filename": "img_3.jpg",
+      "description": "An empty glass jar with a label that says 'Enough' on it, tilted slightly to show its emptiness, with a faint shadow cast behind it.",
+      "x": 1500,
+      "y": 500,
+      "scale": 0.683,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

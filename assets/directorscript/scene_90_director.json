@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_90",
+  "elements": [
+    {
+      "element_id": "img_left_scene_90",
+      "type": "image",
+      "phrase": "But using money to",
+      "text_content": "",
+      "x": 550,
+      "y": 380,
+      "scale": 0.42,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_left_scene_90.jpg",
+      "description": "A person holding a stack of dollar bills in one hand, with a distressed facial expression, standing in front of a plain white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 24 image (left, priority 2)"
+    },
+    {
+      "element_id": "img_right_scene_90",
+      "type": "image",
+      "phrase": "manage emotions keeps you",
+      "text_content": "",
+      "x": 1370,
+      "y": 380,
+      "scale": 0.42,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_90.jpg",
+      "description": "A person sitting on an empty wallet, looking sad and frustrated, with a thought bubble showing a broken heart, against a plain white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 24 image (right, priority 3)"
+    },
+    {
+      "element_id": "text_bottom",
+      "type": "text_highlighted",
+      "phrase": "and doesn't fix anything.",
+      "text_content": "AND DOESN'T FIX ANYTHING.",
+      "x": 960,
+      "y": 870,
+      "scale": 2.4,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Bottom anchor text for layout 24 (line 1/1)"
+    }
+  ]
+}

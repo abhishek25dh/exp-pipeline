@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "txt_core",
+    "filename": "",
+    "phrase": "Money shame",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_node_4",
+    "filename": "orb_3_img.jpg",
+    "phrase": "also",
+    "start": 0.96,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_node_4",
+    "filename": "",
+    "phrase": "prevents learning.",
+    "start": 1.32,
+    "end": 3.0
+  }
+]

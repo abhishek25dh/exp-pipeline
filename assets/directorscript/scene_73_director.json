@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_73",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_black",
+      "phrase": "But you can't",
+      "text_content": "BUT YOU CAN'T FIX",
+      "x": 960,
+      "y": 310,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21",
+      "typing_speed": 0.56
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "fix what you",
+      "text_content": "",
+      "x": 646,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 38,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "won't look at.",
+      "text_content": "",
+      "x": 1006,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_1_scene_73.jpg",
+      "description": "A cartoon magnifying glass angled downward, avoiding a small cracked vase on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

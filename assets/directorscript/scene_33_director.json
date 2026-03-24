@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_33",
+  "elements": [
+    {
+      "element_id": "text_top",
+      "type": "text_red",
+      "phrase": "Stressed?",
+      "text_content": "STRESSED?",
+      "x": 553,
+      "y": 400,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 26 top text (line 1/1)",
+      "typing_speed": 0.81
+    },
+    {
+      "element_id": "img_below_right_scene_33",
+      "type": "image",
+      "phrase": "Buy something.",
+      "text_content": "",
+      "x": 886,
+      "y": 810,
+      "scale": 0.419,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_below_right_scene_33.jpg",
+      "description": "A cheerful cartoon character holding shopping bags filled with colorful items, smiling broadly. The bags have bright patterns and the character exudes happiness. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 below image (slot=right, priority=2)"
+    }
+  ]
+}

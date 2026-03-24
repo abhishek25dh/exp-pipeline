@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "slot_1",
+    "filename": "",
+    "phrase": "Many don't",
+    "start": 0.4,
+    "end": 7.0
+  },
+  {
+    "element_id": "slot_2",
+    "filename": "",
+    "phrase": "understand 401ks,",
+    "start": 0.84,
+    "end": 7.0
+  },
+  {
+    "element_id": "slot_3",
+    "filename": "",
+    "phrase": "IRAs, index funds,",
+    "start": 2.512,
+    "end": 7.0
+  }
+]

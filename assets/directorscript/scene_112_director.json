@@ -1,0 +1,83 @@
+{
+  "scene_id": "scene_112",
+  "elements": [
+    {
+      "element_id": "txt_core",
+      "type": "text_red",
+      "phrase": "gap widens.",
+      "text_content": "GAP WIDENS",
+      "x": 960,
+      "y": 540,
+      "scale": 1.253,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Central Mind Map Root",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.45
+    },
+    {
+      "element_id": "img_node_2",
+      "type": "image",
+      "phrase": "Decades",
+      "filename": "orb_1_img.jpg",
+      "description": "Two diverging arrows pointing in opposite directions with increasing distance between them, one arrow labeled 'Group A' and the other 'Group B', both arrows growing thicker and further apart as they move to the right, pure white background",
+      "x": 1520,
+      "y": 800,
+      "scale": 0.22,
+      "angle": 2,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Orbit node 2",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_node_2",
+      "type": "text_highlighted",
+      "phrase": "pass,",
+      "text_content": "pass",
+      "x": 1520,
+      "y": 962,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Node label",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.5
+    },
+    {
+      "element_id": "img_node_4",
+      "type": "image",
+      "phrase": "and",
+      "filename": "orb_3_img.jpg",
+      "description": "A graph showing increasing economic inequality with a widening gap between two lines labeled 'Wealth' and 'Poverty' spanning from past to present, pure white background",
+      "x": 1520,
+      "y": 250,
+      "scale": 0.22,
+      "angle": -1,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Orbit node 4",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_node_4",
+      "type": "text_red",
+      "phrase": "the",
+      "text_content": "the",
+      "x": 1520,
+      "y": 412,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Node label",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.37
+    }
+  ]
+}

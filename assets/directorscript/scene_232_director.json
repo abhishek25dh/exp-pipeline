@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_232",
+  "elements": [
+    {
+      "element_id": "img_center_scene_232",
+      "type": "image",
+      "phrase": "In the",
+      "text_content": "",
+      "x": 730,
+      "y": 530,
+      "scale": 0.59,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_center_scene_232.jpg",
+      "description": "A blank white screen with faint outlines of objects starting to form. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_center (P1, AI generated)"
+    },
+    {
+      "element_id": "img_tl_scene_232",
+      "type": "image",
+      "phrase": "US, status",
+      "text_content": "",
+      "x": 232,
+      "y": 376,
+      "scale": 0.271,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_tl_scene_232.jpg",
+      "description": "A cartoon map of the United States with bold colors and simple outlines, centered on the screen. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tl (P2, AI generated)"
+    },
+    {
+      "element_id": "img_bl_scene_232",
+      "type": "image",
+      "phrase": "is measured",
+      "text_content": "",
+      "x": 224,
+      "y": 702,
+      "scale": 0.259,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_bl_scene_232.jpg",
+      "description": "A cartoon figure of a person wearing a suit, standing confidently with arms crossed, centered on the screen. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_bl (P3, AI generated)"
+    },
+    {
+      "element_id": "img_tr1_scene_232",
+      "type": "image",
+      "phrase": "by what",
+      "text_content": "",
+      "x": 1293,
+      "y": 405,
+      "scale": 0.303,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_tr1_scene_232.jpg",
+      "description": "A cartoon scale with one side filled with gold bars and the other side empty, centered on the screen. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tr1 (P4, AI generated)"
+    },
+    {
+      "element_id": "img_tr2_scene_232",
+      "type": "image",
+      "phrase": "you own.",
+      "text_content": "",
+      "x": 1701,
+      "y": 399,
+      "scale": 0.304,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_tr2_scene_232.jpg",
+      "description": "A cartoon thought bubble with a question mark inside, floating above the scale, centered on the screen. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tr2 (P5, AI generated)"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "scene_id": "scene_58",
+  "host_emotion": "explaining",
+  "host_phrase": "Lifestyle",
+  "elements": [
+    {
+      "element_id": "host_center_explaining",
+      "type": "host",
+      "phrase": "Lifestyle",
+      "description": "Host in center expressing explaining",
+      "filename": "host_explaining.png",
+      "x": 960,
+      "y": 560,
+      "scale": 0.9,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_0",
+      "type": "image",
+      "phrase": "creep keeps",
+      "visual_description": "A minimalist living room with a sleek sofa, glass coffee table, and potted plants arranged neatly. The walls are bare except for a single abstract painting. No text, no letters, no numbers, no watermarks.",
+      "description": "A minimalist living room with a sleek sofa, glass coffee table, and potted plants arranged neatly. The walls are bare except for a single abstract painting. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_0_creep_keeps.jpg",
+      "x": 300,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "span": [
+        0,
+        1
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_1",
+      "type": "image",
+      "phrase": "you broke",
+      "visual_description": "A cartoonish calendar with every day marked with a red X, emphasizing the word 'every' in bold letters. The background is plain white. No text, no letters, no numbers, no watermarks.",
+      "description": "A cartoonish calendar with every day marked with a red X, emphasizing the word 'every' in bold letters. The background is plain white. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_1_you_broke.jpg",
+      "x": 300,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "span": [
+        6,
+        7
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_2",
+      "type": "image",
+      "phrase": "at every",
+      "visual_description": "A stack of dollar bills arranged neatly on a wooden table, with a paycheck partially visible underneath. The lighting highlights the texture of the money. No text, no letters, no numbers, no watermarks.",
+      "description": "A stack of dollar bills arranged neatly on a wooden table, with a paycheck partially visible underneath. The lighting highlights the texture of the money. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": true,
+      "filename": "quad_2_at_every.jpg",
+      "x": 1620,
+      "y": 220,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "span": [
+        7,
+        8
+      ],
+      "property": ""
+    },
+    {
+      "element_id": "image_quad_3",
+      "type": "image",
+      "phrase": "income level.",
+      "visual_description": "A cartoon-style graph with a rising line labeled 'level' pointing upwards. The graph is simple, with no numbers or detailed markings. The background is white. No text, no letters, no numbers, no watermarks.",
+      "description": "A cartoon-style graph with a rising line labeled 'level' pointing upwards. The graph is simple, with no numbers or detailed markings. The background is white. No text, no letters, no numbers, no watermarks.",
+      "is_realistic": false,
+      "filename": "quad_3_income_level.jpg",
+      "x": 1620,
+      "y": 860,
+      "scale": 0.32,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "span": [
+        8,
+        9
+      ],
+      "property": ""
+    }
+  ]
+}

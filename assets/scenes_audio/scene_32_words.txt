@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Bored.	0.32	0.64	0.82836914	
+Buy	0.8	1.12	0.84765625	
+something.	1.12	1.44	0.99902344	

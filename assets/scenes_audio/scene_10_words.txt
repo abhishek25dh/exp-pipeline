@@ -1,0 +1,11 @@
+# word	start_s	end_s	confidence	speaker
+You	0.24	0.36	0.9995117	
+don't	0.36	0.56	0.9996745	
+invest	0.56	0.8	1.0	
+because	0.8	1.16	0.53125	
+you	1.16	1.44	1.0	
+can't	1.44	1.72	0.9954427	
+afford	1.72	2.04	1.0	
+to	2.04	2.24	1.0	
+lose	2.24	2.56	1.0	
+anything.	2.56	2.96	0.9992676	

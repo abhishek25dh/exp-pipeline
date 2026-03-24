@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Wanting	0.32	0.6	0.9995117	
+money	0.6	0.84	1.0	
+is	0.84	1.08	0.9995117	
+selfish.	1.08	1.6	0.9998372	

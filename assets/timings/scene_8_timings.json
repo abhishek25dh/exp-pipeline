@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "image_group_1_cause",
+    "filename": "group_1_cause_0.jpg",
+    "phrase": "So you play",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_group_1",
+    "filename": "arrow.png",
+    "phrase": "it safe, avoid",
+    "start": 0.76,
+    "end": 4.0
+  },
+  {
+    "element_id": "image_group_1_effect",
+    "filename": "group_1_effect_0.jpg",
+    "phrase": "risks, and miss opportunities.",
+    "start": 1.92,
+    "end": 4.0
+  }
+]

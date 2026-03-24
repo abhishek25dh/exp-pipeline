@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "host_center_explaining",
+    "filename": "host_explaining.png",
+    "phrase": "In the",
+    "start": 0.16,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_quad_0",
+    "filename": "quad_0_US_there's.jpg",
+    "phrase": "US, there's",
+    "start": 0.44,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_quad_1",
+    "filename": "quad_1_a_huge.jpg",
+    "phrase": "a huge",
+    "start": 1.48,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_quad_2",
+    "filename": "quad_2_gap_in_financial.jpg",
+    "phrase": "gap in financial",
+    "start": 1.88,
+    "end": 5.0
+  },
+  {
+    "element_id": "image_quad_3",
+    "filename": "quad_3_literacy_around_investing.jpg",
+    "phrase": "literacy around investing.",
+    "start": 2.8,
+    "end": 5.0
+  }
+]

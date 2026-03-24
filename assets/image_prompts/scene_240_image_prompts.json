@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_240",
+  "elements": [
+    {
+      "element_id": "image_quad_0",
+      "filename": "quad_0_this_because_you.jpg",
+      "original_description": "A person holding a shopping bag with a question mark hovering above their head, standing in a store aisle filled with colorful products. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person, mid-shot, holding a shopping bag with a glowing, translucent question mark hovering above their head, standing in a well-stocked store aisle filled with vibrant, colorful products on shelves. Cinematic lighting from above with soft bokeh effect on background products, sharp focus on the person's contemplative expression, high resolution, realistic textures, professional photography. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_quad_1",
+      "filename": "quad_1_want_it_or_because.jpg",
+      "original_description": "A cartoon character pointing at another character with a thought bubble containing a heart and a shopping cart. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon style of a cartoon character pointing at another character, with a thought bubble floating above containing a simple heart icon and a shopping cart icon. Clean flat vector art, pure white background, high contrast, bold outlines, no shading or gradients, playful and clear illustration. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_quad_2",
+      "filename": "quad_2_you_want_people_to.jpg",
+      "original_description": "A group of people sitting at a cafe table, one person gesturing while others listen intently. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a group of people sitting at a cozy cafe table, one person gesturing animatedly while others listen intently with focused expressions. Cinematic lighting with warm tones, shallow depth of field creating soft bokeh on cafe background, sharp focus on faces and interactions, high resolution, realistic textures, candid moment feel. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_quad_3",
+      "filename": "quad_3_think_well_of_you.jpg",
+      "original_description": "A smiling cartoon character surrounded by glowing stars and thumbs-up gestures from other characters. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon style of a smiling cartoon character at center, surrounded by glowing star icons and thumbs-up gestures from other simple character icons. Clean flat vector art, pure white background, high contrast, bright colors, no shading or gradients, cheerful and celebratory illustration. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

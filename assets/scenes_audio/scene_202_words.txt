@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.9946289	
+use	0.52	0.72	0.99902344	
+credit	0.72	1.08	0.99975586	
+cards	1.08	1.32	0.9992676	
+for	1.32	1.52	0.99902344	
+everything.	1.52	1.84	0.9980469	

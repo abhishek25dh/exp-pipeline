@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Stressed.	0.16	0.72	0.9817708	
+Call	0.8	1.12	0.9838867	
+a	1.12	1.28	0.9995117	
+friend.	1.28	1.52	0.99560547	

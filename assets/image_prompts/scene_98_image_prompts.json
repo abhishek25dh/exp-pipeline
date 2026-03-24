@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_98",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "filename": "group_1_cause_0.jpg",
+      "original_description": "A smiling cartoon character holding a heart-shaped balloon in one hand and a gift box in the other, standing in the center of a pure white background. The character radiates warmth and happiness.",
+      "image_prompt": "Professional 2D minimalist icon. A smiling cartoon character holding a bright red heart-shaped balloon in one hand and a colorfully wrapped gift box in the other. The character stands centered on a pure white background. Clean flat vector art, high contrast, no shading or gradients, sharp edges. The character's expression radiates warmth, kindness, and happiness."
+    },
+    {
+      "element_id": "image_group_1_effect",
+      "filename": "group_1_effect_0.jpg",
+      "original_description": "The same cartoon character placing the gift box on the ground, with a piggy bank next to it, symbolizing saving money. The character smiles confidently, standing on a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon. The same cartoon character, smiling confidently, placing the colorfully wrapped gift box on the ground. Next to the gift box is a traditional ceramic piggy bank, symbolizing saving money. The character stands on a pure white background. Clean flat vector art, high contrast, no shading or gradients, sharp edges. The scene conveys a feeling of confidence and prudent decision-making."
+    }
+  ]
+}

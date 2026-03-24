@@ -1,0 +1,14 @@
+# word	start_s	end_s	confidence	speaker
+Scarcity	0.4	0.84	1.0	
+mindset	0.84	1.36	1.0	
+makes	1.36	1.6	0.9995117	
+you	1.6	1.8	1.0	
+believe	1.8	2.08	1.0	
+that	2.08	2.4	1.0	
+money	2.4	2.72	1.0	
+is	2.72	3.12	0.9995117	
+always	3.12	3.48	1.0	
+about	3.48	3.8	0.6225586	
+to	3.8	4.04	1.0	
+run	4.04	4.24	1.0	
+out.	4.24	4.56	0.9995117	

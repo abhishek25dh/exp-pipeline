@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "hero_image",
+    "filename": "hero_main.jpg",
+    "phrase": "But later,",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "section_title",
+    "filename": "",
+    "phrase": "you regret it.",
+    "start": 1.04,
+    "end": 3.0
+  }
+]

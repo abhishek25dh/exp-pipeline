@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_193",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_img_0.jpg",
+      "original_description": "A cheerful cartoon character holding a large stack of dollar bills, smiling widely, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "professional 2D minimalist icon, a cheerful cartoon character holding a large stack of dollar bills, smiling widely, standing on a pure white background, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks, cheerful and optimistic mood."
+    },
+    {
+      "element_id": "image_group_2_0",
+      "filename": "group_2_img_1.jpg",
+      "original_description": "The same cartoon character now looking guilty, holding their head down, with a small rain cloud above them, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "professional 2D minimalist icon, the same cartoon character now looking guilty, holding their head down, with a small rain cloud above them, standing on a pure white background, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks, somber and guilty mood."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_195",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "filename": "moment_1_img.jpg",
+      "original_description": "A glowing light bulb in the center of a white background, surrounded by abstract colorful swirls radiating outward. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a glowing light bulb at the center, rendered in clean flat vector art. The light bulb is encircled by abstract, vibrant, colorful swirls that radiate outward energetically. Set against a pure white background. High contrast, no shading or gradients. The mood is one of inspiration and realization. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_moment_2",
+      "filename": "moment_2_img.jpg",
+      "original_description": "A cartoon shield with a brain icon in the center, floating on a white background, surrounded by soft protective energy waves. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon shield, rendered in clean flat vector art. A stylized brain icon is centered on the shield. The shield is floating, surrounded by soft, gentle protective energy waves that emanate outward. Set against a pure white background. High contrast, no shading or gradients. The mood is protective and secure. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_moment_3",
+      "filename": "moment_3_img.jpg",
+      "original_description": "A silhouette of a person standing at a crossroads, with one path glowing brightly and the other fading into shadow, on a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a silhouette of a person standing at a crossroads, rendered in clean flat vector art. One path ahead of the figure glows with a bright, warm light, while the other path fades into shadow and darkness. Set against a pure white background. High contrast, no shading or gradients. The mood is one of pivotal choice and divergence. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_moment_4",
+      "filename": "moment_4_img.jpg",
+      "original_description": "A chalkboard on a white background with a simple drawing of a stick figure holding a book, surrounded by floating question marks. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a chalkboard, rendered in clean flat vector art. On the chalkboard is a simple, child-like drawing of a stick figure holding a book. Several floating question marks surround the chalkboard. Set against a pure white background. High contrast, no shading or gradients. The mood is questioning and reflective of learning. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

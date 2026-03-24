@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "title_timeline",
+    "filename": "",
+    "phrase": "It sounds",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "complicated, like something",
+    "start": 0.84,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_step_1",
+    "filename": "",
+    "phrase": "rich people do.",
+    "start": 2.2,
+    "end": 4.0
+  }
+]

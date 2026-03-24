@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.44	0.9975586	
+the	0.44	0.6	0.9995117	
+feeling	0.6	0.96	0.99975586	
+fades	0.96	1.36	0.9996745	
+fast.	1.36	1.76	0.9316406	

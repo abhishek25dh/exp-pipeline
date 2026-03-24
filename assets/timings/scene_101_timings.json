@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "strip_title",
+    "filename": "",
+    "phrase": "Maybe",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_frame_1",
+    "filename": "frame_1_img.jpg",
+    "phrase": "you",
+    "start": 0.6,
+    "end": 3.0
+  },
+  {
+    "element_id": "cap_frame_1",
+    "filename": "",
+    "phrase": "remember 2008.",
+    "start": 0.76,
+    "end": 3.0
+  }
+]

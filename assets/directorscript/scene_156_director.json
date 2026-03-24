@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_156",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_red",
+      "phrase": "The shame becomes a prison.",
+      "text_content": "THE SHAME BECOMES A PRISON.",
+      "x": 960,
+      "y": 540,
+      "scale": 2.222,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1",
+      "typing_speed": 0.61
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "element_id": "center_title_1",
+    "filename": "",
+    "phrase": "Once you",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "center_title_2",
+    "filename": "",
+    "phrase": "Once you",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_phase_1",
+    "filename": "phase_1_img.jpg",
+    "phrase": "name the",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "label_phase_1",
+    "filename": "",
+    "phrase": "shame, it",
+    "start": 1.08,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_phase_2",
+    "filename": "phase_2_img.jpg",
+    "phrase": "loses power.",
+    "start": 1.84,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_ne",
+    "filename": "arrow.png",
+    "phrase": "",
+    "start": 1.84,
+    "end": 3.0
+  }
+]

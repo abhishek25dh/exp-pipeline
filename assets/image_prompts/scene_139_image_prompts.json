@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_139",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A person standing on a pure white background, looking thoughtful with a raised eyebrow, wearing casual clothes in bright colors. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a person standing on a pure white background, looking thoughtful with a raised eyebrow, wearing casual clothes in bright colors. Clean flat vector art, high contrast, no shading or gradients. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A credit card partially hidden under a stack of papers on a pure white background, with a magnifying glass hovering above it. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a credit card partially hidden under a stack of papers on a pure white background, with a magnifying glass hovering above it. Clean flat vector art, high contrast, no shading or gradients. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

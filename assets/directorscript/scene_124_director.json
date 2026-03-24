@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_124",
+  "elements": [
+    {
+      "element_id": "img_host_right_scene_124",
+      "type": "image",
+      "phrase": "An",
+      "text_content": "",
+      "x": 1485,
+      "y": 621,
+      "scale": 0.754,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "host_looking_left.png",
+      "description": "",
+      "reason": "Layout 25 host image (P1, static local asset)"
+    },
+    {
+      "element_id": "img_top_left_scene_124",
+      "type": "image",
+      "phrase": "emergency fund",
+      "text_content": "",
+      "x": 308,
+      "y": 350,
+      "scale": 0.295,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_top_left_scene_124.jpg",
+      "description": "A transparent glass piggy bank filled with gold coins, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 25 left image (slot=top_left, priority=2)"
+    },
+    {
+      "element_id": "img_bottom_right_scene_124",
+      "type": "image",
+      "phrase": "for a",
+      "text_content": "",
+      "x": 764,
+      "y": 762,
+      "scale": 0.283,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_bottom_right_scene_124.jpg",
+      "description": "A shiny red car with a flat tire, parked on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 25 left image (slot=bottom_right, priority=3)"
+    },
+    {
+      "element_id": "img_bottom_left_scene_124",
+      "type": "image",
+      "phrase": "car repair.",
+      "text_content": "",
+      "x": 323,
+      "y": 763,
+      "scale": 0.284,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_bottom_left_scene_124.jpg",
+      "description": "A mechanic in blue overalls tightening a bolt on a car tire, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 25 left image (slot=bottom_left, priority=4)"
+    }
+  ]
+}

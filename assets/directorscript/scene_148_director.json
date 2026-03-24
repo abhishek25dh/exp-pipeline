@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_148",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "This silence",
+      "filename": "group_1_img_0.jpg",
+      "description": "A group of diverse cartoon people standing still, their faces blank and eyes wide, surrounded by a faint gray mist. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 590,
+      "y": 320,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_2_0",
+      "type": "image",
+      "phrase": "keeps people stuck.",
+      "filename": "group_2_img_1.jpg",
+      "description": "The same group of cartoon people now trapped inside transparent glass boxes, their hands pressed against the walls, looking frustrated. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1329,
+      "y": 760,
+      "scale": 0.38,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Deterministic span-derived image phrase.",
+      "text_content": ""
+    }
+  ]
+}

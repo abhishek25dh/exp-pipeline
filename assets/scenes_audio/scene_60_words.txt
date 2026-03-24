@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Bill.	0.32	0.48	0.99121094	
+Sit	0.48	0.72	0.9790039	
+on	0.72	0.92	0.58496094	
+opened.	0.92	1.44	0.98999023	

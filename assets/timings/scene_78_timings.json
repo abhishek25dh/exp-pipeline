@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_top",
+    "filename": "",
+    "phrase": "Write",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_below_right_scene_78",
+    "filename": "img_below_right_scene_78.jpg",
+    "phrase": "down what",
+    "start": 0.52,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_below_left_scene_78",
+    "filename": "img_below_left_scene_78.jpg",
+    "phrase": "you owe.",
+    "start": 0.84,
+    "end": 2.0
+  }
+]

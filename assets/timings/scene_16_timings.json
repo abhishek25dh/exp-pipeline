@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "Most of",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "the time,",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_16.jpg",
+    "phrase": "it's old programming.",
+    "start": 1.08,
+    "end": 3.0
+  }
+]

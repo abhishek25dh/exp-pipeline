@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_moment_1",
+    "filename": "moment_1_img.jpg",
+    "phrase": "Nice car.",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_moment_1",
+    "filename": "",
+    "phrase": "Designer clothes.",
+    "start": 1.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_moment_2",
+    "filename": "moment_2_img.jpg",
+    "phrase": "Big house.",
+    "start": 2.48,
+    "end": 4.0
+  }
+]

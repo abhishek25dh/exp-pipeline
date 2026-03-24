@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_236",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "filename": "host_explaining.png",
+      "original_description": "Host Character",
+      "image_prompt": "Professional high-quality photograph of a single host character, confident and engaging, in a studio setting with soft cinematic lighting, shallow depth of field with soft bokeh, neutral expression, looking directly at the camera, wearing professional attire, isolated on a clean background."
+    },
+    {
+      "element_id": "image_group_2_2",
+      "filename": "group_2_image_0.jpg",
+      "original_description": "The same person from the first scene now on the right side, looking down with a disappointed expression, holding their older smartphone. A faint shadow falls behind them. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person positioned on the right side of the frame, looking down with a clearly disappointed expression, holding an older model smartphone in their hands. A faint, subtle shadow is visible on the ground behind them. The lighting is soft and muted to emphasize the somber, disappointed mood, with natural tones and a clean, uncluttered background. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A person standing confidently on the left side, holding a shiny smartphone in their hand. The person has a proud expression. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person standing confidently on the left side of the frame, holding a shiny, modern smartphone prominently in their hand. The person has a proud, self-assured expression. The lighting is bright and optimistic, with crisp reflections on the smartphone to highlight its newness, using a clean background with a slight cinematic glow. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_2.jpg",
+      "original_description": "A sleek, futuristic gadget with glowing edges appears in the center, slightly overlapping the smartphone from the previous scene. The gadget emits a faint light. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a sleek, futuristic gadget with distinctly glowing edges positioned in the center of the frame, slightly overlapping the smartphone from the previous scene. The gadget emits a faint, ethereal light that illuminates its surroundings subtly. The lighting is dynamic and futuristic, with a cool color palette and soft shadows, set against a clean, dark background to enhance the glowing effect. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# word	start_s	end_s	confidence	speaker
+Many	0.4	0.56	1.0	
+don't	0.56	0.84	0.9996745	
+understand	0.84	1.12	1.0	
+401ks,	1.28	2.288	0.87915	
+IRAs,	2.512	3.52	0.87915	
+index	3.76	4.24	1.0	
+funds	4.24	4.64	1.0	
+or	4.64	4.92	0.73095703	
+compound	4.92	5.4	0.85302734	
+interest.	5.4	5.76	1.0	

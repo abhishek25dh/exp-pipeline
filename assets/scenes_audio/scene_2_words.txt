@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Money	0.32	0.52	0.9980469	
+was	0.52	0.76	1.0	
+always	0.76	1.0	1.0	
+tight.	1.0	1.44	0.9992676	

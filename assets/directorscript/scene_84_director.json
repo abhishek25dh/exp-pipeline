@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_84",
+  "elements": [
+    {
+      "element_id": "img_right_scene_84",
+      "type": "image",
+      "phrase": "The thing you bought",
+      "text_content": "",
+      "x": 1391,
+      "y": 559,
+      "scale": 0.784,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_84.jpg",
+      "description": "A shiny new gadget with buttons and lights, placed in the center of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 32 image (slot=right, priority=1)"
+    },
+    {
+      "element_id": "img_left_scene_84",
+      "type": "image",
+      "phrase": "doesn't solve the problem.",
+      "text_content": "",
+      "x": 502,
+      "y": 556,
+      "scale": 0.806,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_left_scene_84.jpg",
+      "description": "A frustrated person scratching their head, standing next to a large question mark, on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 32 image (slot=left, priority=2)"
+    }
+  ]
+}

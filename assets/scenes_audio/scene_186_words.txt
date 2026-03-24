@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.99316406	
+turn	0.52	0.72	1.0	
+down	0.72	0.96	0.99902344	
+opportunities.	0.96	1.6	0.9992676	

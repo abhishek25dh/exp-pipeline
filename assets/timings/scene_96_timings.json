@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_0.jpg",
+    "phrase": "Bored? Go",
+    "start": 0.48,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "for a walk.",
+    "start": 1.24,
+    "end": 3.0
+  }
+]

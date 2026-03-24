@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_224",
+  "elements": [
+    {
+      "element_id": "img_right_scene_224",
+      "type": "image",
+      "phrase": "Pay cash",
+      "text_content": "",
+      "x": 1391,
+      "y": 559,
+      "scale": 0.784,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_224.jpg",
+      "description": "A hand holding crisp dollar bills against a pure white background. The bills are fanned out slightly, showing their green and white details clearly. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 32 image (slot=right, priority=1)"
+    },
+    {
+      "element_id": "img_left_scene_224",
+      "type": "image",
+      "phrase": "or debit only.",
+      "text_content": "",
+      "x": 502,
+      "y": 556,
+      "scale": 0.806,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_224.jpg",
+      "description": "A blue debit card with a silver chip and magnetic stripe, placed horizontally on a pure white background. The card appears clean and modern, with no branding or logos. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 32 image (slot=left, priority=2)"
+    }
+  ]
+}

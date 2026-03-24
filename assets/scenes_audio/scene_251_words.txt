@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+This	0.4	0.52	0.99658203	
+keeps	0.52	0.76	0.99853516	
+you	0.76	0.92	0.99902344	
+stuck.	0.92	1.28	0.9995117	

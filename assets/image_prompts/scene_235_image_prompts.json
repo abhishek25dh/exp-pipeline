@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_235",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A bright yellow smiley face balloon floats upward, slowly deflating, with a faint smile fading as it loses air. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a bright yellow smiley face balloon floating upward, slowly deflating, with the faint smile on its face fading as it loses air, clean flat vector art, high contrast, pure white background, no shading or gradients, no text, no letters, no numbers, no watermarks, emotional tone from the phrase suggests a quiet, fading quality."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A cracked gold trophy sits on a pedestal, its shine dulled and pieces falling apart. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, a cracked gold trophy sitting on a pedestal, its shine is dulled and pieces are shown falling apart, clean flat vector art, high contrast, pure white background, no shading or gradients, no text, no letters, no numbers, no watermarks, emotional tone from the phrase suggests impermanence and decay."
+    }
+  ]
+}

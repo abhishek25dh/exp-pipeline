@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "title_pyramid",
+    "filename": "",
+    "phrase": "Parents created",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_panel_1",
+    "filename": "panel_1_img.jpg",
+    "phrase": "fear or",
+    "start": 1.16,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_panel_1",
+    "filename": "",
+    "phrase": "shame around it.",
+    "start": 1.76,
+    "end": 3.0
+  }
+]

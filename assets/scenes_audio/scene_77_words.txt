@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Look	0.4	0.52	0.99902344	
+at	0.52	0.72	0.99902344	
+statements.	0.72	1.28	0.9975586	

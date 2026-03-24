@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_60",
+  "elements": [
+    {
+      "element_id": "text_bc_scene_60",
+      "type": "text_black",
+      "phrase": "Bills sit",
+      "text_content": "BILLS SIT",
+      "x": 942,
+      "y": 970,
+      "scale": 1.3,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/1)"
+    },
+    {
+      "element_id": "img_left_scene_60",
+      "type": "image",
+      "phrase": "sit unopened.",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_60.jpg",
+      "description": "A white desk with three unopened envelopes lying flat, one white, one yellow, and one blue, arranged diagonally from bottom left to upper right. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    }
+  ]
+}

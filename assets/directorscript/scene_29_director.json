@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_29",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_red",
+      "phrase": "That $5 coffee, $15 lunch, $30 shirt.",
+      "text_content": "THAT $5 COFFEE, $15 LUNCH, $30 SHIRT.",
+      "x": 960,
+      "y": 540,
+      "scale": 1.622,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1",
+      "typing_speed": 0.89
+    }
+  ]
+}

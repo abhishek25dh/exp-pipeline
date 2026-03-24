@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_254",
+  "elements": [
+    {
+      "element_id": "text_bc_scene_254",
+      "type": "text_highlighted",
+      "phrase": "You pay",
+      "text_content": "YOU PAY",
+      "x": 942,
+      "y": 970,
+      "scale": 1.3,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/1)"
+    },
+    {
+      "element_id": "img_left_scene_254",
+      "type": "image",
+      "phrase": "pay",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_left_scene_254.jpg",
+      "description": "A cartoon piggy bank with a frown, tilted to the side with coins spilling out onto a white surface. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_254",
+      "type": "image",
+      "phrase": "overdraft fees.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_254.jpg",
+      "description": "A stack of dollar bills with a red 'fee' stamp across them, placed on a white surface. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

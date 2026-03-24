@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "wall_title",
+    "filename": "",
+    "phrase": "You don't",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_tl",
+    "filename": "polaroid_tl.jpg",
+    "phrase": "plan months",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "cap_tl",
+    "filename": "",
+    "phrase": "or years ahead.",
+    "start": 1.28,
+    "end": 3.0
+  }
+]

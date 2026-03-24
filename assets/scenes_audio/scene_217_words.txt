@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Swiping	0.16	0.52	0.99641925	
+is	0.52	0.68	0.99902344	
+painless.	0.68	1.12	0.9996745	

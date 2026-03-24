@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_72",
+  "elements": [
+    {
+      "element_id": "img_1",
+      "filename": "img_1_scene_72.jpg",
+      "original_description": "A person with their hands over their eyes, standing in a casual pose, wearing a bright yellow shirt and blue jeans. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person with their hands over their eyes, standing in a casual pose. They are wearing a bright yellow shirt and blue jeans. Clean, soft cinematic lighting with a subtle shadow effect. Sharp focus on the person, high resolution, no text, no letters, no numbers, no watermarks, on a simple background that emphasizes the subject."
+    },
+    {
+      "element_id": "img_2",
+      "filename": "img_2_scene_72.jpg",
+      "original_description": "A close-up of a person\u2019s face with a conflicted expression, eyes darting sideways, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph, close-up of a person\u2019s face with a conflicted expression, eyes darting sideways. Pure white background, studio lighting for clarity, sharp focus on facial details to capture emotional tension. High resolution, no text, no letters, no numbers, no watermarks, professional portrait style."
+    }
+  ]
+}

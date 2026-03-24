@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Your	0.32	0.48	0.99658203	
+brain	0.48	0.8	0.9987793	
+craves	0.8	1.24	0.88378906	
+that	1.24	1.44	0.9995117	
+dopamine	1.44	1.92	0.90930176	
+hit.	1.92	2.24	0.9995117	

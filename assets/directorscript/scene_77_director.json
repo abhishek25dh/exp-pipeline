@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_77",
+  "elements": [
+    {
+      "element_id": "img_host_right_scene_77",
+      "type": "image",
+      "phrase": "Look",
+      "text_content": "",
+      "x": 1485,
+      "y": 621,
+      "scale": 0.754,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "host_looking_left.png",
+      "description": "",
+      "reason": "Layout 25 host image (P1, static local asset)"
+    },
+    {
+      "element_id": "img_top_left_scene_77",
+      "type": "image",
+      "phrase": "at statements.",
+      "text_content": "",
+      "x": 308,
+      "y": 350,
+      "scale": 0.295,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_top_left_scene_77.jpg",
+      "description": "A white sheet of paper with three short bullet points written in black ink, placed at a slight angle on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 25 left image (slot=top_left, priority=2)"
+    }
+  ]
+}

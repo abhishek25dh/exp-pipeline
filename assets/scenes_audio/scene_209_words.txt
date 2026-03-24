@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+In	0.32	0.48	0.99902344	
+America,	0.48	1.12	1.0	
+credit	1.12	1.64	1.0	
+is	1.64	1.88	1.0	
+everywhere.	1.88	2.48	0.9998372	

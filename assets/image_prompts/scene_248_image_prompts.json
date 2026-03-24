@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_248",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A minimalist illustration of the word 'In' in bold, modern typography, centered on a pure white background.",
+      "image_prompt": "A professional 2D minimalist icon featuring the word 'In' in bold, modern typography, perfectly centered on a pure white background. Clean flat vector art, high contrast, absolutely no shading, gradients, or decorative elements. Crisp edges, minimalist style."
+    },
+    {
+      "element_id": "img_step_2",
+      "filename": "step_2_img.jpg",
+      "original_description": "An illustration of a stack of coins and a dollar bill, symbolizing 'financial', placed neatly on a pure white background.",
+      "image_prompt": "A minimalist 2D flat illustration of a stack of coins and a single dollar bill, symbolizing 'financial', arranged neatly on a pure white background. Clean, professional flat vector art style with high contrast and sharp lines. No shading, no gradients, no texture. Simple, clear, and visually balanced."
+    }
+  ]
+}

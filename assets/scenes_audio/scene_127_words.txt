@@ -1,0 +1,11 @@
+# word	start_s	end_s	confidence	speaker
+In	0.32	0.44	0.9995117	
+the	0.44	0.6	0.9995117	
+US	0.6	0.88	0.984375	
+People	1.2	1.52	1.0	
+are	1.52	1.76	1.0	
+overwhelmed	1.76	2.4	0.8267822	
+by	2.4	2.64	1.0	
+big	2.64	2.92	1.0	
+financial	2.92	3.28	1.0	
+goals.	3.36	3.84	0.99975586	

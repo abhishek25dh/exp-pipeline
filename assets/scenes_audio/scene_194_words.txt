@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+So	0.32	0.44	0.9980469	
+you	0.44	0.64	0.99902344	
+sabotage	0.64	1.16	0.9998779	
+yourself.	1.16	1.6	0.99853516	

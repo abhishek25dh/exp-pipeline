@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "hero_image",
+    "filename": "hero_main.jpg",
+    "phrase": "Build an emergency",
+    "start": 0.24,
+    "end": 4.0
+  },
+  {
+    "element_id": "section_title",
+    "filename": "",
+    "phrase": "fund, even $10",
+    "start": 1.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "bullet_b1",
+    "filename": "",
+    "phrase": "at a time.",
+    "start": 2.72,
+    "end": 4.0
+  }
+]

@@ -1,0 +1,212 @@
+{
+  "id": "a42df23a-dcc2-4eb2-9d06-87a21cd00fc4",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/764691e490209103026021767d128ef67ef66978c80744e7bd8971a0e289ede7/0c9ad938-6cca-4b62-8b8b-4f246e41ad2a",
+  "text": "Are you buying this because you want it or because you want people to think well of you?",
+  "words": [
+    {
+      "text": "Are",
+      "start": 400,
+      "end": 520,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 520,
+      "end": 680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "buying",
+      "start": 680,
+      "end": 960,
+      "confidence": 0.8395996,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 960,
+      "end": 1240,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "because",
+      "start": 1240,
+      "end": 1520,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 1520,
+      "end": 1720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "want",
+      "start": 1720,
+      "end": 1880,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 1880,
+      "end": 2160,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 2160,
+      "end": 2480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "because",
+      "start": 2480,
+      "end": 2720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 2720,
+      "end": 2920,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "want",
+      "start": 2920,
+      "end": 3080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 3080,
+      "end": 3280,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 3280,
+      "end": 3480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 3480,
+      "end": 3640,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "well",
+      "start": 3640,
+      "end": 3840,
+      "confidence": 0.9926758,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 3840,
+      "end": 4040,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you?",
+      "start": 4040,
+      "end": 4320,
+      "confidence": 0.9995117,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9904649,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

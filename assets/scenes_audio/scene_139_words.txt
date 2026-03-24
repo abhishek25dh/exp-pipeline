@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Maybe	0.32	0.6	0.99902344	
+you	0.6	0.72	1.0	
+have	0.72	0.88	0.99902344	
+hidden	0.88	1.16	1.0	
+credit	1.16	1.48	1.0	
+card	1.48	1.72	0.99975586	
+debt.	1.72	2.08	0.99975586	

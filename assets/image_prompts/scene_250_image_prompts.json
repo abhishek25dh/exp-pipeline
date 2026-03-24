@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_250",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "filename": "hero_main.jpg",
+      "original_description": "A colorful cartoon map with winding paths, dollar signs, and question marks scattered across it, placed on a pure white background. A confused cartoon character stands at a crossroads holding a magnifying glass.",
+      "image_prompt": "Professional 2D minimalist icon of a colorful cartoon map on a pure white background. The map features winding paths, scattered dollar signs, and scattered question marks. At a crossroads on the map, a confused cartoon character stands holding a magnifying glass. Clean flat vector art, high contrast, no shading or gradients."
+    }
+  ]
+}

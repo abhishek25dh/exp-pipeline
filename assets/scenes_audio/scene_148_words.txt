@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+This	0.32	0.52	0.99902344	
+silence	0.52	0.96	0.99975586	
+keeps	0.96	1.24	0.9975586	
+people	1.24	1.48	0.9995117	
+stuck.	1.48	1.92	0.9995117	

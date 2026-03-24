@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Buying	0.32	0.6	0.99975586	
+something	0.6	0.84	1.0	
+gives	0.84	1.16	0.99975586	
+a	1.16	1.28	0.9995117	
+quick	1.28	1.44	1.0	
+mood	1.44	1.76	0.99975586	
+boost.	1.76	2.16	0.99853516	

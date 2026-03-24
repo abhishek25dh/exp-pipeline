@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_234",
+  "elements": [
+    {
+      "element_id": "text_1",
+      "type": "text_red",
+      "phrase": "You spend on",
+      "text_content": "You spend on",
+      "x": 960,
+      "y": 540,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic verbatim anchor selected by AI from candidate list.",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "things that don't bring",
+      "filename": "group_1_image_0.jpg",
+      "description": "A person standing with a shopping cart filled with random items like toys, clothes, and gadgets. The person looks slightly overwhelmed. No text, no letters, no numbers, no watermarks.",
+      "x": 635,
+      "y": 240,
+      "scale": 0.35,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "real happiness or security.",
+      "filename": "group_1_image_1.jpg",
+      "description": "A close-up of a hand holding a credit card, with various luxury items like jewelry, electronics, and designer bags floating around it. No text, no letters, no numbers, no watermarks.",
+      "x": 1285,
+      "y": 240,
+      "scale": 0.35,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

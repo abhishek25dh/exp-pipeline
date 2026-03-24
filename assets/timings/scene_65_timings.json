@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "label_step_1",
+    "filename": "",
+    "phrase": "stack up.",
+    "start": 0.8,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "Late fees",
+    "start": 2.0,
+    "end": 2.0
+  }
+]

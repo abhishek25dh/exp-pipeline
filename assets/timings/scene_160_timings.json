@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "hero_image",
+    "filename": "hero_main.jpg",
+    "phrase": "But while shame",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "section_title",
+    "filename": "",
+    "phrase": "is in control,",
+    "start": 1.04,
+    "end": 4.0
+  },
+  {
+    "element_id": "bullet_b1",
+    "filename": "",
+    "phrase": "you stay stuck.",
+    "start": 2.08,
+    "end": 4.0
+  }
+]

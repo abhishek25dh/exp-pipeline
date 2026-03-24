@@ -1,0 +1,156 @@
+{
+  "id": "fe01fcf4-89c4-4690-a25c-6457be9feb7f",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/85cd917c967c0eda94a825d8ecce580c8d15bd8d20e36b24e1e783b4a4e37b6a/dec330e8-ac11-48bd-9312-d558c1dff978",
+  "text": "You want your money to grow, but investing feels risky.",
+  "words": [
+    {
+      "text": "You",
+      "start": 320,
+      "end": 440,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "want",
+      "start": 440,
+      "end": 600,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 600,
+      "end": 760,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 760,
+      "end": 1000,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 1000,
+      "end": 1240,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "grow,",
+      "start": 1240,
+      "end": 1520,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 1520,
+      "end": 1880,
+      "confidence": 0.9873047,
+      "speaker": null
+    },
+    {
+      "text": "investing",
+      "start": 1880,
+      "end": 2440,
+      "confidence": 0.8989258,
+      "speaker": null
+    },
+    {
+      "text": "feels",
+      "start": 2440,
+      "end": 2840,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "risky.",
+      "start": 2840,
+      "end": 3360,
+      "confidence": 1.0,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9884766,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

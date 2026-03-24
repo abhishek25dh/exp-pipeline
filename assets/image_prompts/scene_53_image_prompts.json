@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_53",
+  "elements": [
+    {
+      "element_id": "img_macro",
+      "filename": "macro_img.jpg",
+      "original_description": "A red car with a dollar sign on its hood, tilted slightly upward on a white background. The car appears larger than normal, emphasizing expense. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a glossy red car with a prominent dollar sign symbol on its hood, positioned at a slight upward tilt against a pure white background. Cinematic upward-angled shot with dramatic lighting to emphasize the sense of luxury and expense. The car appears larger-than-life and detailed, highlighting its monetary value. Ultra-realistic, sharp focus, studio lighting, high resolution, clean minimalist composition. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_micro_0",
+      "filename": "micro_0_img.jpg",
+      "original_description": "A stack of coins next to a small house with a dollar sign on its roof, placed on a white background. The house and coins are simplified and colorful. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon on a pure white background. A colorful, simplified illustration of a small house with a dollar sign on its roof, positioned next to a neat stack of coins. Clean flat vector art, high contrast, bold colors, no shading or gradients. The style is graphic and clear, emphasizing the micro detail. No text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

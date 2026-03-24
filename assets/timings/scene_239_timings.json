@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "text_bc_l1_scene_239",
+    "filename": "",
+    "phrase": "Breaking this",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "text_bc_l2_scene_239",
+    "filename": "",
+    "phrase": "habit means",
+    "start": 0.8,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left_scene_239",
+    "filename": "img_left_scene_239.jpg",
+    "phrase": "habit means",
+    "start": 0.8,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_right_scene_239",
+    "filename": "img_right_scene_239.jpg",
+    "phrase": "getting honest.",
+    "start": 1.44,
+    "end": 3.0
+  }
+]

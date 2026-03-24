@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_190",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A white map of the United States with bold red and blue outlines, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon: a detailed white map of the United States with bold red and blue outlines, centered perfectly on a pure white background, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks, conveying a sense of official geography."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "Two speech bubbles on a pure white background, one filled with green dollar signs and the other with red warning signs, overlapping slightly. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon: two speech bubbles on a pure white background, one filled with bright green dollar signs and the other with bold red warning signs, overlapping slightly to imply dialogue or conflict, clean flat vector art, high contrast, no shading or gradients, no text, no letters, no numbers, no watermarks, representing mixed messaging with financial and cautionary themes."
+    }
+  ]
+}

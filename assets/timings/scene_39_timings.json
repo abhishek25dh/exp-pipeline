@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "hero_image",
+    "filename": "hero_main.jpg",
+    "phrase": "You upgrade",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "section_title",
+    "filename": "",
+    "phrase": "your car, your",
+    "start": 0.92,
+    "end": 4.0
+  },
+  {
+    "element_id": "bullet_b1",
+    "filename": "",
+    "phrase": "apartment, your lifestyle.",
+    "start": 1.92,
+    "end": 4.0
+  }
+]

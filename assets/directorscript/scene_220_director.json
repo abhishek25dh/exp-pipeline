@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_220",
+  "elements": [
+    {
+      "element_id": "text_top",
+      "type": "text_black",
+      "phrase": "Future",
+      "text_content": "FUTURE",
+      "x": 553,
+      "y": 400,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 26 top text (line 1/1)"
+    },
+    {
+      "element_id": "img_below_right_scene_220",
+      "type": "image",
+      "phrase": "you's problem.",
+      "text_content": "",
+      "x": 886,
+      "y": 810,
+      "scale": 0.419,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_below_right_scene_220.jpg",
+      "description": "A cartoon figure of a person looking stressed, surrounded by floating question marks and a large red exclamation mark above their head. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 below image (slot=right, priority=2)"
+    }
+  ]
+}

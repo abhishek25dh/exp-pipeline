@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "title_timeline",
+    "filename": "",
+    "phrase": "Consumer debt",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_step_1",
+    "filename": "step_1_img.jpg",
+    "phrase": "is at",
+    "start": 1.12,
+    "end": 3.0
+  },
+  {
+    "element_id": "txt_step_1",
+    "filename": "",
+    "phrase": "all-time highs.",
+    "start": 1.48,
+    "end": 3.0
+  }
+]

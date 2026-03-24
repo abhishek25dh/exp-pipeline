@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_226",
+  "elements": [
+    {
+      "element_id": "img_left_scene_226",
+      "filename": "img_left_scene_226.jpg",
+      "original_description": "A person in a business suit standing confidently, arms crossed, with a bright yellow upward arrow above their head. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person in a sharp, modern business suit standing confidently with arms crossed, facing forward, on a clean background. A bright yellow upward arrow, solid and graphic, hovers above their head. The lighting is confident and bright, with soft shadows, emphasizing professionalism and upward momentum. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_226",
+      "filename": "img_right_scene_226.jpg",
+      "original_description": "A sleek modern office with a large glass desk, a laptop, and a potted plant, bathed in soft natural light. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a sleek, modern office interior. Features a large transparent glass desk with a slim laptop on top and a stylish potted plant beside it. Bathed in soft, natural light from large windows, creating warm, inviting tones with gentle bokeh. The scene is minimalist, clean, and aspirational. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

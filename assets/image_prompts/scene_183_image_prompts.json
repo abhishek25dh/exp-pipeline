@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_183",
+  "elements": [
+    {
+      "element_id": "img_left_scene_183",
+      "filename": "img_left_scene_183.jpg",
+      "original_description": "A person standing with arms outstretched, surrounded by glowing yellow thought bubbles floating upwards. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person standing with arms outstretched, surrounded by glowing yellow thought bubbles floating upwards. Cinematic lighting, soft focus on the person, a sense of gentle absorption and receiving energy. High resolution, sharp detail, no text, no letters, no numbers, no watermarks, professional studio background."
+    },
+    {
+      "element_id": "img_right_scene_183",
+      "filename": "img_right_scene_183.jpg",
+      "original_description": "The same person now with arms relaxed, the thought bubbles absorbed into their body, glowing faintly. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of the same person now with arms relaxed at their sides, the glowing yellow thought bubbles fully absorbed into their body, causing a faint internal glow to emanate from their chest. Cinematic lighting, a calm and satisfied mood, soft bokeh background. High resolution, sharp detail, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

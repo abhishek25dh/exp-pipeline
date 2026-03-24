@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_154",
+  "elements": [
+    {
+      "element_id": "title",
+      "type": "text_black",
+      "phrase": "You're too",
+      "text_content": "",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 100,
+      "scale": 1.8,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "vs_center",
+      "type": "text_highlighted",
+      "phrase": "embarrassed to",
+      "text_content": "VS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 470,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_left",
+      "type": "image",
+      "phrase": "admit you",
+      "text_content": "",
+      "filename": "left_concept.jpg",
+      "description": "A person hiding their face with their hands, looking embarrassed, pure white background, Midjourney-style detail",
+      "x": 380,
+      "y": 470,
+      "scale": 0.3,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "label_left",
+      "type": "text_red",
+      "phrase": "don't understand something.",
+      "text_content": "",
+      "filename": "",
+      "description": "",
+      "x": 380,
+      "y": 699,
+      "scale": 1.8,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

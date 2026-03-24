@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Breaking	0.32	0.64	1.0	
+this	0.64	0.8	1.0	
+habit	0.8	1.2	1.0	
+means	1.2	1.44	1.0	
+getting	1.44	1.68	1.0	
+honest.	1.68	2.16	0.9987793	

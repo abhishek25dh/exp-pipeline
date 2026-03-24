@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_133",
+  "elements": [
+    {
+      "element_id": "img_left_scene_133",
+      "filename": "img_left_scene_133.jpg",
+      "original_description": "A human brain with a confused expression, floating in the center of a pure white background. The brain is colored in shades of pink and gray, with cartoonish eyes and a furrowed brow.",
+      "image_prompt": "Professional 2D minimalist icon of a human brain with a confused expression, floating in the center of a pure white background. The brain is colored in shades of pink and gray, with cartoonish eyes and a furrowed brow. Clean flat vector art, high contrast, no shading or gradients. Dark, moody lighting to represent 'The problem'."
+    },
+    {
+      "element_id": "img_right_scene_133",
+      "filename": "img_right_scene_133.jpg",
+      "original_description": "A human brain with a magnifying glass hovering over it, examining a thought bubble containing a question mark. The brain is colored in shades of pink and gray, floating in the center of a pure white background.",
+      "image_prompt": "Professional 2D minimalist icon of a human brain with a magnifying glass hovering over it, examining a thought bubble containing a question mark. The brain is colored in shades of pink and gray, floating in the center of a pure white background. Clean flat vector art, high contrast, no shading or gradients. Analytical, focused lighting to represent 'is your'."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_173",
+  "elements": [
+    {
+      "element_id": "img_below_right_scene_173",
+      "filename": "img_below_right_scene_173.jpg",
+      "original_description": "A person holding a piggy bank with a cross mark over it, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person holding a ceramic piggy bank with a large, bold red cross mark painted over its center. The person stands confidently, gazing at the crossed-out piggy bank with a critical expression, wearing casual modern attire. The image is set against a pure white background with soft, cinematic lighting and sharp focus, ensuring high resolution and no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_below_left_scene_173",
+      "filename": "img_below_left_scene_173.jpg",
+      "original_description": "A person shrugging with a confused expression, wearing casual clothes, centered on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person shrugging with a genuine, slightly confused expression, eyebrows raised and mouth slightly open. They wear simple, everyday casual clothes like a t-shirt and jeans, centered perfectly against a pure white background. The lighting is soft and even, with high resolution and sharp focus, and no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_bot_left_scene_173",
+      "filename": "img_right_bot_left_scene_173.jpg",
+      "original_description": "A hand reaching out with an open palm, as if asking for something, on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a single hand reaching out with an open palm facing upward, fingers slightly relaxed, conveying a clear gesture of asking or requesting. The hand is clean and well-groomed, centered against a pure white background with soft, dramatic lighting creating subtle shadows for depth. The image has high resolution, sharp focus, and no text, letters, numbers, or watermarks."
+    }
+  ]
+}

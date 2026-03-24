@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_227",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_red",
+      "phrase": "So you buy things to prove it.",
+      "text_content": "SO YOU BUY THINGS TO PROVE IT.",
+      "x": 960,
+      "y": 540,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

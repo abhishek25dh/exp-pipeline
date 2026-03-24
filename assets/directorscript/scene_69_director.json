@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_69",
+  "elements": [
+    {
+      "element_id": "wall_title",
+      "type": "text_highlighted",
+      "phrase": "Schools don't",
+      "text_content": "SCHOOLS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 80,
+      "scale": 1.9,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.81
+    },
+    {
+      "element_id": "img_tl",
+      "type": "image",
+      "phrase": "teach personal finance.",
+      "text_content": "",
+      "filename": "polaroid_tl.jpg",
+      "description": "A red circle with a diagonal line through it, symbolizing 'don't', on a pure white background.",
+      "x": 420,
+      "y": 290,
+      "scale": 0.24,
+      "angle": -9,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

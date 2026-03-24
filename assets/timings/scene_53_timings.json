@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "img_macro",
+    "filename": "macro_img.jpg",
+    "phrase": "Higher",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_macro",
+    "filename": "",
+    "phrase": "car",
+    "start": 0.6,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_0",
+    "filename": "arrow.png",
+    "phrase": "payment.",
+    "start": 0.88,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_micro_0",
+    "filename": "micro_0_img.jpg",
+    "phrase": "Higher rent.",
+    "start": 1.52,
+    "end": 4.0
+  },
+  {
+    "element_id": "txt_micro_0",
+    "filename": "",
+    "phrase": "More subscriptions.",
+    "start": 2.48,
+    "end": 4.0
+  }
+]

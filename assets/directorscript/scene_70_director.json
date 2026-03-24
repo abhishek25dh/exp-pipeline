@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_70",
+  "elements": [
+    {
+      "element_id": "title_pyramid",
+      "type": "text_black",
+      "phrase": "Parents created",
+      "text_content": "PARENTS CREATED",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 120,
+      "scale": 1.85,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_panel_1",
+      "type": "image",
+      "phrase": "fear or",
+      "text_content": "",
+      "filename": "panel_1_img.jpg",
+      "description": "A circular frame with a white background, symbolizing the concept of 'around'. Inside the frame, a faint shadow of a child's silhouette is visible, representing 'it'.",
+      "x": 960,
+      "y": 340,
+      "scale": 0.3,
+      "angle": 1,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "txt_panel_1",
+      "type": "text_highlighted",
+      "phrase": "shame around it.",
+      "text_content": "shame around it.",
+      "filename": "",
+      "description": "",
+      "x": 300,
+      "y": 880,
+      "scale": 1.0,
+      "angle": -1,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

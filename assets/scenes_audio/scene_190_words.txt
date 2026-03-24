@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+In	0.32	0.44	0.99902344	
+the	0.44	0.6	0.99902344	
+US	0.6	0.88	0.9838867	
+there's	1.12	1.56	0.96695966	
+mixed	1.56	1.88	1.0	
+messaging	1.88	2.32	0.9142253	
+about	2.32	2.56	0.9995117	
+wealth.	2.56	2.96	0.99902344	

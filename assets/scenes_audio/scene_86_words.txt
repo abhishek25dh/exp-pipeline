@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+In	0.32	0.48	0.99853516	
+America,	0.48	1.12	1.0	
+retail	1.12	1.68	1.0	
+therapy	1.68	2.24	0.9998779	
+is	2.24	2.48	0.99902344	
+real.	2.48	2.8	0.9980469	

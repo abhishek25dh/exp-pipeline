@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.48	0.9975586	
+small,	0.48	0.8	0.7060547	
+consistent	1.04	1.72	1.0	
+actions	1.72	2.16	1.0	
+create	2.16	2.48	1.0	
+big	2.48	2.8	1.0	
+results.	2.8	3.12	0.9892578	

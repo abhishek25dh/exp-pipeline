@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_88",
+  "elements": [
+    {
+      "element_id": "img_left_scene_88",
+      "type": "image",
+      "phrase": "Feeling lonely?",
+      "text_content": "",
+      "x": 361,
+      "y": 559,
+      "scale": 0.604,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_88.jpg",
+      "description": "A small human figure sits alone on a plain white floor, shoulders slumped, with a sad expression. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 34 left image (P1)"
+    },
+    {
+      "element_id": "img_right_scene_88",
+      "type": "image",
+      "phrase": "Buy this.",
+      "text_content": "",
+      "x": 1582,
+      "y": 564,
+      "scale": 0.598,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_right_scene_88.jpg",
+      "description": "A cheerful gift box with a bright red bow appears on a white background, radiating happiness and warmth. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 34 right image (P2)"
+    }
+  ]
+}

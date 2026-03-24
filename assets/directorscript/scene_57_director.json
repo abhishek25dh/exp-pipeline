@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_57",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_red",
+      "phrase": "But resisting the urge to upgrade is hard, and most people can't.",
+      "text_content": "BUT RESISTING THE URGE TO UPGRADE IS HARD, AND MOST PEOPLE CAN'T.",
+      "x": 960,
+      "y": 540,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

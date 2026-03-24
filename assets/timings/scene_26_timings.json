@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "One-click ordering.",
+    "start": 0.08,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "Buy now,",
+    "start": 1.2,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_26.jpg",
+    "phrase": "pay later.",
+    "start": 1.8,
+    "end": 4.0
+  }
+]

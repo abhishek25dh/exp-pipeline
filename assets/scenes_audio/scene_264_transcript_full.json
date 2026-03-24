@@ -1,0 +1,191 @@
+{
+  "id": "f2847706-16ab-4765-9bf0-f5b21ca3de96",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/5c6466922f2b82519743efdbe1d9c1e53c5714dd72bf8e36e8baa4e4686ff31e/18ee389e-a485-49bb-9c90-3ac4c5ce9933",
+  "text": "Understanding how money works, how debt grows and how savings compound will change your life.",
+  "words": [
+    {
+      "text": "Understanding",
+      "start": 400,
+      "end": 960,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "how",
+      "start": 960,
+      "end": 1200,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 1200,
+      "end": 1480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "works,",
+      "start": 1480,
+      "end": 2000,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "how",
+      "start": 2160,
+      "end": 2480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "debt",
+      "start": 2480,
+      "end": 2800,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "grows",
+      "start": 2800,
+      "end": 3280,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 3280,
+      "end": 3640,
+      "confidence": 0.8666992,
+      "speaker": null
+    },
+    {
+      "text": "how",
+      "start": 3640,
+      "end": 3920,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "savings",
+      "start": 3920,
+      "end": 4440,
+      "confidence": 0.9983724,
+      "speaker": null
+    },
+    {
+      "text": "compound",
+      "start": 4440,
+      "end": 4800,
+      "confidence": 0.9370117,
+      "speaker": null
+    },
+    {
+      "text": "will",
+      "start": 4800,
+      "end": 5000,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "change",
+      "start": 5000,
+      "end": 5200,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "your",
+      "start": 5200,
+      "end": 5400,
+      "confidence": 0.9970703,
+      "speaker": null
+    },
+    {
+      "text": "life.",
+      "start": 5400,
+      "end": 5680,
+      "confidence": 0.99609375,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.98621964,
+  "audio_duration": 6,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

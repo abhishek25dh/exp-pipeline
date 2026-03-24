@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_118",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "type": "image",
+      "phrase": "If you can't",
+      "text_content": "",
+      "filename": "hero_main.jpg",
+      "description": "A colorful cartoon graphic of a person holding a stack of coins, looking puzzled, with a thought bubble above their head filled with dollar signs and question marks. The background is pure white, and the coins are shiny with metallic hues. No text, no letters, no numbers, no watermarks.",
+      "x": 490,
+      "y": 540,
+      "scale": 0.44,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "section_title",
+      "type": "text_highlighted",
+      "phrase": "pay off all your",
+      "text_content": "OFF ALL YOUR DEBT, WHY",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 150,
+      "scale": 1.667,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "bullet_b1",
+      "type": "text_black",
+      "phrase": "debt, why pay extra?",
+      "text_content": "pay extra?",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 360,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

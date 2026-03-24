@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_217",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_highlighted",
+      "phrase": "Swiping is painless.",
+      "text_content": "SWIPING IS PAINLESS.",
+      "x": 960,
+      "y": 310,
+      "scale": 3.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21",
+      "typing_speed": 0.68
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.99853516	
+spend	0.52	0.88	1.0	
+everything	0.88	1.2	1.0	
+because	1.36	1.72	1.0	
+holding	1.72	2.04	0.8654785	
+onto	2.04	2.44	0.71940106	
+it	2.44	2.6	1.0	
+feels	2.6	2.92	1.0	
+wrong.	2.92	3.28	0.99975586	

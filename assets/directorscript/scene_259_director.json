@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_259",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_black",
+      "phrase": "But you don't.",
+      "text_content": "BUT YOU DON'T.",
+      "x": 960,
+      "y": 310,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21",
+      "typing_speed": 0.47
+    }
+  ]
+}

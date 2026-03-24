@@ -1,0 +1,177 @@
+{
+  "id": "365196e3-beeb-43b9-a3f8-f03e529734f4",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/4168505b26cd221c7efa5318340043c2326014ba83771eb765059dd16e256b4e/93e81c65-142c-4363-b407-231315660b62",
+  "text": "In the U.S. many avoid money because they never learn to manage it.",
+  "words": [
+    {
+      "text": "In",
+      "start": 320,
+      "end": 440,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 440,
+      "end": 600,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "U.S.",
+      "start": 600,
+      "end": 880,
+      "confidence": 0.98145,
+      "speaker": null
+    },
+    {
+      "text": "many",
+      "start": 1280,
+      "end": 1600,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "avoid",
+      "start": 1600,
+      "end": 2000,
+      "confidence": 0.96988934,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 2000,
+      "end": 2280,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "because",
+      "start": 2280,
+      "end": 2560,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 2560,
+      "end": 2800,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "never",
+      "start": 2800,
+      "end": 3040,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "learn",
+      "start": 3040,
+      "end": 3320,
+      "confidence": 0.9416504,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 3320,
+      "end": 3480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "manage",
+      "start": 3480,
+      "end": 3680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "it.",
+      "start": 3680,
+      "end": 4000,
+      "confidence": 0.99853516,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9915055,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

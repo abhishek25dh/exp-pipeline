@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_86",
+  "elements": [
+    {
+      "element_id": "text_heading",
+      "type": "text_highlighted",
+      "phrase": "In",
+      "text_content": "IN AMERICA, \"RETAIL",
+      "x": 929,
+      "y": 332,
+      "scale": 3.158,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 33 heading (P1, line 1/1)"
+    },
+    {
+      "element_id": "img_left_scene_86",
+      "type": "image",
+      "phrase": "America,",
+      "text_content": "",
+      "x": 363,
+      "y": 711,
+      "scale": 0.488,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_left_scene_86.jpg",
+      "description": "A smiling woman holding multiple shopping bags with colorful logos, standing in front of a clothing store with a bright red sale sign. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 33 left image (P2)"
+    },
+    {
+      "element_id": "arrow_scene_86",
+      "type": "arrow",
+      "phrase": "\"retail therapy\"",
+      "text_content": "",
+      "x": 1019,
+      "y": 681,
+      "scale": 0.374,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Layout 33 arrow (P3, static local asset)"
+    },
+    {
+      "element_id": "img_right_scene_86",
+      "type": "image",
+      "phrase": "is real.",
+      "text_content": "",
+      "x": 1520,
+      "y": 700,
+      "scale": 0.486,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_86.jpg",
+      "description": "The same woman sitting on a couch surrounded by her purchases, looking relaxed and happy with a cup of coffee in hand. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 33 right image (P4)"
+    }
+  ]
+}

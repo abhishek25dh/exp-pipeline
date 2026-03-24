@@ -1,0 +1,65 @@
+[
+  {
+    "element_id": "center_title_1",
+    "filename": "",
+    "phrase": "If you",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "center_title_2",
+    "filename": "",
+    "phrase": "",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_phase_1",
+    "filename": "phase_1_img.jpg",
+    "phrase": "can't save",
+    "start": 0.6,
+    "end": 4.0
+  },
+  {
+    "element_id": "label_phase_1",
+    "filename": "",
+    "phrase": "a lot,",
+    "start": 1.12,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_phase_2",
+    "filename": "phase_2_img.jpg",
+    "phrase": "it's not",
+    "start": 1.6,
+    "end": 4.0
+  },
+  {
+    "element_id": "label_phase_2",
+    "filename": "",
+    "phrase": "worth saving",
+    "start": 2.12,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_phase_3",
+    "filename": "phase_3_img.jpg",
+    "phrase": "at all.",
+    "start": 2.64,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_ne",
+    "filename": "arrow.png",
+    "phrase": "",
+    "start": 2.64,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_se",
+    "filename": "arrow.png",
+    "phrase": "",
+    "start": 2.64,
+    "end": 4.0
+  }
+]

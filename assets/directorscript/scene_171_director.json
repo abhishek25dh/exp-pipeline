@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_171",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_red",
+      "phrase": "This keeps you living paycheck to paycheck, one emergency from disaster.",
+      "text_content": "THIS KEEPS YOU LIVING PAYCHECK TO PAYCHECK, ONE EMERGENCY FROM DISASTER.",
+      "x": 960,
+      "y": 540,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 1"
+    }
+  ]
+}

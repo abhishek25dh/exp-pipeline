@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+You	0.4	0.52	0.99121094	
+see	0.52	0.76	0.99853516	
+something	0.76	1.08	0.9995117	
+and	1.08	1.36	0.6220703	
+buy	1.36	1.6	0.9975586	
+it	1.6	1.8	0.9980469	
+immediately.	1.8	2.4	0.9991455	

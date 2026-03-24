@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Minimum	0.32	0.72	0.9998372	
+payments	0.72	1.12	0.9995117	
+feel	1.12	1.4	0.9995117	
+manageable.	1.4	2.0	0.99609375	

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_239",
+  "elements": [
+    {
+      "element_id": "img_left_scene_239",
+      "filename": "img_left_scene_239.jpg",
+      "original_description": "A simple cartoon figure with a puzzled expression, holding a magnifying glass, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a simple cartoon figure with a puzzled expression, holding a magnifying glass, standing on a pure white background. Clean flat vector art, high contrast, no shading or gradients, no text, letters, numbers, or watermarks. Cinematic lighting with subtle curiosity and introspection in mood, sharp focus."
+    },
+    {
+      "element_id": "img_right_scene_239",
+      "filename": "img_right_scene_239.jpg",
+      "original_description": "A cartoon figure holding a mirror, looking at its reflection with a thoughtful expression, standing on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon figure holding a mirror, looking at its reflection with a thoughtful expression, standing on a pure white background. Clean flat vector art, high contrast, no shading or gradients, no text, letters, numbers, or watermarks. Cinematic lighting with soft reflective mood and honesty, sharp focus."
+    }
+  ]
+}

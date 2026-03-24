@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_250",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "type": "image",
+      "phrase": "So millions are",
+      "text_content": "",
+      "filename": "hero_main.jpg",
+      "description": "A colorful cartoon map with winding paths, dollar signs, and question marks scattered across it, placed on a pure white background. A confused cartoon character stands at a crossroads holding a magnifying glass.",
+      "x": 490,
+      "y": 540,
+      "scale": 0.44,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "section_title",
+      "type": "text_highlighted",
+      "phrase": "financially illiterate, navigating",
+      "text_content": "ILLITERATE, NAVIGATING A",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 150,
+      "scale": 1.528,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.87
+    },
+    {
+      "element_id": "bullet_b1",
+      "type": "text_black",
+      "phrase": "a complex system",
+      "text_content": "complex system without",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 360,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "bullet_b2",
+      "type": "text_red",
+      "phrase": "without a map.",
+      "text_content": "a map.",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 545,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

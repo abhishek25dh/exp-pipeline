@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_110",
+  "elements": [
+    {
+      "element_id": "img_macro",
+      "type": "image",
+      "phrase": "The fear",
+      "filename": "macro_img.jpg",
+      "description": "A large, dark gray cloud shaped like a looming monster hovers in the center of a pure white background. Its jagged edges and menacing expression convey fear. No text, no letters, no numbers, no watermarks.",
+      "x": 550,
+      "y": 590,
+      "scale": 0.5,
+      "angle": -1,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Main macro overview",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_macro",
+      "type": "text_red",
+      "phrase": "keeps you stuck.",
+      "text_content": "keeps you stuck.",
+      "x": 550,
+      "y": 200,
+      "scale": 2.042,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Macro Title",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

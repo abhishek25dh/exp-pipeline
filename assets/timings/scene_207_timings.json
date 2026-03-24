@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_tl_scene_207",
+    "filename": "img_tl_scene_207.jpg",
+    "phrase": "You pay",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_tr_scene_207",
+    "filename": "img_tr_scene_207.jpg",
+    "phrase": "hundreds or",
+    "start": 0.72,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_bl_scene_207",
+    "filename": "img_bl_scene_207.jpg",
+    "phrase": "thousands in",
+    "start": 1.52,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_br_scene_207",
+    "filename": "img_br_scene_207.jpg",
+    "phrase": "interest alone.",
+    "start": 2.2,
+    "end": 4.0
+  }
+]

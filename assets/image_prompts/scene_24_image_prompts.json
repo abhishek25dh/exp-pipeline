@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_24",
+  "elements": [
+    {
+      "element_id": "img_tl",
+      "filename": "polaroid_tl.jpg",
+      "original_description": "A person holding a credit card, ready to make a purchase, with a shopping bag in the background.",
+      "image_prompt": "A high-quality photograph of a person's hand holding a credit card, poised as if ready to make a purchase, with a stylish shopping bag visible in the background. Cinematic lighting with soft bokeh, sharp focus on the card, realistic textures, and a neutral, aspirational mood. High resolution, professional composition."
+    }
+  ]
+}

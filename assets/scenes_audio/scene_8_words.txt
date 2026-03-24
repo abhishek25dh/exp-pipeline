@@ -1,0 +1,11 @@
+# word	start_s	end_s	confidence	speaker
+So	0.32	0.44	0.9970703	
+you	0.44	0.6	0.99902344	
+play	0.6	0.76	1.0	
+it	0.76	0.96	0.9995117	
+safe,	0.96	1.36	0.9897461	
+avoid	1.44	1.92	1.0	
+risks	1.92	2.4	1.0	
+and	2.4	2.64	0.9580078	
+miss	2.64	2.92	0.99853516	
+opportunities.	2.92	3.68	1.0	

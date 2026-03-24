@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_3",
+  "elements": [
+    {
+      "element_id": "img_2",
+      "type": "image",
+      "phrase": "Your parents",
+      "text_content": "",
+      "filename": "img_2.jpg",
+      "description": "A middle-aged couple, a man and a woman, standing side by side. They are dressed casually, with concerned expressions on their faces. The man has short gray hair and glasses, while the woman has shoulder-length brown hair and a worried look.",
+      "x": 780,
+      "y": 520,
+      "scale": 0.411,
+      "angle": 0,
+      "animation": "pop",
+      "property": "shadow",
+      "reason": ""
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "stressed about",
+      "text_content": "",
+      "filename": "img_1.jpg",
+      "description": "A close-up of a person's face showing stress, with furrowed brows, a tense jaw, and a hand rubbing their forehead. The background is blurred, emphasizing the expression of worry and anxiety.",
+      "x": 260,
+      "y": 540,
+      "scale": 0.239,
+      "angle": 0,
+      "animation": "pop",
+      "property": "shadow",
+      "reason": ""
+    },
+    {
+      "element_id": "img_3",
+      "type": "image",
+      "phrase": "every expense.",
+      "text_content": "",
+      "filename": "img_3.jpg",
+      "description": "A stack of bills and receipts piled on a table, with a calculator and a pen nearby. The bills are slightly crumpled, and the top receipt shows a high amount due. The scene conveys financial pressure.",
+      "x": 1500,
+      "y": 500,
+      "scale": 0.683,
+      "angle": 0,
+      "animation": "pop",
+      "property": "shadow",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_98",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "type": "image",
+      "phrase": "The goal is",
+      "filename": "group_1_cause_0.jpg",
+      "description": "A smiling cartoon character holding a heart-shaped balloon in one hand and a gift box in the other, standing in the center of a pure white background. The character radiates warmth and happiness.",
+      "x": 375,
+      "y": 656,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Cause image for group_1",
+      "text_content": ""
+    },
+    {
+      "element_id": "arrow_group_1",
+      "type": "arrow",
+      "phrase": "meeting emotional needs",
+      "filename": "arrow.png",
+      "description": "",
+      "x": 959,
+      "y": 656,
+      "scale": 0.541,
+      "angle": 3,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Cause-to-effect arrow for group_1",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_effect",
+      "type": "image",
+      "phrase": "without spending money.",
+      "filename": "group_1_effect_0.jpg",
+      "description": "The same cartoon character placing the gift box on the ground, with a piggy bank next to it, symbolizing saving money. The character smiles confidently, standing on a pure white background.",
+      "x": 1542,
+      "y": 656,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Effect image for group_1",
+      "text_content": ""
+    }
+  ]
+}

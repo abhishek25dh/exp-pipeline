@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_147",
+  "elements": [
+    {
+      "element_id": "img_left_scene_147",
+      "type": "image",
+      "phrase": "They drive",
+      "text_content": "",
+      "x": 493,
+      "y": 475,
+      "scale": 0.616,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_left_scene_147.jpg",
+      "description": "A young man with a smug expression sitting in the driver's seat of a car, hands on the steering wheel, wearing sunglasses. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 28 image (slot=left, priority=1)"
+    },
+    {
+      "element_id": "img_right_scene_147",
+      "type": "image",
+      "phrase": "nice cars",
+      "text_content": "",
+      "x": 1371,
+      "y": 465,
+      "scale": 0.609,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_147.jpg",
+      "description": "A sleek, shiny red sports car parked on a white background, emphasizing its luxury design and polished exterior. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 28 image (slot=right, priority=2)"
+    },
+    {
+      "element_id": "text_punchline",
+      "type": "text_black",
+      "phrase": "they can't afford.",
+      "text_content": "THEY CAN'T AFFORD.",
+      "x": 943,
+      "y": 922,
+      "scale": 3.333,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 28 punchline text (line 1/1)"
+    }
+  ]
+}

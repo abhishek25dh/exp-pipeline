@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.48	0.99853516	
+while	0.48	0.72	1.0	
+shame	0.72	1.04	0.99975586	
+is	1.04	1.24	0.9995117	
+in	1.24	1.4	1.0	
+control,	1.4	1.68	1.0	
+you	2.08	2.36	1.0	
+stay	2.36	2.56	1.0	
+stuck.	2.56	2.96	0.8876953	

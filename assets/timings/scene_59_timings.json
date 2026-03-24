@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "You don't",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "check your",
+    "start": 0.68,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_59.jpg",
+    "phrase": "bank account.",
+    "start": 1.0,
+    "end": 2.0
+  }
+]

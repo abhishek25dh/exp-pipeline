@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "host_scene_187",
+    "filename": "host_explaining.png",
+    "phrase": "You spend",
+    "start": 0.4,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_left_scene_187",
+    "filename": "img_left_scene_187.jpg",
+    "phrase": "everything because",
+    "start": 0.88,
+    "end": 4.0
+  },
+  {
+    "element_id": "arrow_scene_187",
+    "filename": "arrow.png",
+    "phrase": "holding onto",
+    "start": 1.72,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_center_scene_187",
+    "filename": "img_center_scene_187.jpg",
+    "phrase": "it feels wrong.",
+    "start": 2.44,
+    "end": 4.0
+  }
+]

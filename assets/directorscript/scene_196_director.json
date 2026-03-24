@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_196",
+  "elements": [
+    {
+      "element_id": "img_macro",
+      "type": "image",
+      "phrase": "Letting go of the idea",
+      "filename": "macro_img.jpg",
+      "description": "A person stands with their arms outstretched, releasing a glowing coin-shaped object into the air. The coin radiates golden light and sparkles as it floats upward. No text, no letters, no numbers, no watermarks.",
+      "x": 550,
+      "y": 590,
+      "scale": 0.5,
+      "angle": 2,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Main macro overview",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_macro",
+      "type": "text_red",
+      "phrase": "that money is bad is key.",
+      "text_content": "that money is bad is key.",
+      "x": 550,
+      "y": 200,
+      "scale": 1.307,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Macro Title",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.87
+    }
+  ]
+}

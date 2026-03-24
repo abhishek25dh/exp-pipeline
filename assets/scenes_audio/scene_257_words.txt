@@ -1,0 +1,13 @@
+# word	start_s	end_s	confidence	speaker
+Ignoring	0.32	0.76	0.90166014	
+financial	0.76	1.12	1.0	
+education	1.2	1.6	1.0	
+means	2.0	2.36	1.0	
+staying	2.36	2.76	1.0	
+in	2.76	2.92	1.0	
+the	2.92	3.08	1.0	
+dark	3.08	3.32	1.0	
+when	3.32	3.56	0.53125	
+information	3.56	3.92	0.9770508	
+is	4.32	4.64	1.0	
+available.	4.64	4.96	0.9995117	

@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_74",
+  "elements": [
+    {
+      "element_id": "text_bc_scene_74",
+      "type": "text_red",
+      "phrase": "Start",
+      "text_content": "START",
+      "x": 942,
+      "y": 970,
+      "scale": 1.3,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/1)",
+      "typing_speed": 0.43
+    },
+    {
+      "element_id": "img_left_scene_74",
+      "type": "image",
+      "phrase": "small.",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_left_scene_74.jpg",
+      "description": "A tiny green sprout emerges from a small brown pot on a pure white background. The sprout has two delicate leaves and looks vibrant and hopeful. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    }
+  ]
+}

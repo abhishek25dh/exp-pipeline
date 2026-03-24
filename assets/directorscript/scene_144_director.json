@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_144",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_highlighted",
+      "phrase": "In America,",
+      "text_content": "IN AMERICA, TALKING",
+      "x": 960,
+      "y": 310,
+      "scale": 3.158,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21",
+      "typing_speed": 0.4
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "talking about",
+      "text_content": "",
+      "x": 1274,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 142,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "money is taboo.",
+      "text_content": "",
+      "x": 914,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_1_scene_144.jpg",
+      "description": "A cartoon character with a shocked expression holding a dollar bill, with a red 'X' mark over their mouth. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

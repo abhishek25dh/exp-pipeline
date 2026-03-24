@@ -1,0 +1,82 @@
+{
+  "scene_id": "scene_2",
+  "host_span": [
+    7,
+    10
+  ],
+  "host_phrase": "time, you settle",
+  "images": [
+    {
+      "group_id": "image_0",
+      "span": [
+        0,
+        5
+      ],
+      "phrase": "While other people scramble to"
+    },
+    {
+      "group_id": "image_1",
+      "span": [
+        5,
+        13
+      ],
+      "phrase": "fill their time, you settle into your favorite"
+    },
+    {
+      "group_id": "image_2",
+      "span": [
+        13,
+        18
+      ],
+      "phrase": "chair with a book or"
+    },
+    {
+      "group_id": "image_3",
+      "span": [
+        18,
+        38
+      ],
+      "phrase": "put on a movie you've been meaning to watch. You're not lonely. You're content. This is the content alone type."
+    }
+  ],
+  "script_tokens": [
+    "While",
+    "other",
+    "people",
+    "scramble",
+    "to",
+    "fill",
+    "their",
+    "time,",
+    "you",
+    "settle",
+    "into",
+    "your",
+    "favorite",
+    "chair",
+    "with",
+    "a",
+    "book",
+    "or",
+    "put",
+    "on",
+    "a",
+    "movie",
+    "you've",
+    "been",
+    "meaning",
+    "to",
+    "watch.",
+    "You're",
+    "not",
+    "lonely.",
+    "You're",
+    "content.",
+    "This",
+    "is",
+    "the",
+    "content",
+    "alone",
+    "type."
+  ]
+}

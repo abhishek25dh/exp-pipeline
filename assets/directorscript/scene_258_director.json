@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_258",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_258",
+      "type": "image",
+      "phrase": "You could read",
+      "text_content": "",
+      "x": 466,
+      "y": 558,
+      "scale": 0.728,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_hero_scene_258.jpg",
+      "description": "A hardcover book with a colorful abstract design lies open on a white surface, its pages slightly curled. The lighting highlights the texture of the paper and the embossed title on the cover. No text, no letters, no numbers, no watermarks.",
+      "reason": "hero image (priority 1)"
+    },
+    {
+      "element_id": "img_bottom_right_scene_258",
+      "type": "image",
+      "phrase": "a book, watch",
+      "text_content": "",
+      "x": 1336,
+      "y": 761,
+      "scale": 0.465,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_bottom_right_scene_258.jpg",
+      "description": "A flat-screen monitor displays a paused video frame with a colorful thumbnail, surrounded by a simple black frame. The screen glows softly against the white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "bottom_right image (priority 2)"
+    },
+    {
+      "element_id": "img_top_mid_scene_258",
+      "type": "image",
+      "phrase": "a video, take",
+      "text_content": "",
+      "x": 1041,
+      "y": 351,
+      "scale": 0.285,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_top_mid_scene_258.jpg",
+      "description": "A hand holding a smartphone with a vibrant app interface open, showing a cartoon-style learning icon. The background is pure white, emphasizing the bright colors of the screen. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_mid image (priority 3)"
+    },
+    {
+      "element_id": "img_top_right_scene_258",
+      "type": "image",
+      "phrase": "a free course.",
+      "text_content": "",
+      "x": 1592,
+      "y": 350,
+      "scale": 0.301,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_top_right_scene_258.jpg",
+      "description": "A laptop sits open on a white surface, its screen displaying a course enrollment page with a blurred-out interface. The keyboard and trackpad are sleek and modern, reflecting soft light. No text, no letters, no numbers, no watermarks.",
+      "reason": "top_right image (priority 4)"
+    }
+  ]
+}

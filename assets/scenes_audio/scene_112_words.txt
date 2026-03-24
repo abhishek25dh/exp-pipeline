@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Decades	0.4	0.84	1.0	
+pass	0.84	1.12	0.6791992	
+and	1.2	1.52	0.91503906	
+the	1.52	1.72	1.0	
+gap	1.72	2.0	1.0	
+widens.	2.0	2.56	0.9998779	

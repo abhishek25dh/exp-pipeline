@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_152",
+  "elements": [
+    {
+      "element_id": "img_macro",
+      "type": "image",
+      "phrase": "You're",
+      "filename": "macro_img.jpg",
+      "description": "A warm, inviting scene of a diverse group of people standing together, smiling and holding hands. The background is pure white, emphasizing unity and connection. No text, no letters, no numbers, no watermarks.",
+      "x": 550,
+      "y": 590,
+      "scale": 0.5,
+      "angle": -1,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Main macro overview",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_macro",
+      "type": "text_black",
+      "phrase": "not alone.",
+      "text_content": "not alone.",
+      "x": 550,
+      "y": 200,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Macro Title",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}

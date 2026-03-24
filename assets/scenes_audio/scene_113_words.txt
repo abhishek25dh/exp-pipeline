@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+The	0.32	0.48	0.9995117	
+truth	0.48	0.8	0.9946289	
+is,	0.8	1.12	0.99658203	
+investing	1.28	1.96	1.0	
+doesn't	1.96	2.36	0.9996745	
+have	2.36	2.52	1.0	
+to	2.52	2.64	1.0	
+be	2.64	2.8	1.0	
+complicated.	2.8	3.44	0.9995117	

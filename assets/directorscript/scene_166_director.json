@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_166",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "Same-day delivery.",
+      "filename": "group_1_image_0.jpg",
+      "description": "A smiling delivery person in a bright uniform holds a package, standing next to a red and white delivery van on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 431,
+      "y": 551,
+      "scale": 0.45,
+      "angle": -1,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "Binge-watching. Fast food.",
+      "filename": "group_1_image_1.jpg",
+      "description": "A cozy couch with a person lounging, holding a remote, facing a flat-screen TV. A table nearby has a burger, fries, and a soda on a tray. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 1421,
+      "y": 551,
+      "scale": 0.45,
+      "angle": 1,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

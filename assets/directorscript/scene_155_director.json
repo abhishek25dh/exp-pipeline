@@ -1,0 +1,81 @@
+{
+  "scene_id": "scene_155",
+  "elements": [
+    {
+      "element_id": "text_bc_l1_scene_155",
+      "type": "text_black",
+      "phrase": "You avoid",
+      "text_content": "YOU AVOID",
+      "x": 942,
+      "y": 900,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/3)"
+    },
+    {
+      "element_id": "text_bc_l2_scene_155",
+      "type": "text_black",
+      "phrase": "financial",
+      "text_content": "FINANCIAL",
+      "x": 942,
+      "y": 970,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 2/3)"
+    },
+    {
+      "element_id": "text_bc_l3_scene_155",
+      "type": "text_black",
+      "phrase": "advisors thinking they'll",
+      "text_content": "ADVISORS THINKING THEY'LL",
+      "x": 942,
+      "y": 1040,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 3/3)",
+      "typing_speed": 0.6
+    },
+    {
+      "element_id": "img_left_scene_155",
+      "type": "image",
+      "phrase": "financial advisors thinking",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_left_scene_155.jpg",
+      "description": "A stern-looking financial advisor in a suit sits behind a desk, raising an eyebrow while looking at a document. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_155",
+      "type": "image",
+      "phrase": "they'll judge you.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_right_scene_155.jpg",
+      "description": "A nervous person with wide eyes and a worried expression stands in front of the advisor, clutching their hands together. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

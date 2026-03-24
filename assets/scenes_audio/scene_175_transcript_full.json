@@ -1,0 +1,142 @@
+{
+  "id": "15d7baba-73d3-4fb4-81be-2ecdbb7f00a6",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/feaf23528c9cae766238a1be350f34dd2535badb7d7010c8b4b206d1ce6839fa/b151b7cb-666d-43b1-899f-16459e1bfc7f",
+  "text": "Your brain is wired to prioritize immediate needs.",
+  "words": [
+    {
+      "text": "Your",
+      "start": 400,
+      "end": 560,
+      "confidence": 0.9916992,
+      "speaker": null
+    },
+    {
+      "text": "brain",
+      "start": 560,
+      "end": 880,
+      "confidence": 0.9733887,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 880,
+      "end": 1120,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "wired",
+      "start": 1120,
+      "end": 1480,
+      "confidence": 0.9260254,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 1480,
+      "end": 1720,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "prioritize",
+      "start": 1720,
+      "end": 2480,
+      "confidence": 0.9511719,
+      "speaker": null
+    },
+    {
+      "text": "immediate",
+      "start": 2480,
+      "end": 3080,
+      "confidence": 0.9967448,
+      "speaker": null
+    },
+    {
+      "text": "needs.",
+      "start": 3080,
+      "end": 3440,
+      "confidence": 0.9970703,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.97939044,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

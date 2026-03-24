@@ -1,0 +1,37 @@
+{
+  "scene_id": "scene_269",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_red",
+      "phrase": "Share which one hit home in the comments\u2014naming",
+      "text_content": "SHARE WHICH ONE HIT HOME IN THE COMMENTS\u2014NAMING",
+      "x": 960,
+      "y": 465,
+      "scale": 1.277,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 2",
+      "typing_speed": 0.64
+    },
+    {
+      "element_id": "text_line_2",
+      "type": "text_red",
+      "phrase": "it is the first step to changing it.",
+      "text_content": "IT IS THE FIRST STEP TO CHANGING IT.",
+      "x": 960,
+      "y": 615,
+      "scale": 1.277,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 2 of 2",
+      "typing_speed": 0.88
+    }
+  ]
+}

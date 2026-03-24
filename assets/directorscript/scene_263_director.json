@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_263",
+  "elements": [
+    {
+      "element_id": "text_top",
+      "type": "text_highlighted",
+      "phrase": "Learning",
+      "text_content": "LEARNING",
+      "x": 553,
+      "y": 400,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 26 top text (line 1/1)"
+    },
+    {
+      "element_id": "img_below_right_scene_263",
+      "type": "image",
+      "phrase": "basics gives",
+      "text_content": "",
+      "x": 886,
+      "y": 810,
+      "scale": 0.419,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_below_right_scene_263.jpg",
+      "description": "A simple glowing lightbulb with a smiling face, surrounded by colorful rays of light. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 below image (slot=right, priority=2)"
+    },
+    {
+      "element_id": "img_below_left_scene_263",
+      "type": "image",
+      "phrase": "you power.",
+      "text_content": "",
+      "x": 287,
+      "y": 813,
+      "scale": 0.421,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_below_left_scene_263.jpg",
+      "description": "A cartoon hand holding a small golden key, with sparkles radiating outward. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 26 below image (slot=left, priority=3)"
+    }
+  ]
+}

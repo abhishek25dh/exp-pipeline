@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "Your parents",
+    "start": 0.24,
+    "end": 3.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "didn't talk",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_245.jpg",
+    "phrase": "about it helpfully.",
+    "start": 1.16,
+    "end": 3.0
+  }
+]

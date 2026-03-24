@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Your	0.32	0.48	0.9941406	
+paycheck	0.48	1.04	0.8417969	
+is	1.04	1.24	0.9995117	
+already	1.24	1.52	0.9995117	
+spent.	1.52	2.08	0.99902344	

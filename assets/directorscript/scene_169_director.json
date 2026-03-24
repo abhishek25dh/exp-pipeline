@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_169",
+  "elements": [
+    {
+      "element_id": "text_bc_scene_169",
+      "type": "text_red",
+      "phrase": "You scramble.",
+      "text_content": "YOU SCRAMBLE.",
+      "x": 942,
+      "y": 970,
+      "scale": 1.3,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/1)",
+      "typing_speed": 0.53
+    },
+    {
+      "element_id": "img_left_scene_169",
+      "type": "image",
+      "phrase": "Put it",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_left_scene_169.jpg",
+      "description": "A hand holding a credit card, angled diagonally against a pure white background. The card has a metallic sheen with faint holographic details.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_169",
+      "type": "image",
+      "phrase": "on credit.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_right_scene_169.jpg",
+      "description": "A shopping cart filled with various items like groceries, electronics, and clothing, placed centrally on a pure white background.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

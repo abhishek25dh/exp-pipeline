@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_39",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "filename": "hero_main.jpg",
+      "original_description": "A sleek, modern car with a metallic silver finish, parked in the center of a pure white background. The car shines brightly with a few colorful accents on its wheels and side mirrors, giving it a futuristic and upgraded look. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a sleek, modern car with a brilliant metallic silver finish, parked centrally on a pure white background. The car's surface shines brightly under crisp studio lighting, reflecting the clean environment. Its wheels and side mirrors feature vibrant, colorful accents that pop against the silver, creating a distinct futuristic and upgraded aesthetic. Cinematic lighting, sharp focus, no shadows, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

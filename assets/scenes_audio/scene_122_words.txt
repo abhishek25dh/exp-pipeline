@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+In	0.4	0.52	0.99853516	
+reality,	0.52	1.04	0.99975586	
+small	1.12	1.44	1.0	
+steps	1.44	1.84	0.6184082	
+add	1.84	2.04	0.9902344	
+up.	2.04	2.32	0.9902344	

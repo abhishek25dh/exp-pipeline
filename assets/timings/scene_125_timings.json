@@ -1,0 +1,44 @@
+[
+  {
+    "element_id": "text_top",
+    "filename": "",
+    "phrase": "Paying",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_below_right_scene_125",
+    "filename": "img_below_right_scene_125.jpg",
+    "phrase": "extra $50",
+    "start": 0.8,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_below_left_scene_125",
+    "filename": "img_below_left_scene_125.jpg",
+    "phrase": "monthly on",
+    "start": 1.84,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_right_top_left_scene_125",
+    "filename": "img_right_top_left_scene_125.jpg",
+    "phrase": "credit cards",
+    "start": 2.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_right_bot_left_scene_125",
+    "filename": "img_right_bot_left_scene_125.jpg",
+    "phrase": "saves hundreds",
+    "start": 3.2,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_right_bot_right_scene_125",
+    "filename": "img_right_bot_right_scene_125.jpg",
+    "phrase": "in interest.",
+    "start": 4.12,
+    "end": 5.0
+  }
+]

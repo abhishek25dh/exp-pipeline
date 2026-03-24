@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Future	0.32	0.52	0.9926758	
+use	0.52	0.84	0.99609375	
+problem.	0.84	1.2	0.9511719	

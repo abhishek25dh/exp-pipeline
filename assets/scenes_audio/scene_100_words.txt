@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.48	0.9975586	
+worry	0.48	0.76	0.92578125	
+about	0.76	1.0	1.0	
+losing	1.0	1.44	0.9996745	
+everything.	1.44	1.76	0.9995117	

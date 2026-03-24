@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_189",
+  "elements": [
+    {
+      "element_id": "text_1",
+      "type": "text_highlighted",
+      "phrase": "subconscious won't let you keep something",
+      "text_content": "subconscious won't let you keep something",
+      "x": 360,
+      "y": 190,
+      "scale": 0.78,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Deterministic left anchor from first narrative half.",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.88
+    },
+    {
+      "element_id": "text_2",
+      "type": "text_red",
+      "phrase": "believe is morally wrong.",
+      "text_content": "believe is morally wrong.",
+      "x": 1560,
+      "y": 190,
+      "scale": 1.28,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic right anchor from second narrative half.",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "image_1",
+      "type": "image",
+      "phrase": "Your you",
+      "filename": "left_image_0.jpg",
+      "description": "A simple human head silhouette in profile, with a glowing brain inside. The brain emits soft yellow lightwaves, symbolizing subconscious activity. No text, no letters, no numbers, no watermarks.",
+      "x": 342,
+      "y": 679,
+      "scale": 0.6,
+      "angle": -3,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "First subgroup in this column.",
+      "text_content": ""
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_112",
+  "elements": [
+    {
+      "element_id": "img_node_2",
+      "filename": "orb_1_img.jpg",
+      "original_description": "Two diverging arrows pointing in opposite directions with increasing distance between them, one arrow labeled 'Group A' and the other 'Group B', both arrows growing thicker and further apart as they move to the right, pure white background",
+      "image_prompt": "Professional 2D minimalist icon on a pure white background. Two clean flat vector arrows, one labeled 'Group A' and the other 'Group B', are shown diverging in opposite directions. The arrows increase in distance from each other and grow thicker as they extend to the right, visually representing a widening gap. High contrast, no shading or gradients."
+    },
+    {
+      "element_id": "img_node_4",
+      "filename": "orb_3_img.jpg",
+      "original_description": "A graph showing increasing economic inequality with a widening gap between two lines labeled 'Wealth' and 'Poverty' spanning from past to present, pure white background",
+      "image_prompt": "Professional 2D minimalist icon on a pure white background. A clean, simple line graph showing a widening gap between two labeled lines, 'Wealth' and 'Poverty', across a timeline from past to present. Flat vector art, high contrast, with clear visual representation of increasing economic inequality. No shading, gradients, or photographic details."
+    }
+  ]
+}

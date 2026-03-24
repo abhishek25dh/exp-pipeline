@@ -1,0 +1,20 @@
+{
+  "scene_id": "scene_87",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_red",
+      "phrase": "Advertisers connect",
+      "text_content": "ADVERTISERS CONNECT",
+      "x": 960,
+      "y": 310,
+      "scale": 3.158,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21"
+    }
+  ]
+}

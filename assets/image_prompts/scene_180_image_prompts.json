@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_180",
+  "elements": [
+    {
+      "element_id": "img_left_scene_180",
+      "filename": "img_left_scene_180.jpg",
+      "original_description": "A young child sits cross-legged on the floor, looking up with curiosity, with a piggy bank and coins scattered around them. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a young child, sitting cross-legged on a wooden floor, looking up with wide-eyed curiosity and innocence. A ceramic piggy bank is placed beside them, with several shiny gold and silver coins scattered on the floor around the child and piggy bank. Warm, gentle natural lighting from a window creates a soft, nostalgic atmosphere, highlighting the child's expression and the metallic gleam of the coins. Sharp focus, cinematic depth of field, no text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_right_scene_180",
+      "filename": "img_right_scene_180.jpg",
+      "original_description": "A dark, gnarled tree with twisted roots, one root wrapped around a glowing coin. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a dark, gnarled, ancient tree with thick, twisted roots emerging from cracked, barren soil. One prominent root tightly wraps around a single, glowing golden coin that emits a faint, ominous light. Moody, low-key lighting with dramatic shadows, creating a haunting and sinister atmosphere. The scene is shot with a macro lens for extreme detail on the texture of the bark and the coin, shallow depth of field, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+Consumer	0.4	0.8	1.0	
+debt	0.8	1.12	1.0	
+is	1.12	1.32	0.9995117	
+at	1.32	1.48	0.9995117	
+all	1.48	1.68	0.99902344	
+time	1.68	1.92	0.9941406	
+highs.	1.92	2.4	0.99902344	

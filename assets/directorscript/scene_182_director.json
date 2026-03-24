@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_182",
+  "elements": [
+    {
+      "element_id": "img_left_scene_182",
+      "type": "image",
+      "phrase": "Wanting money",
+      "text_content": "",
+      "x": 361,
+      "y": 559,
+      "scale": 0.604,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_left_scene_182.jpg",
+      "description": "A cheerful cartoon character holding a stack of colorful dollar bills, smiling brightly. The character wears a casual outfit and stands confidently. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 34 left image (P1)"
+    },
+    {
+      "element_id": "img_right_scene_182",
+      "type": "image",
+      "phrase": "is selfish.",
+      "text_content": "",
+      "x": 1582,
+      "y": 564,
+      "scale": 0.598,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_right_scene_182.jpg",
+      "description": "The same cartoon character now looks guilty, holding the money close while glancing sideways nervously. The background remains pure white. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 34 right image (P2)"
+    }
+  ]
+}

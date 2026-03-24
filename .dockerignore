@@ -1,0 +1,6 @@
+.env
+*.pyc
+__pycache__
+.git
+.claude
+BUILD_INSTRUCTIONS.md

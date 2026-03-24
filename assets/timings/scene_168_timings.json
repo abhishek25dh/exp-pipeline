@@ -1,0 +1,30 @@
+[
+  {
+    "element_id": "img_host_right_scene_168",
+    "filename": "host_looking_left.png",
+    "phrase": "When something",
+    "start": 0.32,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_bottom_left_scene_168",
+    "filename": "img_bottom_left_scene_168.jpg",
+    "phrase": "goes wrong,",
+    "start": 0.72,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_top_left_scene_168",
+    "filename": "img_top_left_scene_168.jpg",
+    "phrase": "you have",
+    "start": 1.6,
+    "end": 4.0
+  },
+  {
+    "element_id": "img_top_right_scene_168",
+    "filename": "img_top_right_scene_168.jpg",
+    "phrase": "no cushion.",
+    "start": 2.04,
+    "end": 4.0
+  }
+]

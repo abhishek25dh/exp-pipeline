@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_92",
+  "elements": [
+    {
+      "element_id": "img_center_scene_92",
+      "type": "image",
+      "phrase": "Over time,",
+      "text_content": "",
+      "x": 730,
+      "y": 530,
+      "scale": 0.59,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_center_scene_92.jpg",
+      "description": "A large hourglass floating in center, sand flowing from top to bottom, surrounded by faint clock hands rotating slowly. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_center (P1, AI generated)"
+    },
+    {
+      "element_id": "img_tl_scene_92",
+      "type": "image",
+      "phrase": "emotional spending",
+      "text_content": "",
+      "x": 232,
+      "y": 376,
+      "scale": 0.271,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_tl_scene_92.jpg",
+      "description": "A calendar with pages flipping rapidly, showing dates passing by in a blur. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tl (P2, AI generated)"
+    },
+    {
+      "element_id": "img_bl_scene_92",
+      "type": "image",
+      "phrase": "becomes automatic.",
+      "text_content": "",
+      "x": 224,
+      "y": 702,
+      "scale": 0.259,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_bl_scene_92.jpg",
+      "description": "A person holding a heart-shaped balloon, looking slightly sad, with a thought bubble showing a shopping bag. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_bl (P3, AI generated)"
+    }
+  ]
+}

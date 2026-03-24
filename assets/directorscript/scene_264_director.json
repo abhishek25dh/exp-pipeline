@@ -1,0 +1,67 @@
+{
+  "scene_id": "scene_264",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "type": "image",
+      "phrase": "Understanding how money",
+      "text_content": "",
+      "filename": "hero_main.jpg",
+      "description": "A vibrant 2D cartoon graphic of a circular flowchart with interconnected icons: a glowing coin, a growing piggy bank, and a shrinking credit card, arranged in a clockwise motion on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 490,
+      "y": 540,
+      "scale": 0.44,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "section_title",
+      "type": "text_highlighted",
+      "phrase": "works, how debt grows,",
+      "text_content": "GROWS, AND HOW",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 150,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "bullet_b1",
+      "type": "text_black",
+      "phrase": "and how savings compound",
+      "text_content": "savings compound will change",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 360,
+      "scale": 1.964,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.41
+    },
+    {
+      "element_id": "bullet_b2",
+      "type": "text_red",
+      "phrase": "will change your life.",
+      "text_content": "your life.",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 545,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.37
+    }
+  ]
+}

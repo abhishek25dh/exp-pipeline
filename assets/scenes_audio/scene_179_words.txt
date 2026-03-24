@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Make	0.4	0.52	0.99853516	
+future	0.52	0.8	0.9995117	
+you	0.8	1.08	0.8286133	
+a	1.08	1.24	0.9995117	
+priority.	1.24	1.76	0.9998372	

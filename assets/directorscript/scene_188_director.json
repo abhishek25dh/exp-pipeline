@@ -1,0 +1,80 @@
+{
+  "scene_id": "scene_188",
+  "elements": [
+    {
+      "element_id": "img_center_scene_188",
+      "type": "image",
+      "phrase": "If money",
+      "text_content": "",
+      "x": 730,
+      "y": 530,
+      "scale": 0.59,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_center_scene_188.jpg",
+      "description": "A simple cartoon question mark icon in the center of a pure white background, surrounded by faint circular lines suggesting thought or consideration. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_center (P1, AI generated)"
+    },
+    {
+      "element_id": "img_tl_scene_188",
+      "type": "image",
+      "phrase": "is bad,",
+      "text_content": "",
+      "x": 232,
+      "y": 376,
+      "scale": 0.271,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_tl_scene_188.jpg",
+      "description": "A cartoon dollar bill with a frowning face and a red cross mark over it, placed in the top-left corner of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tl (P2, AI generated)"
+    },
+    {
+      "element_id": "img_bl_scene_188",
+      "type": "image",
+      "phrase": "then having",
+      "text_content": "",
+      "x": 224,
+      "y": 702,
+      "scale": 0.259,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_bl_scene_188.jpg",
+      "description": "A cartoon hand holding a stack of dollar bills, positioned in the bottom-left corner of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_bl (P3, AI generated)"
+    },
+    {
+      "element_id": "img_tr1_scene_188",
+      "type": "image",
+      "phrase": "money makes",
+      "text_content": "",
+      "x": 1293,
+      "y": 405,
+      "scale": 0.303,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_tr1_scene_188.jpg",
+      "description": "A cartoon dollar bill with a neutral expression, placed in the top-right corner of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tr1 (P4, AI generated)"
+    },
+    {
+      "element_id": "img_tr2_scene_188",
+      "type": "image",
+      "phrase": "you bad too.",
+      "text_content": "",
+      "x": 1701,
+      "y": 399,
+      "scale": 0.304,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_tr2_scene_188.jpg",
+      "description": "A cartoon person with a neutral expression holding a dollar bill, positioned slightly below the top-right corner of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 37 img_tr2 (P5, AI generated)"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_135",
+  "elements": [
+    {
+      "element_id": "img_left_scene_135",
+      "filename": "img_left_scene_135.jpg",
+      "original_description": "A group of cheerful people with raised arms and party hats, confetti falling around them, bright colors of yellow, blue, and pink. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a group of cheerful people with raised arms wearing party hats, with confetti falling around them in bright colors of yellow, blue, and pink. Cinematic lighting with soft focus, high resolution, and a festive, energetic mood. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "img_center_scene_135",
+      "filename": "img_center_scene_135.jpg",
+      "original_description": "A golden trophy with a ribbon, surrounded by small stars and sparkles, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a golden trophy with a ribbon, surrounded by small stars and sparkles, against a pure white background. Clean flat vector art, high contrast, no shading or gradients, and sharp focus. No text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

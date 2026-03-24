@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_165",
+  "elements": [
+    {
+      "element_id": "img_1",
+      "filename": "img_1_scene_165.jpg",
+      "original_description": "A map of the United States with a clock icon hovering above it, emphasizing the concept of time and focus. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a map of the United States with a floating minimalist clock icon hovering above the center, cinematic lighting with soft shadows to emphasize time and focus, sharp focus on the map and icon, high resolution, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_2",
+      "filename": "img_2_scene_165.jpg",
+      "original_description": "A hand holding a smartphone with a notification pop-up for a fast food delivery app, symbolizing instant gratification. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a hand holding a smartphone, screen showing a notification pop-up for a fast food delivery app with icons like a burger or a clock, symbolizing instant gratification, dramatic lighting to highlight the screen, soft bokeh background, high resolution, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_3",
+      "filename": "img_3_scene_165.jpg",
+      "original_description": "A modern cityscape with various icons representing instant services like lightning bolts, delivery trucks, and digital screens embedded into buildings. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a modern cityscape at dusk, with minimalist icons like lightning bolts, delivery trucks, and glowing digital screens integrated into skyscraper surfaces, neon and cinematic lighting to emphasize instant services, soft bokeh for depth, high resolution, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

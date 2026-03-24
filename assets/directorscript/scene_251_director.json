@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_251",
+  "elements": [
+    {
+      "element_id": "strip_title",
+      "type": "text_highlighted",
+      "phrase": "This",
+      "text_content": "THIS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 220,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_frame_1",
+      "type": "image",
+      "phrase": "keeps",
+      "text_content": "",
+      "filename": "frame_1_img.jpg",
+      "description": "A 2D colorful cartoon graphic of a person standing in a sticky puddle of mud, looking frustrated. The mud is dark brown and the person wears a bright yellow shirt. No text, no letters, no numbers, no watermarks.",
+      "x": 192,
+      "y": 500,
+      "scale": 0.18,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "cap_frame_1",
+      "type": "text_black",
+      "phrase": "you stuck.",
+      "text_content": "you stuck.",
+      "filename": "",
+      "description": "",
+      "x": 192,
+      "y": 652,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.4
+    }
+  ]
+}

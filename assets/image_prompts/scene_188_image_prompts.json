@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_188",
+  "elements": [
+    {
+      "element_id": "img_center_scene_188",
+      "filename": "img_center_scene_188.jpg",
+      "original_description": "A simple cartoon question mark icon in the center of a pure white background, surrounded by faint circular lines suggesting thought or consideration. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a simple cartoon question mark centered on a pure white background, clean flat vector art with high contrast, surrounded by faint circular lines suggesting thought or consideration, no shading or gradients, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tl_scene_188",
+      "filename": "img_tl_scene_188.jpg",
+      "original_description": "A cartoon dollar bill with a frowning face and a red cross mark over it, placed in the top-left corner of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon dollar bill with a frowning face and a red cross mark over it, placed in the top-left corner of a pure white background, clean flat vector art with high contrast, no shading or gradients, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_bl_scene_188",
+      "filename": "img_bl_scene_188.jpg",
+      "original_description": "A cartoon hand holding a stack of dollar bills, positioned in the bottom-left corner of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon hand holding a stack of dollar bills, positioned in the bottom-left corner of a pure white background, clean flat vector art with high contrast, no shading or gradients, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tr1_scene_188",
+      "filename": "img_tr1_scene_188.jpg",
+      "original_description": "A cartoon dollar bill with a neutral expression, placed in the top-right corner of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon dollar bill with a neutral expression, placed in the top-right corner of a pure white background, clean flat vector art with high contrast, no shading or gradients, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tr2_scene_188",
+      "filename": "img_tr2_scene_188.jpg",
+      "original_description": "A cartoon person with a neutral expression holding a dollar bill, positioned slightly below the top-right corner of a pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon person with a neutral expression holding a dollar bill, positioned slightly below the top-right corner of a pure white background, clean flat vector art with high contrast, no shading or gradients, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

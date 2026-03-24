@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_230",
+  "elements": [
+    {
+      "element_id": "host_scene_230",
+      "type": "image",
+      "phrase": "Social",
+      "text_content": "",
+      "x": 1497,
+      "y": 559,
+      "scale": 0.75,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "host_explaining.png",
+      "description": "",
+      "reason": "Layout 36 host (P1, right side, static asset)"
+    },
+    {
+      "element_id": "img_left_scene_230",
+      "type": "image",
+      "phrase": "media",
+      "text_content": "",
+      "x": 277,
+      "y": 483,
+      "scale": 0.437,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_left_scene_230.jpg",
+      "description": "A smartphone with a glowing social media app icon on the screen, floating against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 36 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "arrow_scene_230",
+      "type": "arrow",
+      "phrase": "makes",
+      "text_content": "",
+      "x": 632,
+      "y": 482,
+      "scale": 0.2,
+      "angle": 27,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Layout 36 arrow (P3, static asset, angle=27)"
+    },
+    {
+      "element_id": "img_center_scene_230",
+      "type": "image",
+      "phrase": "this worse.",
+      "text_content": "",
+      "x": 899,
+      "y": 503,
+      "scale": 0.362,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_center_scene_230.jpg",
+      "description": "A downward red arrow crossing over a smartphone, indicating a negative trend, against a pure white background. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 36 center image (P4, AI generated)"
+    }
+  ]
+}

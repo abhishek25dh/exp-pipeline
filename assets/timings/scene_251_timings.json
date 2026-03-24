@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "strip_title",
+    "filename": "",
+    "phrase": "This",
+    "start": 0.4,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_frame_1",
+    "filename": "frame_1_img.jpg",
+    "phrase": "keeps",
+    "start": 0.52,
+    "end": 2.0
+  },
+  {
+    "element_id": "cap_frame_1",
+    "filename": "",
+    "phrase": "you stuck.",
+    "start": 0.76,
+    "end": 2.0
+  }
+]

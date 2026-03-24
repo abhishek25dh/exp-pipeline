@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_21",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "filename": "hero_main.jpg",
+      "original_description": "A cartoon character with a sad expression, sitting on a stool in the center of a pure white background. The character holds their head in their hands, with a thought bubble above showing a clock ticking backwards. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist cartoon icon, a character with a deeply sad expression sitting dejectedly on a simple stool in the center of a pure white background, the character holds their head in their hands in a gesture of regret, a thought bubble floats above showing a detailed clock with hands moving backwards, clean flat vector art style, high contrast lines, no shading or gradients, no text, no letters, no numbers, no watermarks, muted color palette with a somber mood, cinematic composition."
+    }
+  ]
+}

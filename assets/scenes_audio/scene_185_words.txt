@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.48	0.99902344	
+don't	0.48	0.72	0.9991862	
+ask	0.72	0.88	0.9946289	
+for	0.88	1.08	0.9995117	
+raises.	1.08	1.44	0.99194336	

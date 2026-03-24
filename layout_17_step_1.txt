@@ -1,0 +1,11 @@
+Layout 17 Step 1 is now FULLY DETERMINISTIC — no AI prompt needed.
+
+Step 1 (layout_17_step_1.py) performs:
+1. Tokenizes the script (strips scene_N: prefix)
+2. Splits into sentence spans (on terminal punctuation)
+3. Maps sentences into 3 vertex groups
+4. Extracts a 1-2 word center_word (best content word)
+5. Splits each group into img_phrase + lbl_phrase (DP scoring)
+6. Validates all 7 phrases (non-empty, unique, no prefix collisions)
+
+Output: assets/tmp/{scene_id}_layout_17_step_1_tmp.json

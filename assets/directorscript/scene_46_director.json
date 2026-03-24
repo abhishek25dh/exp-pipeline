@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_46",
+  "elements": [
+    {
+      "element_id": "text_bc_l1_scene_46",
+      "type": "text_red",
+      "phrase": "Your coworkers",
+      "text_content": "YOUR COWORKERS",
+      "x": 942,
+      "y": 935,
+      "scale": 1.25,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 1/2)"
+    },
+    {
+      "element_id": "text_bc_l2_scene_46",
+      "type": "text_red",
+      "phrase": "have",
+      "text_content": "HAVE",
+      "x": 942,
+      "y": 1005,
+      "scale": 1.25,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 38 text bottom center (P1, fires first, line 2/2)"
+    },
+    {
+      "element_id": "img_left_scene_46",
+      "type": "image",
+      "phrase": "coworkers have",
+      "text_content": "",
+      "x": 415,
+      "y": 511,
+      "scale": 0.667,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "img_left_scene_46.jpg",
+      "description": "A cheerful cartoon thumbs-up gesture with a shining golden star above it, conveying approval and positivity. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 left image (P2, AI generated)"
+    },
+    {
+      "element_id": "img_right_scene_46",
+      "type": "image",
+      "phrase": "nice cars.",
+      "text_content": "",
+      "x": 1443,
+      "y": 503,
+      "scale": 0.656,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_right_scene_46.jpg",
+      "description": "Two sleek, modern cartoon cars side by side, one red and one blue, with shiny surfaces and stylish designs. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 38 right image (P3, AI generated)"
+    }
+  ]
+}

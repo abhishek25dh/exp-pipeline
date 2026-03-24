@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_253",
+  "elements": [
+    {
+      "element_id": "img_tl",
+      "filename": "polaroid_tl.jpg",
+      "original_description": "A close-up photo of a person's hand hovering over two buttons labeled 'Yes' and 'No', symbolizing a decision-making moment.",
+      "image_prompt": "A high-quality photograph, cinematic lighting, sharp focus. A close-up shot of a person's hand, fingers slightly splayed, hovering in mid-air directly above two distinct buttons. The buttons are clearly labeled 'Yes' and 'No'. The lighting is dramatic, casting soft shadows to emphasize the moment of hesitation. The background is softly blurred, creating a professional bokeh effect. The mood is tense and contemplative."
+    },
+    {
+      "element_id": "img_tr",
+      "filename": "polaroid_tr.jpg",
+      "original_description": "A crystal ball resting on a wooden table, with faint smoke swirling inside, representing guesses or uncertainty.",
+      "image_prompt": "A high-quality photograph, cinematic lighting, soft bokeh. A crystal ball sits centrally on a rich, grainy wooden table. The crystal ball is clear glass, and inside it, faint, ethereal wisps of grey smoke swirl slowly in a mysterious vortex. The lighting is moody and low-key, with a single light source creating a soft glow on the surface of the ball. The overall mood is uncertain and mystical."
+    },
+    {
+      "element_id": "img_bl",
+      "filename": "polaroid_bl.jpg",
+      "original_description": "A stack of papers with red 'X' marks on them, symbolizing repeated mistakes or wrong decisions.",
+      "image_prompt": "A high-quality photograph, sharp focus, studio lighting. A neat stack of white paper sheets on a clean, neutral background. Each visible sheet in the stack features a single, bold, red 'X' mark drawn or stamped in the center. The top sheet is in crisp focus, with the sheets below gently blurred. The lighting is flat and even, highlighting the contrast between the white paper and the red marks. The mood is stark and definitive."
+    }
+  ]
+}

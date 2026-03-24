@@ -1,0 +1,142 @@
+{
+  "id": "d9f861bf-4838-4304-8489-52036605ecba",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/a051e23b2074860a27fd454e4d7d51839d09dd851259732a1bd069ab631fcb46/c8685990-d8ca-4f00-afd4-8907dbe4ed86",
+  "text": "Contributing even 3% to retirement grows over time.",
+  "words": [
+    {
+      "text": "Contributing",
+      "start": 400,
+      "end": 1000,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "even",
+      "start": 1000,
+      "end": 1360,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "3%",
+      "start": 1360,
+      "end": 2080,
+      "confidence": 0.99902,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 2080,
+      "end": 2360,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "retirement",
+      "start": 2360,
+      "end": 2920,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "grows",
+      "start": 2920,
+      "end": 3320,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 3320,
+      "end": 3520,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "time.",
+      "start": 3520,
+      "end": 3840,
+      "confidence": 0.9946289,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9991146,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

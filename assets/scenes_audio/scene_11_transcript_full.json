@@ -1,0 +1,177 @@
+{
+  "id": "ead0fd30-d7bf-4af1-92ee-c7e1f20fd36d",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/ca44ffb062ca0dedd4b69977cc2cfa52e27c5f49ccb2d7918efc5d7494ea10a2/3a861b3d-c248-4918-bc1b-1b34878e203c",
+  "text": "This mindset was installed when you were young, watching adults stress about money.",
+  "words": [
+    {
+      "text": "This",
+      "start": 400,
+      "end": 560,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "mindset",
+      "start": 560,
+      "end": 1080,
+      "confidence": 0.9998372,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 1080,
+      "end": 1240,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "installed",
+      "start": 1240,
+      "end": 1720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 1720,
+      "end": 1880,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 1880,
+      "end": 2040,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "were",
+      "start": 2040,
+      "end": 2200,
+      "confidence": 0.99853516,
+      "speaker": null
+    },
+    {
+      "text": "young,",
+      "start": 2200,
+      "end": 2480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "watching",
+      "start": 2720,
+      "end": 3160,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "adults",
+      "start": 3160,
+      "end": 3640,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "stress",
+      "start": 3640,
+      "end": 3960,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 3960,
+      "end": 4200,
+      "confidence": 0.9399414,
+      "speaker": null
+    },
+    {
+      "text": "money.",
+      "start": 4200,
+      "end": 4560,
+      "confidence": 0.9995117,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9951047,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

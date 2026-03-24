@@ -1,0 +1,184 @@
+{
+  "id": "9921ef60-9d78-4666-9a43-8a2ace9e6167",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/c142225a1b838d6a824834e871d9d1097aa8bc0b5b4f7992660d056c69380c5e/945c1e90-2872-455a-a51e-7aa04d64a623",
+  "text": "Even when you get a little extra now you feel like it will disappear.",
+  "words": [
+    {
+      "text": "Even",
+      "start": 400,
+      "end": 520,
+      "confidence": 0.9975586,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 520,
+      "end": 680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 680,
+      "end": 840,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "get",
+      "start": 840,
+      "end": 1000,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 1000,
+      "end": 1160,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "little",
+      "start": 1160,
+      "end": 1360,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "extra",
+      "start": 1360,
+      "end": 1720,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "now",
+      "start": 1720,
+      "end": 2080,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 2160,
+      "end": 2480,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "feel",
+      "start": 2480,
+      "end": 2680,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 2680,
+      "end": 2840,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 2840,
+      "end": 3000,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "will",
+      "start": 3000,
+      "end": 3160,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "disappear.",
+      "start": 3160,
+      "end": 3680,
+      "confidence": 0.9995117,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9992501,
+  "audio_duration": 4,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

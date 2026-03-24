@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_12",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "filename": "moment_1_img.jpg",
+      "original_description": "A cartoon brain with a light pink color, floating in the center of a pure white background. The brain has a friendly expression with small eyes and a smile. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a cartoon brain. The brain is light pink in color and is floating in the exact center of a pure white background. The brain has a friendly and cheerful expression, featuring simple, small eyes and a warm smile. Style is clean, high-contrast flat vector art with no shading, gradients, or textures. No text, letters, numbers, or watermarks. The overall mood is simple and approachable."
+    },
+    {
+      "element_id": "img_moment_2",
+      "filename": "moment_2_img.jpg",
+      "original_description": "A stack of cartoon money bills in green, placed neatly in the center of a pure white background. The bills have a simple design with no detailed markings. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D minimalist icon of a stack of cartoon money bills. The stack is neat and orderly, placed perfectly in the center of a pure white background. The bills are a solid, simple green color with a very basic cartoon design and no intricate markings, serial numbers, or faces. Style is clean, high-contrast flat vector art with no shading, gradients, or textures. No text, letters, numbers, or watermarks. The lighting and mood are neutral and clean."
+    }
+  ]
+}

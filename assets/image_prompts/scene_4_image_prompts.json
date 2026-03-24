@@ -1,0 +1,11 @@
+{
+  "scene_id": "scene_4",
+  "elements": [
+    {
+      "element_id": "image_1",
+      "filename": "left_image_0.jpg",
+      "original_description": "A cheerful cartoon character holding a small glowing coin in their hand, looking slightly worried. The coin emits soft golden light. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cheerful cartoon character holding a small glowing coin in their hand, looking slightly worried. The coin emits soft golden light. Clean flat vector art, high contrast, pure white background, no shading or gradients, no text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

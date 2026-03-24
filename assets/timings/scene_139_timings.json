@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_1",
+    "filename": "",
+    "phrase": "Maybe you",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_group_1_0",
+    "filename": "group_1_image_0.jpg",
+    "phrase": "have hidden",
+    "start": 0.72,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_group_1_1",
+    "filename": "group_1_image_1.jpg",
+    "phrase": "credit card debt.",
+    "start": 1.16,
+    "end": 3.0
+  }
+]

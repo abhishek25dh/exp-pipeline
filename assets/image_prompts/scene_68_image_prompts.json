@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_68",
+  "elements": [
+    {
+      "element_id": "img_top",
+      "filename": "top_img.jpg",
+      "original_description": "A stack of US dollar bills neatly arranged on a white background.",
+      "image_prompt": "A stack of US dollar bills neatly arranged on a pure white background. Professional 2D minimalist icon, clean flat vector art, high contrast, no shading or gradients, crisp edges."
+    },
+    {
+      "element_id": "img_bottom_right",
+      "filename": "bottom_right_img.jpg",
+      "original_description": "A confused person scratching their head, surrounded by question marks.",
+      "image_prompt": "A confused person scratching their head, surrounded by question marks. Professional 2D minimalist icon on a pure white background, clean flat vector art, high contrast, no shading or gradients."
+    },
+    {
+      "element_id": "img_bottom_left",
+      "filename": "bottom_left_img.jpg",
+      "original_description": "A hand holding a pen, writing in a financial planner notebook.",
+      "image_prompt": "A hand holding a pen, writing in a financial planner notebook. Professional 2D minimalist icon on a pure white background, clean flat vector art, high contrast, no shading or gradients."
+    }
+  ]
+}

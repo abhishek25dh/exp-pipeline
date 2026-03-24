@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_108",
+  "elements": [
+    {
+      "element_id": "title_timeline",
+      "type": "text_black",
+      "phrase": "It sounds",
+      "text_content": "IT SOUNDS COMPLICATED, LIKE SOMETHING RICH",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 130,
+      "scale": 1.413,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.77
+    },
+    {
+      "element_id": "img_step_1",
+      "type": "image",
+      "phrase": "complicated, like something",
+      "text_content": "",
+      "filename": "step_1_img.jpg",
+      "description": "A group of well-dressed people standing together in formal attire, smiling and chatting. No text, no letters, no numbers, no watermarks.",
+      "x": 200,
+      "y": 380,
+      "scale": 0.25,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "txt_step_1",
+      "type": "text_highlighted",
+      "phrase": "rich people do.",
+      "text_content": "rich people do.",
+      "filename": "",
+      "description": "",
+      "x": 633,
+      "y": 650,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

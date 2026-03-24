@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_102",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_highlighted",
+      "phrase": "So you keep",
+      "text_content": "SO YOU KEEP MONEY IN",
+      "x": 960,
+      "y": 310,
+      "scale": 3.0,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "money in a savings",
+      "text_content": "",
+      "x": 1274,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 142,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "account earning almost nothing.",
+      "text_content": "",
+      "x": 914,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_1_scene_102.jpg",
+      "description": "A small, flat piggy bank sitting on a white surface, with a tiny coin inside and a faint, barely visible arrow pointing upwards labeled 'interest'. No text, no letters, no numbers, no watermarks.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

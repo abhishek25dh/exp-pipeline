@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_12",
+  "elements": [
+    {
+      "element_id": "img_moment_1",
+      "type": "image",
+      "phrase": "Your brain",
+      "filename": "moment_1_img.jpg",
+      "description": "A cartoon brain with a light pink color, floating in the center of a pure white background. The brain has a friendly expression with small eyes and a smile. No text, no letters, no numbers, no watermarks.",
+      "x": 537,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Grid panel 1",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_moment_1",
+      "type": "text_highlighted",
+      "phrase": "learned that",
+      "text_content": "learned that",
+      "x": 537,
+      "y": 453,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Grid panel label",
+      "filename": "",
+      "description": ""
+    },
+    {
+      "element_id": "img_moment_2",
+      "type": "image",
+      "phrase": "money equals fear.",
+      "filename": "moment_2_img.jpg",
+      "description": "A stack of cartoon money bills in green, placed neatly in the center of a pure white background. The bills have a simple design with no detailed markings. No text, no letters, no numbers, no watermarks.",
+      "x": 1382,
+      "y": 250,
+      "scale": 0.28,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Grid panel 2",
+      "text_content": ""
+    }
+  ]
+}

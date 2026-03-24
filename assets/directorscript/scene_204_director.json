@@ -1,0 +1,52 @@
+{
+  "scene_id": "scene_204",
+  "elements": [
+    {
+      "element_id": "center_title_1",
+      "type": "text_highlighted",
+      "phrase": "Minimum payments",
+      "text_content": "Minimum payments",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 512,
+      "scale": 1.175,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.48
+    },
+    {
+      "element_id": "center_title_2",
+      "type": "text_highlighted",
+      "phrase": "Minimum payments",
+      "text_content": "feel manageable.",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 567,
+      "scale": 1.175,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.69
+    },
+    {
+      "element_id": "img_phase_1",
+      "type": "image",
+      "phrase": "feel manageable.",
+      "text_content": "",
+      "filename": "phase_1_img.jpg",
+      "description": "A small stack of coins on a pure white background, arranged neatly in a pyramid shape. The coins are shiny and metallic, with a slight golden tint. No text, no letters, no numbers, no watermarks.",
+      "x": 960,
+      "y": 220,
+      "scale": 0.22,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

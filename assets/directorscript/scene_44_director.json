@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_44",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "type": "image",
+      "phrase": "As income goes",
+      "filename": "group_1_cause_0.jpg",
+      "description": "A green upward arrow on the left side of the frame, pointing diagonally upwards, with a small stack of gold coins at its base. No text, no letters, no numbers, no watermarks.",
+      "x": 362,
+      "y": 645,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Cause image for group_1",
+      "text_content": ""
+    },
+    {
+      "element_id": "arrow_group_1",
+      "type": "arrow",
+      "phrase": "up, spending goes",
+      "filename": "arrow.png",
+      "description": "",
+      "x": 946,
+      "y": 645,
+      "scale": 0.541,
+      "angle": 4,
+      "animation": "pop",
+      "property": "",
+      "reason": "Cause-to-effect arrow for group_1",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_effect",
+      "type": "image",
+      "phrase": "up to match it.",
+      "filename": "group_1_effect_0.jpg",
+      "description": "A blue upward arrow on the right side of the frame, pointing diagonally upwards, with a shopping cart at its base. The arrows are parallel and aligned. No text, no letters, no numbers, no watermarks.",
+      "x": 1530,
+      "y": 645,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Effect image for group_1",
+      "text_content": ""
+    }
+  ]
+}

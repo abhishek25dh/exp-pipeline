@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+Schools	0.32	0.6	0.99975586	
+don't	0.6	0.8	0.99934894	
+teach	0.8	1.0	1.0	
+it.	1.0	1.28	0.9975586	

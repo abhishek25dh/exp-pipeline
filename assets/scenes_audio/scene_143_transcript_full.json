@@ -1,0 +1,163 @@
+{
+  "id": "234c77b9-3a58-442e-840b-5bc9c8f809d2",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/ec3bdffb91bced5b0d67bc2f6837ffc34722215d197618ccc320bff84f248234/d65af6f9-5804-4dd5-bc38-9cd7cc8979d4",
+  "text": "Money. Shame makes you hide problems and avoid asking for help.",
+  "words": [
+    {
+      "text": "Money.",
+      "start": 400,
+      "end": 600,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "Shame",
+      "start": 600,
+      "end": 1040,
+      "confidence": 0.98583984,
+      "speaker": null
+    },
+    {
+      "text": "makes",
+      "start": 1040,
+      "end": 1320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 1320,
+      "end": 1480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "hide",
+      "start": 1480,
+      "end": 1840,
+      "confidence": 0.85839844,
+      "speaker": null
+    },
+    {
+      "text": "problems",
+      "start": 1840,
+      "end": 2320,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 2320,
+      "end": 2600,
+      "confidence": 0.9526367,
+      "speaker": null
+    },
+    {
+      "text": "avoid",
+      "start": 2600,
+      "end": 3040,
+      "confidence": 0.9532878,
+      "speaker": null
+    },
+    {
+      "text": "asking",
+      "start": 3040,
+      "end": 3320,
+      "confidence": 0.9086914,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 3320,
+      "end": 3560,
+      "confidence": 0.77734375,
+      "speaker": null
+    },
+    {
+      "text": "help.",
+      "start": 3560,
+      "end": 3920,
+      "confidence": 1.0,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9486565,
+  "audio_duration": 5,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_19",
+  "elements": [
+    {
+      "element_id": "img_step_1",
+      "filename": "step_1_img.jpg",
+      "original_description": "A cheerful person holding shopping bags filled with colorful items, smiling widely, on a pure white background.",
+      "image_prompt": "A high-quality photograph of a cheerful person holding several shopping bags overflowing with brightly colored items, smiling widely with genuine joy. The person is centered on a perfectly pure white background. The style is a realistic, high-resolution photograph with bright, cheerful lighting that enhances the feeling of positive, impulsive shopping."
+    },
+    {
+      "element_id": "img_step_2",
+      "filename": "step_2_img.jpg",
+      "original_description": "A glowing thumbs-up icon with a happy face, symbolizing 'good', centered on a pure white background.",
+      "image_prompt": "A professional 2D minimalist icon: a glowing thumbs-up symbol with a simple, happy face drawn on it, centered on a pure white background. Clean flat vector art, high contrast, no shading or gradients. The style is modern, digital, and represents positive affirmation."
+    }
+  ]
+}

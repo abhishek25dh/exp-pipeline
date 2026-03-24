@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_106",
+  "elements": [
+    {
+      "element_id": "image_quad_0",
+      "filename": "quad_0_US_there's.jpg",
+      "original_description": "A cartoon-style magnifying glass zooming in on a giant red arrow pointing upwards against a white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon-style magnifying glass zooming in on a giant red arrow pointing upwards. Clean flat vector art on a pure white background. High contrast, no shading or gradients. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_1",
+      "filename": "quad_1_a_huge.jpg",
+      "original_description": "A photorealistic image of a wide canyon with steep cliffs on either side, emphasizing the empty space between them. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a wide canyon with steep cliffs on either side, emphasizing the vast empty space between them. Cinematic lighting with dramatic shadows cast by the cliffs. High resolution, sharp focus on the landscape, captured with a wide-angle lens. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_2",
+      "filename": "quad_2_gap_in_financial.jpg",
+      "original_description": "A cartoon-style stack of coins and dollar bills with a glowing light bulb above them, symbolizing financial knowledge. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon of a cartoon-style stack of coins and dollar bills with a bright glowing light bulb above them. Clean flat vector art on a pure white background. High contrast, no shading or gradients, symbolizing financial knowledge. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_3",
+      "filename": "quad_3_literacy_around_investing.jpg",
+      "original_description": "A photorealistic image of a person analyzing stock market charts on a computer screen in a modern office setting. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a person in a modern office setting, focused on analyzing dynamic stock market charts displayed on a computer screen. Cinematic lighting with soft bokeh in the background. High resolution, sharp focus on the person and the screen details. Professional and serious mood. No text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

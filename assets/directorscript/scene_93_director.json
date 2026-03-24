@@ -1,0 +1,65 @@
+{
+  "scene_id": "scene_93",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_93",
+      "type": "image",
+      "phrase": "Breaking this",
+      "text_content": "",
+      "x": 274,
+      "y": 384,
+      "scale": 0.392,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_tl_scene_93.jpg",
+      "description": "A large glass pane cracks diagonally from top left to bottom right, with shards starting to fall away. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_tl (P1)"
+    },
+    {
+      "element_id": "img_tr_scene_93",
+      "type": "image",
+      "phrase": "means learning",
+      "text_content": "",
+      "x": 772,
+      "y": 386,
+      "scale": 0.384,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_tr_scene_93.jpg",
+      "description": "A cartoon brain with lightbulb icon above it, surrounded by glowing yellow sparks. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_tr (P2)"
+    },
+    {
+      "element_id": "img_bl_scene_93",
+      "type": "image",
+      "phrase": "other ways",
+      "text_content": "",
+      "x": 270,
+      "y": 832,
+      "scale": 0.384,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "img_bl_scene_93.jpg",
+      "description": "Four colorful arrows pointing in different directions - red up, blue right, green down, yellow left. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_bl (P3)"
+    },
+    {
+      "element_id": "img_br_scene_93",
+      "type": "image",
+      "phrase": "to cope.",
+      "text_content": "",
+      "x": 785,
+      "y": 823,
+      "scale": 0.386,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_br_scene_93.jpg",
+      "description": "Three winding paths of different colors - pink, purple, and orange - extending into the distance. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 39 image grid img_br (P4)"
+    }
+  ]
+}

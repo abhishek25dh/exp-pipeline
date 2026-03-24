@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_10",
+  "elements": [
+    {
+      "element_id": "image_quad_0",
+      "filename": "quad_0_invest_because.jpg",
+      "original_description": "A person holding a wallet with a concerned expression, standing in front of a price tag labeled 'expensive'. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph, high resolution, 8k, sharp focus, cinematic lighting. A person holding a worn leather wallet with a deeply concerned and worried expression, standing in front of a large, prominently displayed price tag labeled 'expensive'. The person's body language conveys hesitation and apprehension. The background is slightly blurred with soft bokeh to emphasize the subject. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_1",
+      "filename": "quad_1_you_can't.jpg",
+      "original_description": "A cartoon arrow pointing towards a blank white space, indicating direction without any specific destination. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, pure white background, clean flat vector art, high contrast, no shading or gradients. A single, simple cartoon arrow with bold outlines, pointing decisively towards a vast, empty white space, clearly indicating a direction that leads to no specific destination or object. The composition is stark and isolated. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_2",
+      "filename": "quad_2_afford_to.jpg",
+      "original_description": "A hand dropping a coin into a void, with the coin disappearing into darkness. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph, high resolution, dramatic and moody cinematic lighting. A human hand in sharp focus, shown from a close-up perspective, releasing a single golden coin from its fingertips. The coin is falling into a deep, pure black void below, its edges just beginning to be swallowed by the darkness, conveying a sense of irreversible loss. The background is absolute darkness. No text, no letters, no numbers, no watermarks."
+    },
+    {
+      "element_id": "image_quad_3",
+      "filename": "quad_3_lose_anything.jpg",
+      "original_description": "A cartoon-style empty box floating in a white void, symbolizing the absence of anything. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon, pure white background, clean flat vector art, high contrast, no shading or gradients. A simple cartoon-style open cardboard box, drawn with clean lines, floating centrally in an infinite white void. The box is completely empty, its interior visible, perfectly symbolizing the absence of anything. The style is graphic and symbolic. No text, no letters, no numbers, no watermarks."
+    }
+  ]
+}

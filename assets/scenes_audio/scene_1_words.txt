@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+You	0.16	0.28	0.99853516	
+grew	0.28	0.52	0.9929199	
+up	0.52	0.68	1.0	
+hearing	0.68	0.92	0.9995117	
+there's	0.92	1.24	0.99869794	
+never	1.24	1.4	1.0	
+enough.	1.4	1.68	0.9995117	

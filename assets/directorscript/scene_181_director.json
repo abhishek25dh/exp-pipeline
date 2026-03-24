@@ -1,0 +1,36 @@
+{
+  "scene_id": "scene_181",
+  "elements": [
+    {
+      "element_id": "text_heading",
+      "type": "text_red",
+      "phrase": "Rich people",
+      "text_content": "RICH PEOPLE ARE",
+      "x": 929,
+      "y": 332,
+      "scale": 3.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 33 heading (P1, line 1/1)",
+      "typing_speed": 0.83
+    },
+    {
+      "element_id": "img_left_scene_181",
+      "type": "image",
+      "phrase": "are greedy.",
+      "text_content": "",
+      "x": 363,
+      "y": 711,
+      "scale": 0.488,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_left_scene_181.jpg",
+      "description": "A cartoon man in a business suit with a smug expression, clutching overflowing bags of gold coins, standing on a pile of money. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 33 left image (P2)"
+    }
+  ]
+}

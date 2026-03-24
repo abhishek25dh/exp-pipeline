@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+You're	0.4	0.64	0.99332684	
+embarrassed	0.64	1.12	0.9923503	
+about	1.12	1.28	1.0	
+your	1.28	1.52	0.9995117	
+financial	1.52	1.84	0.9995117	
+situation.	1.84	2.4	0.9995117	

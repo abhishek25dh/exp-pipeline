@@ -1,0 +1,8 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.44	0.9980469	
+ignoring	0.44	0.88	0.8947266	
+money	0.88	1.16	0.99902344	
+problems	1.16	1.68	1.0	
+makes	1.68	1.88	0.99853516	
+them	1.88	2.08	0.9995117	
+worse.	2.08	2.48	0.9987793	

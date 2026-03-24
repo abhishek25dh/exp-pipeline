@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+Check	0.4	0.56	0.9992676	
+the	0.56	0.68	0.9980469	
+balance.	0.68	1.12	0.99690753	

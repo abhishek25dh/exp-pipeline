@@ -1,0 +1,5 @@
+# word	start_s	end_s	confidence	speaker
+No	0.4	0.56	0.9975586	
+thinking,	0.56	1.04	1.0	
+no	1.2	1.52	0.9995117	
+waiting.	1.52	1.92	0.9992676	

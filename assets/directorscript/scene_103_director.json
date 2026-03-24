@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_103",
+  "elements": [
+    {
+      "element_id": "img_left_scene_103",
+      "type": "image",
+      "phrase": "But inflation",
+      "text_content": "",
+      "x": 445,
+      "y": 553,
+      "scale": 0.589,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "img_left_scene_103.jpg",
+      "description": "A green cartoon worm with dollar signs on its body, chewing on a stack of dollar bills. The worm has a mischievous expression and is surrounded by small bite marks on the bills. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 31 left image (P1)"
+    },
+    {
+      "element_id": "arrow_scene_103",
+      "type": "arrow",
+      "phrase": "quietly eats",
+      "text_content": "",
+      "x": 1018,
+      "y": 561,
+      "scale": 0.387,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Layout 31 arrow (P2, static local asset)"
+    },
+    {
+      "element_id": "img_right_scene_103",
+      "type": "image",
+      "phrase": "away at",
+      "text_content": "",
+      "x": 1501,
+      "y": 557,
+      "scale": 0.499,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_103.jpg",
+      "description": "A shopping cart filled with groceries gradually becomes empty as a green worm eats away at the items. The cart has a sad expression and the worm looks satisfied. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 31 right image (P3)"
+    },
+    {
+      "element_id": "text_label_scene_103",
+      "type": "text_black",
+      "phrase": "purchasing power.",
+      "text_content": "PURCHASING POWER.",
+      "x": 1488,
+      "y": 208,
+      "scale": 1.765,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 31 text label (P4, line 1/1)",
+      "typing_speed": 0.49
+    }
+  ]
+}

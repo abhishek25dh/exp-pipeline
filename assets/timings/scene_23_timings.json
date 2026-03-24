@@ -1,0 +1,51 @@
+[
+  {
+    "element_id": "center_word",
+    "filename": "",
+    "phrase": "Impulse spending",
+    "start": 0.4,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_top",
+    "filename": "top_img.jpg",
+    "phrase": "fills",
+    "start": 1.2,
+    "end": 5.0
+  },
+  {
+    "element_id": "label_top",
+    "filename": "",
+    "phrase": "an",
+    "start": 1.56,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_bottom_right",
+    "filename": "bottom_right_img.jpg",
+    "phrase": "emotional",
+    "start": 1.72,
+    "end": 5.0
+  },
+  {
+    "element_id": "label_bottom_right",
+    "filename": "",
+    "phrase": "need,",
+    "start": 2.2,
+    "end": 5.0
+  },
+  {
+    "element_id": "img_bottom_left",
+    "filename": "bottom_left_img.jpg",
+    "phrase": "not a",
+    "start": 2.8,
+    "end": 5.0
+  },
+  {
+    "element_id": "label_bottom_left",
+    "filename": "",
+    "phrase": "real one.",
+    "start": 3.24,
+    "end": 5.0
+  }
+]

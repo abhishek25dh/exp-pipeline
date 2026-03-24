@@ -1,0 +1,4 @@
+# word	start_s	end_s	confidence	speaker
+The	0.32	0.44	0.99902344	
+cycle	0.44	0.8	0.97721356	
+repeats.	0.8	1.28	0.89127606	

@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "img_right_scene_224",
+    "filename": "img_right_scene_224.jpg",
+    "phrase": "Pay cash",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left_scene_224",
+    "filename": "img_left_scene_224.jpg",
+    "phrase": "or debit only.",
+    "start": 0.92,
+    "end": 3.0
+  }
+]

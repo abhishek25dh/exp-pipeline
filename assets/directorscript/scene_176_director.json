@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_176",
+  "elements": [
+    {
+      "element_id": "host_left_scene_176",
+      "type": "image",
+      "phrase": "Breaking this pattern",
+      "text_content": "",
+      "x": 473,
+      "y": 577,
+      "scale": 1.5,
+      "angle": 0,
+      "animation": "slide_in_up",
+      "property": "",
+      "filename": "host_looking_right.png",
+      "description": "",
+      "reason": "Layout 30 host (P1, static local asset)"
+    },
+    {
+      "element_id": "img_right_scene_176",
+      "type": "image",
+      "phrase": "means forcing long-term thinking.",
+      "text_content": "",
+      "x": 1383,
+      "y": 553,
+      "scale": 0.5,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_right_scene_176.jpg",
+      "description": "A colorful cartoon character stands at a crossroads, one path labeled 'Short-Term' with quick rewards, the other 'Long-Term' with distant but larger rewards. The character confidently steps toward the long-term path. No text, no letters, no numbers, no watermarks.",
+      "reason": "Layout 30 right image (P2, AI-generated)"
+    }
+  ]
+}

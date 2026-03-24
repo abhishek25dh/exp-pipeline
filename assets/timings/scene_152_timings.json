@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "img_macro",
+    "filename": "macro_img.jpg",
+    "phrase": "You're",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "txt_macro",
+    "filename": "",
+    "phrase": "not alone.",
+    "start": 0.56,
+    "end": 2.0
+  }
+]

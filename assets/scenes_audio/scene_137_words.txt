@@ -1,0 +1,6 @@
+# word	start_s	end_s	confidence	speaker
+Stop	0.32	0.52	0.9995117	
+waiting	0.52	0.88	1.0	
+for	0.88	1.08	1.0	
+perfect	1.08	1.48	0.9485677	
+conditions.	1.48	2.0	0.9992676	

@@ -1,0 +1,66 @@
+{
+  "scene_id": "scene_133",
+  "elements": [
+    {
+      "element_id": "img_left_scene_133",
+      "type": "image",
+      "phrase": "The problem",
+      "text_content": "",
+      "x": 361,
+      "y": 559,
+      "scale": 0.604,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_left_scene_133.jpg",
+      "description": "A human brain with a confused expression, floating in the center of a pure white background. The brain is colored in shades of pink and gray, with cartoonish eyes and a furrowed brow.",
+      "reason": "Layout 34 left image (P1)"
+    },
+    {
+      "element_id": "img_right_scene_133",
+      "type": "image",
+      "phrase": "is your",
+      "text_content": "",
+      "x": 1582,
+      "y": 564,
+      "scale": 0.598,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "filename": "img_right_scene_133.jpg",
+      "description": "A human brain with a magnifying glass hovering over it, examining a thought bubble containing a question mark. The brain is colored in shades of pink and gray, floating in the center of a pure white background.",
+      "reason": "Layout 34 right image (P2)"
+    },
+    {
+      "element_id": "text_1",
+      "type": "text_black",
+      "phrase": "brain doesn't see",
+      "text_content": "DOESN'T SEE IT",
+      "x": 973,
+      "y": 220,
+      "scale": 1.071,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 34 text_1 (P3, line 1/1)",
+      "typing_speed": 0.54
+    },
+    {
+      "element_id": "text_2",
+      "type": "text_black",
+      "phrase": "it that way.",
+      "text_content": "THAT WAY.",
+      "x": 976,
+      "y": 420,
+      "scale": 1.667,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Layout 34 text_2 (P4, line 1/1)"
+    }
+  ]
+}

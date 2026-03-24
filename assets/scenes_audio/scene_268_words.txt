@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+Most	0.4	0.52	0.9995117	
+people	0.52	0.8	0.63720703	
+struggle	0.8	1.2	1.0	
+with	1.2	1.36	0.91503906	
+money	1.36	1.68	1.0	
+psychology.	1.68	2.24	0.99902344	

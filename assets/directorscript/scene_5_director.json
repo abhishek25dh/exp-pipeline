@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_5",
+  "elements": [
+    {
+      "element_id": "img_2",
+      "type": "image",
+      "phrase": "You hold onto things",
+      "text_content": "",
+      "filename": "img_2.jpg",
+      "description": "A pair of hands clutching a jumble of random objects tightly, including old keys, a broken watch, and crumpled papers, against a pure white background.",
+      "x": 780,
+      "y": 520,
+      "scale": 0.411,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "you don't need,",
+      "text_content": "",
+      "filename": "img_1.jpg",
+      "description": "A cluttered pile of useless items like a cracked mug, a single sock, and a dusty book, isolated on a white background.",
+      "x": 260,
+      "y": 540,
+      "scale": 0.239,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_3",
+      "type": "image",
+      "phrase": "just in case.",
+      "text_content": "",
+      "filename": "img_3.jpg",
+      "description": "A single hand hesitatingly placing an old, unused umbrella into a drawer filled with similar forgotten items, on a white background.",
+      "x": 1500,
+      "y": 500,
+      "scale": 0.683,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

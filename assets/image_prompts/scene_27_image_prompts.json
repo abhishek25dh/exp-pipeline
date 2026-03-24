@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_27",
+  "elements": [
+    {
+      "element_id": "img_hero_scene_27",
+      "filename": "img_hero_scene_27.jpg",
+      "original_description": "A glowing human brain with a transparent skull, showing neural pathways lighting up in vibrant colors. The focus is on the emotional centers glowing brightest, surrounded by softer light in the rational areas. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality 3D render of a glowing human brain with a transparent skull, revealing neural pathways that light up in vibrant colors. The emotional centers of the brain glow brightest with intense, warm hues, surrounded by softer, cooler light in the rational areas. The scene uses cinematic lighting with a dark, atmospheric background to highlight the glowing effects. The composition is sharp, detailed, and free of any text, letters, numbers, or watermarks, emphasizing the visual impact of the neural activity."
+    },
+    {
+      "element_id": "img_bottom_right_scene_27",
+      "filename": "img_bottom_right_scene_27.jpg",
+      "original_description": "A cartoonish brain section labeled 'Rational' with gears turning inside, surrounded by muted tones. The gears are slowing down as colorful sparks drift away. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A professional 2D cartoon-style illustration of a brain section labeled 'Rational' with mechanical gears turning inside, set against muted, desaturated tones. The gears are shown slowing down, with colorful sparks drifting away from them, creating a sense of disengagement. The art is clean, flat, and minimalist, with high contrast and no shading or gradients, on a pure white background. No text, letters, numbers, or watermarks are present."
+    },
+    {
+      "element_id": "img_top_mid_scene_27",
+      "filename": "img_top_mid_scene_27.jpg",
+      "original_description": "A glowing arrow shooting upward through a stylized brain, leaving a trail of sparkling light. The arrow is vibrant pink, emphasizing movement toward the emotional centers. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A 3D stylized illustration of a glowing, vibrant pink arrow shooting upward through a translucent, stylized human brain, leaving a sparkling light trail in its wake. The arrow's movement is dynamic, emphasizing its path toward the brain's emotional centers. The scene uses soft, ethereal lighting with a dark background to enhance the glowing effects. The composition is free of text, letters, numbers, or watermarks, focusing on the arrow's energetic motion."
+    },
+    {
+      "element_id": "img_top_right_scene_27",
+      "filename": "img_top_right_scene_27.jpg",
+      "original_description": "A close-up of a human eye with a tear forming, reflecting colorful light patterns. The iris is detailed, and the tear glistens, symbolizing raw emotion. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-resolution, realistic photograph of a close-up human eye with a tear forming at the corner, reflecting subtle, colorful light patterns. The iris is highly detailed with intricate textures, and the tear glistens with a soft, emotional glow. The lighting is cinematic, using soft bokeh effects in the background to focus on the eye's emotional depth. There is no text, letters, numbers, or watermarks, highlighting the raw emotion of the scene."
+    }
+  ]
+}

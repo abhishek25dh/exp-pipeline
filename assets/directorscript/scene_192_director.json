@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_192",
+  "elements": [
+    {
+      "element_id": "image_group_1_cause",
+      "type": "image",
+      "phrase": "This creates",
+      "filename": "group_1_cause_0.jpg",
+      "description": "A person stands at a crossroads, one path labeled 'Work' and the other labeled 'Family', with a confused expression on their face. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 375,
+      "y": 648,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Cause image for group_1",
+      "text_content": ""
+    },
+    {
+      "element_id": "arrow_group_1",
+      "type": "arrow",
+      "phrase": "internal conflict.",
+      "filename": "arrow.png",
+      "description": "",
+      "x": 959,
+      "y": 648,
+      "scale": 0.541,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": "Cause-to-effect arrow for group_1",
+      "text_content": ""
+    }
+  ]
+}

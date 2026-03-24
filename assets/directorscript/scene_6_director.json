@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_6",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "You buy the",
+      "filename": "group_1_image_0.jpg",
+      "description": "A person stands in front of a white shelf holding a cheap-looking product, smiling confidently. No text, no letters, no numbers, no watermarks.",
+      "x": 308,
+      "y": 527,
+      "scale": 0.348,
+      "angle": -4,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "cheapest option, even",
+      "filename": "group_1_image_1.jpg",
+      "description": "A price tag with a low price floats next to the cheap product, emphasizing affordability. No text, no letters, no numbers, no watermarks.",
+      "x": 761,
+      "y": 527,
+      "scale": 0.348,
+      "angle": -4,
+      "animation": "pop",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_2_2",
+      "type": "image",
+      "phrase": "if it breaks faster.",
+      "filename": "group_2_image_2.jpg",
+      "description": "The cheap product breaks into pieces mid-air, with a shocked expression on the person\u2019s face. No text, no letters, no numbers, no watermarks.",
+      "x": 1323,
+      "y": 503,
+      "scale": 0.45,
+      "angle": 2,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

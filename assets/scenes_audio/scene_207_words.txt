@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.48	0.9980469	
+pay	0.48	0.72	1.0	
+hundreds	0.72	1.28	1.0	
+or	1.28	1.52	0.99658203	
+thousands	1.52	2.04	0.99975586	
+in	2.04	2.2	0.99853516	
+interest	2.2	2.44	1.0	
+alone.	2.44	2.96	0.9980469	

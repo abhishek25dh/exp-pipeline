@@ -1,0 +1,26 @@
+You are doing visual detailing only for Layout 10 (Macro + Micro).
+
+You will receive a fixed `phrase_plan` containing:
+- macro img/txt phrases
+- each micro arrow/img/txt phrases
+
+Important:
+- Do NOT rewrite any phrase.
+- Do NOT return new phrase values.
+- Only provide visual properties and text style types.
+
+Return JSON only:
+{
+  "macro_image": {
+    "visual_description": "detailed image prompt",
+    "is_realistic": false,
+    "text_type": "text_highlighted"
+  },
+  "micro_images": [
+    {
+      "visual_description": "detailed image prompt",
+      "is_realistic": true,
+      "text_type": "text_black"
+    }
+  ]
+}

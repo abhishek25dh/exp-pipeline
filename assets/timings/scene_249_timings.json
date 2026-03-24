@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "center_title_1",
+    "filename": "",
+    "phrase": "Schools don't",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "center_title_2",
+    "filename": "",
+    "phrase": "",
+    "start": 0.32,
+    "end": 2.0
+  },
+  {
+    "element_id": "img_phase_1",
+    "filename": "phase_1_img.jpg",
+    "phrase": "teach it.",
+    "start": 0.8,
+    "end": 2.0
+  }
+]

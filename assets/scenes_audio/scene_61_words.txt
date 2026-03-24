@@ -1,0 +1,7 @@
+# word	start_s	end_s	confidence	speaker
+You	0.32	0.44	0.9980469	
+don't	0.44	0.64	0.99934894	
+check	0.64	0.84	0.99975586	
+your	0.84	1.0	0.99853516	
+credit	1.0	1.32	0.9995117	
+score.	1.32	1.68	0.99902344	

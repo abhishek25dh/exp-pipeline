@@ -1,0 +1,10 @@
+# word	start_s	end_s	confidence	speaker
+They	0.4	0.52	0.99853516	
+post	0.52	0.76	1.0	
+vacation	0.76	1.32	0.99975586	
+photos	1.32	1.72	1.0	
+while	1.72	1.92	1.0	
+credit	1.92	2.36	0.99975586	
+cards	2.36	2.64	0.99975586	
+max	2.64	2.96	1.0	
+out.	2.96	3.28	0.99853516	

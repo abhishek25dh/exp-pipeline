@@ -1,0 +1,12 @@
+Layout 18 Step 1 is deterministic (no AI prompt).
+
+It builds:
+- `wall_title` from the opening tokens (3-6 words).
+- 4 polaroids, each with `img_phrase` + `cap_phrase`.
+
+Rules enforced by code:
+- All phrases are verbatim spans from the script tokens.
+- Phrases tile the full script in order (no gaps, no overlaps).
+- img_phrase and cap_phrase are consecutive fragments.
+
+See `layout_18_step_1.py` for the deterministic segmentation logic.

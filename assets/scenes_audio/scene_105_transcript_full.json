@@ -1,0 +1,142 @@
+{
+  "id": "19f06e57-be46-4ea5-ba4f-7c0721bee8da",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/30b952a464baf941d6901518e6c55be15f5124d35c8f2af162103dec4f0c7c63/0c11136c-c13a-4b87-8b34-442c8593fd7f",
+  "text": "You're technically losing money by playing it safe.",
+  "words": [
+    {
+      "text": "You're",
+      "start": 320,
+      "end": 520,
+      "confidence": 0.8649089,
+      "speaker": null
+    },
+    {
+      "text": "technically",
+      "start": 520,
+      "end": 920,
+      "confidence": 0.99975586,
+      "speaker": null
+    },
+    {
+      "text": "losing",
+      "start": 920,
+      "end": 1320,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 1320,
+      "end": 1560,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "by",
+      "start": 1560,
+      "end": 1840,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "playing",
+      "start": 1840,
+      "end": 2080,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 2080,
+      "end": 2280,
+      "confidence": 0.99902344,
+      "speaker": null
+    },
+    {
+      "text": "safe.",
+      "start": 2280,
+      "end": 2640,
+      "confidence": 0.9992676,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9825643,
+  "audio_duration": 3,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

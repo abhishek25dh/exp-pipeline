@@ -1,0 +1,50 @@
+{
+  "scene_id": "scene_245",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_black",
+      "phrase": "Your parents",
+      "text_content": "YOUR PARENTS DIDN'T",
+      "x": 960,
+      "y": 310,
+      "scale": 3.158,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21"
+    },
+    {
+      "element_id": "arrow_1",
+      "type": "arrow",
+      "phrase": "didn't talk",
+      "text_content": "",
+      "x": 646,
+      "y": 497,
+      "scale": 0.2,
+      "angle": 38,
+      "animation": "slide_in_left",
+      "property": "",
+      "filename": "arrow.png",
+      "description": "",
+      "reason": "Arrow pointing to image"
+    },
+    {
+      "element_id": "img_1",
+      "type": "image",
+      "phrase": "about it helpfully.",
+      "text_content": "",
+      "x": 1006,
+      "y": 713,
+      "scale": 0.53,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "img_1_scene_245.jpg",
+      "description": "Two cartoon parents standing side by side on a pure white background, both with confused expressions, holding hands and shrugging their shoulders. No text, no letters, no numbers, no watermarks.",
+      "reason": "Main image for layout 21"
+    }
+  ]
+}

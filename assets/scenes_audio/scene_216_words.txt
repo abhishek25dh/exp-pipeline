@@ -1,0 +1,12 @@
+# word	start_s	end_s	confidence	speaker
+The	0.32	0.44	0.9995117	
+psychological	0.44	1.16	0.9776204	
+trap	1.16	1.56	0.9995117	
+is	1.56	1.8	1.0	
+that	1.8	1.96	1.0	
+credit	1.96	2.4	0.99975586	
+doesn't	2.4	2.76	0.9996745	
+feel	2.76	2.96	1.0	
+like	2.96	3.2	0.9995117	
+real	3.2	3.44	1.0	
+money.	3.44	3.76	0.99658203	

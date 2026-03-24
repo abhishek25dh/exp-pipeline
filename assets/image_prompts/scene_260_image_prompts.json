@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_260",
+  "elements": [
+    {
+      "element_id": "img_left_scene_260",
+      "filename": "img_left_scene_260.jpg",
+      "original_description": "A confused cartoon person scratching their head, wearing a bright blue shirt and tan pants. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A confused cartoon person scratching their head, wearing a bright blue shirt and tan pants, in a professional 2D minimalist style, on a pure white background, clean flat vector art, high contrast, no shading or gradients, with subtle confused and thoughtful expression. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_right_scene_260",
+      "filename": "img_right_scene_260.jpg",
+      "original_description": "A cartoon person with a red face, looking embarrassed, holding their hands over their eyes. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A cartoon person with a red face, looking embarrassed, holding their hands over their eyes, in a professional 2D minimalist style, on a pure white background, clean flat vector art, high contrast, no shading or gradients, with strong embarrassed expression. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

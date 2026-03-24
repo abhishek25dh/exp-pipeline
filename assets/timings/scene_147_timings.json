@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "img_left_scene_147",
+    "filename": "img_left_scene_147.jpg",
+    "phrase": "They drive",
+    "start": 0.32,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_right_scene_147",
+    "filename": "img_right_scene_147.jpg",
+    "phrase": "nice cars",
+    "start": 0.8,
+    "end": 3.0
+  },
+  {
+    "element_id": "text_punchline",
+    "filename": "",
+    "phrase": "they can't afford.",
+    "start": 1.36,
+    "end": 3.0
+  }
+]

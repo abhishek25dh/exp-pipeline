@@ -1,0 +1,142 @@
+{
+  "id": "3d69ad2d-c482-4faf-936c-d917abfaa24a",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/f3e854ecb1c3eba191b2a58e1257f901f7e6fb12a9eaf0017318c90a21dee6a8/4de53c34-5355-43db-857a-9d53b481c753",
+  "text": "But most people are struggling with money somehow.",
+  "words": [
+    {
+      "text": "But",
+      "start": 320,
+      "end": 480,
+      "confidence": 0.9980469,
+      "speaker": null
+    },
+    {
+      "text": "most",
+      "start": 480,
+      "end": 720,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 720,
+      "end": 960,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 960,
+      "end": 1160,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "struggling",
+      "start": 1160,
+      "end": 1480,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 1480,
+      "end": 1680,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "money",
+      "start": 1680,
+      "end": 1960,
+      "confidence": 0.9995117,
+      "speaker": null
+    },
+    {
+      "text": "somehow.",
+      "start": 1960,
+      "end": 2480,
+      "confidence": 0.9995117,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.9995117,
+  "audio_duration": 3,
+  "punctuate": true,
+  "format_text": true,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "speaker_options": null,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-2"
+  ],
+  "speech_model_used": "universal-2",
+  "temperature": null,
+  "remove_audio_tags": null,
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 578405,
+  "token_id": 581402
+}

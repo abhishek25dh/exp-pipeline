@@ -1,0 +1,16 @@
+[
+  {
+    "element_id": "img_right_scene_40",
+    "filename": "img_right_scene_40.jpg",
+    "phrase": "You feel like",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_left_scene_40",
+    "filename": "img_left_scene_40.jpg",
+    "phrase": "you're finally living better.",
+    "start": 0.84,
+    "end": 3.0
+  }
+]

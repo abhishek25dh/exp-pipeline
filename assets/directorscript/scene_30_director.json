@@ -1,0 +1,21 @@
+{
+  "scene_id": "scene_30",
+  "elements": [
+    {
+      "element_id": "text_main",
+      "type": "text_red",
+      "phrase": "Over a year, thousands.",
+      "text_content": "OVER A YEAR, THOUSANDS.",
+      "x": 960,
+      "y": 310,
+      "scale": 2.609,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Main heading text for layout 21",
+      "typing_speed": 0.47
+    }
+  ]
+}

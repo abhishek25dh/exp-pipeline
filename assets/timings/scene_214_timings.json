@@ -1,0 +1,37 @@
+[
+  {
+    "element_id": "hero_image",
+    "filename": "hero_main.jpg",
+    "phrase": "But relying on",
+    "start": 0.24,
+    "end": 6.0
+  },
+  {
+    "element_id": "section_title",
+    "filename": "",
+    "phrase": "credit keeps you",
+    "start": 1.08,
+    "end": 6.0
+  },
+  {
+    "element_id": "bullet_b1",
+    "filename": "",
+    "phrase": "broke because you're paying",
+    "start": 2.04,
+    "end": 6.0
+  },
+  {
+    "element_id": "bullet_b2",
+    "filename": "",
+    "phrase": "for the past instead",
+    "start": 3.4,
+    "end": 6.0
+  },
+  {
+    "element_id": "bullet_b3",
+    "filename": "",
+    "phrase": "of building the future.",
+    "start": 4.48,
+    "end": 6.0
+  }
+]

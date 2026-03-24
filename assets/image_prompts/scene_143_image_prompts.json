@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_143",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "filename": "host_explaining.png",
+      "original_description": "Host Character",
+      "image_prompt": "Professional 2D minimalist icon of a host character, pure white background, clean flat vector art, high contrast, no shading or gradients, neutral and professional demeanor"
+    },
+    {
+      "element_id": "image_group_2_2",
+      "filename": "group_2_image_0.jpg",
+      "original_description": "A person turning away from a hand reaching out to help, with a hesitant expression. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon: a person turning away from a hand reaching out to help, hesitant expression, pure white background, clean flat vector art, high contrast, no shading or gradients, depicting avoidance and hesitation"
+    },
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A person with a worried expression, sitting hunched over with a large dark cloud labeled 'Shame' hovering above their head. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon: a person with a worried expression sitting hunched over, a large dark cloud labeled 'Shame' hovering above their head, pure white background, clean flat vector art, high contrast, no shading or gradients, conveying anxiety and shame"
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_2.jpg",
+      "original_description": "A person hiding behind a large stack of papers labeled 'Problems', peeking out nervously. Pure white background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D minimalist icon: a person hiding behind a large stack of papers labeled 'Problems', peeking out nervously, pure white background, clean flat vector art, high contrast, no shading or gradients, depicting concealment and nervousness"
+    }
+  ]
+}

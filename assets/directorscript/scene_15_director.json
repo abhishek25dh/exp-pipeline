@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_15",
+  "elements": [
+    {
+      "element_id": "text_line_1",
+      "type": "text_highlighted",
+      "phrase": "Breaking this means recognizing the fear and asking,",
+      "text_content": "BREAKING THIS MEANS RECOGNIZING THE FEAR AND ASKING,",
+      "x": 960,
+      "y": 465,
+      "scale": 1.154,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 1 of 2"
+    },
+    {
+      "element_id": "text_line_2",
+      "type": "text_highlighted",
+      "phrase": "is this based on current reality or old programming?",
+      "text_content": "IS THIS BASED ON CURRENT REALITY OR OLD PROGRAMMING?",
+      "x": 960,
+      "y": 615,
+      "scale": 1.154,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "filename": "",
+      "description": "",
+      "reason": "Text line 2 of 2"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scene_id": "scene_178",
+  "elements": [
+    {
+      "element_id": "hero_image",
+      "type": "image",
+      "phrase": "Build an emergency",
+      "text_content": "",
+      "filename": "hero_main.jpg",
+      "description": "A cartoon-style piggy bank in the center, surrounded by colorful coins and dollar bills floating around it. The piggy bank has a cheerful expression and is placed on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 490,
+      "y": 540,
+      "scale": 0.44,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "section_title",
+      "type": "text_highlighted",
+      "phrase": "fund, even $10",
+      "text_content": "$10 AT",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 150,
+      "scale": 2.5,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.66
+    },
+    {
+      "element_id": "bullet_b1",
+      "type": "text_black",
+      "phrase": "at a time.",
+      "text_content": "a time.",
+      "filename": "",
+      "description": "",
+      "x": 1310,
+      "y": 360,
+      "scale": 2.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.75
+    }
+  ]
+}

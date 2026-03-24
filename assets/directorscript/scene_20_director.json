@@ -1,0 +1,51 @@
+{
+  "scene_id": "scene_20",
+  "elements": [
+    {
+      "element_id": "center_title_1",
+      "type": "text_highlighted",
+      "phrase": "That quick",
+      "text_content": "That quick",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 512,
+      "scale": 1.446,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "",
+      "typing_speed": 0.88
+    },
+    {
+      "element_id": "center_title_2",
+      "type": "text_highlighted",
+      "phrase": "That quick",
+      "text_content": "dopamine hit.",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 567,
+      "scale": 1.446,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_phase_1",
+      "type": "image",
+      "phrase": "dopamine hit.",
+      "text_content": "",
+      "filename": "phase_1_img.jpg",
+      "description": "A glowing red arrow pointing upward on a pure white background, with small sparkles radiating from its tip. No text, no letters, no numbers, no watermarks.",
+      "x": 960,
+      "y": 220,
+      "scale": 0.22,
+      "angle": 0,
+      "animation": "slide_in_right",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

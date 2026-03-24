@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_164",
+  "elements": [
+    {
+      "element_id": "title_pyramid",
+      "type": "text_black",
+      "phrase": "Retirement feels",
+      "text_content": "RETIREMENT FEELS",
+      "filename": "",
+      "description": "",
+      "x": 960,
+      "y": 120,
+      "scale": 1.85,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": ""
+    },
+    {
+      "element_id": "img_panel_1",
+      "type": "image",
+      "phrase": "far away.",
+      "text_content": "",
+      "filename": "panel_1_img.jpg",
+      "description": "A minimalist illustration of a clock with a long arrow pointing far into the future, symbolizing the distant feeling of retirement. The background is pure white.",
+      "x": 960,
+      "y": 340,
+      "scale": 0.3,
+      "angle": 0,
+      "animation": "fade_up",
+      "property": "",
+      "reason": ""
+    }
+  ]
+}

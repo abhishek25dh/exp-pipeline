@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_48",
+  "elements": [
+    {
+      "element_id": "img_left_scene_48",
+      "filename": "img_left_scene_48.jpg",
+      "original_description": "A smartphone on a white background with a social media app open, displaying a feed filled with various posts and images. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "High-quality photograph of a modern smartphone placed on a pure white, seamless background. The screen is on, displaying a social media app interface with a vibrant, active feed filled with colorful posts, images, and icons. Ensure the feed is generic, with no readable text, letters, numbers, or watermarks. Professional product photography with sharp focus, even studio lighting, soft shadows, and a clean, minimalist aesthetic."
+    },
+    {
+      "element_id": "img_center_scene_48",
+      "filename": "img_center_scene_48.jpg",
+      "original_description": "Two cartoon people standing side by side, one looking confident and the other looking insecure, with a thought bubble above each showing exaggerated versions of their lives. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "Professional 2D cartoon illustration of two stylized human characters standing side by side on a pure white background. Left character appears confident, smiling with upright posture. Right character appears insecure, slouching with a worried expression. Above each character, a clear thought bubble contains exaggerated, colorful cartoon scenes representing their perceived lives: the confident one's bubble shows glamorous, idealized scenes; the insecure one's bubble shows chaotic, negative scenes. Clean, flat vector art style with high contrast, bold outlines, and no shading or gradients. Absolutely no text, letters, numbers, or watermarks."
+    }
+  ]
+}

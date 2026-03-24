@@ -1,0 +1,23 @@
+{
+  "scene_id": "scene_6",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_image_0.jpg",
+      "original_description": "A person stands in front of a white shelf holding a cheap-looking product, smiling confidently. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a person standing in front of a minimalist white shelf, confidently smiling while holding a cheap-looking product with visible low-quality materials. Cinematic studio lighting with soft bokeh, sharp focus on the person and product, high resolution, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_1_1",
+      "filename": "group_1_image_1.jpg",
+      "original_description": "A price tag with a low price floats next to the cheap product, emphasizing affordability. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a cheap product with a stylized price tag floating next to it, the low price clearly visible to emphasize extreme affordability. Cinematic dramatic lighting, shallow depth of field with soft bokeh, sharp focus on the price tag and product, high resolution, no text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "image_group_2_2",
+      "filename": "group_2_image_2.jpg",
+      "original_description": "The cheap product breaks into pieces mid-air, with a shocked expression on the person\u2019s face. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality action photograph capturing the moment a cheap product shatters into pieces mid-air, with a person in the background showing a deeply shocked and surprised facial expression. Cinematic dynamic lighting with motion blur on the flying pieces, sharp focus on the breaking product and the person's face, high resolution, no text, letters, numbers, or watermarks."
+    }
+  ]
+}

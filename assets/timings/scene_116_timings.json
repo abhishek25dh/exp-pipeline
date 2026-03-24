@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_main",
+    "filename": "",
+    "phrase": "Not investing is one of",
+    "start": 0.4,
+    "end": 6.0
+  },
+  {
+    "element_id": "arrow_1",
+    "filename": "arrow.png",
+    "phrase": "the biggest money mistakes, but",
+    "start": 1.6,
+    "end": 6.0
+  },
+  {
+    "element_id": "img_1",
+    "filename": "img_1_scene_116.jpg",
+    "phrase": "fear makes it feel safest.",
+    "start": 3.48,
+    "end": 6.0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_137",
+  "elements": [
+    {
+      "element_id": "img_tl_scene_137",
+      "filename": "img_tl_scene_137.jpg",
+      "original_description": "A person in casual clothes stands with their arms crossed, looking impatient, with a clock ticking rapidly in the background. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a person with an impatient expression, wearing casual modern clothes, standing with arms crossed. In the background, a clock is ticking rapidly, with motion blur on its hands to indicate speed. The lighting is stark and dramatic, emphasizing a tense and urgent mood. The background is blurred with a soft bokeh effect to focus on the subject. No text, letters, numbers, or watermarks."
+    },
+    {
+      "element_id": "img_tr_scene_137",
+      "filename": "img_tr_scene_137.jpg",
+      "original_description": "A magnifying glass hovers over a blank sheet of paper, symbolizing searching or waiting. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a magnifying glass hovering in mid-air above a pristine, blank sheet of white paper on a wooden desk, symbolizing a search or a state of waiting. The lighting is soft and focused, creating a contemplative and slightly melancholic mood. The magnifying glass casts a subtle shadow. The background is a soft-focus, minimalist study environment. No text, letters, numbers, or watermarks."
+    }
+  ]
+}

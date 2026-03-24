@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "wall_title",
+    "filename": "",
+    "phrase": "You're buying",
+    "start": 0.4,
+    "end": 3.0
+  },
+  {
+    "element_id": "img_tl",
+    "filename": "polaroid_tl.jpg",
+    "phrase": "the feeling,",
+    "start": 0.84,
+    "end": 3.0
+  },
+  {
+    "element_id": "cap_tl",
+    "filename": "",
+    "phrase": "not the thing.",
+    "start": 1.52,
+    "end": 3.0
+  }
+]

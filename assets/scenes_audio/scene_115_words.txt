@@ -1,0 +1,9 @@
+# word	start_s	end_s	confidence	speaker
+But	0.32	0.48	0.9975586	
+psychological	0.48	1.2	0.99283856	
+barriers	1.2	1.76	0.99658203	
+keep	1.76	2.12	1.0	
+millions	2.12	2.64	1.0	
+from	2.64	2.84	0.9995117	
+ever	2.84	3.04	0.99902344	
+starting.	3.04	3.52	0.9995117	

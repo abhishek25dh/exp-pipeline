@@ -1,0 +1,23 @@
+[
+  {
+    "element_id": "text_1",
+    "filename": "",
+    "phrase": "feel the urge",
+    "start": 0.68,
+    "end": 3.0
+  },
+  {
+    "element_id": "text_2",
+    "filename": "",
+    "phrase": "shop, pause.",
+    "start": 1.48,
+    "end": 3.0
+  },
+  {
+    "element_id": "image_1",
+    "filename": "left_image_0.jpg",
+    "phrase": "When you to",
+    "start": 3.0,
+    "end": 3.0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "scene_id": "scene_9",
+  "elements": [
+    {
+      "element_id": "image_group_1_0",
+      "filename": "group_1_img_0.jpg",
+      "original_description": "A person stands at a crossroads, holding a briefcase in one hand and a golden opportunity sign in the other, looking hesitant. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of a person standing at a literal road intersection, crossroads. The person holds a professional leather briefcase in one hand and a sign that glows with a golden aura, inscribed with the word 'Opportunity'. Their facial expression is hesitant and contemplative. Cinematic, dramatic lighting with long shadows suggests an important decision. Sharp focus on the person, with a shallow depth of field softening the background roads. High resolution. Absolutely no text, letters, numbers, or watermarks in the image."
+    },
+    {
+      "element_id": "image_group_2_0",
+      "filename": "group_2_img_1.jpg",
+      "original_description": "The same person clings tightly to a small, glowing treasure chest labeled 'Current Job', with a fearful expression. No text, no letters, no numbers, no watermarks.",
+      "image_prompt": "A high-quality photograph of the same person from the previous image. They are clutching a small, antique-style wooden treasure chest tightly to their chest. The chest has a warm, internal glow and a worn label reading 'Current Job'. The person's expression is fearful and protective, eyes wide. Moody, low-key lighting that creates a sense of clinging to safety. The background is dark and out of focus, isolating the subject. High resolution, detailed textures. Absolutely no text, letters, numbers, or watermarks aside from the in-world label on the chest."
+    }
+  ]
+}

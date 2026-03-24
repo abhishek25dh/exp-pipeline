@@ -1,0 +1,81 @@
+{
+  "scene_id": "scene_7",
+  "elements": [
+    {
+      "element_id": "host_character",
+      "type": "image",
+      "phrase": "Scarcity",
+      "filename": "host_explaining.png",
+      "description": "Host Character",
+      "x": 517,
+      "y": 643,
+      "scale": 0.62,
+      "angle": 0,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Host P1",
+      "text_content": ""
+    },
+    {
+      "element_id": "main_title_text_0",
+      "type": "text_red",
+      "phrase": "about to run out.",
+      "text_content": "ABOUT TO RUN OUT.",
+      "x": 395,
+      "y": 245,
+      "scale": 1.0,
+      "angle": 0,
+      "animation": "typing",
+      "property": "",
+      "reason": "Main Anchor P2",
+      "filename": "",
+      "description": "",
+      "typing_speed": 0.51
+    },
+    {
+      "element_id": "image_group_2_2",
+      "type": "image",
+      "phrase": "money is always",
+      "filename": "group_2_image_0.jpg",
+      "description": "A cartoon hourglass with coins instead of sand, slowly trickling down. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "x": 1187,
+      "y": 666,
+      "scale": 0.453,
+      "angle": -11,
+      "animation": "fade_up",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_0",
+      "type": "image",
+      "phrase": "mindset makes",
+      "filename": "group_1_image_1.jpg",
+      "description": "A cartoon person sitting cross-legged with a thought bubble above their head containing a dollar sign and a question mark. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "x": 1604,
+      "y": 700,
+      "scale": 0.3,
+      "angle": -13,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    },
+    {
+      "element_id": "image_group_1_1",
+      "type": "image",
+      "phrase": "you believe that",
+      "filename": "group_1_image_2.jpg",
+      "description": "A cartoon person holding a magnifying glass, inspecting a small pile of coins on the ground. The background is pure white. No text, no letters, no numbers, no watermarks.",
+      "x": 1606,
+      "y": 338,
+      "scale": 0.3,
+      "angle": -11,
+      "animation": "slide_in_left",
+      "property": "",
+      "reason": "Deterministic span-derived phrase.",
+      "text_content": ""
+    }
+  ]
+}

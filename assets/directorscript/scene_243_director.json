@@ -1,0 +1,35 @@
+{
+  "scene_id": "scene_243",
+  "elements": [
+    {
+      "element_id": "img_macro",
+      "type": "image",
+      "phrase": "Real success is financial security,",
+      "filename": "macro_img.jpg",
+      "description": "A smiling cartoon piggy bank with coins spilling out, surrounded by a green shield icon and a golden lock. The piggy bank sits on a pure white background. No text, no letters, no numbers, no watermarks.",
+      "x": 550,
+      "y": 590,
+      "scale": 0.5,
+      "angle": 2,
+      "animation": "slide_in_up",
+      "property": "",
+      "reason": "Main macro overview",
+      "text_content": ""
+    },
+    {
+      "element_id": "txt_macro",
+      "type": "text_red",
+      "phrase": "not the appearance of it.",
+      "text_content": "not the appearance of it.",
+      "x": 550,
+      "y": 200,
+      "scale": 1.307,
+      "angle": 0,
+      "animation": "pop",
+      "property": "",
+      "reason": "Macro Title",
+      "filename": "",
+      "description": ""
+    }
+  ]
+}
