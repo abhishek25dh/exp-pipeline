@@ -56,7 +56,7 @@ ADD https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/
 # ── 5. Python deps for Explainer project ────────────────────
 RUN pip install --no-cache-dir \
     gradio \
-    moviepy \
+    "moviepy==1.0.3" \
     numpy \
     pillow \
     proglog \
