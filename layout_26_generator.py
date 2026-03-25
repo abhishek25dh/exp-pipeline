@@ -142,6 +142,13 @@ def main():
         print("Error: no text_phrase in Step 2 output.")
         return 1
 
+    # ── Resilient: drop images with unknown geometry slots ─────────────────────
+    _all_valid_slots = set(BELOW_GEOMETRY.keys()) | set(RIGHT_GEOMETRY.keys())
+    _valid_images = [img for img in images if img.get("slot") in _all_valid_slots]
+    if len(_valid_images) < len(images):
+        print(f"   Warning: Layout 26 dropping {len(images) - len(_valid_images)} images with unknown slots.")
+        images = _valid_images
+
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     _prompt_path = Path("assets/scene_prompts") / f"{scene_id}_prompt.json"
     _scene_text = ""

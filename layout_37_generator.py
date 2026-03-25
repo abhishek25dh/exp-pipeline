@@ -87,6 +87,13 @@ def main():
     print(f"   Token budget: {n_tokens} tokens -> {n_active}/{_total_slots} active slots")
     _all_phrases = allot_phrases(_tokens, n_active)
 
+    # ── Resilient image count handling ─────────────────────────────────────────
+    # Drop images whose img_id has no matching GEOMETRY slot
+    _valid_images = [img for img in images if img.get("img_id") in GEOMETRY]
+    if len(_valid_images) < len(images):
+        print(f"   Warning: Layout 37 dropping {len(images) - len(_valid_images)} images with unknown geometry slots.")
+        images = _valid_images
+
     elements = []
     for ii, img in enumerate(images):
         _ip = _all_phrases[ii] if ii < n_active else None

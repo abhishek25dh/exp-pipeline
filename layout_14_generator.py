@@ -159,9 +159,12 @@ def main():
     center_title = d.get("center_title", "")
     phases       = d.get("phases", [])
 
-    if len(phases) < 1:
-        print(f"Error: Step 1 output is missing phases.")
+    if len(phases) == 0:
+        print(f"Error: Layout 14 got 0 phases. Cannot proceed.")
         return 1
+    if len(phases) > 4:
+        print(f"   Warning: Layout 14 expects at most 4 phases, got {len(phases)}. Dropping extras.")
+        phases = phases[:4]
 
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     try:

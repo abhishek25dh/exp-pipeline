@@ -135,6 +135,15 @@ def main():
         print("Error: no slots in Step 2 output.")
         return 1
 
+    # ── Resilient slot count handling ──────────────────────────────────────────
+    _max_slots = len(SLOT_GEOMETRY)  # 4
+    if len(slots) > _max_slots:
+        print(f"   Warning: Layout 29 expects at most {_max_slots} slots, got {len(slots)}. Dropping extras.")
+        slots = sorted(slots, key=lambda s: s.get("priority", 99))[:_max_slots]
+    # Clamp priorities into valid range
+    for _s in slots:
+        _s["priority"] = max(1, min(_max_slots, _s.get("priority", 1)))
+
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     _prompt_path = Path("assets/scene_prompts") / f"{scene_id}_prompt.json"
     _scene_text = ""

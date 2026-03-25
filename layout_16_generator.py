@@ -125,8 +125,16 @@ def main():
     strip_subtitle = d.get("strip_subtitle", "")
     frames         = d.get("detailed_frames", [])
 
-    if len(frames) != NUM_FRAMES:
-        print(f"Warning: Expected {NUM_FRAMES} frames, got {len(frames)}. Proceeding anyway.")
+    if len(frames) == 0:
+        print(f"Error: Layout 16 got 0 frames. Cannot proceed.")
+        return 1
+    if len(frames) < NUM_FRAMES:
+        print(f"   Warning: Layout 16 expects {NUM_FRAMES} frames, got {len(frames)}. Padding with duplicates.")
+        while len(frames) < NUM_FRAMES:
+            frames.append(dict(frames[-1], frame_id=f"frame_{len(frames)+1}"))
+    elif len(frames) > NUM_FRAMES:
+        print(f"   Warning: Layout 16 expects {NUM_FRAMES} frames, got {len(frames)}. Dropping extras.")
+        frames = frames[:NUM_FRAMES]
 
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     try:

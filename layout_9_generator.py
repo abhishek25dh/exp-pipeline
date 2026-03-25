@@ -81,8 +81,16 @@ def main():
         return 1
 
     moments = step2.get("detailed_moments", [])
-    if len(moments) != 4:
-        print(f"Warning: expected 4 moments, got {len(moments)}.")
+    if len(moments) == 0:
+        print(f"Error: Layout 9 got 0 moments. Cannot proceed.")
+        return 1
+    if len(moments) < 4:
+        print(f"   Warning: Layout 9 expects 4 moments, got {len(moments)}. Padding with duplicates.")
+        while len(moments) < 4:
+            moments.append(dict(moments[-1], moment_id=f"moment_{len(moments)+1}"))
+    elif len(moments) > 4:
+        print(f"   Warning: Layout 9 expects 4 moments, got {len(moments)}. Dropping extras.")
+        moments = moments[:4]
 
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     try:

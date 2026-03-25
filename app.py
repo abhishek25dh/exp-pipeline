@@ -45,13 +45,13 @@ CLIENT_ID = str(uuid.uuid4())
 def queue_comfy_prompt(prompt_workflow):
     p = {"prompt": prompt_workflow, "client_id": CLIENT_ID}
     headers = {'Content-Type': 'application/json'}
-    res = requests.post(f"https://{RUNPOD_URL}/prompt", data=json.dumps(p), headers=headers)
+    res = requests.post(f"https://{RUNPOD_URL}/prompt", data=json.dumps(p), headers=headers, timeout=60)
     return res.json()
 
 def get_comfy_image(filename, subfolder, folder_type):
     data = {"filename": filename, "subfolder": subfolder, "type": folder_type}
     url_values = requests.compat.urlencode(data)
-    res = requests.get(f"https://{RUNPOD_URL}/view?{url_values}")
+    res = requests.get(f"https://{RUNPOD_URL}/view?{url_values}", timeout=120)
     return res.content
 
 def generate_single_image(prompt_text, save_path):
@@ -84,7 +84,7 @@ def generate_single_image(prompt_text, save_path):
                         break 
         ws.close()
 
-        history_res = requests.get(f"https://{RUNPOD_URL}/history/{prompt_id}").json()
+        history_res = requests.get(f"https://{RUNPOD_URL}/history/{prompt_id}", timeout=120).json()
         history = history_res[prompt_id]
         
         for node_id in history['outputs']:

@@ -95,6 +95,13 @@ def main():
         print("Error: no images in Step 2 output.")
         return 1
 
+    # ── Resilient image count handling ─────────────────────────────────────────
+    _max_geo = max(GEOMETRY.keys())  # 4
+    if len(images) > _max_geo:
+        print(f"   Warning: Layout 23 expects at most {_max_geo} images, got {len(images)}. Dropping extras.")
+        images = images[:_max_geo]
+    n_images = min(n_images, len(images))
+
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     _prompt_path = Path("assets/scene_prompts") / f"{scene_id}_prompt.json"
     _scene_text = ""

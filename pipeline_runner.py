@@ -324,10 +324,15 @@ def _para_for_scene(scene):
 
 # ─── Subprocess + Parallel Runner ─────────────────────────────────────────────
 
-def _run(cmd, task_id, env_extra=None, periodic_stats_on=None):
+_TASK_TIMEOUT = int(os.environ.get("TASK_TIMEOUT", 180))  # seconds per subprocess
+
+
+def _run(cmd, task_id, env_extra=None, periodic_stats_on=None, timeout=None):
     """Run a subprocess, stream its output line by line. Returns True on success."""
     if _stop_event.is_set():
         return False
+
+    task_timeout = timeout or _TASK_TIMEOUT
 
     env = os.environ.copy()
     env["PYTHONIOENCODING"] = "utf-8"
@@ -343,6 +348,7 @@ def _run(cmd, task_id, env_extra=None, periodic_stats_on=None):
 
     start_ts = time.time()
     proc = None
+    timed_out = False
     try:
         proc = subprocess.Popen(
             [str(c) for c in cmd],
@@ -354,6 +360,22 @@ def _run(cmd, task_id, env_extra=None, periodic_stats_on=None):
         )
         with _active_procs_lock:
             _active_procs.append(proc)
+
+        # Watchdog: kill proc if it exceeds timeout
+        def _watchdog():
+            nonlocal timed_out
+            deadline = start_ts + task_timeout
+            while proc.poll() is None:
+                if time.time() > deadline:
+                    timed_out = True
+                    try:
+                        proc.kill()
+                    except Exception:
+                        pass
+                    return
+                time.sleep(2)
+        wd = threading.Thread(target=_watchdog, daemon=True)
+        wd.start()
 
         for line in proc.stdout:
             line = line.rstrip()
@@ -367,6 +389,14 @@ def _run(cmd, task_id, env_extra=None, periodic_stats_on=None):
                 return False
 
         proc.wait()
+        wd.join(timeout=1)
+
+        if timed_out:
+            elapsed = round(time.time() - start_ts, 2)
+            _log(f"✗ {task_id} — TIMEOUT after {elapsed:.0f}s (limit {task_timeout}s)", level="err", task=task_id)
+            _update_task(task_id, status="failed", end=round(time.time(), 3), duration=elapsed)
+            return False
+
         elapsed = round(time.time() - start_ts, 2)
         success = proc.returncode == 0
         status  = "completed" if success else "failed"

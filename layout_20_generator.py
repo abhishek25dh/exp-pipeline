@@ -142,6 +142,15 @@ def main():
     groups     = step1.get("groups", [])
     scene_text = step1.get("scene_text", "")
 
+    # ── Resilient group count handling ─────────────────────────────────────────
+    _max_geo = max(GEOMETRY.keys())  # 3
+    if len(groups) > _max_geo:
+        print(f"   Warning: Layout 20 expects at most {_max_geo} groups, got {len(groups)}. Dropping extras.")
+        groups = groups[:_max_geo]
+    n_groups = min(n_groups, _max_geo, len(groups)) if groups else 0
+    if n_groups < len(groups):
+        n_groups = len(groups)
+
     if not main_phrase:
         print("Error: no main_text_phrase in Step 1 output.")
         return 1

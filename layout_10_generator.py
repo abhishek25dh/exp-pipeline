@@ -257,8 +257,17 @@ def main():
     micros = step2.get("micro_images", [])
 
     num_micros = len(micros)
-    if num_micros < 2:
-        print(f"Warning: Layout 10 expects 2 or 3 micro images, got {num_micros}.")
+    if num_micros == 0:
+        print(f"   Warning: Layout 10 got 0 micro images. Rendering macro-only.")
+    elif num_micros < 2:
+        print(f"   Warning: Layout 10 expects 2-3 micro images, got {num_micros}. Padding with duplicates.")
+        while len(micros) < 2:
+            micros.append(dict(micros[-1], micro_id=f"micro_{len(micros)+1}"))
+        num_micros = len(micros)
+    elif num_micros > 3:
+        print(f"   Warning: Layout 10 expects 2-3 micro images, got {num_micros}. Dropping extras.")
+        micros = micros[:3]
+        num_micros = len(micros)
 
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     try:
@@ -271,7 +280,7 @@ def main():
     n_tokens = len(_tokens)
     # Priority-based micro dropping: each micro needs 3 slots (arrow+img+txt).
     # Drop lower-priority micros when the script is too short.
-    _used_micros_count = min(min(3, num_micros), max(1, (n_tokens - 2) // 3))
+    _used_micros_count = min(min(3, num_micros), max(0 if num_micros == 0 else 1, (n_tokens - 2) // 3))
     # P1=macro_img, P2=macro_txt, then per active micro: arrow, img, txt
     _n_slots = 2 + _used_micros_count * 3
     _phrases = allot_phrases(_tokens, _n_slots)

@@ -22,6 +22,20 @@ if not API_KEY:
             API_KEY = _f.read().strip()
 MODEL   = "deepseek/deepseek-chat"
 
+# ─── Minimum token counts per layout ─────────────────────────────────────────
+# Below this threshold the layout's generator/steps will produce broken output.
+# If a scene is too short for the chosen layout, we override to a simpler one.
+MIN_TOKENS_FOR_LAYOUT = {
+    "1": 4, "2": 4, "3": 2, "4": 4, "5": 6, "6": 4, "7": 4,
+    "8": 6, "9": 4, "10": 6, "11": 6, "12": 4, "13": 4, "14": 6,
+    "15": 4, "16": 6, "17": 4, "18": 6, "19": 6, "20": 6, "21": 4,
+    "22": 2, "23": 4, "24": 4, "25": 4, "26": 4, "27": 4, "28": 4,
+    "29": 4, "30": 4, "31": 4, "32": 4, "33": 4, "34": 6, "35": 4,
+    "36": 4, "37": 4, "38": 4, "39": 4,
+}
+# Layouts safe for very short scenes (≤3 tokens)
+SHORT_SCENE_FALLBACKS = ["22", "3", "21"]
+
 # ─── Layout descriptions (used by AI to pick the right template) ─────────────
 LAYOUT_DESCRIPTIONS = {
     "1":  "Image Collage: Multiple AI images in left/center/right column stacks with a collage feel. Best for visually-rich scenes with many examples; no on-screen text.",
@@ -460,6 +474,26 @@ def main():
         scene_num = start_scene + i
         ranked    = assignments.get(i, ["1", "3", "15"])
         layout    = pick_layout(ranked, used_layouts, layout_counts, set(allowed_layouts))
+
+        # ── Token-count guard: override layout if scene is too short ──────
+        n_tokens = len(scene_text.split())
+        min_needed = MIN_TOKENS_FOR_LAYOUT.get(layout, 4)
+        if n_tokens < min_needed:
+            original = layout
+            # Try ranked choices that fit
+            for alt in ranked:
+                if alt in allowed_layouts and n_tokens >= MIN_TOKENS_FOR_LAYOUT.get(alt, 4):
+                    layout = alt
+                    break
+            else:
+                # None of AI's choices fit — pick safest short-scene layout
+                for fb in SHORT_SCENE_FALLBACKS:
+                    if fb in allowed_layouts and n_tokens >= MIN_TOKENS_FOR_LAYOUT.get(fb, 4):
+                        layout = fb
+                        break
+            if layout != original:
+                print(f"  ⚠ Scene {scene_num}: {n_tokens} tokens too few for layout {original} (needs {min_needed}), overriding to layout {layout}")
+
         used_layouts.append(layout)
         if layout in layout_counts:
             layout_counts[layout] += 1

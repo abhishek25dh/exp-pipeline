@@ -75,9 +75,18 @@ def main():
         for img in g.get("images", []):
             flattened.append(img)
 
-    if len(flattened) != 4:
-        print(f"Error: Layout 7 expects exactly 4 images from step 2, got {len(flattened)}.")
+    if len(flattened) == 0:
+        print(f"Error: Layout 7 got 0 images from step 2. Cannot proceed.")
         return 1
+    if len(flattened) < 4:
+        # Pad: duplicate last image to fill 4 slots
+        print(f"   Warning: Layout 7 expects 4 images, got {len(flattened)}. Padding with duplicates.")
+        while len(flattened) < 4:
+            flattened.append(dict(flattened[-1]))
+    elif len(flattened) > 4:
+        # Drop lowest-priority (last) images
+        print(f"   Warning: Layout 7 expects 4 images, got {len(flattened)}. Dropping extras.")
+        flattened = flattened[:4]
 
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     try:

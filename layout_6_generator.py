@@ -93,9 +93,18 @@ def main():
         return 1
 
     groups = step2.get("detailed_groups", [])
-    if len(groups) != 2:
-        print(f"Error: Layout 6 expects exactly 2 groups, got {len(groups)}.")
+    if len(groups) == 0:
+        print(f"Error: Layout 6 got 0 groups from step 2. Cannot proceed.")
         return 1
+    if len(groups) < 2:
+        # Pad: duplicate the last group so we have 2 rows
+        print(f"   Warning: Layout 6 expects 2 groups, got {len(groups)}. Padding with duplicate.")
+        while len(groups) < 2:
+            groups.append(dict(groups[-1], group_id=f"group_{len(groups)+1}"))
+    elif len(groups) > 2:
+        # Drop lowest-priority (last) groups
+        print(f"   Warning: Layout 6 expects 2 groups, got {len(groups)}. Dropping extras.")
+        groups = groups[:2]
 
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     try:

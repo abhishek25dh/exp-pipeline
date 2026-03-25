@@ -125,6 +125,12 @@ def main():
     rng = random.Random(int(scene_num) * 7919 if scene_num.isdigit() else hash(scene_num))
     text_type   = rng.choice(TEXT_TYPES)
 
+    # ── Resilient: drop images with unknown geometry slots ─────────────────────
+    _valid_images = [img for img in images if img.get("slot") in IMG_GEOMETRY]
+    if len(_valid_images) < len(images):
+        print(f"   Warning: Layout 28 dropping {len(images) - len(_valid_images)} images with unknown slots.")
+        images = _valid_images
+
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     _prompt_path = Path("assets/scene_prompts") / f"{scene_id}_prompt.json"
     _scene_text = ""

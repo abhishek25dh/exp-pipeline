@@ -65,7 +65,7 @@ def main():
         print(f"Converting Scene {scene_num} using {MODEL_ID}... (Attempt {attempt + 1})")
         
         try:
-            response = requests.post(url, headers=headers, json=payload)
+            response = requests.post(url, headers=headers, json=payload, timeout=120)
 
             if response.status_code == 200:
                 result_data = response.json()

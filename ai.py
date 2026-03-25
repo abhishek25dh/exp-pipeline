@@ -47,7 +47,7 @@ def main():
     max_retries = 5
     for attempt in range(max_retries):
         print(f"Sending scene to {MODEL_ID}... (Attempt {attempt + 1}/{max_retries})")
-        response = requests.post(url, headers=headers, json=payload)
+        response = requests.post(url, headers=headers, json=payload, timeout=120)
 
         # If it succeeds, break out of the loop
         if response.status_code == 200:

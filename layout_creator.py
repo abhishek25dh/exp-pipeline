@@ -380,8 +380,11 @@ def main():
     print(f"Processing {len(scene_files)} scene(s).\n")
     print("=" * 60)
 
+    any_failed = False
+
     for scene_file in scene_files:
         scene_num = int(scene_file.stem.split("_")[1])
+        director_path = Path("assets/directorscript") / f"scene_{scene_num}_director.json"
 
         with open(scene_file, "r", encoding="utf-8") as f:
             scene_data = json.load(f)
@@ -389,6 +392,7 @@ def main():
         layout = scene_data.get("layout", "").strip()
         if not layout:
             print(f"\n[Scene {scene_num}] ERROR: No layout found in {scene_file.name}. Skipping.")
+            any_failed = True
             continue
 
         print(f"\n[Scene {scene_num}] Layout {layout}")
@@ -403,6 +407,7 @@ def main():
 
         if not step_files and not generator.exists():
             print(f"  ERROR: No files found for layout {layout}. Skipping.")
+            any_failed = True
             continue
 
         failed = False
@@ -413,14 +418,22 @@ def main():
 
         if failed:
             print(f"  Skipping generator (step failed).")
+            any_failed = True
             continue
 
         if generator.exists():
             if not run_script(generator, scene_num):
                 print(f"  Generator failed.")
+                any_failed = True
                 continue
         else:
             print(f"  WARNING: layout_{layout}_generator.py not found.")
+
+        # Final check: did we actually produce the director script?
+        if not director_path.exists():
+            print(f"  ERROR: director script not created for scene {scene_num}!")
+            any_failed = True
+            continue
 
         issues = audit_director_for_scene(scene_num)
         if not issues:
@@ -441,6 +454,8 @@ def main():
 
     print("\n" + "=" * 60)
     print("Done.")
+    if any_failed:
+        return 1
 
 
 if __name__ == "__main__":

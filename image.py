@@ -19,18 +19,19 @@ CLIENT_ID = str(uuid.uuid4())
 def queue_prompt(prompt):
     p = {"prompt": prompt, "client_id": CLIENT_ID}
     headers = {'Content-Type': 'application/json'}
-    res = requests.post(f"https://{SERVER_ADDRESS}/prompt", data=json.dumps(p), headers=headers)
+    res = requests.post(f"https://{SERVER_ADDRESS}/prompt", data=json.dumps(p), headers=headers, timeout=60)
     return res.json()
 
 def get_image(filename, subfolder, folder_type):
     data = {"filename": filename, "subfolder": subfolder, "type": folder_type}
     url_values = requests.compat.urlencode(data)
-    res = requests.get(f"https://{SERVER_ADDRESS}/view?{url_values}")
+    res = requests.get(f"https://{SERVER_ADDRESS}/view?{url_values}", timeout=120)
     return res.content
 
 def wait_and_download(prompt, save_path):
     ws = websocket.WebSocket()
     try:
+        ws.settimeout(300)  # 5 min max wait per image
         ws.connect(f"wss://{SERVER_ADDRESS}/ws?clientId={CLIENT_ID}")
 
         prompt_id = queue_prompt(prompt)['prompt_id']
@@ -47,7 +48,7 @@ def wait_and_download(prompt, save_path):
             else:
                 continue
 
-        history_res = requests.get(f"https://{SERVER_ADDRESS}/history/{prompt_id}").json()
+        history_res = requests.get(f"https://{SERVER_ADDRESS}/history/{prompt_id}", timeout=120).json()
         history = history_res[prompt_id]
 
         for node_id in history['outputs']:
@@ -105,7 +106,7 @@ def run_automation():
     done_images = 0
     failed_images = []
 
-    # Validate all JSON files first, abort early if any are corrupted
+    # Validate JSON files — skip corrupted ones instead of aborting
     corrupted = []
     for json_file in json_files:
         with open(json_file, "r") as f:
@@ -115,9 +116,12 @@ def run_automation():
                 corrupted.append(json_file.name)
                 break
     if corrupted:
-        print(f"ERROR: Corrupted image prompt files: {corrupted}")
-        print("Each element must have 'image_prompt' and 'filename' keys. Fix these files and retry.")
-        sys.exit(1)
+        print(f"WARNING: Skipping corrupted image prompt files: {corrupted}")
+        print("Each element must have 'image_prompt' and 'filename' keys.")
+        json_files = [f for f in json_files if f.name not in corrupted]
+        if not json_files:
+            print("ERROR: All image prompt files are corrupted. Nothing to generate.")
+            sys.exit(1)
 
     # Count total images needed
     for json_file in json_files:
@@ -174,10 +178,10 @@ def run_automation():
 
     print(f"\nDone. {done_images}/{total_images} images generated.")
     if failed_images:
-        print(f"\nFAILED images ({len(failed_images)}):")
+        print(f"\nWARNING: {len(failed_images)} image(s) failed (will use placeholder):")
         for f in failed_images:
             print(f"  - {f}")
-        sys.exit(1)
+        # Don't exit(1) — partial success is fine, render_video handles missing images
 
 if __name__ == "__main__":
     run_automation()

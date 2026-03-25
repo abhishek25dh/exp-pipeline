@@ -60,6 +60,15 @@ def main():
         print("Error: no images in Step 2 output.")
         return 1
 
+    # ── Resilient: drop images with unknown geometry slots ─────────────────────
+    _valid_images = [img for img in images if img.get("slot") in IMG_GEOMETRY]
+    if len(_valid_images) < len(images):
+        print(f"   Warning: Layout 32 dropping {len(images) - len(_valid_images)} images with unknown slots.")
+        images = _valid_images
+    if not images:
+        print("Error: no images with valid geometry slots in Step 2 output.")
+        return 1
+
     # ── Load scene text for verbatim phrase allocation ────────────────────────
     _prompt_path = Path("assets/scene_prompts") / f"{scene_id}_prompt.json"
     _scene_text = ""

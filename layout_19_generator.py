@@ -164,9 +164,16 @@ def main():
 
     main_title = (s1.get("main_title") or "").strip()
     panels = s1.get("panels", [])
-    if len(panels) < 3:
-        print(f"Error: Layout 19 requires 3 panels, found {len(panels)}.")
+    if len(panels) == 0:
+        print(f"Error: Layout 19 got 0 panels. Cannot proceed.")
         return 1
+    if len(panels) < 3:
+        print(f"   Warning: Layout 19 expects 3 panels, got {len(panels)}. Padding with duplicates.")
+        while len(panels) < 3:
+            panels.append(dict(panels[-1], panel_id=f"panel_{len(panels)+1}"))
+    elif len(panels) > 3:
+        print(f"   Warning: Layout 19 expects 3 panels, got {len(panels)}. Dropping extras.")
+        panels = panels[:3]
 
     # Build image description map from step 2
     image_map = {}

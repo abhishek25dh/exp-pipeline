@@ -40,7 +40,8 @@ def upload_file(filepath):
         response = requests.post(
             UPLOAD_ENDPOINT,
             headers=HEADERS,
-            data=f
+            data=f,
+            timeout=120
         )
     response.raise_for_status()
     return response.json()["upload_url"]
@@ -54,7 +55,7 @@ def create_transcript(audio_url):
         # add any other parameters you'd like — e.g. "speaker_labels": True
         # "speaker_labels": True
     }
-    r = requests.post(TRANSCRIPT_ENDPOINT, json=payload, headers=HEADERS)
+    r = requests.post(TRANSCRIPT_ENDPOINT, json=payload, headers=HEADERS, timeout=120)
     r.raise_for_status()
     return r.json()["id"]
 
@@ -62,7 +63,7 @@ def poll_transcript(transcript_id, poll_interval=3):
     """Poll the transcript endpoint until completed or failed. Returns full JSON."""
     url = f"{TRANSCRIPT_ENDPOINT}/{transcript_id}"
     while True:
-        r = requests.get(url, headers=HEADERS)
+        r = requests.get(url, headers=HEADERS, timeout=120)
         r.raise_for_status()
         data = r.json()
         status = data.get("status")
